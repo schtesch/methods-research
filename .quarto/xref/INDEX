@@ -16,5 +16,8 @@
   },
   "foundations/intro.qmd": {
     "intro.html": "d52afba4"
+  },
+  "types/simulation.qmd": {
+    "simulation.html": "a296997e"
   }
 }

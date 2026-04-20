@@ -10,4 +10,4 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 # Guide to Methods Research
 
-Welcome. This is the beginning of a living handbook.
+Welcome!
