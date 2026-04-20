@@ -2,12 +2,21 @@ project:
   type: website
 
 website:
-  title: "methods-research"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  title: "Guide to Methods Research"
+  sidebar:
+    contents:
+      - index.qmd
+      - part: "Foundations"
+        contents:
+          - foundations/intro.qmd
+      - part: "Types of Methods Research"
+        contents:
+          - types/theory.qmd
+          - types/simulation.qmd
+      - part: "Guidance"
+        contents:
+          - guidance/conduct.qmd
+          - guidance/report.qmd
 
 format:
   html:

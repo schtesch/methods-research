@@ -4,5 +4,17 @@
   },
   "about.qmd": {
     "about.html": "4e8014bc"
+  },
+  "types/theory.qmd": {
+    "theory.html": "fe1d1e07"
+  },
+  "guidance/reporting.qmd": {
+    "reporting.html": "ca49b1a4"
+  },
+  "guidance/conduct.qmd": {
+    "conduct.html": "6bb680be"
+  },
+  "foundations/intro.qmd": {
+    "intro.html": "d52afba4"
   }
 }
