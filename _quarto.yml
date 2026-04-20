@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Guide to Methods Research"
@@ -30,5 +31,4 @@ format:
     css: styles.css
     toc: true
 
-output-dir: docs
 

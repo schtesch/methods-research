@@ -1,0 +1,32 @@
+[
+  {
+    "objectID": "foundations/intro.html",
+    "href": "foundations/intro.html",
+    "title": "introduction",
+    "section": "",
+    "text": "introduction\nthis section introduces methods research.",
+    "crumbs": [
+      "introduction"
+    ]
+  },
+  {
+    "objectID": "guidance/conducting.html",
+    "href": "guidance/conducting.html",
+    "title": "Guidance for conducting methods research",
+    "section": "",
+    "text": "Guidance for conducting methods research",
+    "crumbs": [
+      "Guidance for conducting methods research"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "methods-research",
+    "section": "",
+    "text": "This website is under construction\nIt will soon host the Guides to Methods Research - a living resource for methods research who work in the context of health research and pysychology. In addition, it will include community features (such as a question and answer forum), and links to useful resources for methods researchers.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nGuide to Methods Research\nWelcome!",
+    "crumbs": [
+      "methods-research"
+    ]
+  }
+]
