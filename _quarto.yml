@@ -1,24 +1,26 @@
 project:
-  type: website
+  type: book
   output-dir: docs
 
-website:
+book:
   title: "Guide to Methods Research"
-  navbar: false
-  sidebar:
-    contents:
-      - index.qmd
-      - section: "Foundations"
-        contents:
-          - foundations/intro.qmd
-      - section: "Types of Methods Research"
-        contents:
-          - types/theory.qmd
-          - types/simulation.qmd
-      - section: "Guidance"
-        contents:
-          - guidance/conducting.qmd
-          - guidance/reporting.qmd   # ← FIXED
+
+  chapters:
+    - index.qmd
+
+    - part: Foundations
+      chapters:
+        - foundations/intro.qmd
+
+    - part: Types of Methods Research
+      chapters:
+        - types/theory.qmd
+        - types/simulation.qmd
+
+    - part: Guidance
+      chapters:
+        - guidance/conducting.qmd
+        - guidance/reporting.qmd
 
 format:
   html:
