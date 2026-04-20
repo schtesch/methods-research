@@ -6,29 +6,20 @@ website:
   title: "Guide to Methods Research"
   navbar: false
   sidebar:
-    style: "docked"
-    search: true
     contents:
       - index.qmd
-      - part: "Foundations"
+      - section: "Foundations"
         contents:
           - foundations/intro.qmd
-      - part: "Types of Methods Research"
+      - section: "Types of Methods Research"
         contents:
           - types/theory.qmd
           - types/simulation.qmd
-      - part: "Guidance"
+      - section: "Guidance"
         contents:
           - guidance/conducting.qmd
-          - guidance/report.qmd
-
+          - guidance/reporting.qmd   # ← FIXED
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
-    toc: true
-
-
+    theme: cosmo
