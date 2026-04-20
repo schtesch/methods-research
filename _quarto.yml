@@ -2,7 +2,11 @@ project:
   type: website
 
 website:
+  title: "Guide to Methods Research"
+  navbar: false
   sidebar:
+    style: "docked"
+    search: true
     contents:
       - index.qmd
       - part: "Foundations"
@@ -14,8 +18,9 @@ website:
           - types/simulation.qmd
       - part: "Guidance"
         contents:
-          - guidance/conduct.qmd
+          - guidance/conducting.qmd
           - guidance/report.qmd
+
 
 format:
   html:
