@@ -19,5 +19,8 @@
   },
   "types/simulation.qmd": {
     "simulation.html": "a296997e"
+  },
+  "guidance/conducting.qmd": {
+    "conducting.html": "323accfb"
   }
 }
