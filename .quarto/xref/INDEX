@@ -22,5 +22,242 @@
   },
   "guidance/conducting.qmd": {
     "conducting.html": "323accfb"
+  },
+  "introduction/index.qmd": {
+    "index.html": "47c94c83"
+  },
+  "types/index.qmd": {
+    "index.html": "5138043c"
+  },
+  "literature/index.qmd": {
+    "index.html": "7d346bd4"
+  },
+  "statistical/index.qmd": {
+    "index.html": "af70f8f8"
+  },
+  "methodsUsers/index.qmd": {
+    "index.html": "3df3665b"
+  },
+  "guidance/index.qmd": {
+    "index.html": "26f34921"
+  },
+  "implementation/index.qmd": {
+    "index.html": "20ba185e"
+  },
+  "guidance/applying.qmd": {
+    "applying.html": "28dcfc88"
+  },
+  "guidance/assessing.qmd": {
+    "assessing.html": "c93e000c"
+  },
+  "types/typology.qmd": {
+    "typology.html": "0e01f547"
+  },
+  "guides/literature.qmd": {
+    "literature.html": "32d45f8c"
+  },
+  "guides/TheoSimuReal.qmd": {
+    "TheoSimuReal.html": "5f687e49"
+  },
+  "guides/users.qmd": {
+    "users.html": "4f306602"
+  },
+  "guides/applying.qmd": {
+    "applying.html": "f201162c"
+  },
+  "guides/reporting.qmd": {
+    "reporting.html": "869b5eb1"
+  },
+  "guides/assessing.qmd": {
+    "assessing.html": "efa55e76"
+  },
+  "guides/implementation.qmd": {
+    "implementation.html": "66784c50"
+  },
+  "purposes/index.qmd": {
+    "index.html": "647918b3"
+  },
+  "purposes/compare.qmd": {
+    "compare.html": "a953af4c"
+  },
+  "purposes/propose.qmd": {
+    "propose.html": "c5dfcf00"
+  },
+  "purposes/guidance.qmd": {
+    "guidance.html": "a24a1249"
+  },
+  "approaches/theory.qmd": {
+    "theory.html": "7892ff1b"
+  },
+  "approaches/simulation.qmd": {
+    "simulation.html": "b027ba6c"
+  },
+  "purposes/compare-methods.qmd": {
+    "compare-methods.html": "3370f2d2"
+  },
+  "purposes/propose-method.qmd": {
+    "propose-method.html": "bca04a57"
+  },
+  "purposes/guidance-understanding-applying.qmd": {
+    "guidance-understanding-applying.html": "499bea77"
+  },
+  "approaches/index.qmd": {
+    "index.html": "fe0d8dfa"
+  },
+  "approaches/real-datasets.qmd": {
+    "real-datasets.html": "aec03210"
+  },
+  "approaches/randomized.qmd": {
+    "randomized.html": "07a243ec"
+  },
+  "approaches/reliability.qmd": {
+    "reliability.html": "69c96b7d"
+  },
+  "approaches/quantitative-survey.qmd": {
+    "quantitative-survey.html": "999cb42b"
+  },
+  "approaches/qualitative-study.qmd": {
+    "qualitative-study.html": "9d07743e"
+  },
+  "approaches/consensus.qmd": {
+    "consensus.html": "1b10ebd2"
+  },
+  "approaches/review-applied-methods.qmd": {
+    "review-applied-methods.html": "e29049fb"
+  },
+  "approaches/meta-epidemiological.qmd": {
+    "meta-epidemiological.html": "7ed13f34"
+  },
+  "approaches/scoping-review-mr.qmd": {
+    "scoping-review-mr.html": "e1214a45"
+  },
+  "approaches/qualitative-synthesis.qmd": {
+    "qualitative-synthesis.html": "08d21b26"
+  },
+  "approaches/quantitative-synthesis.qmd": {
+    "quantitative-synthesis.html": "72d4e32e"
+  },
+  "approaches/case-report.qmd": {
+    "case-report.html": "fc63e5bd"
+  },
+  "approaches/informal.qmd": {
+    "informal.html": "87310977"
+  },
+  "purposes/identify-methods.qmd": {
+    "identify-methods.html": "0bb716ea"
+  },
+  "purposes/identify-mr-topic.qmd": {
+    "identify-mr-topic.html": "3f97d85b"
+  },
+  "purposes/summarize-mr.qmd": {
+    "summarize-mr.html": "78132a67"
+  },
+  "purposes/assess-practice.qmd": {
+    "assess-practice.html": "b7280325"
+  },
+  "purposes/assess-needs-priorities.qmd": {
+    "assess-needs-priorities.html": "5d9cdb21"
+  },
+  "purposes/evaluate-method.qmd": {
+    "evaluate-method.html": "04143aac"
+  },
+  "purposes/reporting-guidelines.qmd": {
+    "reporting-guidelines.html": "bbf4500e"
+  },
+  "purposes/quality-assessment-instruments.qmd": {
+    "quality-assessment-instruments.html": "1f9b9d1b"
+  },
+  "purposes/software-code.qmd": {
+    "software-code.html": "1ec68319"
+  },
+  "purposes/implementation.qmd": {
+    "implementation.html": "9372e00c"
+  },
+  "references.qmd": {
+    "references.html": "c809c6b5"
+  },
+  "approaches/1theory.qmd": {
+    "1theory.html": "a046e047"
+  },
+  "approaches/2simulation.qmd": {
+    "2simulation.html": "0e99181b"
+  },
+  "approaches/3real-datasets.qmd": {
+    "3real-datasets.html": "235a029a"
+  },
+  "approaches/4reliability.qmd": {
+    "4reliability.html": "979e62be"
+  },
+  "approaches/5randomized.qmd": {
+    "5randomized.html": "8854d522"
+  },
+  "approaches/6survey.qmd": {
+    "6survey.html": "8284d0b5"
+  },
+  "approaches/7qualitative.qmd": {
+    "7qualitative.html": "dfe186a9"
+  },
+  "approaches/8consensus.qmd": {
+    "8consensus.html": "c9e7a897"
+  },
+  "approaches/9review-applied.qmd": {
+    "9review-applied.html": "09d5a068"
+  },
+  "approaches/10meta-epi.qmd": {
+    "10meta-epi.html": "7bff0c49"
+  },
+  "approaches/11scoping-review.qmd": {
+    "11scoping-review.html": "7ae9d255"
+  },
+  "approaches/12qualitative-synthesis.qmd": {
+    "12qualitative-synthesis.html": "dab5c282"
+  },
+  "approaches/13quantitative-synthesis.qmd": {
+    "13quantitative-synthesis.html": "44ae6d3e"
+  },
+  "approaches/14case-report.qmd": {
+    "14case-report.html": "f0dece22"
+  },
+  "approaches/15informal.qmd": {
+    "15informal.html": "452addbf"
+  },
+  "purposes/1identify-methods.qmd": {
+    "1identify-methods.html": "650073ed"
+  },
+  "purposes/2identify-mr.qmd": {
+    "2identify-mr.html": "3a038db0"
+  },
+  "purposes/3summarize-mr.qmd": {
+    "3summarize-mr.html": "86f90caa"
+  },
+  "purposes/4assess-practice.qmd": {
+    "4assess-practice.html": "b1f2e473"
+  },
+  "purposes/5assess-needs-priorities.qmd": {
+    "5assess-needs-priorities.html": "64b6cfa8"
+  },
+  "purposes/6propose-method.qmd": {
+    "6propose-method.html": "53d5c2c8"
+  },
+  "purposes/7evaluate-method.qmd": {
+    "7evaluate-method.html": "a7246df3"
+  },
+  "purposes/8compare-methods.qmd": {
+    "8compare-methods.html": "f20bccbb"
+  },
+  "purposes/9guidance-applying.qmd": {
+    "9guidance-applying.html": "3b1a99bb"
+  },
+  "purposes/10guidance-reporting.qmd": {
+    "10guidance-reporting.html": "7527800a"
+  },
+  "purposes/11guidance-assessing.qmd": {
+    "11guidance-assessing.html": "73346706"
+  },
+  "purposes/12software-code.qmd": {
+    "12software-code.html": "400efd47"
+  },
+  "purposes/13implementation.qmd": {
+    "13implementation.html": "7fd90afc"
   }
 }

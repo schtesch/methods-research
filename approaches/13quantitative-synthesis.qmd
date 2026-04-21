@@ -1,0 +1,23 @@
+---
+title: "13 Quantitative synthesis of methods research"
+link-citations: true
+---
+
+Alternative labels: quantitative systematic reviews of methods research; meta-analyses of methods research
+
+## Definition and typical features 
+Quantitative syntheses of methods research summarise quantitative types of methods research such as randomized studies or meta-epidemiological studies. These studies follow in principle the same steps as systematic reviews of quantitative health research and typically include a meta-analysis. 
+
+- Strengths include transparency and comprehensiveness. 
+- Key challenges are the difficult search for methods research, the lack of quality criteria for quantitative methods research, and reporting issues. 
+
+## Boundaries to related types
+(Boundary notes in Table 3)
+
+## Typical purposes and corresponding examples 
+[Summarize the results of methods research](../purposes/3summarize-mr.qmd): Meta-analysis of comparisons between machine learning and logistic regression for clinical prediction models;[@Christodoulou2019a] meta-analysis of meta-epidemiological studies assessing the impact of blinding in trials;[@Wang2024compelling] meta-analysis of randomised studies comparing blinded versus unblinded risk of bias assessment.[@Morissette2011blinded] 
+
+## Guidance
+- Guidance for understanding and applying methods: [REF]
+- Guidance for reporting methods: [REF]
+- Guidance for assessing methods: [REF]

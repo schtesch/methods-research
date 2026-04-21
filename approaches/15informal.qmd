@@ -1,0 +1,25 @@
+---
+title: "15 Informal approaches"
+link-citations: true
+---
+
+Alternative labels: narrative approaches
+
+## Definition and typical features 
+Methods research often relies on informal approaches. For example, instead of conducting formal reviews, authors may selectively cite methodological publications. Informal approaches often rely on professional authority and persuasive narrative. They may integrate expert opinions without structured collaboration or formal consensus studies. They may use theory, examples, or simulations to illustrate points rather than to answer a methodological research questions. 
+
+## Boundaries to related types
+
+## Typical purposes and corresponding examples 
+Examples for most purposes listed in Table 2 are abundant, including
+
+[Develop guidance for understanding and applying methods](../purposes/9guidance-applying.qmd): preventing common misunderstandings of randomisation;[@Senn2013seven] sample size calculation in cluster trials;[@Hemming2020a] explanation why guidelines should seldom make good practice statements.[@Guyatt2016guideline] 
+
+[Propose a new method](../purposes/6propose-method.qmd): Proposal for a random invitation single arm design.[@Janiaud2025single-arm]
+
+[Summarize the results of methods research](../purposes/3summarize-mr.qmd): Overview of approaches for evaluating heterogeneous treatment effects.[@Lipkovich2023overview]
+
+## Guidance
+- Guidance for understanding and applying methods: [REF]
+- Guidance for reporting methods: [REF]
+- Guidance for assessing methods: [REF]

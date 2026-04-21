@@ -1,0 +1,22 @@
+---
+title: "P10) Develop reporting guidelines"
+link-citations: true
+---
+Alternative labels: 
+
+## Definition and typical features 
+These studies develop guidance to help health researchers or other interest holders report methods, typically providing a checklist with explanation. The development process may combine multiple methods research approaches.
+
+## Boundaries to related purposes
+
+## Typical approaches and corresponding examples 
+[Consensus study among researchers or other interest-holders in health research](../approaches/8consensus.qmd): Delphi study to develop CONSORT reporting guideline.[@Hopewell2025consort]
+
+[Review of applied methods](../approaches/9review-applied.qmd): review of observational studies emulating a target trial to inform the TARGET reporting guideline.[@Cashin2025transparent]
+
+[Scoping review of methods research](../approaches/11scoping-review-mr.qmd): A scoping review informed the development of a new reporting guideline for factorial trials.[@Kahan2023reporting]
+
+## Guidance
+- Guidance for understanding and applying methods: [REF]
+- Guidance for reporting methods: [REF]
+- Guidance for assessing methods: [REF]

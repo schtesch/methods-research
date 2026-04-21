@@ -1,0 +1,22 @@
+---
+title: "5 Methodological randomized study"
+link-citations: true
+---
+
+Alternative labels: methodological trial; randomized methodological comparison
+
+## Definition and typical features 
+Randomised studies treat methods as interventions. They usually randomise individual humans (researchers, research participants or other interest holders such as peer reviewers or methods users), groups of humans (such as study teams, consensus panels, or research environments) to apply, consider, or receive training in one or more alternative methods. Possible outcomes include effect estimates, study processes such as recruitment or retention, or characteristics of study reports such as clarity, completeness, or use of appropriate methods. This type includes but is not limited to randomised studies embedded within other studies. 
+
+- A strength of randomised studies is that they allow causal conclusions about methodological interventions as humans understand and implement them under realistic conditions. 
+- A limitation is feasibility, especially when interventions target studies or research environments rather than individual researchers or study participants.
+
+## Boundaries to related types
+
+## Typical purposes and corresponding examples 
+[Compare two or more methods](../purposes/8compare-methods.qmd): Does a central study team improve recruitment (study within a trial)?[@OtherOtherswat] Do different incentives affect investigators’ sharing of individual participant data (study within a review)?[@OtherOtherswar] Which version of an evidence table is easier to understand for guideline users?[@Carrasco-Labra2016improving] Does reminding peer reviews of reporting items improve study reports?[@Speich2023reminding]
+
+## Guidance
+- Guidance for understanding and applying methods: [REF]
+- Guidance for reporting methods: [REF]
+- Guidance for assessing methods: [REF]

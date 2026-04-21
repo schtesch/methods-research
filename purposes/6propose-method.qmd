@@ -1,0 +1,22 @@
+---
+title: "P6) Propose a new method"
+link-citations: true
+---
+Alternative labels: 
+
+## Definition and typical features 
+These studies aim to propose a new method or an improved variant of an existing method, typically including justifications, explanations, and demonstrations.
+
+## Boundaries to related purposes
+
+## Typical approaches and corresponding examples 
+[Theory-based methods research](../approaches/1theory.qmd): prediction interval for meta-analysis;[@Higgins2009a] inverse odds weighting to operationalize transportability;[@Westreich2017transportability] adopting implementation science to the context of research methods;[@King2019using] Integrate external validity considerations in deductive causal inference.[@Esterling2025the]
+
+[Simulation study](../approaches/2simulation.qmd): proposing an alternative to the log-rank test.[@Magirr2026robust] 
+
+[Informal approaches](../approaches/15informal.qmd): proposal for a random invitation single arm design.[@Janiaud2025single-arm]
+
+## Guidance
+- Guidance for understanding and applying methods: [REF]
+- Guidance for reporting methods: [REF]
+- Guidance for assessing methods: [REF]

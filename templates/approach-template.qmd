@@ -1,0 +1,20 @@
+---
+title: "TYPE NAME"
+---
+Alternative labels: 
+
+## Definition
+
+
+## Boundaries to related types
+- Differs from [X](x.qmd): …
+- Differs from [Y](y.qmd): …
+
+## Typical purposes and corresponding examples 
+- [Purpose 1](../purposes/xxx.qmd)
+- [Purpose 2](../purposes/xxx.qmd)
+
+## Guidance
+- Guidance for understanding and applying methods: [REF]
+- Guidance for reporting methods: [REF]
+- Guidance for assessing methods: [REF]

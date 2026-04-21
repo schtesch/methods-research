@@ -1,0 +1,24 @@
+---
+title: "12 Qualitative synthesis of methods research"
+link-citations: true
+---
+
+Alternative labels: qualitative systematic reviews of methods research
+
+## Definition and typical features 
+A qualitative synthesis of methods research includes qualitative types of methods research such as interview studies or methods guidance. In principle, these studies follow the standard steps of qualitative evidence synthesis(Cochrane-Campbell Handbook for Qualitative Evidence Synthesis, n.d.) including posing a specific qualitative question, a comprehensive search for all eligible publications, quality assessment, and qualitative synthesis methods such as thematic analysis. 
+
+- Strengths include transparency and comprehensiveness. 
+- Key challenges are the difficult search and the lack of quality criteria for qualitative methods research.
+
+
+## Boundaries to related types
+(Boundary notes in Table 3)
+
+## Typical purposes and corresponding examples 
+[Summarize the results of methods research](../purposes/3summarize-mr.qmd): meta-ethnographic synthesis of studies assessing the reasons for non-retention in clinical trials;[@Skea2019exploring] Synthesis of studies assessing factors that impact on trial recruitment;[@Houghton2020factors] synthesis of studies that assessed the reasons for non-retention in clinical trials.[@Skea2019exploring] 
+
+## Guidance
+- Guidance for understanding and applying methods: [REF]
+- Guidance for reporting methods: [REF]
+- Guidance for assessing methods: [REF]

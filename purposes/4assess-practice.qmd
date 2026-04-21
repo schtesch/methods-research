@@ -1,0 +1,22 @@
+---
+title: "P4) Assess methodological practice"
+link-citations: true
+---
+Alternative labels: 
+
+## Definition and typical features 
+These studies aim to describe the use of methods in practice, often with an intention to highlight good or poor practice.
+
+## Boundaries to related purposes
+
+## Typical approaches and corresponding examples 
+[Quantitative survey](../approaches/6survey.qmd): assess current practice of involving patients in statistical research.[@Abell2023incorporation]
+
+[Qualitative study](../approaches/7qualitative-study.qmd): Interviews to understand the reasons for non-reporting of outcomes.[@Smyth2011frequency]
+
+[Review of applied methods](../approaches/9review-applied.qmd): types of initial data analysis in observational studies;[@Huebner2020hidden] quality and reporting of prediction models for COVID-19.[@Wynants2020prediction]
+
+## Guidance
+- Guidance for understanding and applying methods: [REF]
+- Guidance for reporting methods: [REF]
+- Guidance for assessing methods: [REF]

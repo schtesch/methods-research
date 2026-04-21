@@ -1,0 +1,28 @@
+---
+title: "8 Consensus study"
+link-citations: true
+---
+
+Alternative labels: 
+
+## Definition and typical features 
+These studies use formal consensus methods, such as Delphi studies or the Nominal Group Technique, and involve researchers and other interest-holders. Data collection may rely on surveys or qualitative methods. In contrast to surveys or qualitative studies that document a range of views, consensus studies seek to move participants towards a shared position. They usually employ a longitudinal design with multiple rounds of feedback, item ratings, or discussions. 
+
+- Strengths include the structured synthesis of expert opinion and persuasiveness. 
+- Limitations include the dependency of panel composition and process design. 
+
+## Boundaries to related types
+
+## Typical purposes and corresponding examples 
+[Assess needs and priorities for methods research](../purposes/5assess-needs-priorities.qmd): Delphi study to identify Priorities for methods research.[@TudurSmith2014the]
+
+[Develop guidance for understanding and applying methods](../purposes/9guidance-applying.qmd): Guidance on Factors to Consider when inviting multiple interest-holder Research, based on Delphi; [@Parker2022factors] Guidance on handling missing data in trials, based on Nominal Group Technique.[@Hussain2022development]
+
+[Develop reporting guidelines](../purposes/10guidance-reporting.qmd): Delphi study to develop CONSORT reporting guideline.[@Hopewell2025consort] 
+
+[Develop quality assessment instruments](../purposes/gudiance-assessing.qmd): Discussion-based consensus on quality assessment tool for subgroup analyses.[@Schandelmaier2020development]
+
+## Guidance
+- Guidance for understanding and applying methods: [REF]
+- Guidance for reporting methods: [REF]
+- Guidance for assessing methods: [REF]

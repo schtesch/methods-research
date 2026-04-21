@@ -1,0 +1,18 @@
+---
+title: "P2) Identify available methods research on a specific topic"
+link-citations: true
+---
+Alternative labels: 
+
+## Definition and typical features 
+These studies aim to identify existing methods research on a specific method or topic, typically organised using a classification scheme, such as this typology.
+
+## Boundaries to related purposes
+
+## Typical approaches and corresponding examples 
+[Scoping review of methods research](../approaches/11scoping-review-mr.qmd): Identify publications that suggest a process for developing methods guidance.[@Chiaborelli2026stream]
+
+## Guidance
+- Guidance for understanding and applying methods: [REF]
+- Guidance for reporting methods: [REF]
+- Guidance for assessing methods: [REF]

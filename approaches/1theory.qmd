@@ -1,0 +1,25 @@
+---
+title: "1 Theory-based methods research"
+link-citations: true
+---
+
+Alternative labels: 
+
+## Definition and typical features 
+Methodological research that reaches its conclusions through tightly applied theory such as mathematical derivation, proof, logic, philosophy of science, or specific theoretical frameworks such as directed acyclic graphs. 
+
+- Strengths include in-depth exploration of the structure and assumptions of methods. 
+- Limitations include unclear performance in practice. 
+
+## Boundaries to related types
+Boundary with [Informal approaches](15informal.qmd): While theory-based methods research uses theory to answer a methodological research question, informal approaches use theory for explanation.
+
+## Typical purposes and corresponding examples 
+- [Propose a new method](../purposes/6propose-method.qmd): Deriving a prediction interval for random effects meta-analyses;[@Higgins2009a] inverse odds weighting to operationalize transportability;[@Westreich2017transportability] adopting implementation science to the context of research methods;[@King2019using] framework to integrate external validity in deductive causal inference.[@Esterling2025the]
+
+- [Develop guidance for understanding and applying methods](../purposes/9guidance-applying.qmd): Covariate adjustment in trials;[@VanLancker2024covariate] credibility criteria for observed subgroup effects.[@Schandelmaier2020development]
+
+## Guidance
+- Guidance for understanding and applying theory-based methods research: [REF]
+- Guidance for reporting theory-based methods research: [REF]
+- Guidance for assessing Theory-based methods research: [REF]

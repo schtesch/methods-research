@@ -1,0 +1,22 @@
+---
+title: "14 Methodological case report or series"
+link-citations: true
+---
+
+Alternative labels: 
+
+## Definition and typical features 
+In a methodological case report, a team describes their experience with the design, implementation, or performance of a method in a real study, typically their own. In a case series, they discuss two or more studies that share a similar method or methodological challenge.
+
+## Boundaries to related types
+Boundary with [Experimental analysis of real datasets](3real-datasets.qmd) and [A15) Informal approaches](informal.qmd): All may use a single dataset and the label “case study”. Key differences are that A3 re-analyzes an existing dataset to answer a methodological question, A14 discusses methodological challenges in a specific study, and A15 uses datasets or studies to illustrate methods.
+
+Boundary with [Review of applied methods](9review-applied.qmd): While a case series is a narrative aggregating teams’ experience with a method, a review of applied methods answers a methodological question by analyzing published study reports. 
+
+## Typical purposes and corresponding examples 
+[Evaluate a single method](../purposes/7evaluate-method.qmd): Experience with using large language models to develop a clinical practice guideline;[@SousaPinto2024ai] Lessons learned from applying a framework to develop a healthcare intervention;[@Lindblom2025navigating] Challenges and benefits of including non-randomized evidence in living systematic reviews;[@Bonnet2026including] Demonstration of target trial emulation.[@Martinuka2023target]
+
+## Guidance
+- Guidance for understanding and applying methods: [REF]
+- Guidance for reporting methods: [REF]
+- Guidance for assessing methods: [REF]

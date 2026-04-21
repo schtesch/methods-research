@@ -1,0 +1,37 @@
+---
+title: "9 Review of applied methods"
+link-citations: true
+---
+
+Alternative labels: methodological studies;[@Khalil2023guidance; @Mbuagbaw2020a] meta-research;[@Ioannidis2015meta-research] research-on-research; systematic surveys; scoping review; among many more terms that appear in practice[@MatosSilva2025methodological] with little consensus[@MatosSilva2025limited]
+
+## Definition and typical features 
+Reviews of applied methods examine how researchers implement methods in health research or which challenges they encounter. They sample and systematically analyze studies or other applications of methods such as in guideline panels. Sources of such applications include published journal articles, trial registries, preprints, or other sources. Sampling strategies are important and may be random to assess prevalence, purposeful to focus on high-impact studies, stratified to ensure representation of subgroups, matched such as pairs of protocols and corresponding publications, or complete. Reviews of applied methods may be nested within systematic review of health research. Typical outcomes are items of quality such as appropriate use of a method or transparent reporting. The analysis is usually based on simple quantitative measures, such as prevalence. Researchers often extract data using pre-specified forms, sometimes based on pre-existing frameworks (such as reporting guidelines) or use qualitative methods to derive categories. 
+
+- A strength is that these studies reflect realistic practice, including human error. 
+- Challenges arise from sampling and reporting issues. 
+
+## Boundaries to related types
+(Boundary notes in Table 3)
+
+## Typical purposes and corresponding examples 
+[Identify available methods](../purposes/1identify-methods.qmd): types of initial data analysis in observational studies.[@Huebner2020hidden] 
+
+[Assess methodological practice](../purposes/4assess-practice.qmd): quality and reporting of prediction models for COVID-19.[@Wynants2020prediction]
+
+[Assess needs and priorities for methods research](../purposes/5assess-needs-priorities.qmd): …
+
+[Evaluate a single method](../purposes/7evaluate-method.qmd): Quality and reporting of prediction models for COVID-19.[@Wynants2020prediction] Quality and reporting of individual-participant data meta-analysis (nested within a scoping review of such studies).[@Seidler2024state]
+
+[Develop guidance for understanding and applying methods](../purposes/9guidance-applying.qmd): recommendations for the use of directed acyclic graphs (DAGs);[@Tennant2021use] Using the nominal group technique for eliciting survey items.[@Harb2021methodological]
+
+[Develop reporting guidelines](../purposes/10guidance-reporting.qmd): Review of observational studies emulating a target trial to inform the TARGET reporting guideline.[@Cashin2025transparent]
+
+[Develop quality assessment instruments](../purposes/11guidance-assessing.qmd): review practice of assessing risk of bias due to missing evidence in systematic reviews to inform risk-of-bias tool.[@Page2023rob-me]
+
+[Research the dissemination and implementation of methods](../purposes/13implementation.qmd): proportion of trials using core outcome sets.[@Matvienko-Sikar2022use]
+
+## Guidance
+- Guidance for understanding and applying methods: [REF]
+- Guidance for reporting methods: [REF]
+- Guidance for assessing methods: [REF]

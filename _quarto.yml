@@ -2,26 +2,61 @@ project:
   type: book
   output-dir: docs
 
+bibliography: references.bib
+csl: vancouver-superscript.csl
+
 book:
-  title: "Guide to Methods Research"
+  title: "Methods Research Navigator"
 
   chapters:
     - index.qmd
 
-    - part: Foundations
+    - part: "Explore by approach"
       chapters:
-        - foundations/intro.qmd
+        - approaches/1theory.qmd
+        - approaches/2simulation.qmd
+        - approaches/3real-datasets.qmd
+        - approaches/4reliability.qmd
+        - approaches/5randomized.qmd
+        - approaches/6survey.qmd
+        - approaches/7qualitative.qmd
+        - approaches/8consensus.qmd
+        - approaches/9review-applied.qmd
+        - approaches/10meta-epi.qmd
+        - approaches/11scoping-review.qmd
+        - approaches/12qualitative-synthesis.qmd
+        - approaches/13quantitative-synthesis.qmd
+        - approaches/14case-report.qmd
+        - approaches/15informal.qmd
 
-    - part: Types of Methods Research
+    - part: "Explore by purpose"
       chapters:
-        - types/theory.qmd
-        - types/simulation.qmd
+        - purposes/1identify-methods.qmd
+        - purposes/2identify-mr.qmd
+        - purposes/3summarize-mr.qmd
+        - purposes/4assess-practice.qmd
+        - purposes/5assess-needs-priorities.qmd
+        - purposes/6propose-method.qmd
+        - purposes/7evaluate-method.qmd
+        - purposes/8compare-methods.qmd
+        - purposes/9guidance-applying.qmd
+        - purposes/10guidance-reporting.qmd
+        - purposes/11guidance-assessing.qmd
+        - purposes/12software-code.qmd
+        - purposes/13implementation.qmd
 
-    - part: Guidance
-      chapters:
-        - guidance/conducting.qmd
-        - guidance/reporting.qmd
+    - references.qmd
 
 format:
   html:
-    theme: cosmo
+    number-sections: false
+    reference-location: block
+    theme: journal
+    bread-crumbs: true
+    toc: false
+    smooth-scroll: true
+    anchor-sections: true
+    sidebar:
+      style: "floating"
+      collapse: true
+      search: true

@@ -1,0 +1,26 @@
+---
+title: "4 Reliability and  agreement studies"
+link-citations: true
+---
+
+Alternative labels: Multi-researcher same-method study
+
+## Definition and typical features 
+These studies treat methods (such as risk of bias tools, software, or analysis plans) as instruments and involve multiple users (humans, teams, or artificial intelligences) who apply one method to the same set of cases (usually studies or datasets). Analyses assess consistency across applications: reliability studies assess how well ratings distinguish cases despite variability across raters, often using the intraclass correlation coefficient. Agreement studies assess the similarity of results across raters, often using kappa statistics or Bland–Altman plots. Reproducibility studies are a special case of agreement studies and assess whether independent teams can obtain the same results as the original study team by re-running the statistical workflow on the same data. 
+
+- A strength of these studies is that they quantify variability introduced by method users.
+- A challenge is that results depend on case difficulty and user experience, and consistency does not necessarily indicate correctness.
+
+## Boundaries to related types
+Boundary with [Experimental analysis of real datasets](3real-datasets.qmd):
+Both may use a single dataset and assess agreement, but reliability and agreement studies compare users applying the same method, whereas experimental analyses compare methods applied by one user or team.
+
+## Typical purposes and corresponding examples 
+[Evaluate a single method](../purposes/7evaluate-method.qmd): Reliability of risk of bias tools for observational studies;[@Kalaycioglu2023inter-rater] Reliability of 12 raters applying a quality assessment tool for radiomics to 35 studies and repeated the assessment after a wash-out period.[@AkinciDAntonoli2025reproducibility] Agreement between nine research teams attempting to reproduce the same observational study;[@Ostropolets2023reproducible] Agreement between reproduced and original analyses of 150 real-world evidence studies.[@Wang2022reproducibility] 
+
+[Compare two or more methods](../purposes/8compare-methods.qmd): Agreement among four raters who applied 2 quality assessment tools to 16 systematic reviews.[@Buhn2017the] 
+
+## Guidance
+- Guidance for understanding and applying methods: [REF]
+- Guidance for reporting methods: [REF]
+- Guidance for assessing methods: [REF]

@@ -1,0 +1,22 @@
+---
+title: "P5) Assess needs and priorities for methods research"
+link-citations: true
+---
+Alternative labels: 
+
+## Definition and typical features 
+These studies aim to assess the needs for future methods research, sometimes ranked by priority.
+
+## Boundaries to related purposes
+
+## Typical approaches and corresponding examples 
+[Quantitative survey](../approaches/6survey.qmd): identify priorities for retention research;[@Kearney2017identifying] identify priorities for methods research in the context of global health;[@Rosala-Hallas2018global] identifying solutions for the reproducibility crisis.[@Baker2016is]
+
+[Consensus study](../approaches/8consensus.qmd): Delphi study to identify Priorities for methods research.[@TudurSmith2014the]
+
+[Review of applied methods](../approaches/9review-applied.qmd): …
+
+## Guidance
+- Guidance for understanding and applying methods: [REF]
+- Guidance for reporting methods: [REF]
+- Guidance for assessing methods: [REF]
