@@ -8,6 +8,11 @@ csl: vancouver-superscript.csl
 book:
   title: "Methods Research Navigator"
 
+  sidebar:
+    style: floating
+    search: true
+    collapse-level: 1
+
   chapters:
     - index.qmd
 
@@ -56,7 +61,3 @@ format:
     toc: false
     smooth-scroll: true
     anchor-sections: true
-    sidebar:
-      style: "floating"
-      collapse: true
-      search: true
