@@ -1,5 +1,5 @@
 ---
-title: "P13) Research the dissemination and implementation of methods"
+title: "13 Research the dissemination and implementation of methods"
 link-citations: true
 ---
 Alternative labels: methodological implementation science
@@ -14,7 +14,7 @@ This type of methods research is still rare. Examples come mostly from areas of 
 ## Typical approaches and corresponding examples 
 [Quantitative survey](../approaches/6survey.qmd): Survey of researchers to identify barriers to the implementation of new statistical methods.[@Pullenayegum2016knowledge]
 
-[Qualitative study involving researchers or other interest-holders in health research](../approaches/7qualitative.qmd): interviews with trial investigators why they did not use existing core outcome sets;[@Hughes2022in-depth] survey of investigators in sports medicine why they did not use a specific reporting guideline.[@Hansford2024barriers]
+[Qualitative study involving researchers or other interest-holders in health research](../approaches/7qualitative.qmd): interviews with trial investigators to understand why they did not use existing core outcome sets;[@Hughes2022in-depth] survey of investigators in sports medicine to understand why they did not use a specific reporting guideline.[@Hansford2024barriers]
 
 [Review of applied methods](../approaches/9review-applied.qmd): proportion of trials using core outcome sets.[@Matvienko-Sikar2022use]
 

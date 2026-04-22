@@ -14,13 +14,13 @@ These studies use formal consensus methods, such as Delphi studies or the Nomina
 ## Boundaries to related types
 
 ## Typical purposes and corresponding examples 
-[Assess needs and priorities for methods research](../purposes/5assess-needs-priorities.qmd): Delphi study to identify Priorities for methods research.[@TudurSmith2014the]
+[Assess needs and priorities for methods research](../purposes/5assess-needs-priorities.qmd): Delphi study to identify priorities for methods research.[@TudurSmith2014the]
 
-[Develop guidance for understanding and applying methods](../purposes/9guidance-applying.qmd): Guidance on Factors to Consider when inviting multiple interest-holder Research, based on Delphi; [@Parker2022factors] Guidance on handling missing data in trials, based on Nominal Group Technique.[@Hussain2022development]
+[Develop guidance for understanding and applying methods](../purposes/9guidance-applying.qmd): Guidance on factors to consider when inviting multiple interest-holder groups to research, based on Delphi; [@Parker2022factors] Guidance on handling missing data in trials, based on Nominal Group Technique.[@Hussain2022development]
 
 [Develop reporting guidelines](../purposes/10guidance-reporting.qmd): Delphi study to develop CONSORT reporting guideline.[@Hopewell2025consort] 
 
-[Develop quality assessment instruments](../purposes/gudiance-assessing.qmd): Discussion-based consensus on quality assessment tool for subgroup analyses.[@Schandelmaier2020development]
+[Develop quality assessment instruments](../purposes/11guidance-assessing.qmd): Discussion-based consensus on quality assessment tool for subgroup analyses.[@Schandelmaier2020development]
 
 ## Guidance
 - Guidance for understanding and applying methods: [REF]

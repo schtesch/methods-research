@@ -20,7 +20,7 @@ These studies use interviews, focus groups, or other qualitative methods to coll
 
 [Develop guidance for understanding and applying methods](../purposes/9guidance-applying.qmd): Q-methodology, focus groups, content analysis, and workshops to produce guidance on creating summaries for trial participants.[@Bruhn2022recap]
 
-[Research the dissemination and implementation of methods](../purposes/13implementation.qmd): Interview of trial investigators to understand why they did not use existing core outcome sets?[@Hughes2022in-depth]
+[Research the dissemination and implementation of methods](../purposes/13implementation.qmd): Interviews with trial investigators to understand why they did not use existing core outcome sets.[@Hughes2022in-depth]
 
 ## Guidance
 - Guidance for understanding and applying methods: [REF]

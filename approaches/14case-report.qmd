@@ -9,7 +9,7 @@ Alternative labels:
 In a methodological case report, a team describes their experience with the design, implementation, or performance of a method in a real study, typically their own. In a case series, they discuss two or more studies that share a similar method or methodological challenge.
 
 ## Boundaries to related types
-Boundary with [Experimental analysis of real datasets](3real-datasets.qmd) and [A15) Informal approaches](informal.qmd): All may use a single dataset and the label “case study”. Key differences are that A3 re-analyzes an existing dataset to answer a methodological question, A14 discusses methodological challenges in a specific study, and A15 uses datasets or studies to illustrate methods.
+Boundary with [Experimental analysis of real datasets](3real-datasets.qmd) and [15 Informal approaches](15informal.qmd): All may use a single dataset and the label “case study”. Key differences are that 3 re-analyzes an existing dataset to answer a methodological question, 14 discusses methodological challenges in a specific study, and 15 uses datasets or studies to illustrate methods.
 
 Boundary with [Review of applied methods](9review-applied.qmd): While a case series is a narrative aggregating teams’ experience with a method, a review of applied methods answers a methodological question by analyzing published study reports. 
 

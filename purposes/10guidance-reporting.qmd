@@ -1,5 +1,5 @@
 ---
-title: "P10) Develop reporting guidelines"
+title: "10 Develop reporting guidelines"
 link-citations: true
 ---
 Alternative labels: 
@@ -14,7 +14,7 @@ These studies develop guidance to help health researchers or other interest hold
 
 [Review of applied methods](../approaches/9review-applied.qmd): review of observational studies emulating a target trial to inform the TARGET reporting guideline.[@Cashin2025transparent]
 
-[Scoping review of methods research](../approaches/11scoping-review-mr.qmd): A scoping review informed the development of a new reporting guideline for factorial trials.[@Kahan2023reporting]
+[Scoping review of methods research](../approaches/11scoping-review.qmd): A scoping review informed the development of a new reporting guideline for factorial trials.[@Kahan2023reporting]
 
 ## Guidance
 - Guidance for understanding and applying methods: [REF]

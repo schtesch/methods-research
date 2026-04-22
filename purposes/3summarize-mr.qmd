@@ -1,5 +1,5 @@
 ---
-title: "P3) Summarize the results of methods research"
+title: "3 Summarize the results of methods research"
 link-citations: true
 ---
 Alternative labels: 

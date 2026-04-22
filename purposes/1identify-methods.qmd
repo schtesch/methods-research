@@ -1,5 +1,5 @@
 ---
-title: "P1) Identify available methods"
+title: "1 Identify available methods"
 link-citations: true
 ---
 Alternative labels: 
@@ -10,9 +10,9 @@ These studies aim to identify methods that can address a specific research chall
 ## Boundaries to related purposes
 
 ## Typical approaches and corresponding examples 
-[Scoping review of methods research](../approaches/11scoping-review-mr.qmd): identify causal methods to allow predictions under hypothetical interventions;[@Lin2021a] identify definitions of intention-to-treat;[@Alshurafa2012inconsistent] review of causal methods to allow predictions under hypothetical interventions;[@Lin2021a] identify criteria for assessing the credibility of subgroup analyses;[@Schandelmaier2019a] identify factors influencing the trustworthiness of non-randomized studies;[@Adegboye2025factors] identify methods addressing bias in adaptive trial designs.[@Robertson2023point]; 
+[Scoping review of methods research](../approaches/11scoping-review.qmd): identify causal methods to allow predictions under hypothetical interventions;[@Lin2021a] identify definitions of intention-to-treat;[@Alshurafa2012inconsistent] review of causal methods to allow predictions under hypothetical interventions;[@Lin2021a] identify criteria for assessing the credibility of subgroup analyses;[@Schandelmaier2019a] identify factors influencing the trustworthiness of non-randomized studies;[@Adegboye2025factors] identify methods addressing bias in adaptive trial designs.[@Robertson2023point]; 
 
-[Review of applied methods](../approaches/9review-applied-methods.qmd): to identify types of initial data analysis in observational studies.[@Huebner2020hidden] 
+[Review of applied methods](../approaches/9review-applied.qmd): to identify types of initial data analysis in observational studies.[@Huebner2020hidden] 
 
 ## Guidance
 - Guidance for understanding and applying methods: [REF]

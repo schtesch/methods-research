@@ -1,5 +1,5 @@
 ---
-title: "P9) Develop guidance for understanding and applying methods"
+title: "9 Develop guidance for understanding and applying methods"
 link-citations: true
 ---
 Alternative labels: methods guidance; tutorial; best practice recommendations
@@ -18,7 +18,7 @@ Approaches to develop methods guidance greatly vary and include: [Theory-based m
 
 [Qualitative study involving researchers or other interest-holders in health research](../approaches/7qualitative.qmd): Q-methodology, focus groups, content analysis, and workshops to produce guidance on creating summaries for trial participants.[@Bruhn2022recap]
 
-[Consensus study among researchers or other interest-holders in health research](../approaches/8consensus.qmd): Guidance on Factors to Consider when inviting multiple interest-holder Research, based on Delphi; [@Parker2022factors] Guidance on handling missing data in trials, based on Nominal Group Technique.[@Hussain2022development]
+[Consensus study among researchers or other interest-holders in health research](../approaches/8consensus.qmd): Guidance on factors to consider when inviting multiple interest-holder groups to research, based on Delphi; [@Parker2022factors] Guidance on handling missing data in trials, based on Nominal Group Technique.[@Hussain2022development]
 
 [Review of applied methods](../approaches/9review-applied.qmd): recommendations for the use of directed acyclic graphs.[@Tennant2021use]
 

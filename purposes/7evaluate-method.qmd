@@ -1,5 +1,5 @@
 ---
-title: "P7) Evaluate a single method"
+title: "7 Evaluate a single method"
 ---
 Alternative labels: 
 

@@ -1,5 +1,5 @@
 ---
-title: "P6) Propose a new method"
+title: "6 Propose a new method"
 link-citations: true
 ---
 Alternative labels: 

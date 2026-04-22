@@ -14,7 +14,7 @@ Randomised studies treat methods as interventions. They usually randomise indivi
 ## Boundaries to related types
 
 ## Typical purposes and corresponding examples 
-[Compare two or more methods](../purposes/8compare-methods.qmd): Does a central study team improve recruitment (study within a trial)?[@OtherOtherswat] Do different incentives affect investigators’ sharing of individual participant data (study within a review)?[@OtherOtherswar] Which version of an evidence table is easier to understand for guideline users?[@Carrasco-Labra2016improving] Does reminding peer reviews of reporting items improve study reports?[@Speich2023reminding]
+[Compare two or more methods](../purposes/8compare-methods.qmd): Does a central study team improve recruitment (study within a trial)?[@OtherOtherswat] Do different incentives affect investigators’ sharing of individual participant data (study within a review)?[@OtherOtherswar] Which version of an evidence table is easier to understand for guideline users?[@Carrasco-Labra2016improving] Does reminding peer reviewers of reporting items improve study reports?[@Speich2023reminding]
 
 ## Guidance
 - Guidance for understanding and applying methods: [REF]
