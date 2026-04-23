@@ -14,7 +14,7 @@ Approaches to develop methods guidance greatly vary and include: [Theory-based m
 
 [Experimental analysis of real datasets](../approaches/3real-datasets.qmd): Guidance for using machine learning for abstract screening; [@Hamel2021guidance] Framework for prospective meta-analysis, tested in 4 real projects.[@Tierney2021a]
 
-[Qualitative study involving researchers or other interest-holders in health research](../approaches/7qualitative.qmd): Q-methodology, focus groups, content analysis, and workshops to produce guidance on creating summaries for trial participants.[@Bruhn2022recap]
+[Qualitative study involving researchers or other interest-holders in health research](../approaches/7qualitative.qmd): Q-methodology, focus groups, content analysis, and workshops to produce guidance on creating summaries for trial participants.[@Bruhn2022what]
 
 [Consensus study among researchers or other interest-holders in health research](../approaches/8consensus.qmd): Guidance on factors to consider when inviting multiple interest-holder groups to research, based on Delphi; [@Parker2022factors] Guidance on handling missing data in trials, based on Nominal Group Technique.[@Hussain2022development]
 

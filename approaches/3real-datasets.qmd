@@ -22,6 +22,6 @@ These studies apply methods to datasets from real studies, often drawn from publ
 [Compare two or more methods](../purposes/8compare-methods.qmd): different survival prediction methods applied to multi-omics data;[@Herrmann2021large-scale] Comparing random forest and logistic regression across 243 datasets;[@Couronne2018random] agreement between traditional and prompt-based data extraction using the dataset of one systematic review.[@MotzfeldtJensen2025chatgpt-4o]
 
 ## Guidance
-- Understanding and applying experimental analyses of real data: Weber 2019(@Weber2019essential), Van Mechelen 2023[@VanMechelen2023a]
-- Reporting experimental analyses of real data: NA
-- Assessing experimental analyses of real data: NA
+- Understanding and applying experimental analyses of real datasets: Weber 2019(@Weber2019essential), Van Mechelen 2023[@VanMechelen2023a]
+- Reporting experimental analyses of real datasets: NA
+- Assessing experimental analyses of real datasets: NA

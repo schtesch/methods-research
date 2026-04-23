@@ -18,7 +18,7 @@ In a methodological case report, a team describes their experience with the desi
 :::
 
 ## Typical purposes and corresponding examples 
-[Evaluate a single method](../purposes/7evaluate-method.qmd): Experience with using large language models to develop a clinical practice guideline;[@SousaPinto2024ai] Lessons learned from applying a framework to develop a healthcare intervention;[@Lindblom2025navigating] Challenges and benefits of including non-randomized evidence in living systematic reviews;[@Bonnet2026including] Demonstration of target trial emulation.[@Martinuka2023target]
+[Evaluate a single method](../purposes/7evaluate-method.qmd): Experience with using large language models to develop a clinical practice guideline;[@Sousa-Pinto2024artificial] Lessons learned from applying a framework to develop a healthcare intervention;[@Lindblom2025navigating] Challenges and benefits of including non-randomized evidence in living systematic reviews;[@Bonnet2025including] Demonstration of target trial emulation.[@Martinuka2023target]
 
 ## Guidance
 - Guidance for understanding and applying methods: [REF]

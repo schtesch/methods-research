@@ -16,7 +16,7 @@ These studies use interviews, focus groups, or other qualitative methods to coll
 
 [Evaluate a single method](../purposes/7evaluate-method.qmd): Focus group addressing the clarity of plain language recommendations in guidelines;[@Santesso2022focus] Interviews to test the face validity of a quality assessment instrument.[@Schandelmaier2020development]
 
-[Develop guidance for understanding and applying methods](../purposes/9guidance-applying.qmd): Q-methodology, focus groups, content analysis, and workshops to produce guidance on creating summaries for trial participants.[@Bruhn2022recap]
+[Develop guidance for understanding and applying methods](../purposes/9guidance-applying.qmd): Q-methodology, focus groups, content analysis, and workshops to produce guidance on creating summaries for trial participants.[@Bruhn2022what]
 
 [Research the dissemination and implementation of methods](../purposes/13implementation.qmd): Interviews with trial investigators to understand why they did not use existing core outcome sets.[@Hughes2022in-depth]
 

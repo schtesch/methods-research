@@ -33,7 +33,7 @@ Scoping reviews include a broad research question and a systematic search, and a
 ## Typical purposes and corresponding examples 
 [Identify available methods](../purposes/1identify-methods.qmd): Identify definitions of intention-to-treat;[@Alshurafa2012inconsistent] Review of causal methods to allow predictions under hypothetical interventions;[@Lin2021a] identify criteria for assessing the credibility of subgroup analyses;[@Schandelmaier2019a] identify factors influencing the trustworthiness of non-randomized studies;[@Adegboye2025factors] identify methods addressing bias in adaptive trial designs.[@Robertson2023point]; 
 
-[Identify available methods research on a specific topic](../purposes/2identify-mr.qmd): Identify publications that suggest a process for developing methods guidance.[@Chiaborelli2026stream] identify and map guidance for evidence synthesis [@Movsisyan2026conducting]
+[Identify available methods research on a specific topic](../purposes/2identify-mr.qmd): Identify publications that suggest a process for developing methods guidance.[@Chiaborelli2026strategies] identify and map guidance for evidence synthesis [@Movsisyan2026conducting]
 
 [Develop guidance for understanding and applying methods](../purposes/9guidance-applying.qmd): inform guidance on integrating qualitative methods in randomized trials;[@Davis2019beyond] scoping review informed guidance for developing core outcome sets.[@Prinsen2016how]
 
