@@ -1,5 +1,5 @@
 ---
-title: "13 Research the dissemination and implementation of methods"
+title: "13 Study dissemination and implementation of methods"
 link-citations: true
 ---
 Alternative labels: methodological implementation science

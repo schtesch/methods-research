@@ -6,12 +6,27 @@ bibliography: references.bib
 csl: vancouver-superscript.csl
 
 book:
-  title: "Methods Research Navigator"
+  title: ""
 
   sidebar:
     style: floating
     search: true
     collapse-level: 1
+    logo: images/logo.png
+
+  page-footer:
+    left: "Funded by [Swiss National Science Foundation (SNSF)](https://www.snf.ch)"
+    
+    right:  
+      - text: "Legal notice"
+        href: impressum.html
+
+    center: 
+      - text: "Contact"
+        href: "mailto:stefan.schandelmaier@unibas.ch"
+    background: "#eef3f8"
+    foreground: "#3a4a5a"
+    border: false
 
   chapters:
     - index.qmd
@@ -61,3 +76,6 @@ format:
     toc: false
     smooth-scroll: true
     anchor-sections: true
+    css: styles.css
+    grid:
+      sidebar-width: 25rem

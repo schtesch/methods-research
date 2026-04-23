@@ -2,6 +2,8 @@
 title: "About this initiative"
 ---
 
+![](images/logo2.png){fig-align="left" width=500px}
+
 Welcome! 
 
 This website is under construction. It will soon host the new **Typology of Methods Research (TYPE-ME)** - a living resource for methods researchers who work in the context of health research and psychology. The typology is based on an [ongoing consensus study](https://osf.io/4fxaz/overview).
@@ -14,7 +16,11 @@ Once the typology is ready, we plan the following next steps:
 
 You are invited to explore the current prototype:
 
-## Definitions of methods research
+## The typology
+
+::: {.callout-tip appearance="minimal" collapse="true"}
+### Definition of methods research
+
 Methodological research (MR) aims to develop, evaluate, refine, guide, or (de-)implement research methods, or synthesize existing MR. 
 
 The targets of MR are research methods across the whole research lifecycle, including the methods for planning (e.g., formulating research questions or determining sample size), conducting (e.g., recruiting participants or collecting measurements), analyzing and interpreting (e.g., statistical or qualitative analysis), reporting (e.g., reporting checklists or journal standards), summarizing (e.g., systematic reviews), evaluating (e.g., risk of bias tools or peer review), and implementing research (e.g., clinical practice guidelines or decision aids). 
@@ -22,15 +28,18 @@ The targets of MR are research methods across the whole research lifecycle, incl
 In addition to research methods, MR also addresses the underlying research challenges that demand methodological solutions (e.g., missing data or conflicts of interest) and the consequences of methodological choices (e.g., biases in observational studies or limitations of significance thresholds for p-values).
 
 For this typology, we narrowed the scope to MR on research methods used in health research.
+:::
 
-## The typology
+::: {.callout-tip appearance="minimal" collapse="true"}
+## typology concept
 We defined methodological study types along two broad dimensions: by approach (“What are the different ways in which we can answer methodological research questions?”), which includes 15 types (Table 1), and by purpose (“What are the different objectives or research questions of MR?”), which includes 13 types (Table 2). For each type, we suggest preferred and alternative terms, provide a definition, boundary notes, and show examples. Technically, the detailed typology is a faceted taxonomy with two facets corresponding to the two dimensions approach and purpose. In this manuscript, we present the two facets in separate tables while the website provides a more interactive format that allows collapsing and expanding of details.
 
 The two dimensions are cross-cutting because one approach can serve several purposes and one purpose can draw on different approaches. For example, the approach “review of applied methods” can serve the purposes “describe current practice”, “identify the need for new methods”, or “evaluate the implementation of methods”. An example from the purpose domain is “development of methods guidance”, for which one can consider input from various approaches such as a systematic review of MR, qualitative studies involving interest-holders, or a consensus study. To make this cross-cutting structure explicit, the tables provide for each approach examples of typical purposes and for each purpose examples of typical approaches in the 3rd column
 
 The ordering of approaches does not impose a hierarchy of strength, such as progression from “weak” to “strong” approaches. While some approaches may, in certain contexts, advance understanding in a more compelling way than another, rather than a linear journey, the typology describes a research ecosystem - a house with many interconnecting rooms of different types. The ordering of purposes broadly reflects the lifecycle of a method,(Heinze2024) beginning with assessing the status quo and research needs and ending with de-implementing methods that researchers should no longer use.
+:::
 
-Browse the two dimensions using the following links or the side bar. 
+Browse the two dimensions of the typology using the side bar or the following links:
 
 **Approaches**
 
@@ -51,7 +60,7 @@ Browse the two dimensions using the following links or the side bar.
 - [15 Informal approaches](approaches/15informal.qmd)
 
 
-**purposes**
+**Purposes**
 
 - [1 Identify available methods](purposes/1identify-methods.qmd)
 - [2 Identify available methods research on a specific topic](purposes/2identify-mr.qmd)
