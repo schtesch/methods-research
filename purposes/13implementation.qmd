@@ -17,6 +17,4 @@ This type of methods research is still rare. Examples come mostly from areas of 
 [Review of applied methods](../approaches/9review-applied.qmd): proportion of trials using core outcome sets.[@Matvienko-Sikar2022use]
 
 ## Guidance
-- Guidance for understanding and applying methods: [REF]
-- Guidance for reporting methods: [REF]
-- Guidance for assessing methods: [REF]
+The only paper that explicitly addresses methodological implementation science that we know is King 2019.[@King2019using]

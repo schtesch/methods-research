@@ -15,6 +15,6 @@ These studies develop guidance to help health researchers or other interest hold
 [Scoping review of methods research](../approaches/11scoping-review.qmd): A scoping review informed the development of a new reporting guideline for factorial trials.[@Kahan2023reporting]
 
 ## Guidance
-- Guidance for understanding and applying methods: [REF]
-- Guidance for reporting methods: [REF]
-- Guidance for assessing methods: [REF]
+- Developing reporting guidelines: Moher 2010[@Moher2010guidance]
+- Reporting reporting guidelines: NA
+- Assessing reporting guidelines: NA

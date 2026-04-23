@@ -24,6 +24,6 @@ These studies compare two or more methods with respect to precision, bias, feasi
 [Meta-epidemiological study](../approaches/10meta-epi.qmd): Influence of trial sample size on treatment effects?[@Dechartres2013influence] Association between use of reporting guidelines and quality of reporting.[@Turner2012does]
 
 ## Guidance
-- Guidance for understanding and applying methods: [REF]
+Boulesteix 2018 [@Boulesteix2018on], Friedrich 2024[@Friedrich2024on]
 - Guidance for reporting methods: [REF]
 - Guidance for assessing methods: [REF]

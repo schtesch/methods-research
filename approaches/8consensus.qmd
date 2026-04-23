@@ -21,6 +21,6 @@ These studies use formal consensus methods, such as Delphi studies or the Nomina
 [Develop quality assessment instruments](../purposes/11guidance-assessing.qmd): Discussion-based consensus on quality assessment tool for subgroup analyses.[@Schandelmaier2020development]
 
 ## Guidance
-- Guidance for understanding and applying methods: [REF]
-- Guidance for reporting methods: [REF]
-- Guidance for assessing methods: [REF]
+- Guidance for understanding and applying: Book Chapter by Anthony Jorm[@Jorm2025expert]
+- Guidance for reporting: ACCORD reporting gudelines[@Gattrell2024accord]
+- Guidance for assessing: [REF]
