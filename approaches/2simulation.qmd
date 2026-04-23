@@ -21,6 +21,6 @@ Simulation studies experimentally apply one or more methods to a large number of
 [Develop guidance for understanding and applying methods](../purposes/9guidance-applying.qmd): Guidance on using matching in cluster trials; [@Chondros2021when] Guidance for variable screening in high dimensional survival analysis; [@Edelmann2020marginal] estimation of diagnostic test accuracy without reference standard.[@Sun2025estimation]
 
 ## Guidance
-- Understanding and applying simulation studies: Morris 2019[@Morris2019using], Burton 2006[@Burton2006the]
+- Understanding and applying simulation studies: Morris 2019[@Morris2019using], Burton 2006[@Burton2006the], White 2024[@White2024how]
 - Reporting simulation studies: Siepe 2023[@Siepe2023simulation]
-- Assessing simulation studies: White 2024[@White2024how]
+- Assessing simulation studies: 
