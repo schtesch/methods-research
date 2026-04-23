@@ -11,10 +11,12 @@ These studies apply methods to datasets from real studies, often drawn from publ
 - A strength is that the data retain real-world complexity, including variability, measurement error, or missing values
 - A remaining limitation is that such studies do not investigate variation and errors arising from humans performing the analysis.
 
-## Boundaries to related types
-Boundary with [Reliability and agreement studies](4reliability.qmd): Both may use a single dataset and assess agreement. The key difference is that experimental analyses compare multiple methods applied by one person or team, while reliability, agreement, and reproducibility studies compare multiple people applying the same method.
+::: {.callout-tip appearance="minimal" collapse="true"}
+## Boundaries with related types
+[Reliability and agreement studies](4reliability.qmd): Both may use a single dataset and assess agreement. The key difference is that experimental analyses compare multiple methods applied by one person or team, while reliability, agreement, and reproducibility studies compare multiple people applying the same method.
 
-Boundary with [case report or series](14case-report.qmd) and [informal approaches](15informal.qmd): All may use a single dataset and the label “case study”. Key differences are that 3 re-analyzes an existing dataset to answer a methodological question, 14 discusses methodological challenges in a specific study, and 15 uses datasets or studies to illustrate methods.
+[Case report or series](14case-report.qmd) and [informal approaches](15informal.qmd): All may use a single dataset and the label “case study”. Key differences are that 3 re-analyzes an existing dataset to answer a methodological question, 14 discusses methodological challenges in a specific study, and 15 uses datasets or studies to illustrate methods.
+:::
 
 ## Typical purposes and corresponding examples 
 [Compare two or more methods](../purposes/8compare-methods.qmd): different survival prediction methods applied to multi-omics data;[@Herrmann2021large-scale] Comparing random forest and logistic regression across 243 datasets;[@Couronne2018random] agreement between traditional and prompt-based data extraction using the dataset of one systematic review.[@MotzfeldtJensen2025chatgpt-4o]

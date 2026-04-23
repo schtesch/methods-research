@@ -14,7 +14,7 @@
     "href": "index.html#the-typology",
     "title": "About this initiative",
     "section": "",
-    "text": "TipDefinition of methods research\n\n\n\n\n\nMethodological research (MR) aims to develop, evaluate, refine, guide, or (de-)implement research methods, or synthesize existing MR.\nThe targets of MR are research methods across the whole research lifecycle, including the methods for planning (e.g., formulating research questions or determining sample size), conducting (e.g., recruiting participants or collecting measurements), analyzing and interpreting (e.g., statistical or qualitative analysis), reporting (e.g., reporting checklists or journal standards), summarizing (e.g., systematic reviews), evaluating (e.g., risk of bias tools or peer review), and implementing research (e.g., clinical practice guidelines or decision aids).\nIn addition to research methods, MR also addresses the underlying research challenges that demand methodological solutions (e.g., missing data or conflicts of interest) and the consequences of methodological choices (e.g., biases in observational studies or limitations of significance thresholds for p-values).\nFor this typology, we narrowed the scope to MR on research methods used in health research.\n\n\n\n\n\n\n\n\n\nTiptypology concept\n\n\n\n\n\nWe defined methodological study types along two broad dimensions: by approach (“What are the different ways in which we can answer methodological research questions?”), which includes 15 types (Table 1), and by purpose (“What are the different objectives or research questions of MR?”), which includes 13 types (Table 2). For each type, we suggest preferred and alternative terms, provide a definition, boundary notes, and show examples. Technically, the detailed typology is a faceted taxonomy with two facets corresponding to the two dimensions approach and purpose. In this manuscript, we present the two facets in separate tables while the website provides a more interactive format that allows collapsing and expanding of details.\nThe two dimensions are cross-cutting because one approach can serve several purposes and one purpose can draw on different approaches. For example, the approach “review of applied methods” can serve the purposes “describe current practice”, “identify the need for new methods”, or “evaluate the implementation of methods”. An example from the purpose domain is “development of methods guidance”, for which one can consider input from various approaches such as a systematic review of MR, qualitative studies involving interest-holders, or a consensus study. To make this cross-cutting structure explicit, the tables provide for each approach examples of typical purposes and for each purpose examples of typical approaches in the 3rd column\nThe ordering of approaches does not impose a hierarchy of strength, such as progression from “weak” to “strong” approaches. While some approaches may, in certain contexts, advance understanding in a more compelling way than another, rather than a linear journey, the typology describes a research ecosystem - a house with many interconnecting rooms of different types. The ordering of purposes broadly reflects the lifecycle of a method,(Heinze2024) beginning with assessing the status quo and research needs and ending with de-implementing methods that researchers should no longer use.\n\n\n\n\n\n\n1 Theory-based methods research\n2 Simulation study\n3 Experimental analysis of real datasets\n4 Methodological randomized study\n5 Reliability and agreement studies\n6 Quantitative survey involving researchers and other interest-holders in health research\n7 Qualitative study involving researchers or other interest-holders in health research\n8 Consensus study among researchers or other interest-holders in health research\n9 Review of applied methods\n10 Meta-epidemiological study\n11 Scoping review of methods research\n12 Qualitative synthesis of methods research\n13 Quantitative synthesis of methods research\n14 Methodological case report or series\n15 Informal approaches\n\n\n\n1 Identify available methods\n2 Identify available methods research on a specific topic\n3 Summarize the results of methods research\n4 Assess methodological practice\n5 Assess needs and priorities for methods research\n6 Propose a new method\n7 Evaluate a single method\n8 Compare two or more methods\n9 Develop guidance for understanding and applying methods\n10 Develop reporting guidelines\n11 Develop quality assessment instruments\n12 Develop software and code\n13 Research the dissemination and implementation of methods",
+    "text": "TipDefinition of methods research\n\n\n\n\n\nMethodological research (MR) aims to develop, evaluate, refine, guide, or (de-)implement research methods, or synthesize existing MR.\nThe targets of MR are research methods across the whole research lifecycle, including the methods for planning (e.g., formulating research questions or determining sample size), conducting (e.g., recruiting participants or collecting measurements), analyzing and interpreting (e.g., statistical or qualitative analysis), reporting (e.g., reporting checklists or journal standards), summarizing (e.g., systematic reviews), evaluating (e.g., risk of bias tools or peer review), and implementing research (e.g., clinical practice guidelines or decision aids).\nIn addition to research methods, MR also addresses the underlying research challenges that demand methodological solutions (e.g., missing data or conflicts of interest) and the consequences of methodological choices (e.g., biases in observational studies or limitations of significance thresholds for p-values).\nFor this typology, we narrowed the scope to MR on research methods used in health research.\n\n\n\n\n\n\n\n\n\nTipTypology concept\n\n\n\n\n\nThe typology supports a broad range of uses, either directly or after adaptation. It can help to:\n\nSupport researchers in the planning, conduct, and reporting of methods research;\nClassify methods research published in journals (inform article types), biomedical databases (infom index terms or publication types), or other places;\nGuide the design of projects that involve sequences of methods research (such as developing and testing of new research methods or creating reporting guidelines);\nEncourage the development of guidance on specific types of methods research;\nDefine what constitutes “methodological evidence”;\nSupport education on methods research.\n\nWe defined methodological study types along two broad dimensions: by approach (“What are the different ways in which we can answer methodological research questions?”), which includes 15 types (Table 1), and by purpose (“What are the different objectives or research questions of MR?”), which includes 13 types (Table 2). For each type, we suggest preferred and alternative terms, provide a definition, boundary notes, and show examples. Technically, the detailed typology is a faceted taxonomy with two facets corresponding to the two dimensions approach and purpose. In this manuscript, we present the two facets in separate tables while the website provides a more interactive format that allows collapsing and expanding of details.\nThe two dimensions are cross-cutting because one approach can serve several purposes and one purpose can draw on different approaches. For example, the approach “review of applied methods” can serve the purposes “describe current practice”, “identify the need for new methods”, or “evaluate the implementation of methods”. An example from the purpose domain is “development of methods guidance”, for which one can consider input from various approaches such as a systematic review of MR, qualitative studies involving interest-holders, or a consensus study. To make this cross-cutting structure explicit, the tables provide for each approach examples of typical purposes and for each purpose examples of typical approaches in the 3rd column\nThe ordering of approaches does not impose a hierarchy of strength, such as progression from “weak” to “strong” approaches. While some approaches may, in certain contexts, advance understanding in a more compelling way than another, rather than a linear journey, the typology describes a research ecosystem - a house with many interconnecting rooms of different types. The ordering of purposes broadly reflects the lifecycle of a method,(Heinze2024) beginning with assessing the status quo and research needs and ending with de-implementing methods that researchers should no longer use.\n\n\n\n\n\n\n\n\n\nTipContributors\n\n\n\n\n\nThe following individuals have contributed to ongoing consensus study:\n\nStefan Schandelmaier\nMalena Chiaborelli\nJulian Hirt\nMatthias Briel\nLivia Puljak\nZachary Munn\nHanan Khalil\nDawid Pieper\nAnne-Laure Boulesteix\nGeorg Heinze\nRichard Hooper\n\n\n\n\n\n\n\n1 Theory-based methods research\n2 Simulation study\n3 Experimental analysis of real datasets\n4 Methodological randomized study\n5 Reliability and agreement studies\n6 Quantitative survey involving researchers and other interest-holders in health research\n7 Qualitative study involving researchers or other interest-holders in health research\n8 Consensus study among researchers or other interest-holders in health research\n9 Review of applied methods\n10 Meta-epidemiological study\n11 Scoping review of methods research\n12 Qualitative synthesis of methods research\n13 Quantitative synthesis of methods research\n14 Methodological case report or series\n15 Informal approaches\n\n\n\n1 Identify available methods\n2 Identify available methods research on a specific topic\n3 Summarize the results of methods research\n4 Assess methodological practice\n5 Assess needs and priorities for methods research\n6 Propose a new method\n7 Evaluate a single method\n8 Compare two or more methods\n9 Develop guidance for understanding and applying methods\n10 Develop reporting guidelines\n11 Develop quality assessment instruments\n12 Develop software and code\n13 Research the dissemination and implementation of methods",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>About this initiative</span>"
     ]
@@ -24,29 +24,18 @@
     "href": "approaches/1theory.html",
     "title": "1 Theory-based methods research",
     "section": "",
-    "text": "Definition and typical features\nAlternative labels:\nMethodological research that reaches its conclusions through tightly applied theory such as mathematical derivation, proof, logic, philosophy of science, or specific theoretical frameworks such as directed acyclic graphs.",
+    "text": "Definition and features\nAlternative labels:\nMethodological research that reaches its conclusions through tightly applied theory such as mathematical derivation, proof, logic, philosophy of science, or specific theoretical frameworks such as directed acyclic graphs.",
     "crumbs": [
       "Explore by approach",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>1 Theory-based methods research</span>"
     ]
   },
   {
-    "objectID": "approaches/1theory.html#definition-and-typical-features",
-    "href": "approaches/1theory.html#definition-and-typical-features",
+    "objectID": "approaches/1theory.html#definition-and-features",
+    "href": "approaches/1theory.html#definition-and-features",
     "title": "1 Theory-based methods research",
     "section": "",
-    "text": "Strengths include in-depth exploration of the structure and assumptions of methods.\nLimitations include unclear performance in practice.",
-    "crumbs": [
-      "Explore by approach",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>1 Theory-based methods research</span>"
-    ]
-  },
-  {
-    "objectID": "approaches/1theory.html#boundaries-to-related-types",
-    "href": "approaches/1theory.html#boundaries-to-related-types",
-    "title": "1 Theory-based methods research",
-    "section": "Boundaries to related types",
-    "text": "Boundaries to related types\nBoundary with Informal approaches: While theory-based methods research uses theory to answer a methodological research question, informal approaches use theory for explanation.",
+    "text": "Strengths include in-depth exploration of the structure and assumptions of methods.\nLimitations include unclear performance in practice.\n\n\n\n\n\n\n\nTipBoundaries with related types\n\n\n\n\n\nInformal approaches: While theory-based methods research uses theory to answer a methodological research question, informal approaches use theory for explanation.",
     "crumbs": [
       "Explore by approach",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>1 Theory-based methods research</span>"
@@ -57,7 +46,7 @@
     "href": "approaches/1theory.html#typical-purposes-and-corresponding-examples",
     "title": "1 Theory-based methods research",
     "section": "Typical purposes and corresponding examples",
-    "text": "Typical purposes and corresponding examples\n\n\nPropose a new method: Deriving a prediction interval for random effects meta-analyses;1 inverse odds weighting to operationalize transportability;2 adopting implementation science to the context of research methods;3 framework to integrate external validity in deductive causal inference.4\nDevelop guidance for understanding and applying methods: Covariate adjustment in trials;5 credibility criteria for observed subgroup effects.6",
+    "text": "Typical purposes and corresponding examples\n\nPropose a new method: Deriving a prediction interval for random effects meta-analyses;1 inverse odds weighting to operationalize transportability;2 adopting implementation science to the context of research methods;3 framework to integrate external validity in deductive causal inference.4\nDevelop guidance for understanding and applying methods: Covariate adjustment in trials;5 credibility criteria for observed subgroup effects.6",
     "crumbs": [
       "Explore by approach",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>1 Theory-based methods research</span>"
@@ -79,29 +68,18 @@
     "href": "approaches/2simulation.html",
     "title": "2 Simulation study",
     "section": "",
-    "text": "Definition and typical features\nAlternative labels: in silico study\nSimulation studies experimentally apply one or more methods to a large number of simulated datasets. The datasets mimic studies and are generated under specified assumptions, usually with some element of randomness. Software then systematically applies the method(s) under investigation to each dataset to understand how they perform in general. A unique feature and strength is that one can modify the underlying truth, which allows assessing bias and the validity of precision measures under varying conditions. A limitation is that simulated scenarios may not fully capture the complexities of real studies with human error arising during data collection or methods application.",
+    "text": "Definition and features\nAlternative labels: in silico study\nSimulation studies experimentally apply one or more methods to a large number of simulated datasets. The datasets mimic studies and are generated under specified assumptions, usually with some element of randomness. Software then systematically applies the method(s) under investigation to each dataset to understand how they perform in general. A unique feature and strength is that one can modify the underlying truth, which allows assessing bias and the validity of precision measures under varying conditions. A limitation is that simulated scenarios may not fully capture the complexities of real studies with human error arising during data collection or methods application.",
     "crumbs": [
       "Explore by approach",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>2 Simulation study</span>"
     ]
   },
   {
-    "objectID": "approaches/2simulation.html#definition-and-typical-features",
-    "href": "approaches/2simulation.html#definition-and-typical-features",
+    "objectID": "approaches/2simulation.html#definition-and-features",
+    "href": "approaches/2simulation.html#definition-and-features",
     "title": "2 Simulation study",
     "section": "",
     "text": "A unique feature and strength is that one can modify the underlying truth, which allows assessing bias and the validity of precision measures under varying conditions.\nA limitation is that simulated scenarios may not fully capture the complexities of real studies with human error arising during data collection or methods application.",
-    "crumbs": [
-      "Explore by approach",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>2 Simulation study</span>"
-    ]
-  },
-  {
-    "objectID": "approaches/2simulation.html#boundaries-to-related-types",
-    "href": "approaches/2simulation.html#boundaries-to-related-types",
-    "title": "2 Simulation study",
-    "section": "Boundaries to related types",
-    "text": "Boundaries to related types\nNo related types",
     "crumbs": [
       "Explore by approach",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>2 Simulation study</span>"
@@ -145,18 +123,7 @@
     "href": "approaches/3real-datasets.html#definition-and-typical-features",
     "title": "3 Experimental analysis of real datasets",
     "section": "",
-    "text": "A strength is that the data retain real-world complexity, including variability, measurement error, or missing values\nA remaining limitation is that such studies do not investigate variation and errors arising from humans performing the analysis.",
-    "crumbs": [
-      "Explore by approach",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>3 Experimental analysis of real datasets</span>"
-    ]
-  },
-  {
-    "objectID": "approaches/3real-datasets.html#boundaries-to-related-types",
-    "href": "approaches/3real-datasets.html#boundaries-to-related-types",
-    "title": "3 Experimental analysis of real datasets",
-    "section": "Boundaries to related types",
-    "text": "Boundaries to related types\nBoundary with Reliability and agreement studies: Both may use a single dataset and assess agreement. The key difference is that experimental analyses compare multiple methods applied by one person or team, while reliability, agreement, and reproducibility studies compare multiple people applying the same method.\nBoundary with case report or series and informal approaches: All may use a single dataset and the label “case study”. Key differences are that 3 re-analyzes an existing dataset to answer a methodological question, 14 discusses methodological challenges in a specific study, and 15 uses datasets or studies to illustrate methods.",
+    "text": "A strength is that the data retain real-world complexity, including variability, measurement error, or missing values\nA remaining limitation is that such studies do not investigate variation and errors arising from humans performing the analysis.\n\n\n\n\n\n\n\nTipBoundaries with related types\n\n\n\n\n\nReliability and agreement studies: Both may use a single dataset and assess agreement. The key difference is that experimental analyses compare multiple methods applied by one person or team, while reliability, agreement, and reproducibility studies compare multiple people applying the same method.\nCase report or series and informal approaches: All may use a single dataset and the label “case study”. Key differences are that 3 re-analyzes an existing dataset to answer a methodological question, 14 discusses methodological challenges in a specific study, and 15 uses datasets or studies to illustrate methods.",
     "crumbs": [
       "Explore by approach",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>3 Experimental analysis of real datasets</span>"
@@ -189,29 +156,18 @@
     "href": "approaches/4reliability.html",
     "title": "4 Reliability and agreement studies",
     "section": "",
-    "text": "Definition and typical features\nAlternative labels: Multi-researcher same-method study\nThese studies treat methods (such as risk of bias tools, software, or analysis plans) as instruments and involve multiple users (humans, teams, or artificial intelligences) who apply one method to the same set of cases (usually studies or datasets). Analyses assess consistency across applications: reliability studies assess how well ratings distinguish cases despite variability across raters, often using the intraclass correlation coefficient. Agreement studies assess the similarity of results across raters, often using kappa statistics or Bland–Altman plots. Reproducibility studies are a special case of agreement studies and assess whether independent teams can obtain the same results as the original study team by re-running the statistical workflow on the same data.",
+    "text": "Definition and features\nAlternative labels: Multi-researcher same-method study\nThese studies treat methods (such as risk of bias tools, software, or analysis plans) as instruments and involve multiple users (humans, teams, or artificial intelligences) who apply one method to the same set of cases (usually studies or datasets). Analyses assess consistency across applications: reliability studies assess how well ratings distinguish cases despite variability across raters, often using the intraclass correlation coefficient. Agreement studies assess the similarity of results across raters, often using kappa statistics or Bland–Altman plots. Reproducibility studies are a special case of agreement studies and assess whether independent teams can obtain the same results as the original study team by re-running the statistical workflow on the same data.",
     "crumbs": [
       "Explore by approach",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>4 Reliability and  agreement studies</span>"
     ]
   },
   {
-    "objectID": "approaches/4reliability.html#definition-and-typical-features",
-    "href": "approaches/4reliability.html#definition-and-typical-features",
+    "objectID": "approaches/4reliability.html#definition-and-features",
+    "href": "approaches/4reliability.html#definition-and-features",
     "title": "4 Reliability and agreement studies",
     "section": "",
-    "text": "A strength of these studies is that they quantify variability introduced by method users.\nA challenge is that results depend on case difficulty and user experience, and consistency does not necessarily indicate correctness.",
-    "crumbs": [
-      "Explore by approach",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>4 Reliability and  agreement studies</span>"
-    ]
-  },
-  {
-    "objectID": "approaches/4reliability.html#boundaries-to-related-types",
-    "href": "approaches/4reliability.html#boundaries-to-related-types",
-    "title": "4 Reliability and agreement studies",
-    "section": "Boundaries to related types",
-    "text": "Boundaries to related types\nBoundary with Experimental analysis of real datasets: Both may use a single dataset and assess agreement, but reliability and agreement studies compare users applying the same method, whereas experimental analyses compare methods applied by one user or team.",
+    "text": "A strength of these studies is that they quantify variability introduced by method users.\nA challenge is that results depend on case difficulty and user experience, and consistency does not necessarily indicate correctness.\n\n\n\n\n\n\n\nTipBoundaries to related types\n\n\n\n\n\nBoundary with Experimental analysis of real datasets: Both may use a single dataset and assess agreement, but reliability and agreement studies compare users applying the same method, whereas experimental analyses compare methods applied by one user or team.",
     "crumbs": [
       "Explore by approach",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>4 Reliability and  agreement studies</span>"
@@ -222,7 +178,7 @@
     "href": "approaches/4reliability.html#typical-purposes-and-corresponding-examples",
     "title": "4 Reliability and agreement studies",
     "section": "Typical purposes and corresponding examples",
-    "text": "Typical purposes and corresponding examples\nEvaluate a single method: Reliability of risk of bias tools for observational studies;1 Reliability of 12 raters applying a quality assessment tool for radiomics to 35 studies and repeated the assessment after a wash-out period.2 Agreement between nine research teams attempting to reproduce the same observational study;3 Agreement between reproduced and original analyses of 150 real-world evidence studies.4\nCompare two or more methods: Agreement among four raters who applied 2 quality assessment tools to 16 systematic reviews.5",
+    "text": "Typical purposes and corresponding examples\nEvaluate a single method: Reliability of risk of bias tools for observational studies;1 Reliability of 12 raters applying a quality assessment tool for radiomics to 35 studies and repeated the assessment after a wash-out period.2 Agreement between nine research teams attempting to reproduce the same observational study;3 Agreement between reproduced and original analyses of 150 real-world evidence studies.4",
     "crumbs": [
       "Explore by approach",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>4 Reliability and  agreement studies</span>"
@@ -233,7 +189,7 @@
     "href": "approaches/4reliability.html#guidance",
     "title": "4 Reliability and agreement studies",
     "section": "Guidance",
-    "text": "Guidance\n\nGuidance for understanding and applying methods: [REF]\nGuidance for reporting methods: [REF]\nGuidance for assessing methods: [REF]\n\n\n\n\n\n1. Kalaycioglu I, Rioux B, Briard JN, Nehme A, Touma L, Dansereau B, Veilleux-Carpentier A, Keezer MR. Inter-rater reliability of risk of bias tools for non-randomized studies [Internet]. Syst. Rev. 2023 Dec. ;12(1):227.Available from: http://dx.doi.org/10.1186/s13643-023-02389-w\n\n\n2. Akinci D’Antonoli T, Cavallo AU, Kocak B, Borgheresi A, Ponsiglione A, Stanzione A, Koltsakis E, Doniselli FM, Vernuccio F, Ugga L, Triantafyllou M, Huisman M, Klontzas ME, Trotta R, Cannella R, Fanni SC, Cuocolo R. Reproducibility of methodological radiomics score (METRICS): An intra- and inter-rater reliability study endorsed by EuSoMII [Internet]. Eur. Radiol. 2025 Aug. ;35(8):4533–4545.Available from: http://dx.doi.org/10.1007/s00330-025-11443-1\n\n\n3. Ostropolets A, Albogami Y, Conover M, Banda JM, Baumgartner WA, Blacketer C, Desai P, DuVall SL, Fortin S, Gilbert JP, Golozar A, Ide J, Kanter AS, Kern DM, Kim C, Lai LYH, Li C, Liu F, Lynch KE, Minty E, Neves MI, Ng DQ, Obene T, Pera V, Pratt N, Rao G, Rappoport N, Reinecke I, Saroufim P, Shoaibi A, Simon K, Suchard MA, Swerdel JN, Voss EA, Weaver J, Zhang L, Hripcsak G, Ryan PB. Reproducible variability: Assessing investigator discordance across 9 research teams attempting to reproduce the same observational study [Internet]. J. Am. Med. Inform. Assoc. 2023 Apr. ;30(5):859–868.Available from: http://dx.doi.org/10.1093/jamia/ocad009\n\n\n4. Wang SV, Sreedhara SK, Schneeweiss S, REPEAT Initiative. Reproducibility of real-world evidence studies using clinical practice data to inform regulatory and coverage decisions [Internet]. Nat. Commun. 2022 Aug. ;13(1):5126.Available from: http://dx.doi.org/10.1038/s41467-022-32310-3\n\n\n5. Bühn S, Mathes T, Prengel P, Wegewitz U, Ostermann T, Robens S, Pieper D. The risk of bias in systematic reviews tool showed fair reliability and good construct validity [Internet]. J. Clin. Epidemiol. 2017 Nov. ;91121–128.Available from: http://dx.doi.org/10.1016/j.jclinepi.2017.06.019",
+    "text": "Guidance\n\nGuidance for understanding and applying methods: [REF]\nGuidance for reporting methods: [REF]\nGuidance for assessing methods: [REF]\n\n\n\n\n\n1. Kalaycioglu I, Rioux B, Briard JN, Nehme A, Touma L, Dansereau B, Veilleux-Carpentier A, Keezer MR. Inter-rater reliability of risk of bias tools for non-randomized studies [Internet]. Syst. Rev. 2023 Dec. ;12(1):227.Available from: http://dx.doi.org/10.1186/s13643-023-02389-w\n\n\n2. Akinci D’Antonoli T, Cavallo AU, Kocak B, Borgheresi A, Ponsiglione A, Stanzione A, Koltsakis E, Doniselli FM, Vernuccio F, Ugga L, Triantafyllou M, Huisman M, Klontzas ME, Trotta R, Cannella R, Fanni SC, Cuocolo R. Reproducibility of methodological radiomics score (METRICS): An intra- and inter-rater reliability study endorsed by EuSoMII [Internet]. Eur. Radiol. 2025 Aug. ;35(8):4533–4545.Available from: http://dx.doi.org/10.1007/s00330-025-11443-1\n\n\n3. Ostropolets A, Albogami Y, Conover M, Banda JM, Baumgartner WA, Blacketer C, Desai P, DuVall SL, Fortin S, Gilbert JP, Golozar A, Ide J, Kanter AS, Kern DM, Kim C, Lai LYH, Li C, Liu F, Lynch KE, Minty E, Neves MI, Ng DQ, Obene T, Pera V, Pratt N, Rao G, Rappoport N, Reinecke I, Saroufim P, Shoaibi A, Simon K, Suchard MA, Swerdel JN, Voss EA, Weaver J, Zhang L, Hripcsak G, Ryan PB. Reproducible variability: Assessing investigator discordance across 9 research teams attempting to reproduce the same observational study [Internet]. J. Am. Med. Inform. Assoc. 2023 Apr. ;30(5):859–868.Available from: http://dx.doi.org/10.1093/jamia/ocad009\n\n\n4. Wang SV, Sreedhara SK, Schneeweiss S, REPEAT Initiative. Reproducibility of real-world evidence studies using clinical practice data to inform regulatory and coverage decisions [Internet]. Nat. Commun. 2022 Aug. ;13(1):5126.Available from: http://dx.doi.org/10.1038/s41467-022-32310-3",
     "crumbs": [
       "Explore by approach",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>4 Reliability and  agreement studies</span>"

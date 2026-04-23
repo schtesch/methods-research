@@ -5,14 +5,11 @@ link-citations: true
 
 Alternative labels: in silico study
 
-## Definition and typical features 
+## Definition and features 
 Simulation studies experimentally apply one or more methods to a large number of simulated datasets. The datasets mimic studies and are generated under specified assumptions, usually with some element of randomness. Software then systematically applies the method(s) under investigation to each dataset to understand how they perform in general. A unique feature and strength is that one can modify the underlying truth, which allows assessing bias and the validity of precision measures under varying conditions. A limitation is that simulated scenarios may not fully capture the complexities of real studies with human error arising during data collection or methods application.
 
 - A unique feature and strength is that one can modify the underlying truth, which allows assessing bias and the validity of precision measures under varying conditions.
 - A limitation is that simulated scenarios may not fully capture the complexities of real studies with human error arising during data collection or methods application.
-
-## Boundaries to related types
-No related types
 
 ## Typical purposes and corresponding examples 
 [Propose a new method](../purposes/6propose-method.qmd): new alternative to the log-rank test.[@Magirr2026robust]

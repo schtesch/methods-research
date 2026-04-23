@@ -31,12 +31,41 @@ For this typology, we narrowed the scope to MR on research methods used in healt
 :::
 
 ::: {.callout-tip appearance="minimal" collapse="true"}
-## typology concept
-We defined methodological study types along two broad dimensions: by approach (“What are the different ways in which we can answer methodological research questions?”), which includes 15 types (Table 1), and by purpose (“What are the different objectives or research questions of MR?”), which includes 13 types (Table 2). For each type, we suggest preferred and alternative terms, provide a definition, boundary notes, and show examples. Technically, the detailed typology is a faceted taxonomy with two facets corresponding to the two dimensions approach and purpose. In this manuscript, we present the two facets in separate tables while the website provides a more interactive format that allows collapsing and expanding of details.
+## Typology concept
+The typology supports a broad range of uses, either directly or after adaptation. It can help to:
+
+- Support researchers in the planning, conduct, and reporting of methods research; 
+- Classify methods research published in journals (inform article types), biomedical databases (infom index terms or publication types), or other places; 
+- Guide the design of projects that involve sequences of methods research (such as developing and testing of new research methods or creating reporting guidelines);
+- Encourage the development of guidance on specific types of methods research;
+- Define what constitutes “methodological evidence”;
+- Support education on methods research.
+ 
+
+We defined methodological study types along two broad dimensions: **by approach** (“What are the different ways in which we can answer methodological research questions?”), which includes 15 types (Table 1), and **by purpose** (“What are the different objectives or research questions of MR?”), which includes 13 types (Table 2). For each type, we suggest preferred and alternative terms, provide a definition, boundary notes, and show examples. Technically, the detailed typology is a faceted taxonomy with two facets corresponding to the two dimensions approach and purpose. In this manuscript, we present the two facets in separate tables while the website provides a more interactive format that allows collapsing and expanding of details.
 
 The two dimensions are cross-cutting because one approach can serve several purposes and one purpose can draw on different approaches. For example, the approach “review of applied methods” can serve the purposes “describe current practice”, “identify the need for new methods”, or “evaluate the implementation of methods”. An example from the purpose domain is “development of methods guidance”, for which one can consider input from various approaches such as a systematic review of MR, qualitative studies involving interest-holders, or a consensus study. To make this cross-cutting structure explicit, the tables provide for each approach examples of typical purposes and for each purpose examples of typical approaches in the 3rd column
 
 The ordering of approaches does not impose a hierarchy of strength, such as progression from “weak” to “strong” approaches. While some approaches may, in certain contexts, advance understanding in a more compelling way than another, rather than a linear journey, the typology describes a research ecosystem - a house with many interconnecting rooms of different types. The ordering of purposes broadly reflects the lifecycle of a method,(Heinze2024) beginning with assessing the status quo and research needs and ending with de-implementing methods that researchers should no longer use.
+:::
+
+::: {.callout-tip appearance="minimal" collapse="true"}
+## Contributors
+The following individuals have contributed to [ongoing consensus study](https://osf.io/4fxaz/overview): 
+
+- Stefan Schandelmaier
+- Malena Chiaborelli
+- Julian Hirt
+- Matthias Briel
+- Livia Puljak
+- Zachary Munn
+- Hanan Khalil
+- Dawid Pieper
+- Anne-Laure Boulesteix
+- Georg Heinze
+- Richard Hooper
+
+
 :::
 
 Browse the two dimensions of the typology using the side bar or the following links:
