@@ -4,17 +4,7 @@ title: "About this initiative"
 
 ![](images/logo2.png){fig-align="left" width=500px}
 
-Welcome! 
-
-This website is under construction. It will soon host the new **Typology of Methods Research (TYPE-ME)** - a living resource for methods researchers who work in the context of health research and psychology. The typology is based on an [ongoing consensus study](https://osf.io/4fxaz/overview).
-
-Once the typology is ready, we plan the following next steps: 
-
-- Collect existing guidance for each type. 
-- By and by, develop new guidance where needed
-- Add community features to collect and document user-feedback
-
-You are invited to explore the current prototype:
+Welcome! This website is under construction. It shows a draft of the new **Typology of Methods Research (TYPE-ME)** - a living resource for methods researchers who work in the context of health research and psychology. The typology is based on an [ongoing consensus study](https://osf.io/4fxaz/overview).
 
 ## The typology
 
@@ -51,7 +41,7 @@ The ordering of approaches does not impose a hierarchy of strength, such as prog
 
 ::: {.callout-tip appearance="minimal" collapse="true"}
 ## Contributors
-The following individuals have contributed to [ongoing consensus study](https://osf.io/4fxaz/overview): 
+Collaborators on ongoing [consensus study](https://osf.io/4fxaz/overview): 
 
 - Stefan Schandelmaier
 - Malena Chiaborelli
@@ -68,7 +58,7 @@ The following individuals have contributed to [ongoing consensus study](https://
 
 :::
 
-Browse the two dimensions of the typology using the side bar or the following links:
+Browse the typology using the side bar or the following links:
 
 **Approaches**
 
