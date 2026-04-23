@@ -5,13 +5,11 @@ link-citations: true
 
 Alternative labels: 
 
-## Definition and typical features 
+## Definition and features 
 These studies use interviews, focus groups, or other qualitative methods to collect information from smaller samples of researchers and other interest-holders on methodological issues. Researchers apply qualitative methods such as qualitative content analysis or thematic analysis. Sampling strategies, including convenience, purposive, or random sampling, and data saturation are other important design features. 
 
 - Strengths include the focus on participants and explanatory depth. 
-- Key challenges include limited generalizability due to small sample sizes and the influence of the investigators. rs. 
-
-## Boundaries to related types
+- Key challenges include limited generalizability due to small sample sizes and the influence of the investigators. 
 
 ## Typical purposes and corresponding examples 
 [Assess methodological practice](../purposes/4assess-practice.qmd): Interviews to understand the reasons for non-reporting of outcomes.[@Smyth2011frequency]

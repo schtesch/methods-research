@@ -4,10 +4,8 @@ link-citations: true
 ---
 Alternative labels: 
 
-## Definition and typical features 
+## Definition
 These studies aim to synthesize the results of methods research addressing a specific methodological research question, including quantitative and qualitative questions.
-
-## Boundaries to related purposes
 
 ## Typical approaches and corresponding examples 
 [Qualitative synthesis of methods research](../approaches/12qualitative-synthesis.qmd): meta-ethnographic synthesis of studies assessing the reasons for non-retention in clinical trials;[@Skea2019exploring] Synthesis of studies assessing factors that impact on trial recruitment;[@Houghton2020factors] synthesis of studies assessing the reasons for non-retention in clinical trials.[@Skea2019exploring] 

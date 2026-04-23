@@ -3,11 +3,8 @@ title: "7 Evaluate a single method"
 ---
 Alternative labels: 
 
-## Definition and typical features 
+## Definition
 These studies aim to assess a single method with respect to precision, bias, acceptance, variability introduced by methods users, or other outcomes. This type  includes proof-of-concept studies that aim to demonstrate  that a method can work in principle before testing it on a larger scale.
-
-
-## Boundaries to related purposes
 
 ## Typical approaches and corresponding examples 
 [Simulation study](../approaches/2simulation.qmd): random-effects meta-analysis;[@Hartung2001a] false positives when conducting subgroup analysis.[@Brookes2001subgroup]

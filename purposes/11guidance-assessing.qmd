@@ -5,10 +5,8 @@ link-citations: true
 ---
 Alternative labels: risk-of-bias tools; critical appraisal tools
 
-## Definition and typical features 
+## Definition 
 These studies develop scales to help health researchers or other interest holders assess methodological rigor, including risk of bias or broader trustworthiness, in a standardized way. Such scales typically use multiple signalling questions with predefined response options, sometimes combined into a summary measure. The development process may combine multiple methods research approaches.
-
-## Boundaries to related purposes
 
 ## Typical approaches and corresponding examples 
 [Consensus study among researchers or other interest-holders in health research](../approaches/8consensus.qmd): Discussion-based consensus on quality assessment tool for subgroup analyses.[@Schandelmaier2020development]

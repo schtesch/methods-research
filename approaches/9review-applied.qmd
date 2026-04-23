@@ -3,16 +3,32 @@ title: "9 Review of applied methods"
 link-citations: true
 ---
 
-Alternative labels: methodological studies;[@Khalil2023guidance; @Mbuagbaw2020a] meta-research;[@Ioannidis2015meta-research] research-on-research; systematic surveys; scoping review; among many more terms that appear in practice[@MatosSilva2025methodological] with little consensus[@MatosSilva2025limited]
+Alternative labels include methodological studies,[@Khalil2023guidance; @Mbuagbaw2020a] meta-research,[@Ioannidis2015meta-research] research-on-research, systematic surveys, and scoping review, among many other terms used in practice,[@MatosSilva2025methodological] with little consensus.[@MatosSilva2025limited]
 
-## Definition and typical features 
+## Definition and features 
 Reviews of applied methods examine how researchers implement methods in health research or which challenges they encounter. They sample and systematically analyze studies or other applications of methods such as in guideline panels. Sources of such applications include published journal articles, trial registries, preprints, or other sources. Sampling strategies are important and may be random to assess prevalence, purposeful to focus on high-impact studies, stratified to ensure representation of subgroups, matched such as pairs of protocols and corresponding publications, or complete. Reviews of applied methods may be nested within systematic review of health research. Typical outcomes are items of quality such as appropriate use of a method or transparent reporting. The analysis is usually based on simple quantitative measures, such as prevalence. Researchers often extract data using pre-specified forms, sometimes based on pre-existing frameworks (such as reporting guidelines) or use qualitative methods to derive categories. 
 
 - A strength is that these studies reflect realistic practice, including human error. 
 - Challenges arise from sampling and reporting issues. 
 
-## Boundaries to related types
-(Boundary notes in Table 3)
+::: {.callout-tip appearance="minimal" collapse="true"}
+## Boundaries with related types
+
+**Similarities and differences between literature-based types:**
+
+| Characteristic | [Review of applied methods](9review-applied.qmd) | [Meta-epidemiological study](10meta-epi.qmd) | [Scoping review of methods research](11scoping-review.qmd) | [Qualitative synthesis of methods research](12qualitative-synthesis.qmd) | [Quantitative synthesis of methods research](13quantitative-synthesis.qmd) |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| Typical purpose | Assess methodological practice or quality | Assess impact of methodological characteristics on study results | Identify available methods or methods research on a specific topic | Synthesize findings of methods qualitatively | Synthesize findings of methods research quantitatively |
+| Included publications/ unit of analysis | Individual applied studies  | Individual applied studies  | Methods research papers | Methods research papers | Methods research papers |
+| Sampling strategy | Random, purposeful, stratified, matched, complete^a^  | Stratified, matched, complete^a^ | Complete^a^   | Complete^a^,  purposeful | Complete^a^ |
+| Typical analytic approach | Qualitative categorisation and descriptive statistics | Meta-regression | Qualitative categorisation and descriptive statistics | Qualitative synthesis | Meta-analysis |
+| Role of quality assessment  | Often as an outcome  | Possible as an exposure or covariable | Usually not performed | Step in synthesis process^b^ | Step in synthesis process^b^ |
+| Analogy in health research | Observational study (prevalence) | Observational study (exposure-outcome) | Scoping review | Qualitative evidence synthesis | Quantitative evidence synthesis|
+:::{.small}
+^a^Usually based on a comprehensive search process that aims to find all eligible publications as completely as possible.
+^b^Quality criteria currently remain unclear for most types of methods research.
+:::
+:::
 
 ## Typical purposes and corresponding examples 
 [Identify available methods](../purposes/1identify-methods.qmd): types of initial data analysis in observational studies.[@Huebner2020hidden] 

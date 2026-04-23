@@ -12,8 +12,8 @@ These studies treat methods (such as risk of bias tools, software, or analysis p
 - A challenge is that results depend on case difficulty and user experience, and consistency does not necessarily indicate correctness.
 
 ::: {.callout-tip appearance="minimal" collapse="true"}
-## Boundaries to related types
-Boundary with [Experimental analysis of real datasets](3real-datasets.qmd):
+## Boundaries with related types
+[Experimental analysis of real datasets](3real-datasets.qmd):
 Both may use a single dataset and assess agreement, but reliability and agreement studies compare users applying the same method, whereas experimental analyses compare methods applied by one user or team.
 :::
 

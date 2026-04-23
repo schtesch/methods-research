@@ -5,14 +5,30 @@ link-citations: true
 
 Alternative labels: quantitative systematic reviews of methods research; meta-analyses of methods research
 
-## Definition and typical features 
+## Definition and features 
 Quantitative syntheses of methods research summarise quantitative types of methods research such as randomized studies or meta-epidemiological studies. These studies follow in principle the same steps as systematic reviews of quantitative health research and typically include a meta-analysis. 
 
 - Strengths include transparency and comprehensiveness. 
 - Key challenges are the difficult search for methods research, the lack of quality criteria for quantitative methods research, and reporting issues. 
 
-## Boundaries to related types
-(Boundary notes in Table 3)
+::: {.callout-tip appearance="minimal" collapse="true"}
+## Boundaries with related types
+
+**Similarities and differences between literature-based types:**
+
+| Characteristic | [Review of applied methods](9review-applied.qmd) | [Meta-epidemiological study](10meta-epi.qmd) | [Scoping review of methods research](11scoping-review.qmd) | [Qualitative synthesis of methods research](12qualitative-synthesis.qmd) | [Quantitative synthesis of methods research](13quantitative-synthesis.qmd) |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| Typical purpose | Assess methodological practice or quality | Assess impact of methodological characteristics on study results | Identify available methods or methods research on a specific topic | Synthesize findings of methods qualitatively | Synthesize findings of methods research quantitatively |
+| Included publications/ unit of analysis | Individual applied studies  | Individual applied studies  | Methods research papers | Methods research papers | Methods research papers |
+| Sampling strategy | Random, purposeful, stratified, matched, complete^a^  | Stratified, matched, complete^a^ | Complete^a^   | Complete^a^,  purposeful | Complete^a^ |
+| Typical analytic approach | Qualitative categorisation and descriptive statistics | Meta-regression | Qualitative categorisation and descriptive statistics | Qualitative synthesis | Meta-analysis |
+| Role of quality assessment  | Often as an outcome  | Possible as an exposure or covariable | Usually not performed | Step in synthesis process^b^ | Step in synthesis process^b^ |
+| Analogy in health research | Observational study (prevalence) | Observational study (exposure-outcome) | Scoping review | Qualitative evidence synthesis | Quantitative evidence synthesis|
+:::{.small}
+^a^Usually based on a comprehensive search process that aims to find all eligible publications as completely as possible.
+^b^Quality criteria currently remain unclear for most types of methods research.
+:::
+:::
 
 ## Typical purposes and corresponding examples 
 [Summarize the results of methods research](../purposes/3summarize-mr.qmd): Meta-analysis of comparisons between machine learning and logistic regression for clinical prediction models;[@Christodoulou2019a] meta-analysis of meta-epidemiological studies assessing the impact of blinding in trials;[@Wang2024compelling] meta-analysis of randomised studies comparing blinded versus unblinded risk of bias assessment.[@Morissette2011blinded] 

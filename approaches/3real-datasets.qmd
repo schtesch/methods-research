@@ -5,7 +5,7 @@ link-citations: true
 
 Alternative labels: 
 
-## Definition and typical features 
+## Definition and features 
 These studies apply methods to datasets from real studies, often drawn from published studies or repositories. Unlike simulations, the data retain real-world complexity, including variability, measurement error, or missing values and thus provide evidence on method performance in a realistic settings. The number of analyzed datasets varies from large collections that support stronger inferences to single datasets with limited generalizability.
 
 - A strength is that the data retain real-world complexity, including variability, measurement error, or missing values

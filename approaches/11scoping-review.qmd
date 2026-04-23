@@ -5,14 +5,30 @@ link-citations: true
 
 Alternative labels: 
 
-## Definition and typical features 
+## Definition and features 
 Scoping reviews include a broad research question and a systematic search, and aim to provide an overview of existing methods research on a methodological topic or available methods discussed in such methods research. Scoping reviews may present simple descriptive statistics (absolute and relative frequencies), often based on a qualitative categorisation or mapping against some pre-existing framework. They do not typically include a quality assessment or synthesis of study results. 
 
 - Strengths include transparency and comprehensiveness. 
 - A challenge is the difficult search process.
 
-## Boundaries to related types
-(Boundary notes in Table 3)
+::: {.callout-tip appearance="minimal" collapse="true"}
+## Boundaries with related types
+
+**Similarities and differences between literature-based types:**
+
+| Characteristic | [Review of applied methods](9review-applied.qmd) | [Meta-epidemiological study](10meta-epi.qmd) | [Scoping review of methods research](11scoping-review.qmd) | [Qualitative synthesis of methods research](12qualitative-synthesis.qmd) | [Quantitative synthesis of methods research](13quantitative-synthesis.qmd) |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| Typical purpose | Assess methodological practice or quality | Assess impact of methodological characteristics on study results | Identify available methods or methods research on a specific topic | Synthesize findings of methods qualitatively | Synthesize findings of methods research quantitatively |
+| Included publications/ unit of analysis | Individual applied studies  | Individual applied studies  | Methods research papers | Methods research papers | Methods research papers |
+| Sampling strategy | Random, purposeful, stratified, matched, complete^a^  | Stratified, matched, complete^a^ | Complete^a^   | Complete^a^,  purposeful | Complete^a^ |
+| Typical analytic approach | Qualitative categorisation and descriptive statistics | Meta-regression | Qualitative categorisation and descriptive statistics | Qualitative synthesis | Meta-analysis |
+| Role of quality assessment  | Often as an outcome  | Possible as an exposure or covariable | Usually not performed | Step in synthesis process^b^ | Step in synthesis process^b^ |
+| Analogy in health research | Observational study (prevalence) | Observational study (exposure-outcome) | Scoping review | Qualitative evidence synthesis | Quantitative evidence synthesis|
+:::{.small}
+^a^Usually based on a comprehensive search process that aims to find all eligible publications as completely as possible.
+^b^Quality criteria currently remain unclear for most types of methods research.
+:::
+:::
 
 ## Typical purposes and corresponding examples 
 [Identify available methods](../purposes/1identify-methods.qmd): Identify definitions of intention-to-treat;[@Alshurafa2012inconsistent] Review of causal methods to allow predictions under hypothetical interventions;[@Lin2021a] identify criteria for assessing the credibility of subgroup analyses;[@Schandelmaier2019a] identify factors influencing the trustworthiness of non-randomized studies;[@Adegboye2025factors] identify methods addressing bias in adaptive trial designs.[@Robertson2023point]; 

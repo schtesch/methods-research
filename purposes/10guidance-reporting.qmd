@@ -4,10 +4,8 @@ link-citations: true
 ---
 Alternative labels: 
 
-## Definition and typical features 
+## Definition 
 These studies develop guidance to help health researchers or other interest holders report methods, typically providing a checklist with explanation. The development process may combine multiple methods research approaches.
-
-## Boundaries to related purposes
 
 ## Typical approaches and corresponding examples 
 [Consensus study among researchers or other interest-holders in health research](../approaches/8consensus.qmd): Delphi study to develop CONSORT reporting guideline.[@Hopewell2025consort]

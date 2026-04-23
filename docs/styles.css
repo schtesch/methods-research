@@ -12,3 +12,17 @@
 .sidebar-title {
   display: none;
 }
+
+table {
+  font-size: 0.8rem;
+  line-height: 1.2;
+}
+
+table th,
+table td {
+  padding: 0.1rem 0.1rem;
+}
+
+.small {
+  font-size: 0.8em;
+}

@@ -90,7 +90,7 @@
     "href": "approaches/2simulation.html#typical-purposes-and-corresponding-examples",
     "title": "2 Simulation study",
     "section": "Typical purposes and corresponding examples",
-    "text": "Typical purposes and corresponding examples\nPropose a new method: new alternative to the log-rank test.1\nEvaluate a single method: random-effects meta-analysis;2 false positives when conducting subgroup analysis.3\nCompare two or more methods: different methods for diagnostic meta-analyses with sparse data;4 different methods for modeling multi-state disease progression;5 comparing two methods for correcting imperfect reference standards in diagnostic accuracy.6\nDevelop guidance for understanding and applying methods: Guidance on using matching in cluster trials; 7 Guidance for variable screening in high dimensional survival analysis; 8 estimation of diagnostic test accuracy without reference standard.9",
+    "text": "Typical purposes and corresponding examples\nPropose a new method: new alternative to the log-rank test.1\nEvaluate a single method: random-effects meta-analysis;2 false positives when conducting subgroup analysis.3\nCompare two or more methods: different methods for diagnostic meta-analyses with sparse data;4 different methods for modeling multi-state disease progression;5 comparing two methods for correcting imperfect reference standards in diagnostic accuracy.6\nDevelop guidance for understanding and applying methods: Guidance on using matching in cluster trials;7 Guidance for variable screening in high dimensional survival analysis;8 estimation of diagnostic test accuracy without reference standard.9",
     "crumbs": [
       "Explore by approach",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>2 Simulation study</span>"
@@ -112,15 +112,15 @@
     "href": "approaches/3real-datasets.html",
     "title": "3 Experimental analysis of real datasets",
     "section": "",
-    "text": "Definition and typical features\nAlternative labels:\nThese studies apply methods to datasets from real studies, often drawn from published studies or repositories. Unlike simulations, the data retain real-world complexity, including variability, measurement error, or missing values and thus provide evidence on method performance in a realistic settings. The number of analyzed datasets varies from large collections that support stronger inferences to single datasets with limited generalizability.",
+    "text": "Definition and features\nAlternative labels:\nThese studies apply methods to datasets from real studies, often drawn from published studies or repositories. Unlike simulations, the data retain real-world complexity, including variability, measurement error, or missing values and thus provide evidence on method performance in a realistic settings. The number of analyzed datasets varies from large collections that support stronger inferences to single datasets with limited generalizability.",
     "crumbs": [
       "Explore by approach",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>3 Experimental analysis of real datasets</span>"
     ]
   },
   {
-    "objectID": "approaches/3real-datasets.html#definition-and-typical-features",
-    "href": "approaches/3real-datasets.html#definition-and-typical-features",
+    "objectID": "approaches/3real-datasets.html#definition-and-features",
+    "href": "approaches/3real-datasets.html#definition-and-features",
     "title": "3 Experimental analysis of real datasets",
     "section": "",
     "text": "A strength is that the data retain real-world complexity, including variability, measurement error, or missing values\nA remaining limitation is that such studies do not investigate variation and errors arising from humans performing the analysis.\n\n\n\n\n\n\n\nTipBoundaries with related types\n\n\n\n\n\nReliability and agreement studies: Both may use a single dataset and assess agreement. The key difference is that experimental analyses compare multiple methods applied by one person or team, while reliability, agreement, and reproducibility studies compare multiple people applying the same method.\nCase report or series and informal approaches: All may use a single dataset and the label “case study”. Key differences are that 3 re-analyzes an existing dataset to answer a methodological question, 14 discusses methodological challenges in a specific study, and 15 uses datasets or studies to illustrate methods.",
@@ -167,7 +167,7 @@
     "href": "approaches/4reliability.html#definition-and-features",
     "title": "4 Reliability and agreement studies",
     "section": "",
-    "text": "A strength of these studies is that they quantify variability introduced by method users.\nA challenge is that results depend on case difficulty and user experience, and consistency does not necessarily indicate correctness.\n\n\n\n\n\n\n\nTipBoundaries to related types\n\n\n\n\n\nBoundary with Experimental analysis of real datasets: Both may use a single dataset and assess agreement, but reliability and agreement studies compare users applying the same method, whereas experimental analyses compare methods applied by one user or team.",
+    "text": "A strength of these studies is that they quantify variability introduced by method users.\nA challenge is that results depend on case difficulty and user experience, and consistency does not necessarily indicate correctness.\n\n\n\n\n\n\n\nTipBoundaries with related types\n\n\n\n\n\nExperimental analysis of real datasets: Both may use a single dataset and assess agreement, but reliability and agreement studies compare users applying the same method, whereas experimental analyses compare methods applied by one user or team.",
     "crumbs": [
       "Explore by approach",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>4 Reliability and  agreement studies</span>"
@@ -200,29 +200,18 @@
     "href": "approaches/5randomized.html",
     "title": "5 Methodological randomized study",
     "section": "",
-    "text": "Definition and typical features\nAlternative labels: methodological trial; randomized methodological comparison\nRandomised studies treat methods as interventions. They usually randomise individual humans (researchers, research participants or other interest holders such as peer reviewers or methods users), groups of humans (such as study teams, consensus panels, or research environments) to apply, consider, or receive training in one or more alternative methods. Possible outcomes include effect estimates, study processes such as recruitment or retention, or characteristics of study reports such as clarity, completeness, or use of appropriate methods. This type includes but is not limited to randomised studies embedded within other studies.",
+    "text": "Definition and features\nAlternative labels: methodological trial; randomized methodological comparison\nRandomised studies treat methods as interventions. They usually randomise individual humans (researchers, research participants or other interest holders such as peer reviewers or methods users), groups of humans (such as study teams, consensus panels, or research environments) to apply, consider, or receive training in one or more alternative methods. Possible outcomes include effect estimates, study processes such as recruitment or retention, or characteristics of study reports such as clarity, completeness, or use of appropriate methods. This type includes but is not limited to randomised studies embedded within other studies.",
     "crumbs": [
       "Explore by approach",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>5 Methodological randomized study</span>"
     ]
   },
   {
-    "objectID": "approaches/5randomized.html#definition-and-typical-features",
-    "href": "approaches/5randomized.html#definition-and-typical-features",
+    "objectID": "approaches/5randomized.html#definition-and-features",
+    "href": "approaches/5randomized.html#definition-and-features",
     "title": "5 Methodological randomized study",
     "section": "",
     "text": "A strength of randomised studies is that they allow causal conclusions about methodological interventions as humans understand and implement them under realistic conditions.\nA limitation is feasibility, especially when interventions target studies or research environments rather than individual researchers or study participants.",
-    "crumbs": [
-      "Explore by approach",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>5 Methodological randomized study</span>"
-    ]
-  },
-  {
-    "objectID": "approaches/5randomized.html#boundaries-to-related-types",
-    "href": "approaches/5randomized.html#boundaries-to-related-types",
-    "title": "5 Methodological randomized study",
-    "section": "Boundaries to related types",
-    "text": "Boundaries to related types",
     "crumbs": [
       "Explore by approach",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>5 Methodological randomized study</span>"
@@ -255,29 +244,18 @@
     "href": "approaches/6survey.html",
     "title": "6 Quantitative survey",
     "section": "",
-    "text": "Definition and typical features\nAlternative labels:\nThese studies use questionnaires to collect experiences, opinions, and feedback from larger samples of researchers and other interest-holders on methodological issues. They typically use random or stratified sampling to maximise representativeness. Analyses are usually quantitative. For open-ended questions, researchers may apply qualitative analysis to classify responses before analyzing them quantitatively.",
+    "text": "Definition and features\nAlternative labels:\nThese studies use questionnaires to collect experiences, opinions, and feedback from larger samples of researchers and other interest-holders on methodological issues. They typically use random or stratified sampling to maximise representativeness. Analyses are usually quantitative. For open-ended questions, researchers may apply qualitative analysis to classify responses before analyzing them quantitatively.",
     "crumbs": [
       "Explore by approach",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>6 Quantitative survey</span>"
     ]
   },
   {
-    "objectID": "approaches/6survey.html#definition-and-typical-features",
-    "href": "approaches/6survey.html#definition-and-typical-features",
+    "objectID": "approaches/6survey.html#definition-and-features",
+    "href": "approaches/6survey.html#definition-and-features",
     "title": "6 Quantitative survey",
     "section": "",
     "text": "A strength is possibillity to approach a large number of participants.\nKey challenges include selection bias arising from low response rates and missing data.",
-    "crumbs": [
-      "Explore by approach",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>6 Quantitative survey</span>"
-    ]
-  },
-  {
-    "objectID": "approaches/6survey.html#boundaries-to-related-types",
-    "href": "approaches/6survey.html#boundaries-to-related-types",
-    "title": "6 Quantitative survey",
-    "section": "Boundaries to related types",
-    "text": "Boundaries to related types",
     "crumbs": [
       "Explore by approach",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>6 Quantitative survey</span>"
@@ -310,29 +288,18 @@
     "href": "approaches/7qualitative.html",
     "title": "7 Qualitative study",
     "section": "",
-    "text": "Definition and typical features\nAlternative labels:\nThese studies use interviews, focus groups, or other qualitative methods to collect information from smaller samples of researchers and other interest-holders on methodological issues. Researchers apply qualitative methods such as qualitative content analysis or thematic analysis. Sampling strategies, including convenience, purposive, or random sampling, and data saturation are other important design features.",
+    "text": "Definition and features\nAlternative labels:\nThese studies use interviews, focus groups, or other qualitative methods to collect information from smaller samples of researchers and other interest-holders on methodological issues. Researchers apply qualitative methods such as qualitative content analysis or thematic analysis. Sampling strategies, including convenience, purposive, or random sampling, and data saturation are other important design features.",
     "crumbs": [
       "Explore by approach",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>7 Qualitative study</span>"
     ]
   },
   {
-    "objectID": "approaches/7qualitative.html#definition-and-typical-features",
-    "href": "approaches/7qualitative.html#definition-and-typical-features",
+    "objectID": "approaches/7qualitative.html#definition-and-features",
+    "href": "approaches/7qualitative.html#definition-and-features",
     "title": "7 Qualitative study",
     "section": "",
-    "text": "Strengths include the focus on participants and explanatory depth.\nKey challenges include limited generalizability due to small sample sizes and the influence of the investigators. rs.",
-    "crumbs": [
-      "Explore by approach",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>7 Qualitative study</span>"
-    ]
-  },
-  {
-    "objectID": "approaches/7qualitative.html#boundaries-to-related-types",
-    "href": "approaches/7qualitative.html#boundaries-to-related-types",
-    "title": "7 Qualitative study",
-    "section": "Boundaries to related types",
-    "text": "Boundaries to related types",
+    "text": "Strengths include the focus on participants and explanatory depth.\nKey challenges include limited generalizability due to small sample sizes and the influence of the investigators.",
     "crumbs": [
       "Explore by approach",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>7 Qualitative study</span>"
@@ -365,29 +332,18 @@
     "href": "approaches/8consensus.html",
     "title": "8 Consensus study",
     "section": "",
-    "text": "Definition and typical features\nAlternative labels:\nThese studies use formal consensus methods, such as Delphi studies or the Nominal Group Technique, and involve researchers and other interest-holders. Data collection may rely on surveys or qualitative methods. In contrast to surveys or qualitative studies that document a range of views, consensus studies seek to move participants towards a shared position. They usually employ a longitudinal design with multiple rounds of feedback, item ratings, or discussions.",
+    "text": "Definition and features\nAlternative labels:\nThese studies use formal consensus methods, such as Delphi studies or the Nominal Group Technique, and involve researchers and other interest-holders. Data collection may rely on surveys or qualitative methods. In contrast to surveys or qualitative studies that document a range of views, consensus studies seek to move participants towards a shared position. They usually employ a longitudinal design with multiple rounds of feedback, item ratings, or discussions.",
     "crumbs": [
       "Explore by approach",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>8 Consensus study</span>"
     ]
   },
   {
-    "objectID": "approaches/8consensus.html#definition-and-typical-features",
-    "href": "approaches/8consensus.html#definition-and-typical-features",
+    "objectID": "approaches/8consensus.html#definition-and-features",
+    "href": "approaches/8consensus.html#definition-and-features",
     "title": "8 Consensus study",
     "section": "",
     "text": "Strengths include the structured synthesis of expert opinion and persuasiveness.\nLimitations include the dependency of panel composition and process design.",
-    "crumbs": [
-      "Explore by approach",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>8 Consensus study</span>"
-    ]
-  },
-  {
-    "objectID": "approaches/8consensus.html#boundaries-to-related-types",
-    "href": "approaches/8consensus.html#boundaries-to-related-types",
-    "title": "8 Consensus study",
-    "section": "Boundaries to related types",
-    "text": "Boundaries to related types",
     "crumbs": [
       "Explore by approach",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>8 Consensus study</span>"
@@ -398,7 +354,7 @@
     "href": "approaches/8consensus.html#typical-purposes-and-corresponding-examples",
     "title": "8 Consensus study",
     "section": "Typical purposes and corresponding examples",
-    "text": "Typical purposes and corresponding examples\nAssess needs and priorities for methods research: Delphi study to identify priorities for methods research.1\nDevelop guidance for understanding and applying methods: Guidance on factors to consider when inviting multiple interest-holder groups to research, based on Delphi; 2 Guidance on handling missing data in trials, based on Nominal Group Technique.3\nDevelop reporting guidelines: Delphi study to develop CONSORT reporting guideline.4\nDevelop quality assessment instruments: Discussion-based consensus on quality assessment tool for subgroup analyses.5",
+    "text": "Typical purposes and corresponding examples\nAssess needs and priorities for methods research: Delphi study to identify priorities for methods research.1\nDevelop guidance for understanding and applying methods: Guidance on factors to consider when inviting multiple interest-holder groups to research, based on Delphi;2 Guidance on handling missing data in trials, based on Nominal Group Technique.3\nDevelop reporting guidelines: Delphi study to develop CONSORT reporting guideline.4\nDevelop quality assessment instruments: Discussion-based consensus on quality assessment tool for subgroup analyses.5",
     "crumbs": [
       "Explore by approach",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>8 Consensus study</span>"
@@ -420,29 +376,18 @@
     "href": "approaches/9review-applied.html",
     "title": "9 Review of applied methods",
     "section": "",
-    "text": "Definition and typical features\nAlternative labels: methodological studies;1; 2 meta-research;3 research-on-research; systematic surveys; scoping review; among many more terms that appear in practice4 with little consensus5\nReviews of applied methods examine how researchers implement methods in health research or which challenges they encounter. They sample and systematically analyze studies or other applications of methods such as in guideline panels. Sources of such applications include published journal articles, trial registries, preprints, or other sources. Sampling strategies are important and may be random to assess prevalence, purposeful to focus on high-impact studies, stratified to ensure representation of subgroups, matched such as pairs of protocols and corresponding publications, or complete. Reviews of applied methods may be nested within systematic review of health research. Typical outcomes are items of quality such as appropriate use of a method or transparent reporting. The analysis is usually based on simple quantitative measures, such as prevalence. Researchers often extract data using pre-specified forms, sometimes based on pre-existing frameworks (such as reporting guidelines) or use qualitative methods to derive categories.",
+    "text": "Definition and features\nAlternative labels include methodological studies,1, 2 meta-research,3 research-on-research, systematic surveys, and scoping review, among many other terms used in practice,4 with little consensus.5\nReviews of applied methods examine how researchers implement methods in health research or which challenges they encounter. They sample and systematically analyze studies or other applications of methods such as in guideline panels. Sources of such applications include published journal articles, trial registries, preprints, or other sources. Sampling strategies are important and may be random to assess prevalence, purposeful to focus on high-impact studies, stratified to ensure representation of subgroups, matched such as pairs of protocols and corresponding publications, or complete. Reviews of applied methods may be nested within systematic review of health research. Typical outcomes are items of quality such as appropriate use of a method or transparent reporting. The analysis is usually based on simple quantitative measures, such as prevalence. Researchers often extract data using pre-specified forms, sometimes based on pre-existing frameworks (such as reporting guidelines) or use qualitative methods to derive categories.",
     "crumbs": [
       "Explore by approach",
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>9 Review of applied methods</span>"
     ]
   },
   {
-    "objectID": "approaches/9review-applied.html#definition-and-typical-features",
-    "href": "approaches/9review-applied.html#definition-and-typical-features",
+    "objectID": "approaches/9review-applied.html#definition-and-features",
+    "href": "approaches/9review-applied.html#definition-and-features",
     "title": "9 Review of applied methods",
     "section": "",
-    "text": "A strength is that these studies reflect realistic practice, including human error.\nChallenges arise from sampling and reporting issues.",
-    "crumbs": [
-      "Explore by approach",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>9 Review of applied methods</span>"
-    ]
-  },
-  {
-    "objectID": "approaches/9review-applied.html#boundaries-to-related-types",
-    "href": "approaches/9review-applied.html#boundaries-to-related-types",
-    "title": "9 Review of applied methods",
-    "section": "Boundaries to related types",
-    "text": "Boundaries to related types\n(Boundary notes in Table 3)",
+    "text": "A strength is that these studies reflect realistic practice, including human error.\nChallenges arise from sampling and reporting issues.\n\n\n\n\n\n\n\nTipBoundaries with related types\n\n\n\n\n\nSimilarities and differences between literature-based types:\n\n\n\nCharacteristic\nReview of applied methods\nMeta-epidemiological study\nScoping review of methods research\nQualitative synthesis of methods research\nQuantitative synthesis of methods research\n\n\n\n\nTypical purpose\nAssess methodological practice or quality\nAssess impact of methodological characteristics on study results\nIdentify available methods or methods research on a specific topic\nSynthesize findings of methods qualitatively\nSynthesize findings of methods research quantitatively\n\n\nIncluded publications/ unit of analysis\nIndividual applied studies\nIndividual applied studies\nMethods research papers\nMethods research papers\nMethods research papers\n\n\nSampling strategy\nRandom, purposeful, stratified, matched, completea\nStratified, matched, completea\nCompletea\nCompletea, purposeful\nCompletea\n\n\nTypical analytic approach\nQualitative categorisation and descriptive statistics\nMeta-regression\nQualitative categorisation and descriptive statistics\nQualitative synthesis\nMeta-analysis\n\n\nRole of quality assessment\nOften as an outcome\nPossible as an exposure or covariable\nUsually not performed\nStep in synthesis processb\nStep in synthesis processb\n\n\nAnalogy in health research\nObservational study (prevalence)\nObservational study (exposure-outcome)\nScoping review\nQualitative evidence synthesis\nQuantitative evidence synthesis\n\n\n\n\naUsually based on a comprehensive search process that aims to find all eligible publications as completely as possible. bQuality criteria currently remain unclear for most types of methods research.",
     "crumbs": [
       "Explore by approach",
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>9 Review of applied methods</span>"
@@ -475,29 +420,18 @@
     "href": "approaches/10meta-epi.html",
     "title": "10 Meta-epidemiological study",
     "section": "",
-    "text": "Definition and typical features\nAlternative labels: analytical study of applied methods\nMeta-epidemiological studies draw on the same sources as reviews of applied methods, but they focus on how variation in methodological practice relates to variation in study results or other outcomes, analogous to how epidemiologists examine relationships between exposures and health outcomes. Researchers typically assemble a stratified or matched sample of studies that applied either of two or more alternative methods and use meta-regression to quantify differences in the corresponding results. The analysis typically requires multi-level modelling in one or two steps.",
+    "text": "Definition and features\nAlternative labels: analytical study of applied methods\nMeta-epidemiological studies draw on the same sources as reviews of applied methods, but they focus on how variation in methodological practice relates to variation in study results or other outcomes, analogous to how epidemiologists examine relationships between exposures and health outcomes. Researchers typically assemble a stratified or matched sample of studies that applied either of two or more alternative methods and use meta-regression to quantify differences in the corresponding results. The analysis typically requires multi-level modelling in one or two steps.",
     "crumbs": [
       "Explore by approach",
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>10 Meta-epidemiological study</span>"
     ]
   },
   {
-    "objectID": "approaches/10meta-epi.html#definition-and-typical-features",
-    "href": "approaches/10meta-epi.html#definition-and-typical-features",
+    "objectID": "approaches/10meta-epi.html#definition-and-features",
+    "href": "approaches/10meta-epi.html#definition-and-features",
     "title": "10 Meta-epidemiological study",
     "section": "",
-    "text": "A strength is that these studies reflect real-world applications of methods, including human error.\nA limitation is the high risk of confounding, which can arise at multiple levels, including differences in study populations, research questions, or measurement procedures.",
-    "crumbs": [
-      "Explore by approach",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>10 Meta-epidemiological study</span>"
-    ]
-  },
-  {
-    "objectID": "approaches/10meta-epi.html#boundaries-to-related-types",
-    "href": "approaches/10meta-epi.html#boundaries-to-related-types",
-    "title": "10 Meta-epidemiological study",
-    "section": "Boundaries to related types",
-    "text": "Boundaries to related types\n(Boundary notes in Table 3)",
+    "text": "A strength is that these studies reflect real-world applications of methods, including human error.\nA limitation is the high risk of confounding, which can arise at multiple levels, including differences in study populations, research questions, or measurement procedures.\n\n\n\n\n\n\n\nTipBoundaries with related types\n\n\n\n\n\nSimilarities and differences between literature-based types:\n\n\n\nCharacteristic\nReview of applied methods\nMeta-epidemiological study\nScoping review of methods research\nQualitative synthesis of methods research\nQuantitative synthesis of methods research\n\n\n\n\nTypical purpose\nAssess methodological practice or quality\nAssess impact of methodological characteristics on study results\nIdentify available methods or methods research on a specific topic\nSynthesize findings of methods qualitatively\nSynthesize findings of methods research quantitatively\n\n\nIncluded publications/ unit of analysis\nIndividual applied studies\nIndividual applied studies\nMethods research papers\nMethods research papers\nMethods research papers\n\n\nSampling strategy\nRandom, purposeful, stratified, matched, completea\nStratified, matched, completea\nCompletea\nCompletea, purposeful\nCompletea\n\n\nTypical analytic approach\nQualitative categorisation and descriptive statistics\nMeta-regression\nQualitative categorisation and descriptive statistics\nQualitative synthesis\nMeta-analysis\n\n\nRole of quality assessment\nOften as an outcome\nPossible as an exposure or covariable\nUsually not performed\nStep in synthesis processb\nStep in synthesis processb\n\n\nAnalogy in health research\nObservational study (prevalence)\nObservational study (exposure-outcome)\nScoping review\nQualitative evidence synthesis\nQuantitative evidence synthesis\n\n\n\n\naUsually based on a comprehensive search process that aims to find all eligible publications as completely as possible. bQuality criteria currently remain unclear for most types of methods research.",
     "crumbs": [
       "Explore by approach",
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>10 Meta-epidemiological study</span>"
@@ -530,29 +464,18 @@
     "href": "approaches/11scoping-review.html",
     "title": "11 Scoping review of methods research",
     "section": "",
-    "text": "Definition and typical features\nAlternative labels:\nScoping reviews include a broad research question and a systematic search, and aim to provide an overview of existing methods research on a methodological topic or available methods discussed in such methods research. Scoping reviews may present simple descriptive statistics (absolute and relative frequencies), often based on a qualitative categorisation or mapping against some pre-existing framework. They do not typically include a quality assessment or synthesis of study results.",
+    "text": "Definition and features\nAlternative labels:\nScoping reviews include a broad research question and a systematic search, and aim to provide an overview of existing methods research on a methodological topic or available methods discussed in such methods research. Scoping reviews may present simple descriptive statistics (absolute and relative frequencies), often based on a qualitative categorisation or mapping against some pre-existing framework. They do not typically include a quality assessment or synthesis of study results.",
     "crumbs": [
       "Explore by approach",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>11 Scoping review of methods research</span>"
     ]
   },
   {
-    "objectID": "approaches/11scoping-review.html#definition-and-typical-features",
-    "href": "approaches/11scoping-review.html#definition-and-typical-features",
+    "objectID": "approaches/11scoping-review.html#definition-and-features",
+    "href": "approaches/11scoping-review.html#definition-and-features",
     "title": "11 Scoping review of methods research",
     "section": "",
-    "text": "Strengths include transparency and comprehensiveness.\nA challenge is the difficult search process.",
-    "crumbs": [
-      "Explore by approach",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>11 Scoping review of methods research</span>"
-    ]
-  },
-  {
-    "objectID": "approaches/11scoping-review.html#boundaries-to-related-types",
-    "href": "approaches/11scoping-review.html#boundaries-to-related-types",
-    "title": "11 Scoping review of methods research",
-    "section": "Boundaries to related types",
-    "text": "Boundaries to related types\n(Boundary notes in Table 3)",
+    "text": "Strengths include transparency and comprehensiveness.\nA challenge is the difficult search process.\n\n\n\n\n\n\n\nTipBoundaries with related types\n\n\n\n\n\nSimilarities and differences between literature-based types:\n\n\n\nCharacteristic\nReview of applied methods\nMeta-epidemiological study\nScoping review of methods research\nQualitative synthesis of methods research\nQuantitative synthesis of methods research\n\n\n\n\nTypical purpose\nAssess methodological practice or quality\nAssess impact of methodological characteristics on study results\nIdentify available methods or methods research on a specific topic\nSynthesize findings of methods qualitatively\nSynthesize findings of methods research quantitatively\n\n\nIncluded publications/ unit of analysis\nIndividual applied studies\nIndividual applied studies\nMethods research papers\nMethods research papers\nMethods research papers\n\n\nSampling strategy\nRandom, purposeful, stratified, matched, completea\nStratified, matched, completea\nCompletea\nCompletea, purposeful\nCompletea\n\n\nTypical analytic approach\nQualitative categorisation and descriptive statistics\nMeta-regression\nQualitative categorisation and descriptive statistics\nQualitative synthesis\nMeta-analysis\n\n\nRole of quality assessment\nOften as an outcome\nPossible as an exposure or covariable\nUsually not performed\nStep in synthesis processb\nStep in synthesis processb\n\n\nAnalogy in health research\nObservational study (prevalence)\nObservational study (exposure-outcome)\nScoping review\nQualitative evidence synthesis\nQuantitative evidence synthesis\n\n\n\n\naUsually based on a comprehensive search process that aims to find all eligible publications as completely as possible. bQuality criteria currently remain unclear for most types of methods research.",
     "crumbs": [
       "Explore by approach",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>11 Scoping review of methods research</span>"
@@ -563,7 +486,7 @@
     "href": "approaches/11scoping-review.html#typical-purposes-and-corresponding-examples",
     "title": "11 Scoping review of methods research",
     "section": "Typical purposes and corresponding examples",
-    "text": "Typical purposes and corresponding examples\nIdentify available methods: Identify definitions of intention-to-treat;1 Review of causal methods to allow predictions under hypothetical interventions;2 identify criteria for assessing the credibility of subgroup analyses;3 identify factors influencing the trustworthiness of non-randomized studies;4 identify methods addressing bias in adaptive trial designs.5;\nIdentify available methods research on a specific topic: Identify publications that suggest a process for developing methods guidance.6 identify and map guidance for evidence synthesis 7\nDevelop guidance for understanding and applying methods: inform guidance on integrating qualitative methods in randomized trials;8 scoping review informed guidance for developing core outcome sets.9\nDevelop reporting guidelines: scoping review informed the development of a new reporting guideline for factorial trials.10\nDevelop quality assessment instruments: scoping review of previous instruments informed the development of a new instrument to assess the quality of systematic reviews.11",
+    "text": "Typical purposes and corresponding examples\nIdentify available methods: Identify definitions of intention-to-treat;1 Review of causal methods to allow predictions under hypothetical interventions;2 identify criteria for assessing the credibility of subgroup analyses;3 identify factors influencing the trustworthiness of non-randomized studies;4 identify methods addressing bias in adaptive trial designs.5;\nIdentify available methods research on a specific topic: Identify publications that suggest a process for developing methods guidance.6 identify and map guidance for evidence synthesis7\nDevelop guidance for understanding and applying methods: inform guidance on integrating qualitative methods in randomized trials;8 scoping review informed guidance for developing core outcome sets.9\nDevelop reporting guidelines: scoping review informed the development of a new reporting guideline for factorial trials.10\nDevelop quality assessment instruments: scoping review of previous instruments informed the development of a new instrument to assess the quality of systematic reviews.11",
     "crumbs": [
       "Explore by approach",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>11 Scoping review of methods research</span>"
@@ -585,29 +508,18 @@
     "href": "approaches/12qualitative-synthesis.html",
     "title": "12 Qualitative synthesis of methods research",
     "section": "",
-    "text": "Definition and typical features\nAlternative labels: qualitative systematic reviews of methods research\nA qualitative synthesis of methods research includes qualitative types of methods research such as interview studies or methods guidance. In principle, these studies follow the standard steps of qualitative evidence synthesis(Cochrane-Campbell Handbook for Qualitative Evidence Synthesis, n.d.) including posing a specific qualitative question, a comprehensive search for all eligible publications, quality assessment, and qualitative synthesis methods such as thematic analysis.",
+    "text": "Definition and features\nAlternative labels: qualitative systematic reviews of methods research\nA qualitative synthesis of methods research includes qualitative types of methods research such as interview studies or methods guidance. In principle, these studies follow the standard steps of qualitative evidence synthesis(Cochrane-Campbell Handbook for Qualitative Evidence Synthesis, n.d.) including posing a specific qualitative question, a comprehensive search for all eligible publications, quality assessment, and qualitative synthesis methods such as thematic analysis.",
     "crumbs": [
       "Explore by approach",
       "<span class='chapter-number'>13</span>  <span class='chapter-title'>12 Qualitative synthesis of methods research</span>"
     ]
   },
   {
-    "objectID": "approaches/12qualitative-synthesis.html#definition-and-typical-features",
-    "href": "approaches/12qualitative-synthesis.html#definition-and-typical-features",
+    "objectID": "approaches/12qualitative-synthesis.html#definition-and-features",
+    "href": "approaches/12qualitative-synthesis.html#definition-and-features",
     "title": "12 Qualitative synthesis of methods research",
     "section": "",
-    "text": "Strengths include transparency and comprehensiveness.\nKey challenges are the difficult search and the lack of quality criteria for qualitative methods research.",
-    "crumbs": [
-      "Explore by approach",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>12 Qualitative synthesis of methods research</span>"
-    ]
-  },
-  {
-    "objectID": "approaches/12qualitative-synthesis.html#boundaries-to-related-types",
-    "href": "approaches/12qualitative-synthesis.html#boundaries-to-related-types",
-    "title": "12 Qualitative synthesis of methods research",
-    "section": "Boundaries to related types",
-    "text": "Boundaries to related types\n(Boundary notes in Table 3)",
+    "text": "Strengths include transparency and comprehensiveness.\nKey challenges are the difficult search and the lack of quality criteria for qualitative methods research.\n\n\n\n\n\n\n\nTipBoundaries with related types\n\n\n\n\n\nSimilarities and differences between literature-based types:\n\n\n\nCharacteristic\nReview of applied methods\nMeta-epidemiological study\nScoping review of methods research\nQualitative synthesis of methods research\nQuantitative synthesis of methods research\n\n\n\n\nTypical purpose\nAssess methodological practice or quality\nAssess impact of methodological characteristics on study results\nIdentify available methods or methods research on a specific topic\nSynthesize findings of methods qualitatively\nSynthesize findings of methods research quantitatively\n\n\nIncluded publications/ unit of analysis\nIndividual applied studies\nIndividual applied studies\nMethods research papers\nMethods research papers\nMethods research papers\n\n\nSampling strategy\nRandom, purposeful, stratified, matched, completea\nStratified, matched, completea\nCompletea\nCompletea, purposeful\nCompletea\n\n\nTypical analytic approach\nQualitative categorisation and descriptive statistics\nMeta-regression\nQualitative categorisation and descriptive statistics\nQualitative synthesis\nMeta-analysis\n\n\nRole of quality assessment\nOften as an outcome\nPossible as an exposure or covariable\nUsually not performed\nStep in synthesis processb\nStep in synthesis processb\n\n\nAnalogy in health research\nObservational study (prevalence)\nObservational study (exposure-outcome)\nScoping review\nQualitative evidence synthesis\nQuantitative evidence synthesis\n\n\n\n\naUsually based on a comprehensive search process that aims to find all eligible publications as completely as possible. bQuality criteria currently remain unclear for most types of methods research.",
     "crumbs": [
       "Explore by approach",
       "<span class='chapter-number'>13</span>  <span class='chapter-title'>12 Qualitative synthesis of methods research</span>"
@@ -640,29 +552,18 @@
     "href": "approaches/13quantitative-synthesis.html",
     "title": "13 Quantitative synthesis of methods research",
     "section": "",
-    "text": "Definition and typical features\nAlternative labels: quantitative systematic reviews of methods research; meta-analyses of methods research\nQuantitative syntheses of methods research summarise quantitative types of methods research such as randomized studies or meta-epidemiological studies. These studies follow in principle the same steps as systematic reviews of quantitative health research and typically include a meta-analysis.",
+    "text": "Definition and features\nAlternative labels: quantitative systematic reviews of methods research; meta-analyses of methods research\nQuantitative syntheses of methods research summarise quantitative types of methods research such as randomized studies or meta-epidemiological studies. These studies follow in principle the same steps as systematic reviews of quantitative health research and typically include a meta-analysis.",
     "crumbs": [
       "Explore by approach",
       "<span class='chapter-number'>14</span>  <span class='chapter-title'>13 Quantitative synthesis of methods research</span>"
     ]
   },
   {
-    "objectID": "approaches/13quantitative-synthesis.html#definition-and-typical-features",
-    "href": "approaches/13quantitative-synthesis.html#definition-and-typical-features",
+    "objectID": "approaches/13quantitative-synthesis.html#definition-and-features",
+    "href": "approaches/13quantitative-synthesis.html#definition-and-features",
     "title": "13 Quantitative synthesis of methods research",
     "section": "",
-    "text": "Strengths include transparency and comprehensiveness.\nKey challenges are the difficult search for methods research, the lack of quality criteria for quantitative methods research, and reporting issues.",
-    "crumbs": [
-      "Explore by approach",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>13 Quantitative synthesis of methods research</span>"
-    ]
-  },
-  {
-    "objectID": "approaches/13quantitative-synthesis.html#boundaries-to-related-types",
-    "href": "approaches/13quantitative-synthesis.html#boundaries-to-related-types",
-    "title": "13 Quantitative synthesis of methods research",
-    "section": "Boundaries to related types",
-    "text": "Boundaries to related types\n(Boundary notes in Table 3)",
+    "text": "Strengths include transparency and comprehensiveness.\nKey challenges are the difficult search for methods research, the lack of quality criteria for quantitative methods research, and reporting issues.\n\n\n\n\n\n\n\nTipBoundaries with related types\n\n\n\n\n\nSimilarities and differences between literature-based types:\n\n\n\nCharacteristic\nReview of applied methods\nMeta-epidemiological study\nScoping review of methods research\nQualitative synthesis of methods research\nQuantitative synthesis of methods research\n\n\n\n\nTypical purpose\nAssess methodological practice or quality\nAssess impact of methodological characteristics on study results\nIdentify available methods or methods research on a specific topic\nSynthesize findings of methods qualitatively\nSynthesize findings of methods research quantitatively\n\n\nIncluded publications/ unit of analysis\nIndividual applied studies\nIndividual applied studies\nMethods research papers\nMethods research papers\nMethods research papers\n\n\nSampling strategy\nRandom, purposeful, stratified, matched, completea\nStratified, matched, completea\nCompletea\nCompletea, purposeful\nCompletea\n\n\nTypical analytic approach\nQualitative categorisation and descriptive statistics\nMeta-regression\nQualitative categorisation and descriptive statistics\nQualitative synthesis\nMeta-analysis\n\n\nRole of quality assessment\nOften as an outcome\nPossible as an exposure or covariable\nUsually not performed\nStep in synthesis processb\nStep in synthesis processb\n\n\nAnalogy in health research\nObservational study (prevalence)\nObservational study (exposure-outcome)\nScoping review\nQualitative evidence synthesis\nQuantitative evidence synthesis\n\n\n\n\naUsually based on a comprehensive search process that aims to find all eligible publications as completely as possible. bQuality criteria currently remain unclear for most types of methods research.",
     "crumbs": [
       "Explore by approach",
       "<span class='chapter-number'>14</span>  <span class='chapter-title'>13 Quantitative synthesis of methods research</span>"
@@ -695,18 +596,18 @@
     "href": "approaches/14case-report.html",
     "title": "14 Methodological case report or series",
     "section": "",
-    "text": "Definition and typical features\nAlternative labels:\nIn a methodological case report, a team describes their experience with the design, implementation, or performance of a method in a real study, typically their own. In a case series, they discuss two or more studies that share a similar method or methodological challenge.",
+    "text": "Definition and features\nAlternative labels:\nIn a methodological case report, a team describes their experience with the design, implementation, or performance of a method in a real study, typically their own. In a case series, they discuss two or more studies that share a similar method or methodological challenge.",
     "crumbs": [
       "Explore by approach",
       "<span class='chapter-number'>15</span>  <span class='chapter-title'>14 Methodological case report or series</span>"
     ]
   },
   {
-    "objectID": "approaches/14case-report.html#boundaries-to-related-types",
-    "href": "approaches/14case-report.html#boundaries-to-related-types",
+    "objectID": "approaches/14case-report.html#definition-and-features",
+    "href": "approaches/14case-report.html#definition-and-features",
     "title": "14 Methodological case report or series",
-    "section": "Boundaries to related types",
-    "text": "Boundaries to related types\nBoundary with Experimental analysis of real datasets and 15 Informal approaches: All may use a single dataset and the label “case study”. Key differences are that 3 re-analyzes an existing dataset to answer a methodological question, 14 discusses methodological challenges in a specific study, and 15 uses datasets or studies to illustrate methods.\nBoundary with Review of applied methods: While a case series is a narrative aggregating teams’ experience with a method, a review of applied methods answers a methodological question by analyzing published study reports.",
+    "section": "",
+    "text": "TipBoundaries with related types\n\n\n\n\n\nExperimental analysis of real datasets: may also use a single dataset and the label “case study” but re-analyze an existing dataset to answer a methodological question.\nInformal approaches: may also refer to a “cases” to illustrate methods.\nReview of applied methods: While a case series is narrative, a review of applied methods answers specific research questions.",
     "crumbs": [
       "Explore by approach",
       "<span class='chapter-number'>15</span>  <span class='chapter-title'>14 Methodological case report or series</span>"
@@ -739,18 +640,7 @@
     "href": "approaches/15informal.html",
     "title": "15 Informal approaches",
     "section": "",
-    "text": "Definition and typical features\nAlternative labels: narrative approaches\nMethods research often relies on informal approaches. For example, instead of conducting formal reviews, authors may selectively cite methodological publications. Informal approaches often rely on professional authority and persuasive narrative. They may integrate expert opinions without structured collaboration or formal consensus studies. They may use theory, examples, or simulations to illustrate points rather than to answer a methodological research questions.",
-    "crumbs": [
-      "Explore by approach",
-      "<span class='chapter-number'>16</span>  <span class='chapter-title'>15 Informal approaches</span>"
-    ]
-  },
-  {
-    "objectID": "approaches/15informal.html#boundaries-to-related-types",
-    "href": "approaches/15informal.html#boundaries-to-related-types",
-    "title": "15 Informal approaches",
-    "section": "Boundaries to related types",
-    "text": "Boundaries to related types",
+    "text": "Definition and features\nAlternative labels: narrative approaches\nMethods research often relies on informal approaches. For example, instead of conducting formal reviews, authors may selectively cite methodological publications. Informal approaches often rely on professional authority and persuasive narrative. They may integrate expert opinions without structured collaboration or formal consensus studies. They may use theory, examples, or simulations to illustrate points rather than to answer a methodological research questions.",
     "crumbs": [
       "Explore by approach",
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>15 Informal approaches</span>"
@@ -783,18 +673,7 @@
     "href": "purposes/1identify-methods.html",
     "title": "1 Identify available methods",
     "section": "",
-    "text": "Definition and typical features\nAlternative labels:\nThese studies aim to identify methods that can address a specific research challenge. It often combines identification with a structured characterisation or comparison of methods, for example by describing definitions, key features, variants, assumptions, strengths, or limitations.",
-    "crumbs": [
-      "Explore by purpose",
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>1 Identify available methods</span>"
-    ]
-  },
-  {
-    "objectID": "purposes/1identify-methods.html#boundaries-to-related-purposes",
-    "href": "purposes/1identify-methods.html#boundaries-to-related-purposes",
-    "title": "1 Identify available methods",
-    "section": "Boundaries to related purposes",
-    "text": "Boundaries to related purposes",
+    "text": "Definition\nAlternative labels:\nThese studies aim to identify methods that can address a specific research challenge. It often combines identification with a structured characterisation or comparison of methods, for example by describing definitions, key features, variants, assumptions, strengths, or limitations.",
     "crumbs": [
       "Explore by purpose",
       "<span class='chapter-number'>17</span>  <span class='chapter-title'>1 Identify available methods</span>"
@@ -827,18 +706,7 @@
     "href": "purposes/2identify-mr.html",
     "title": "2 Identify available methods research",
     "section": "",
-    "text": "Definition and typical features\nAlternative labels:\nThese studies aim to identify existing methods research on a specific method or topic, typically organised using a classification scheme, such as this typology.",
-    "crumbs": [
-      "Explore by purpose",
-      "<span class='chapter-number'>18</span>  <span class='chapter-title'>2 Identify available methods research</span>"
-    ]
-  },
-  {
-    "objectID": "purposes/2identify-mr.html#boundaries-to-related-purposes",
-    "href": "purposes/2identify-mr.html#boundaries-to-related-purposes",
-    "title": "2 Identify available methods research",
-    "section": "Boundaries to related purposes",
-    "text": "Boundaries to related purposes",
+    "text": "Definition\nAlternative labels:\nThese studies aim to identify existing methods research on a specific method or topic, typically organised using a classification scheme, such as this typology.",
     "crumbs": [
       "Explore by purpose",
       "<span class='chapter-number'>18</span>  <span class='chapter-title'>2 Identify available methods research</span>"
@@ -871,18 +739,7 @@
     "href": "purposes/3summarize-mr.html",
     "title": "3 Summarize the results of methods research",
     "section": "",
-    "text": "Definition and typical features\nAlternative labels:\nThese studies aim to synthesize the results of methods research addressing a specific methodological research question, including quantitative and qualitative questions.",
-    "crumbs": [
-      "Explore by purpose",
-      "<span class='chapter-number'>19</span>  <span class='chapter-title'>3 Summarize the results of methods research</span>"
-    ]
-  },
-  {
-    "objectID": "purposes/3summarize-mr.html#boundaries-to-related-purposes",
-    "href": "purposes/3summarize-mr.html#boundaries-to-related-purposes",
-    "title": "3 Summarize the results of methods research",
-    "section": "Boundaries to related purposes",
-    "text": "Boundaries to related purposes",
+    "text": "Definition\nAlternative labels:\nThese studies aim to synthesize the results of methods research addressing a specific methodological research question, including quantitative and qualitative questions.",
     "crumbs": [
       "Explore by purpose",
       "<span class='chapter-number'>19</span>  <span class='chapter-title'>3 Summarize the results of methods research</span>"
@@ -915,18 +772,7 @@
     "href": "purposes/4assess-practice.html",
     "title": "4 Assess methodological practice",
     "section": "",
-    "text": "Definition and typical features\nAlternative labels:\nThese studies aim to describe the use of methods in practice, often with an intention to highlight good or poor practice.",
-    "crumbs": [
-      "Explore by purpose",
-      "<span class='chapter-number'>20</span>  <span class='chapter-title'>4 Assess methodological practice</span>"
-    ]
-  },
-  {
-    "objectID": "purposes/4assess-practice.html#boundaries-to-related-purposes",
-    "href": "purposes/4assess-practice.html#boundaries-to-related-purposes",
-    "title": "4 Assess methodological practice",
-    "section": "Boundaries to related purposes",
-    "text": "Boundaries to related purposes",
+    "text": "Definition\nAlternative labels:\nThese studies aim to describe the use of methods in practice, often with an intention to highlight good or poor practice.",
     "crumbs": [
       "Explore by purpose",
       "<span class='chapter-number'>20</span>  <span class='chapter-title'>4 Assess methodological practice</span>"
@@ -959,18 +805,7 @@
     "href": "purposes/5assess-needs-priorities.html",
     "title": "5 Assess needs and priorities for methods research",
     "section": "",
-    "text": "Definition and typical features\nAlternative labels:\nThese studies aim to assess the needs for future methods research, sometimes ranked by priority.",
-    "crumbs": [
-      "Explore by purpose",
-      "<span class='chapter-number'>21</span>  <span class='chapter-title'>5 Assess needs and priorities for methods research</span>"
-    ]
-  },
-  {
-    "objectID": "purposes/5assess-needs-priorities.html#boundaries-to-related-purposes",
-    "href": "purposes/5assess-needs-priorities.html#boundaries-to-related-purposes",
-    "title": "5 Assess needs and priorities for methods research",
-    "section": "Boundaries to related purposes",
-    "text": "Boundaries to related purposes",
+    "text": "Definition\nAlternative labels:\nThese studies aim to assess the needs for future methods research, sometimes ranked by priority.",
     "crumbs": [
       "Explore by purpose",
       "<span class='chapter-number'>21</span>  <span class='chapter-title'>5 Assess needs and priorities for methods research</span>"
@@ -1003,18 +838,7 @@
     "href": "purposes/6propose-method.html",
     "title": "6 Propose a new method",
     "section": "",
-    "text": "Definition and typical features\nAlternative labels:\nThese studies aim to propose a new method or an improved variant of an existing method, typically including justifications, explanations, and demonstrations.",
-    "crumbs": [
-      "Explore by purpose",
-      "<span class='chapter-number'>22</span>  <span class='chapter-title'>6 Propose a new method</span>"
-    ]
-  },
-  {
-    "objectID": "purposes/6propose-method.html#boundaries-to-related-purposes",
-    "href": "purposes/6propose-method.html#boundaries-to-related-purposes",
-    "title": "6 Propose a new method",
-    "section": "Boundaries to related purposes",
-    "text": "Boundaries to related purposes",
+    "text": "Definition\nAlternative labels:\nThese studies aim to propose a new method or an improved variant of an existing method, typically including justifications, explanations, and demonstrations.",
     "crumbs": [
       "Explore by purpose",
       "<span class='chapter-number'>22</span>  <span class='chapter-title'>6 Propose a new method</span>"
@@ -1047,18 +871,7 @@
     "href": "purposes/7evaluate-method.html",
     "title": "7 Evaluate a single method",
     "section": "",
-    "text": "Definition and typical features\nAlternative labels:\nThese studies aim to assess a single method with respect to precision, bias, acceptance, variability introduced by methods users, or other outcomes. This type includes proof-of-concept studies that aim to demonstrate that a method can work in principle before testing it on a larger scale.",
-    "crumbs": [
-      "Explore by purpose",
-      "<span class='chapter-number'>23</span>  <span class='chapter-title'>7 Evaluate a single method</span>"
-    ]
-  },
-  {
-    "objectID": "purposes/7evaluate-method.html#boundaries-to-related-purposes",
-    "href": "purposes/7evaluate-method.html#boundaries-to-related-purposes",
-    "title": "7 Evaluate a single method",
-    "section": "Boundaries to related purposes",
-    "text": "Boundaries to related purposes",
+    "text": "Definition\nAlternative labels:\nThese studies aim to assess a single method with respect to precision, bias, acceptance, variability introduced by methods users, or other outcomes. This type includes proof-of-concept studies that aim to demonstrate that a method can work in principle before testing it on a larger scale.",
     "crumbs": [
       "Explore by purpose",
       "<span class='chapter-number'>23</span>  <span class='chapter-title'>7 Evaluate a single method</span>"
@@ -1091,18 +904,18 @@
     "href": "purposes/8compare-methods.html",
     "title": "8 Compare two or more methods",
     "section": "",
-    "text": "Definition and typical features\nAlternative labels: benchmarking studies\nThese studies compare two or more methods with respect to precision, bias, feasibility, acceptance, variability introduced by users, impact on study results, or other outcomes.",
+    "text": "Definition\nAlternative labels: benchmarking studies\nThese studies compare two or more methods with respect to precision, bias, feasibility, acceptance, variability introduced by users, impact on study results, or other outcomes.",
     "crumbs": [
       "Explore by purpose",
       "<span class='chapter-number'>24</span>  <span class='chapter-title'>8 Compare two or more methods</span>"
     ]
   },
   {
-    "objectID": "purposes/8compare-methods.html#boundaries-to-related-purposes",
-    "href": "purposes/8compare-methods.html#boundaries-to-related-purposes",
+    "objectID": "purposes/8compare-methods.html#definition",
+    "href": "purposes/8compare-methods.html#definition",
     "title": "8 Compare two or more methods",
-    "section": "Boundaries to related purposes",
-    "text": "Boundaries to related purposes\nBoundary with 7 Evaluate a single method: When researchers designate one of the comparators as a reference standard, the focus shifts from comparing methods to evaluating a single method against the reference standard.",
+    "section": "",
+    "text": "TipBoundaries with related purposes\n\n\n\n\n\n7 Evaluate a single method: When researchers designate one of the comparators as a reference standard, the focus shifts from comparing methods to evaluating a single method against the reference standard.",
     "crumbs": [
       "Explore by purpose",
       "<span class='chapter-number'>24</span>  <span class='chapter-title'>8 Compare two or more methods</span>"
@@ -1135,18 +948,7 @@
     "href": "purposes/9guidance-applying.html",
     "title": "9 Develop guidance for applying methods",
     "section": "",
-    "text": "Definition and typical features\nAlternative labels: methods guidance; tutorial; best practice recommendations\nThese studies develop guidance to help health researchers or other interest holders understand and apply methods. The guidance may include conceptual explanations, examples, recommendations for or against specific methods, or tools that operationalize guidance aids such as decision algorithms, step-by-step tutorials, templates, or code for statistical software. The development process may combine multiple approaches of methods research.",
-    "crumbs": [
-      "Explore by purpose",
-      "<span class='chapter-number'>25</span>  <span class='chapter-title'>9 Develop guidance for applying methods</span>"
-    ]
-  },
-  {
-    "objectID": "purposes/9guidance-applying.html#boundaries-to-related-purposes",
-    "href": "purposes/9guidance-applying.html#boundaries-to-related-purposes",
-    "title": "9 Develop guidance for applying methods",
-    "section": "Boundaries to related purposes",
-    "text": "Boundaries to related purposes",
+    "text": "Definition\nAlternative labels: methods guidance; tutorial; best practice recommendations\nThese studies develop guidance to help health researchers or other interest holders understand and apply methods. The guidance may include conceptual explanations, examples, recommendations for or against specific methods, or tools that operationalize guidance aids such as decision algorithms, step-by-step tutorials, templates, or code for statistical software. The development process may combine multiple approaches of methods research.",
     "crumbs": [
       "Explore by purpose",
       "<span class='chapter-number'>25</span>  <span class='chapter-title'>9 Develop guidance for applying methods</span>"
@@ -1157,7 +959,7 @@
     "href": "purposes/9guidance-applying.html#typical-approaches-and-corresponding-examples",
     "title": "9 Develop guidance for applying methods",
     "section": "Typical approaches and corresponding examples",
-    "text": "Typical approaches and corresponding examples\nApproaches to develop methods guidance greatly vary and include: Theory-based methods research: Covariate adjustment in trials;1 credibility criteria for subgroup effects, some criteria based on theoretical reasoning.2\nSimulation study: Guidance on using matching in cluster trials; 3 Guidance for variable screening in high dimensional survival analysis; 4 estimation of diagnostic test accuracy without reference standard.5\nExperimental analysis of real datasets: Guidance for using machine learning for abstract screening; 6 Framework for prospective meta-analysis, tested in 4 real projects.7\nQualitative study involving researchers or other interest-holders in health research: Q-methodology, focus groups, content analysis, and workshops to produce guidance on creating summaries for trial participants.8\nConsensus study among researchers or other interest-holders in health research: Guidance on factors to consider when inviting multiple interest-holder groups to research, based on Delphi; 9 Guidance on handling missing data in trials, based on Nominal Group Technique.10\nReview of applied methods: recommendations for the use of directed acyclic graphs.11\nScoping review of methods research: A scoping review of methods papers informed guidance on integrating qualitative methods in randomized trials of complex interventions;12 A scoping review of methods papers informed guidance for developing core outcome sets.13\nQualitative synthesis of methods research: Review with qualitative synthesis of guidance for the evaluation and updating of clinical prediction models;14 review of methods research on saturation in qualitative studies;15 review of methods for confidence intervals in adaptive trials.16\nInformal approaches: preventing common misunderstandings of randomisation;17 tutorial for sample size calculation in cluster trials;18 explanation why guidelines should seldom make good practice statements.19",
+    "text": "Typical approaches and corresponding examples\nApproaches to develop methods guidance greatly vary and include: Theory-based methods research: Covariate adjustment in trials;1 credibility criteria for subgroup effects, some criteria based on theoretical reasoning.2\nSimulation study: Guidance on using matching in cluster trials;3 Guidance for variable screening in high dimensional survival analysis;4 estimation of diagnostic test accuracy without reference standard.5\nExperimental analysis of real datasets: Guidance for using machine learning for abstract screening;6 Framework for prospective meta-analysis, tested in 4 real projects.7\nQualitative study involving researchers or other interest-holders in health research: Q-methodology, focus groups, content analysis, and workshops to produce guidance on creating summaries for trial participants.8\nConsensus study among researchers or other interest-holders in health research: Guidance on factors to consider when inviting multiple interest-holder groups to research, based on Delphi;9 Guidance on handling missing data in trials, based on Nominal Group Technique.10\nReview of applied methods: recommendations for the use of directed acyclic graphs.11\nScoping review of methods research: A scoping review of methods papers informed guidance on integrating qualitative methods in randomized trials of complex interventions;12 A scoping review of methods papers informed guidance for developing core outcome sets.13\nQualitative synthesis of methods research: Review with qualitative synthesis of guidance for the evaluation and updating of clinical prediction models;14 review of methods research on saturation in qualitative studies;15 review of methods for confidence intervals in adaptive trials.16\nInformal approaches: preventing common misunderstandings of randomisation;17 tutorial for sample size calculation in cluster trials;18 explanation why guidelines should seldom make good practice statements.19",
     "crumbs": [
       "Explore by purpose",
       "<span class='chapter-number'>25</span>  <span class='chapter-title'>9 Develop guidance for applying methods</span>"
@@ -1179,18 +981,7 @@
     "href": "purposes/10guidance-reporting.html",
     "title": "10 Develop reporting guidelines",
     "section": "",
-    "text": "Definition and typical features\nAlternative labels:\nThese studies develop guidance to help health researchers or other interest holders report methods, typically providing a checklist with explanation. The development process may combine multiple methods research approaches.",
-    "crumbs": [
-      "Explore by purpose",
-      "<span class='chapter-number'>26</span>  <span class='chapter-title'>10 Develop reporting guidelines</span>"
-    ]
-  },
-  {
-    "objectID": "purposes/10guidance-reporting.html#boundaries-to-related-purposes",
-    "href": "purposes/10guidance-reporting.html#boundaries-to-related-purposes",
-    "title": "10 Develop reporting guidelines",
-    "section": "Boundaries to related purposes",
-    "text": "Boundaries to related purposes",
+    "text": "Definition\nAlternative labels:\nThese studies develop guidance to help health researchers or other interest holders report methods, typically providing a checklist with explanation. The development process may combine multiple methods research approaches.",
     "crumbs": [
       "Explore by purpose",
       "<span class='chapter-number'>26</span>  <span class='chapter-title'>10 Develop reporting guidelines</span>"
@@ -1223,18 +1014,7 @@
     "href": "purposes/11guidance-assessing.html",
     "title": "11 Develop quality assessment instruments",
     "section": "",
-    "text": "Definition and typical features\nAlternative labels: risk-of-bias tools; critical appraisal tools\nThese studies develop scales to help health researchers or other interest holders assess methodological rigor, including risk of bias or broader trustworthiness, in a standardized way. Such scales typically use multiple signalling questions with predefined response options, sometimes combined into a summary measure. The development process may combine multiple methods research approaches.",
-    "crumbs": [
-      "Explore by purpose",
-      "<span class='chapter-number'>27</span>  <span class='chapter-title'>11 Develop quality assessment instruments</span>"
-    ]
-  },
-  {
-    "objectID": "purposes/11guidance-assessing.html#boundaries-to-related-purposes",
-    "href": "purposes/11guidance-assessing.html#boundaries-to-related-purposes",
-    "title": "11 Develop quality assessment instruments",
-    "section": "Boundaries to related purposes",
-    "text": "Boundaries to related purposes",
+    "text": "Definition\nAlternative labels: risk-of-bias tools; critical appraisal tools\nThese studies develop scales to help health researchers or other interest holders assess methodological rigor, including risk of bias or broader trustworthiness, in a standardized way. Such scales typically use multiple signalling questions with predefined response options, sometimes combined into a summary measure. The development process may combine multiple methods research approaches.",
     "crumbs": [
       "Explore by purpose",
       "<span class='chapter-number'>27</span>  <span class='chapter-title'>11 Develop quality assessment instruments</span>"
@@ -1267,18 +1047,7 @@
     "href": "purposes/12software-code.html",
     "title": "12 Develop software and code",
     "section": "",
-    "text": "Definition and typical features\nAlternative labels:\nThese studies develop specialized software including web application or code for statistical software (such as R packages) to facilitate the implementation of methods in practice.",
-    "crumbs": [
-      "Explore by purpose",
-      "<span class='chapter-number'>28</span>  <span class='chapter-title'>12 Develop software and code</span>"
-    ]
-  },
-  {
-    "objectID": "purposes/12software-code.html#boundaries-to-related-purposes",
-    "href": "purposes/12software-code.html#boundaries-to-related-purposes",
-    "title": "12 Develop software and code",
-    "section": "Boundaries to related purposes",
-    "text": "Boundaries to related purposes",
+    "text": "Definition\nAlternative labels:\nThese studies develop specialized software including web application or code for statistical software (such as R packages) to facilitate the implementation of methods in practice.",
     "crumbs": [
       "Explore by purpose",
       "<span class='chapter-number'>28</span>  <span class='chapter-title'>12 Develop software and code</span>"
@@ -1311,18 +1080,7 @@
     "href": "purposes/13implementation.html",
     "title": "13 Study dissemination and implementation of methods",
     "section": "",
-    "text": "Definition and typical features\nAlternative labels: methodological implementation science\nThese studies support and evaluate the dissemination and (de-)implementation of methods in health research practice. They assess implementation, identify barriers and facilitators, develop strategies for dissemination and implementation, and test the effectiveness of these strategies.\nThis type of methods research is still rare. Examples come mostly from areas of reporting guidelines and core outcome sets. Different approaches are possible:",
-    "crumbs": [
-      "Explore by purpose",
-      "<span class='chapter-number'>29</span>  <span class='chapter-title'>13 Study dissemination and implementation of methods</span>"
-    ]
-  },
-  {
-    "objectID": "purposes/13implementation.html#boundaries-to-related-purposes",
-    "href": "purposes/13implementation.html#boundaries-to-related-purposes",
-    "title": "13 Study dissemination and implementation of methods",
-    "section": "Boundaries to related purposes",
-    "text": "Boundaries to related purposes",
+    "text": "Definition\nAlternative labels: methodological implementation science\nThese studies support and evaluate the dissemination and (de-)implementation of methods in health research practice. They assess implementation, identify barriers and facilitators, develop strategies for dissemination and implementation, and test the effectiveness of these strategies.\nThis type of methods research is still rare. Examples come mostly from areas of reporting guidelines and core outcome sets. Different approaches are possible:",
     "crumbs": [
       "Explore by purpose",
       "<span class='chapter-number'>29</span>  <span class='chapter-title'>13 Study dissemination and implementation of methods</span>"

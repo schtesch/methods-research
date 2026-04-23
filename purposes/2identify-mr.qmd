@@ -4,10 +4,8 @@ link-citations: true
 ---
 Alternative labels: 
 
-## Definition and typical features 
+## Definition
 These studies aim to identify existing methods research on a specific method or topic, typically organised using a classification scheme, such as this typology.
-
-## Boundaries to related purposes
 
 ## Typical approaches and corresponding examples 
 [Scoping review of methods research](../approaches/11scoping-review.qmd): Identify publications that suggest a process for developing methods guidance.[@Chiaborelli2026stream]

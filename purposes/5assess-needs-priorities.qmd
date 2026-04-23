@@ -4,10 +4,8 @@ link-citations: true
 ---
 Alternative labels: 
 
-## Definition and typical features 
+## Definition
 These studies aim to assess the needs for future methods research, sometimes ranked by priority.
-
-## Boundaries to related purposes
 
 ## Typical approaches and corresponding examples 
 [Quantitative survey](../approaches/6survey.qmd): identify priorities for retention research;[@Kearney2017identifying] identify priorities for methods research in the context of global health;[@Rosala-Hallas2018global] identifying solutions for the reproducibility crisis.[@Baker2016is]

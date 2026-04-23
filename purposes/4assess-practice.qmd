@@ -4,10 +4,8 @@ link-citations: true
 ---
 Alternative labels: 
 
-## Definition and typical features 
+## Definition 
 These studies aim to describe the use of methods in practice, often with an intention to highlight good or poor practice.
-
-## Boundaries to related purposes
 
 ## Typical approaches and corresponding examples 
 [Quantitative survey](../approaches/6survey.qmd): assess current practice of involving patients in statistical research.[@Abell2023incorporation]

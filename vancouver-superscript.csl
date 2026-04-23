@@ -77,15 +77,15 @@
       </else>
     </choose>
   </macro>
-  <citation>
-    <option name="collapse" value="citation-number"/>
-    <sort>
-      <key variable="citation-number"/>
-    </sort>
-    <layout delimiter="; ">
-      <text variable="citation-number" vertical-align="sup"/>
-    </layout>
-  </citation>
+<citation>
+  <option name="collapse" value="citation-number"/>
+  <sort>
+    <key variable="citation-number"/>
+  </sort>
+  <layout delimiter=", " vertical-align="sup">
+    <text variable="citation-number"/>
+  </layout>
+</citation> 
   <bibliography>
     <option name="et-al-min" value="7"/>
     <option name="et-al-use-first" value="6"/>

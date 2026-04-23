@@ -4,11 +4,13 @@ link-citations: true
 ---
 Alternative labels: benchmarking studies
 
-## Definition and typical features 
+## Definition 
 These studies compare two or more methods with respect to precision, bias, feasibility, acceptance, variability introduced by users, impact on study results, or other outcomes. 
 
-## Boundaries to related purposes
-Boundary with [7 Evaluate a single method](7evaluate-method.qmd): When researchers designate one of the comparators as a reference standard, the focus shifts from comparing methods to evaluating a single method against the reference standard.
+::: {.callout-tip appearance="minimal" collapse="true"}
+## Boundaries with related purposes
+[7 Evaluate a single method](7evaluate-method.qmd): When researchers designate one of the comparators as a reference standard, the focus shifts from comparing methods to evaluating a single method against the reference standard.
+:::
 
 ## Typical approaches and corresponding examples 
 [Simulation study](../approaches/2simulation.qmd): comparing different methods for diagnostic meta-analyses with sparse data;[@Takwoingi2017performance] comparing different methods for modeling multi-state disease progression.[@Huszti2011comparison]
