@@ -5,8 +5,8 @@ link-citations: true
 
 Alternative labels: narrative approaches
 
-## Definition and features 
-Methods research often relies on informal approaches. For example, instead of conducting formal reviews, authors may selectively cite methodological publications. Informal approaches often rely on professional authority and persuasive narrative. They may integrate expert opinions without structured collaboration or formal consensus studies. They may use theory, examples, or simulations to illustrate points rather than to answer a methodological research questions. 
+## Definition and features
+In informal approaches, researchers propose, explain, discuss, or recommend methods without a formal methods research design. They may selectively cite methodological publications, rely on professional authority and persuasive narrative, integrate expert opinions without structured collaboration or formal consensus, or use theory, examples, or simulations to illustrate points rather than to answer a methodological research question.
 
 ## Typical purposes and corresponding examples 
 Examples for most purposes listed in Table 2 are abundant, including

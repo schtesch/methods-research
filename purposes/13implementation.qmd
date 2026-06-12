@@ -1,11 +1,11 @@
 ---
-title: "13 Study dissemination and implementation of methods"
+title: "13 Research the dissemination and implementation of methods"
 link-citations: true
 ---
 Alternative labels: methodological implementation science
 
-## Definition 
-These studies support and evaluate the dissemination and (de-)implementation of methods in health research practice. They assess implementation, identify barriers and facilitators, develop strategies for dissemination and implementation, and test the effectiveness of these strategies.
+## Definition
+These studies aim to understand or improve the dissemination, implementation, or de-implementation of methods in health research practice. They assess current implementation, identify barriers and facilitators, develop dissemination or implementation strategies, or test the effectiveness of such strategies.
 
 This type of methods research is still rare. Examples come mostly from areas of reporting guidelines and core outcome sets. Different approaches are possible:
 

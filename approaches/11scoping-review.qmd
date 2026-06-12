@@ -5,14 +5,16 @@ link-citations: true
 
 Alternative labels: 
 
-## Definition and features 
-Scoping reviews include a broad research question and a systematic search, and aim to provide an overview of existing methods research on a methodological topic or available methods discussed in such methods research. Scoping reviews may present simple descriptive statistics (absolute and relative frequencies), often based on a qualitative categorisation or mapping against some pre-existing framework. They do not typically include a quality assessment or synthesis of study results. 
+## Definition and features
+In scoping reviews of methods research, researchers use a broad research question and a systematic search to provide an overview of existing methods research on a methodological topic or available methods discussed in such methods research. They may use qualitative categorisation or map studies against an existing framework. They often present simple descriptive statistics, such as absolute and relative frequencies.
 
 - Strengths include transparency and comprehensiveness. 
 - A challenge is the difficult search process.
 
 ::: {.callout-tip appearance="minimal" collapse="true"}
 ## Boundaries with related types
+
+Boundary with A12 qualitative synthesis of methods research. Both use systematic searches and may include qualitative categorisation but scoping reviews do not typically include formal quality assessment or an interpretive synthesis of findings. The distinction can be difficult in practice, especially when a scoping review goes beyond description or when a qualitative synthesis mainly maps the literature.
 
 **Similarities and differences between literature-based types:**
 

@@ -3,10 +3,10 @@ title: "6 Quantitative survey"
 link-citations: true
 ---
 
-Alternative labels: 
+Alternative labels: involving researchers and other interest-holders in health research
 
-## Definition and features 
-These studies use questionnaires to collect experiences, opinions, and feedback from larger samples of researchers and other interest-holders on methodological issues. They typically use random or stratified sampling to maximise representativeness. Analyses are usually quantitative. For open-ended questions, researchers may apply qualitative analysis to classify responses before analyzing them quantitatively. 
+## Definition and features
+In quantitative surveys, researchers use questionnaires to collect experiences, opinions, or feedback from larger samples of researchers and other interest-holders on methodological issues. They typically use random or stratified sampling to maximise representativeness. Researchers usually analyze responses quantitatively; for open-ended questions, they may first classify responses qualitatively and then analyze them quantitatively.
 
 - A strength is possibillity to approach a large number of participants. 
 - Key challenges include selection bias arising from low response rates and missing data.

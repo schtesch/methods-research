@@ -5,16 +5,14 @@ link-citations: true
 
 Alternative labels: 
 
-## Definition and features 
-In a methodological case report, a team describes their experience with the design, implementation, or performance of a method in a real study, typically their own. In a case series, they discuss two or more studies that share a similar method or methodological challenge.
+## Definition and features
+In methodological case reports, researchers describe their experience with the design, implementation, or performance of a method in one real study, typically their own. In methodological case series, researchers discuss two or more studies that share a similar method or methodological challenge.
 
-::: {.callout-tip appearance="minimal" collapse="true"}
+::: {.callout-tip appearance=”minimal” collapse=”true”}
 ## Boundaries with related types
-[Experimental analysis of real datasets](3real-datasets.qmd): may also use a single dataset and the label “case study” but re-analyze an existing dataset to answer a methodological question.
+With [experimental analysis of real datasets](3real-datasets.qmd) and [informal approaches](15informal.qmd): All may use a single dataset and the label “case study”. Key differences are that A3 re-analyzes an existing dataset to answer a methodological question, A14 discusses methodological challenges in a specific study, and A15 uses datasets or studies to illustrate methods.
 
-[Informal approaches](15informal.qmd): may also refer to a “cases" to illustrate methods.
-
-[Review of applied methods](9review-applied.qmd): While a case series is narrative, a review of applied methods answers specific research questions. 
+With [review of applied methods](9review-applied.qmd): While a case series is a narrative aggregating teams' experience with a method, a review of applied methods answers a methodological question by analyzing published study reports.
 :::
 
 ## Typical purposes and corresponding examples 

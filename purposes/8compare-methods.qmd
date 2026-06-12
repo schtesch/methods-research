@@ -1,11 +1,11 @@
 ---
-title: "8 Compare two or more methods"
+title: "8 Compare methods"
 link-citations: true
 ---
-Alternative labels: benchmarking studies
+Alternative labels: benchmarking methods
 
-## Definition 
-These studies compare two or more methods with respect to precision, bias, feasibility, acceptance, variability introduced by users, impact on study results, or other outcomes. 
+## Definition
+These studies aim to compare two or more methods with respect to precision, bias, feasibility, acceptance, variability introduced by users, impact on study results, or other outcomes.
 
 ::: {.callout-tip appearance="minimal" collapse="true"}
 ## Boundaries with related purposes

@@ -3,10 +3,10 @@ title: "7 Qualitative study"
 link-citations: true
 ---
 
-Alternative labels: 
+Alternative labels: involving researchers or other interest-holders in health research
 
-## Definition and features 
-These studies use interviews, focus groups, or other qualitative methods to collect information from smaller samples of researchers and other interest-holders on methodological issues. Researchers apply qualitative methods such as qualitative content analysis or thematic analysis. Sampling strategies, including convenience, purposive, or random sampling, and data saturation are other important design features. 
+## Definition and features
+In qualitative studies, researchers use interviews, focus groups, or other qualitative methods to collect information from smaller samples of researchers and other interest-holders on methodological issues. Researchers apply methods such as qualitative content analysis or thematic analysis. Important design features include the sampling strategy (such as convenience, purposive, or random sampling) and approaches to data saturation.
 
 - Strengths include the focus on participants and explanatory depth. 
 - Key challenges include limited generalizability due to small sample sizes and the influence of the investigators. 

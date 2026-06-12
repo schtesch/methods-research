@@ -5,8 +5,8 @@ link-citations: true
 
 Alternative labels: qualitative systematic reviews of methods research
 
-## Definition and features 
-A qualitative synthesis of methods research includes qualitative types of methods research such as interview studies or methods guidance. In principle, these studies follow the standard steps of qualitative evidence synthesis(Cochrane-Campbell Handbook for Qualitative Evidence Synthesis, n.d.) including posing a specific qualitative question, a comprehensive search for all eligible publications, quality assessment, and qualitative synthesis methods such as thematic analysis. 
+## Definition and features
+In qualitative syntheses of methods research, researchers synthesize findings, concepts, explanations, recommendations, or arguments from text-rich methodological research, such as interview studies or guidance documents. They usually start with a focused qualitative question, search for eligible publications using a comprehensive or purposeful sampling strategy, assess study quality, and use an explicit qualitative synthesis method, such as thematic synthesis.
 
 - Strengths include transparency and comprehensiveness. 
 - Key challenges are the difficult search and the lack of quality criteria for qualitative methods research.
@@ -14,6 +14,8 @@ A qualitative synthesis of methods research includes qualitative types of method
 
 ::: {.callout-tip appearance="minimal" collapse="true"}
 ## Boundaries with related types
+
+Boundary with A11 scoping review. Both use systematic searches and may include qualitative categorisation but scoping reviews do not typically include formal quality assessment or an interpretive synthesis of findings. The distinction can be difficult in practice, especially when a scoping review goes beyond description or when a qualitative synthesis mainly maps the literature.
 
 **Similarities and differences between literature-based types:**
 

@@ -5,7 +5,7 @@ link-citations: true
 Alternative labels: 
 
 ## Definition
-These studies aim to propose a new method or an improved variant of an existing method, typically including justifications, explanations, and demonstrations.
+These studies aim to propose a new method or an improved variant of an existing method, typically with justifications, explanations, and demonstrations.
 
 ## Typical approaches and corresponding examples 
 [Theory-based methods research](../approaches/1theory.qmd): prediction interval for meta-analysis;[@Higgins2009a] inverse odds weighting to operationalize transportability;[@Westreich2017transportability] adopting implementation science to the context of research methods;[@King2019using] Integrate external validity considerations in deductive causal inference.[@Esterling2025the]

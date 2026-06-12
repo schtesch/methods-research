@@ -3,10 +3,10 @@ title: "8 Consensus study"
 link-citations: true
 ---
 
-Alternative labels: 
+Alternative labels: among researchers or other interest-holders in health research
 
-## Definition and features 
-These studies use formal consensus methods, such as Delphi studies or the Nominal Group Technique, and involve researchers and other interest-holders. Data collection may rely on surveys or qualitative methods. In contrast to surveys or qualitative studies that document a range of views, consensus studies seek to move participants towards a shared position. They usually employ a longitudinal design with multiple rounds of feedback, item ratings, or discussions. 
+## Definition and features
+In consensus studies, researchers use Delphi surveys or structured discussion (such as the Nominal Group Technique) to involve researchers and other interest-holders and move them towards a shared position. They usually use a longitudinal design with multiple rounds of feedback, item ratings, or discussions.
 
 - Strengths include the structured synthesis of expert opinion and persuasiveness. 
 - Limitations include the dependency of panel composition and process design. 

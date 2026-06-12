@@ -5,14 +5,16 @@ link-citations: true
 
 Alternative labels include methodological studies,[@Khalil2023guidance; @Mbuagbaw2020a] meta-research,[@Ioannidis2015meta-research] research-on-research, systematic surveys, and scoping review, among many other terms used in practice,[@MatosSilva2025methodological] with little consensus.[@MatosSilva2025limited]
 
-## Definition and features 
-Reviews of applied methods examine how researchers implement methods in health research or which challenges they encounter. They sample and systematically analyze studies or other applications of methods such as in guideline panels. Sources of such applications include published journal articles, trial registries, preprints, or other sources. Sampling strategies are important and may be random to assess prevalence, purposeful to focus on high-impact studies, stratified to ensure representation of subgroups, matched such as pairs of protocols and corresponding publications, or complete. Reviews of applied methods may be nested within systematic review of health research. Typical outcomes are items of quality such as appropriate use of a method or transparent reporting. The analysis is usually based on simple quantitative measures, such as prevalence. Researchers often extract data using pre-specified forms, sometimes based on pre-existing frameworks (such as reporting guidelines) or use qualitative methods to derive categories. 
+## Definition and features
+In reviews of applied methods, researchers examine how other researchers implement methods in health research or which challenges they encounter. They systematically analyze studies or other applications of methods (such as guideline panels), using sources such as journal articles, trial registries, or preprints. Sampling strategies vary and may be random (to assess prevalence), purposeful (to focus on high-impact studies), stratified (to represent subgroups), matched (such as protocols with corresponding publications), or complete. Reviews of applied methods may also be nested within systematic reviews of health research. Researchers extract data with pre-specified forms (for example, based on existing quality instruments) or use qualitative methods to derive categories. They typically use descriptive statistics to report outcomes such as prevalence of methodological features, appropriate use, or transparent reporting.
 
 - A strength is that these studies reflect realistic practice, including human error. 
 - Challenges arise from sampling and reporting issues. 
 
 ::: {.callout-tip appearance="minimal" collapse="true"}
 ## Boundaries with related types
+
+Boundary with A10 meta-epidemiological studies. Both examine applied studies. A9 describes methodological practice, reporting, or quality; A10 examines whether methodological features relate to study results.
 
 **Similarities and differences between literature-based types:**
 

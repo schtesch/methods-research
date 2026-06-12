@@ -3,19 +3,19 @@ title: "3 Experimental analysis of real datasets"
 link-citations: true
 ---
 
-Alternative labels: 
+Alternative labels: sometimes called benchmarking study (which we record under purpose as P8)
 
-## Definition and features 
-These studies apply methods to datasets from real studies, often drawn from published studies or repositories. Unlike simulations, the data retain real-world complexity, including variability, measurement error, or missing values and thus provide evidence on method performance in a realistic settings. The number of analyzed datasets varies from large collections that support stronger inferences to single datasets with limited generalizability.
+## Definition and features
+In experimental analyses of real datasets, researchers apply methods to datasets from real studies, often from published studies or repositories. They typically compare two or more methods regarding precision, bias, or changes in study results, although some studies evaluate one method across several datasets.
 
 - A strength is that the data retain real-world complexity, including variability, measurement error, or missing values
 - A remaining limitation is that such studies do not investigate variation and errors arising from humans performing the analysis.
 
-::: {.callout-tip appearance="minimal" collapse="true"}
+::: {.callout-tip appearance=”minimal” collapse=”true”}
 ## Boundaries with related types
-[Reliability and agreement studies](4reliability.qmd): Both may use a single dataset and assess agreement. The key difference is that experimental analyses compare multiple methods applied by one person or team, while reliability, agreement, and reproducibility studies compare multiple people applying the same method.
+[Reliability and agreement studies](4reliability.qmd): Both may assess agreement. The key difference is that experimental analyses assess agreement between multiple methods applied by one person or team, while reliability and agreement studies assess agreement between multiple people applying the same method.
 
-[Case report or series](14case-report.qmd) and [informal approaches](15informal.qmd): All may use a single dataset and the label “case study”. Key differences are that 3 re-analyzes an existing dataset to answer a methodological question, 14 discusses methodological challenges in a specific study, and 15 uses datasets or studies to illustrate methods.
+[Case report or series](14case-report.qmd) and [informal approaches](15informal.qmd): All may use a single dataset and the label “case study”. Key differences are that A3 re-analyzes an existing dataset to answer a general methodological question, A14 discusses methodological issues that occurred in a specific study, and A15 uses datasets or studies to illustrate methods.
 :::
 
 ## Typical purposes and corresponding examples 

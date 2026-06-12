@@ -4,8 +4,8 @@ link-citations: true
 ---
 Alternative labels: 
 
-## Definition 
-These studies develop specialized software including web application or code for statistical software (such as R packages) to facilitate the implementation of methods in practice.
+## Definition
+These studies aim to develop specialized software, such as web applications, R packages, scripts, or other code, to help users implement methods in practice.
 
 ## Typical approaches and corresponding examples 
 [Informal approaches](../approaches/15informal.qmd): Introducing a Web application for Bayes Factor Design Analysis.[@Stefan2023big]

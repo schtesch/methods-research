@@ -2,10 +2,10 @@
 title: "10 Develop reporting guidelines"
 link-citations: true
 ---
-Alternative labels: 
+Alternative labels: minimal reporting standards, reporting checklists
 
-## Definition 
-These studies develop guidance to help health researchers or other interest holders report methods, typically providing a checklist with explanation. The development process may combine multiple methods research approaches.
+## Definition
+These studies aim to develop guidance that helps health researchers or other interest-holders report methods, typically as a checklist with explanations. The development process may combine multiple methods research approaches.
 
 ## Typical approaches and corresponding examples 
 [Consensus study among researchers or other interest-holders in health research](../approaches/8consensus.qmd): Delphi study to develop CONSORT reporting guideline.[@Hopewell2025consort]

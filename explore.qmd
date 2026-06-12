@@ -1,0 +1,60 @@
+---
+title: "Interactive overview figure"
+subtitle: "Connections show common combinations. Click on a type for more information and real examples for the different combinations."
+page-layout: full
+toc: false
+format:
+  html:
+    css:
+      - styles.css
+      - interactive-map/type-map.css
+    include-after-body:
+      - text: |
+          <script src="interactive-map/type-map.js"></script>
+---
+
+::: {#type-map .type-map aria-label="Common connections between methodological research approaches and purposes"}
+<svg class="type-map__lines" aria-hidden="true"></svg>
+
+::: {.type-map__column .type-map__column--approaches}
+## Approaches: How?
+
+<ol class="type-map__list" aria-label="Approaches">
+  <li class="type-map__item" data-type-id="A1"><span class="type-map__code">A1</span><span>Theory-based study</span></li>
+  <li class="type-map__item" data-type-id="A2"><span class="type-map__code">A2</span><span>Simulation study</span></li>
+  <li class="type-map__item" data-type-id="A3"><span class="type-map__code">A3</span><span>Experimental analysis of real datasets</span></li>
+  <li class="type-map__item" data-type-id="A4"><span class="type-map__code">A4</span><span>Reliability and agreement study</span></li>
+  <li class="type-map__item" data-type-id="A5"><span class="type-map__code">A5</span><span>Methodological randomized study</span></li>
+  <li class="type-map__item" data-type-id="A6"><span class="type-map__code">A6</span><span>Quantitative survey</span></li>
+  <li class="type-map__item" data-type-id="A7"><span class="type-map__code">A7</span><span>Qualitative study</span></li>
+  <li class="type-map__item" data-type-id="A8"><span class="type-map__code">A8</span><span>Consensus study</span></li>
+  <li class="type-map__item" data-type-id="A9"><span class="type-map__code">A9</span><span>Review of applied methods</span></li>
+  <li class="type-map__item" data-type-id="A10"><span class="type-map__code">A10</span><span>Meta-epidemiological study</span></li>
+  <li class="type-map__item" data-type-id="A11"><span class="type-map__code">A11</span><span>Scoping review of methods research</span></li>
+  <li class="type-map__item" data-type-id="A12"><span class="type-map__code">A12</span><span>Qualitative synthesis of methods research</span></li>
+  <li class="type-map__item" data-type-id="A13"><span class="type-map__code">A13</span><span>Quantitative synthesis of methods research</span></li>
+  <li class="type-map__item" data-type-id="A14"><span class="type-map__code">A14</span><span>Methodological case report or series</span></li>
+  <li class="type-map__item" data-type-id="A15"><span class="type-map__code">A15</span><span>Informal approaches</span></li>
+</ol>
+:::
+
+::: {.type-map__column .type-map__column--purposes}
+## Purposes: Why?
+
+<ol class="type-map__list" aria-label="Purposes">
+  <li class="type-map__item" data-type-id="P1"><span class="type-map__code">P1</span><span>Identify available methods</span></li>
+  <li class="type-map__item" data-type-id="P2"><span class="type-map__code">P2</span><span>Identify available methods research on a specific topic</span></li>
+  <li class="type-map__item" data-type-id="P3"><span class="type-map__code">P3</span><span>Summarize the results of methods research</span></li>
+  <li class="type-map__item" data-type-id="P4"><span class="type-map__code">P4</span><span>Assess methodological practice</span></li>
+  <li class="type-map__item" data-type-id="P5"><span class="type-map__code">P5</span><span>Assess needs and priorities for methods research</span></li>
+  <li class="type-map__item" data-type-id="P6"><span class="type-map__code">P6</span><span>Propose a new method</span></li>
+  <li class="type-map__item" data-type-id="P7"><span class="type-map__code">P7</span><span>Evaluate a single method</span></li>
+  <li class="type-map__item" data-type-id="P8"><span class="type-map__code">P8</span><span>Compare methods</span></li>
+  <li class="type-map__item" data-type-id="P9"><span class="type-map__code">P9</span><span>Develop guidance for understanding and applying methods</span></li>
+  <li class="type-map__item" data-type-id="P10"><span class="type-map__code">P10</span><span>Develop reporting guidelines</span></li>
+  <li class="type-map__item" data-type-id="P11"><span class="type-map__code">P11</span><span>Develop quality assessment instruments</span></li>
+  <li class="type-map__item" data-type-id="P12"><span class="type-map__code">P12</span><span>Develop software and code</span></li>
+  <li class="type-map__item" data-type-id="P13"><span class="type-map__code">P13</span><span>Research the dissemination and implementation of methods</span></li>
+</ol>
+:::
+:::

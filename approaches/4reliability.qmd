@@ -1,12 +1,12 @@
 ---
-title: "4 Reliability and  agreement studies"
+title: "4 Reliability and agreement studies"
 link-citations: true
 ---
 
-Alternative labels: Multi-researcher same-method study
+Alternative labels: reproducibility as a special type of agreement study
 
-## Definition and features 
-These studies treat methods (such as risk of bias tools, software, or analysis plans) as instruments and involve multiple users (humans, teams, or artificial intelligences) who apply one method to the same set of cases (usually studies or datasets). Analyses assess consistency across applications: reliability studies assess how well ratings distinguish cases despite variability across raters, often using the intraclass correlation coefficient. Agreement studies assess the similarity of results across raters, often using kappa statistics or Bland–Altman plots. Reproducibility studies are a special case of agreement studies and assess whether independent teams can obtain the same results as the original study team by re-running the statistical workflow on the same data. 
+## Definition and features
+In reliability and agreement studies, researchers ask multiple users, teams, or artificial intelligence systems to apply the same method to the same set of cases, usually studies or datasets. Researchers may use an existing set of cases or create a new set specifically for the study. They then assess consistency across applications using measures of reliability, which show how well ratings distinguish cases across users, or measures of agreement, which show how similar ratings or results are across users. Reproducibility studies are a special case of agreement studies in which independent teams try to obtain the same results as the original study team by re-running the same statistical workflow on the same data.
 
 - A strength of these studies is that they quantify variability introduced by method users.
 - A challenge is that results depend on case difficulty and user experience, and consistency does not necessarily indicate correctness.

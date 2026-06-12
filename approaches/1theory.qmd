@@ -5,11 +5,11 @@ link-citations: true
 
 Alternative labels: 
 
-## Definition and features 
-Methodological research that reaches its conclusions through tightly applied theory such as mathematical derivation, proof, logic, philosophy of science, or specific theoretical frameworks such as directed acyclic graphs. 
+## Definition and features
+In theory-based methods research, researchers use tightly applied theory, such as mathematical derivation, proof, logic, philosophy of science, or specific theoretical frameworks, to answer a methodological research question.
 
-- Strengths include in-depth exploration of the structure and assumptions of methods. 
-- Limitations include unclear performance in practice. 
+- Strengths include in-depth exploration of the structure and assumptions of methods.
+- Limitations include unclear performance in practice.
 
 ::: {.callout-tip appearance="minimal" collapse="true"}
 ## Boundaries with related types

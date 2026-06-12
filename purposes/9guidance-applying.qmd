@@ -1,11 +1,11 @@
 ---
-title: "9 Develop guidance for applying methods"
+title: "9 Develop guidance for understanding and applying methods"
 link-citations: true
 ---
 Alternative labels: methods guidance; tutorial; best practice recommendations
 
-## Definition 
-These studies develop guidance to help health researchers or other interest holders understand and apply methods. The guidance may include conceptual explanations, examples, recommendations for or against specific methods, or tools that operationalize guidance aids such as decision algorithms, step-by-step tutorials, templates, or code for statistical software. The development process may combine multiple approaches of methods research.
+## Definition
+These studies aim to develop guidance that helps health researchers or other interest-holders understand, select, and apply methods. Guidance may include conceptual explanations, examples, recommendations for or against specific methods, or tools that operationalize the guidance, such as decision algorithms, step-by-step tutorials, templates, or code for statistical software.
 
 ## Typical approaches and corresponding examples 
 Approaches to develop methods guidance greatly vary and include: [Theory-based methods research](../approaches/1theory.qmd): Covariate adjustment in trials;[@VanLancker2024covariate] credibility criteria for subgroup effects, some criteria based on theoretical reasoning.[@Schandelmaier2020development]
