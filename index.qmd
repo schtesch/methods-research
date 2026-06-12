@@ -58,7 +58,7 @@ Collaborators on ongoing [consensus study](https://osf.io/4fxaz/overview):
 
 :::
 
-Browse the typology using the side bar or the following links:
+Browse the typology using the side bar, the [interactive figure](explore.qmd), or the links below:
 
 **Approaches**
 

@@ -64,6 +64,10 @@
   letter-spacing: -0.015em;
 }
 
+.type-map__column h2 .anchorjs-link {
+  display: none;
+}
+
 .type-map__column--approaches h2 {
   color: var(--approach);
   border-color: var(--approach);
