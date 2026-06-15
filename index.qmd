@@ -7,6 +7,8 @@ title: "About this initiative"
 Welcome! This website is under construction. It shows a draft of the new **Typology of Methods Research (TYPE-ME)** - a living resource for methods researchers who work in the context of health research and psychology. The typology is based on an [ongoing consensus study](https://osf.io/4fxaz/overview).
 
 ## The typology
+Browse the typology using the side bar or the interactive [overview figure](explore.qmd).
+
 
 ::: {.callout-tip appearance="minimal" collapse="true"}
 ## Why do we need TYPE-ME?
@@ -45,7 +47,7 @@ TYPE-ME organizes methodological research along two cross-cutting dimensions:
 * **Approach:** How do researchers conduct the methodological research?
 * **Purpose:** Why do researchers conduct the methodological research?
 
-The detailed typology includes 15 approach types and 13 purpose types. One approach can serve several purposes, and one purpose can draw on several approaches.
+The detailed typology includes 15 approach types and 13 purpose types. One approach can serve several purposes, and one purpose can draw on several approaches ([see overview figure](explore.qmd)).
 
 For each type, we provide a definition, possible labels, strengths and limitations, examples, and boundary notes where needed.
 :::
@@ -109,40 +111,3 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 ```
-
-Browse the typology using the side bar, the [interactive figure](explore.qmd), or the links below:
-
-**Approaches**
-
-- [1 Theory-based methods research](approaches/1theory.qmd)
-- [2 Simulation study](approaches/2simulation.qmd)
-- [3 Experimental analysis of real datasets](approaches/3real-datasets.qmd)
-- [4 Methodological randomized study](approaches/5randomized.qmd)
-- [5 Reliability and agreement studies](approaches/4reliability.qmd)
-- [6 Quantitative survey involving researchers and other interest-holders in health research](approaches/6survey.qmd)
-- [7 Qualitative study involving researchers or other interest-holders in health research](approaches/7qualitative.qmd)
-- [8 Consensus study among researchers or other interest-holders in health research](approaches/8consensus.qmd)
-- [9 Review of applied methods](approaches/9review-applied.qmd)
-- [10 Meta-epidemiological study](approaches/10meta-epi.qmd)
-- [11 Scoping review of methods research](approaches/11scoping-review.qmd)
-- [12 Qualitative synthesis of methods research](approaches/12qualitative-synthesis.qmd)
-- [13 Quantitative synthesis of methods research](approaches/13quantitative-synthesis.qmd)
-- [14 Methodological case report or series](approaches/14case-report.qmd)
-- [15 Informal approaches](approaches/15informal.qmd)
-
-
-**Purposes**
-
-- [1 Identify available methods](purposes/1identify-methods.qmd)
-- [2 Identify available methods research on a specific topic](purposes/2identify-mr.qmd)
-- [3 Summarize the results of methods research](purposes/3summarize-mr.qmd)
-- [4 Assess methodological practice](purposes/4assess-practice.qmd)
-- [5 Assess needs and priorities for methods research](purposes/5assess-needs-priorities.qmd)
-- [6 Propose a new method](purposes/6propose-method.qmd)
-- [7 Evaluate a single method](purposes/7evaluate-method.qmd)
-- [8 Compare two or more methods](purposes/8compare-methods.qmd)
-- [9 Develop guidance for understanding and applying methods](purposes/9guidance-applying.qmd)
-- [10 Develop reporting guidelines](purposes/10guidance-reporting.qmd)
-- [11 Develop quality assessment instruments](purposes/11guidance-assessing.qmd)
-- [12 Develop software and code](purposes/12software-code.qmd)
-- [13 Research the dissemination and implementation of methods](purposes/13implementation.qmd)
