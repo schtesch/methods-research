@@ -262,5 +262,11 @@
   },
   "impressum.qmd": {
     "impressum.html": "32548db6"
+  },
+  "explore.qmd": {
+    "explore.html": "326dafec"
+  },
+  "simplified.qmd": {
+    "simplified.html": "440bbd14"
   }
 }

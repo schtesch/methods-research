@@ -67,6 +67,7 @@ book:
         - purposes/12software-code.qmd
         - purposes/13implementation.qmd
 
+    - simplified.qmd
     - references.qmd
 
 format:
