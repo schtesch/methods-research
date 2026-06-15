@@ -11,7 +11,7 @@ Welcome! This website is under construction. It shows a draft of the new **Typol
 ::: {.callout-tip appearance="minimal" collapse="true"}
 ## Why do we need TYPE-ME?
 
-Health research journals publish many types of methodological research, but definitions, boundaries, and terminology remain unclear.
+The field of methodological research includes many study types, but their definitions, terminology, and boundaries remain unclear.
 
 This lack of clarity
 
@@ -68,7 +68,19 @@ Treat the types as archetypes, not as mutually exclusive boxes. A study may comb
 ::: {.callout-tip appearance="minimal" collapse="true"}
 ## How did we develop TYPE-ME?
 
-An international team of 11 methodologists developed TYPE-ME through repeated discussion, written feedback, and testing.
+An international team of 11 methodologists developed TYPE-ME through repeated discussion, written feedback, and testing. The team members were:
+
+* Stefan Schandelmaier
+* Malena Chiaborelli
+* Julian Hirt
+* Matthias Briel
+* Livia Puljak
+* Zachary Munn
+* Hanan Khalil
+* Dawid Pieper
+* Anne-Laure Boulesteix
+* Georg Heinze
+* Richard Hooper
 
 In two testing rounds, team members independently classified 52 methodological research articles from 26 journals. Testing helped us refine definitions and labels, clarify difficult boundaries, and document remaining disagreements.
 

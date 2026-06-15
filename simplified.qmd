@@ -1,14 +1,14 @@
 ---
-title: "Simplified and modified versions"
+title: "Modified and simplified versions"
 ---
 
 The detailed typology provides an analytic view of methodological research and emphasizes the broad spectrum of types in the field. It helps clarify concepts and terminology, distinguish types and subtypes, and provides a structured basis for discussion and evolution over time. Users should not treat the full typology as a mechanical classifier. The testing showed that not all methodological papers fit neatly into one type. Some papers combine several approaches, and others fall on continua between related types. This does not necessarily undermine the typology. Rather than treating each type as a mutually exclusive box, users can view the types as archetypes that clarify typical study designs, common purposes, and important boundaries. This archetypal view is especially useful for planning new MR, developing type-specific guidance, and discussing study design choices.
 
 Simplified versions may work better for broad classification and users can adapt the typology for different applications. For instance, when users want to broadly classify methodological papers, present the main types on a single slide for teaching, or focus on a selection of types, they may create a modified version by selecting specific types, combining related types, defining additional subtypes, or combining approaches and purposes dimensions.
 
-Table 4 provides an example of a highly condensed version that we developed based on the experience from the agreement study. We considered the 52 studies from the agreement study and first decided whether papers are more naturally defined by approach (e.g., simulation studies) or by purpose (e.g., methods guidance), and collapsed the two dimensions. We further grouped types based on conceptual similarity, especially the ones for which we saw most disagreements in the testing (e.g., different types of syntheses, experimental analysis of real datasets, and agreement and reliability studies). This resulted in a list with 10 categories that would capture 51 of the 52 papers, missing only one editorial which one could classify as "other", and avoid challenging distinctions (OSF link).
+The table below shows an example of a highly condensed version. We developed the version based on an agreement study on how to classify [52 methodological publications](https://osf.io/4fxaz/overview). To simplify the 2-dimensional typology, we first decided whether papers were more naturally defined by approach (e.g., simulation studies) or by purpose (e.g., methods guidance), and collapsed the two dimensions. We further grouped types based on conceptual similarity, especially the ones for which we saw most disagreements about how to classify them (e.g., different types of syntheses, experimental analysis of real datasets, and agreement and reliability studies). This resulted in a list with 10 categories.
 
-**Table 4: Example of a highly condensed version.**
+**Example of a highly condensed version.**
 
 |   | Methodological research types | Relationship to full typology |
 |---|-------------------------------|-------------------------------|
