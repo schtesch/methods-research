@@ -3,7 +3,7 @@ title: "7 Qualitative study"
 link-citations: true
 ---
 
-Alternative labels: involving researchers or other interest-holders in health research
+Alternative labels: interviews, focus groups, qualitative surveys, observation, or other specific qualitative approaches
 
 ## Definition and features
 In qualitative studies, researchers use interviews, focus groups, or other qualitative methods to collect information from smaller samples of researchers and other interest-holders on methodological issues. Researchers apply methods such as qualitative content analysis or thematic analysis. Important design features include the sampling strategy (such as convenience, purposive, or random sampling) and approaches to data saturation.

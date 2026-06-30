@@ -3,13 +3,13 @@ title: "8 Consensus study"
 link-citations: true
 ---
 
-Alternative labels: among researchers or other interest-holders in health research
+Alternative labels:
 
 ## Definition and features
 In consensus studies, researchers use Delphi surveys or structured discussion (such as the Nominal Group Technique) to involve researchers and other interest-holders and move them towards a shared position. They usually use a longitudinal design with multiple rounds of feedback, item ratings, or discussions.
 
-- Strengths include the structured synthesis of expert opinion and persuasiveness. 
-- Limitations include the dependency of panel composition and process design. 
+- Strengths include the structured synthesis of expert opinion and persuasiveness. Their credibility depends on process design, panel composition, and topic complexity.
+- They work best for issues that all panel members can understand well, and less well for complex issues that few participants can fully understand.
 
 ## Typical purposes and corresponding examples 
 [Assess needs and priorities for methods research](../purposes/5assess-needs-priorities.qmd): Delphi study to identify priorities for methods research.[@TudurSmith2014the]

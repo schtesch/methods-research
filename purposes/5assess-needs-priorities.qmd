@@ -12,7 +12,7 @@ These studies aim to assess the gaps and needs for future methods research, some
 
 [Consensus study](../approaches/8consensus.qmd): Delphi study to identify priorities for methods research.[@TudurSmith2014the]
 
-[Review of applied methods](../approaches/9review-applied.qmd): …
+[Review of applied methods](../approaches/9review-applied.qmd): Identify research needs in individual participant-data meta-analysis.[@Seidler2024state]
 
 ## Guidance
 - Guidance for understanding and applying methods: [REF]

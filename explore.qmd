@@ -1,5 +1,5 @@
 ---
-title: "Interactive overview figure"
+title: "Typology - interactive overview figure"
 subtitle: "Connections show common combinations. Click on a type for more information and real examples for the different combinations."
 page-layout: full
 toc: false
@@ -20,7 +20,7 @@ format:
 ## Approaches: How?
 
 <ol class="type-map__list" aria-label="Approaches">
-  <li class="type-map__item" data-type-id="A1"><span class="type-map__code">A1</span><span>Theory-based study</span></li>
+  <li class="type-map__item" data-type-id="A1"><span class="type-map__code">A1</span><span>Theory-based methods research</span></li>
   <li class="type-map__item" data-type-id="A2"><span class="type-map__code">A2</span><span>Simulation study</span></li>
   <li class="type-map__item" data-type-id="A3"><span class="type-map__code">A3</span><span>Experimental analysis of real datasets</span></li>
   <li class="type-map__item" data-type-id="A4"><span class="type-map__code">A4</span><span>Reliability and agreement study</span></li>
@@ -33,7 +33,7 @@ format:
   <li class="type-map__item" data-type-id="A11"><span class="type-map__code">A11</span><span>Scoping review of methods research</span></li>
   <li class="type-map__item" data-type-id="A12"><span class="type-map__code">A12</span><span>Qualitative synthesis of methods research</span></li>
   <li class="type-map__item" data-type-id="A13"><span class="type-map__code">A13</span><span>Quantitative synthesis of methods research</span></li>
-  <li class="type-map__item" data-type-id="A14"><span class="type-map__code">A14</span><span>Methodological case report or series</span></li>
+  <li class="type-map__item" data-type-id="A14"><span class="type-map__code">A14</span><span>Methodological case reports or case series</span></li>
   <li class="type-map__item" data-type-id="A15"><span class="type-map__code">A15</span><span>Informal approaches</span></li>
 </ol>
 :::

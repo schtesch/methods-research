@@ -8,6 +8,9 @@ Alternative labels: narrative approaches
 ## Definition and features
 In informal approaches, researchers propose, explain, discuss, or recommend methods without a formal methods research design. They may selectively cite methodological publications, rely on professional authority and persuasive narrative, integrate expert opinions without structured collaboration or formal consensus, or use theory, examples, or simulations to illustrate points rather than to answer a methodological research question.
 
+- Strengths include the flexibility to present methodological ideas efficiently.
+- A limitation is the reliance on selective evidence and author judgement.
+
 ## Typical purposes and corresponding examples 
 Examples for most purposes listed in Table 2 are abundant, including
 
