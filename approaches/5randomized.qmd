@@ -1,20 +1,22 @@
 ---
-title: "5 Methodological randomized study"
+title: "5 Methodological randomized studies"
 link-citations: true
 ---
 
-Alternative labels: methodological trial; randomized methodological comparison
+Terminology: methodological trial; randomized methodological comparison
 
 ## Definition and features
 In methodological randomized studies, researchers treat methods as interventions. They randomize individual humans (such as researchers, research participants, peer reviewers, or methods users) or groups of humans (such as study teams, consensus panels, or research environments) to apply, consider, or receive training in one or more alternative methods. They then measure outcomes such as effect estimates, study processes (such as recruitment or retention), or characteristics of study reports (such as clarity, completeness, or use of appropriate methods). This type includes randomized studies embedded within other studies.
 
-- A strength of randomised studies is that they allow causal conclusions about methodological interventions as humans understand and implement them under realistic conditions. 
+- A strength of randomized studies is that they allow causal conclusions about methodological interventions when humans apply or receive them.
 - A limitation is feasibility, especially when interventions target studies or research environments rather than individual researchers or study participants.
 
-## Typical purposes and corresponding examples 
-[Compare two or more methods](../purposes/8compare-methods.qmd): Does a central study team improve recruitment (study within a trial)?[@OtherOtherswat] Do different incentives affect investigators’ sharing of individual participant data (study within a review)?[@OtherOtherswar] Which version of an evidence table is easier to understand for guideline users?[@Carrasco-Labra2016improving] Does reminding peer reviewers of reporting items improve study reports?[@Speich2023reminding]
+## Typical objectives and corresponding examples
+[Compare methods](../objectives/8compare-methods.qmd): effect of personalised versus non-personalised invitation letters on trial recruitment (study within a trial);[@Thiblin2022the] effect of incentives on investigators' sharing of individual participant data (study within a review);[@Veroniki2019retrieval] effect of different table formats on guideline users' understanding;[@Carrasco-Labra2016improving] effect of reminding peer reviewers of reporting items on the quality of study reports.[@Speich2023reminding]
+
+[Develop guidance for understanding and applying methods](../objectives/9guidance-applying.qmd): effect of different table formats on users' understanding informed methods guidance.[@Carrasco-Labra2016improving]
 
 ## Guidance
-- Guidance for understanding and applying methods: [REF]
-- Guidance for reporting methods: [REF]
-- Guidance for assessing methods: [REF]
+- Guidance for understanding and applying methods: [to be added]
+- Guidance for reporting methods: [to be added]
+- Guidance for assessing methods: [to be added]

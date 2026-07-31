@@ -2,21 +2,21 @@
   "use strict";
 
   const relationships = {
-    A1: ["P6", "P9"],
-    A2: ["P6", "P7", "P8", "P9"],
-    A3: ["P8", "P9"],
-    A4: ["P7", "P8", "P11"],
-    A5: ["P8"],
-    A6: ["P4", "P5", "P13"],
-    A7: ["P4", "P7", "P9", "P13"],
-    A8: ["P5", "P9", "P10", "P11"],
-    A9: ["P1", "P4", "P5", "P7", "P9", "P10", "P11", "P13"],
-    A10: ["P8"],
-    A11: ["P1", "P2", "P9", "P10", "P11"],
-    A12: ["P3", "P9"],
-    A13: ["P3"],
-    A14: ["P7"],
-    A15: ["P3", "P6", "P9", "P12"]
+    A1: ["O6", "O9"],
+    A2: ["O6", "O7", "O8", "O9"],
+    A3: ["O8", "O9", "O14"],
+    A4: ["O7", "O8", "O11", "O14"],
+    A5: ["O8", "O9"],
+    A6: ["O4", "O5", "O13"],
+    A7: ["O4", "O7", "O9", "O13"],
+    A8: ["O5", "O9", "O10", "O11"],
+    A9: ["O1", "O4", "O5", "O7", "O9", "O10", "O11", "O13"],
+    A10: ["O8", "O9"],
+    A11: ["O1", "O2", "O9", "O10", "O11"],
+    A12: ["O3", "O9"],
+    A13: ["O3"],
+    A14: ["O7"],
+    A15: ["O3", "O6", "O9", "O12"]
   };
 
   const typePages = {
@@ -35,19 +35,20 @@
     A13: "approaches/13quantitative-synthesis.html",
     A14: "approaches/14case-report.html",
     A15: "approaches/15informal.html",
-    P1: "purposes/1identify-methods.html",
-    P2: "purposes/2identify-mr.html",
-    P3: "purposes/3summarize-mr.html",
-    P4: "purposes/4assess-practice.html",
-    P5: "purposes/5assess-needs-priorities.html",
-    P6: "purposes/6propose-method.html",
-    P7: "purposes/7evaluate-method.html",
-    P8: "purposes/8compare-methods.html",
-    P9: "purposes/9guidance-applying.html",
-    P10: "purposes/10guidance-reporting.html",
-    P11: "purposes/11guidance-assessing.html",
-    P12: "purposes/12software-code.html",
-    P13: "purposes/13implementation.html"
+    O1: "objectives/1identify-methods.html",
+    O2: "objectives/2identify-mr.html",
+    O3: "objectives/3summarize-mr.html",
+    O4: "objectives/4assess-practice.html",
+    O5: "objectives/5assess-needs-priorities.html",
+    O6: "objectives/6propose-method.html",
+    O7: "objectives/7evaluate-method.html",
+    O8: "objectives/8compare-methods.html",
+    O9: "objectives/9guidance-applying.html",
+    O10: "objectives/10guidance-reporting.html",
+    O11: "objectives/11guidance-assessing.html",
+    O12: "objectives/12software-code.html",
+    O13: "objectives/13implementation.html",
+    O14: "objectives/14variability.html"
   };
 
   const map = document.querySelector("#type-map");
@@ -77,14 +78,14 @@
   function createPaths() {
     const fragment = document.createDocumentFragment();
 
-    Object.entries(relationships).forEach(([approach, purposes]) => {
-      purposes.forEach((purpose) => {
+    Object.entries(relationships).forEach(([approach, objectives]) => {
+      objectives.forEach((objective) => {
         const path = document.createElementNS("http://www.w3.org/2000/svg", "path");
         path.classList.add("type-map__path");
         path.dataset.approach = approach;
-        path.dataset.purpose = purpose;
+        path.dataset.objective = objective;
         fragment.append(path);
-        paths.set(`${approach}-${purpose}`, path);
+        paths.set(`${approach}-${objective}`, path);
       });
     });
 
@@ -97,11 +98,11 @@
 
     paths.forEach((path) => {
       const approach = items.get(path.dataset.approach).getBoundingClientRect();
-      const purpose = items.get(path.dataset.purpose).getBoundingClientRect();
+      const objective = items.get(path.dataset.objective).getBoundingClientRect();
       const x1 = approach.right - mapRect.left;
       const y1 = approach.top + approach.height / 2 - mapRect.top;
-      const x2 = purpose.left - mapRect.left;
-      const y2 = purpose.top + purpose.height / 2 - mapRect.top;
+      const x2 = objective.left - mapRect.left;
+      const y2 = objective.top + objective.height / 2 - mapRect.top;
       const bend = Math.max((x2 - x1) * 0.46, 40);
 
       path.setAttribute(
@@ -124,7 +125,7 @@
 
     return new Set(
       Object.entries(relationships)
-        .filter(([, purposes]) => purposes.includes(id))
+        .filter(([, objectives]) => objectives.includes(id))
         .map(([approach]) => approach)
     );
   }
@@ -150,7 +151,7 @@
     paths.forEach((path) => {
       const active =
         path.dataset.approach === id ||
-        path.dataset.purpose === id;
+        path.dataset.objective === id;
       path.classList.toggle("is-active", active);
       path.classList.toggle("is-muted", !active);
     });

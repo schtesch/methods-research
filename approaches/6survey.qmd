@@ -1,22 +1,22 @@
 ---
-title: "6 Quantitative survey"
+title: "6 Quantitative surveys"
 link-citations: true
 ---
 
-Alternative labels:
-
 ## Definition and features
-In quantitative surveys, researchers use questionnaires to collect experiences, opinions, or feedback from larger samples of researchers and other interest-holders on methodological issues. They typically use random or stratified sampling to maximise representativeness. Researchers usually analyze responses quantitatively; for open-ended questions, they may first classify responses qualitatively and then analyze them quantitatively.
+In quantitative surveys, researchers use questionnaires to collect experiences, opinions, or feedback from researchers and other interest-holders on methodological issues. They typically use random or stratified sampling to maximize representativeness. Researchers usually analyze responses quantitatively; for open-ended questions, they may first classify responses qualitatively and then analyze them quantitatively.
 
-- A strength is possibillity to approach a large number of participants. 
+- A strength is the possibility to collect structured information from a large number of participants.
 - Key challenges include selection bias arising from low response rates and missing data.
 
-## Typical purposes and corresponding examples 
-[Assess needs and priorities for methods research](../purposes/5assess-needs-priorities.qmd): Survey to identify priorities for retention research;[@Kearney2017identifying] survey to identify priorities for methods research in the context of global health;[@Rosala-Hallas2018global] survey to identify solutions for the reproducibility crisis.[@Baker2016is] 
+## Typical objectives and corresponding examples
+[Assess methodological practice](../objectives/4assess-practice.qmd): survey on the current practice of involving patients in statistical research.[@Abell2023incorporation]
 
-[Research the dissemination and implementation of methods](../purposes/13implementation.qmd): Survey of researchers to identify barriers to the implementation of new statistical methods.[@Pullenayegum2016knowledge]
+[Assess needs and priorities for methods research](../objectives/5assess-needs-priorities.qmd): survey to identify priorities for retention research;[@Kearney2017identifying] survey to identify priorities for methods research in the context of global health;[@Rosala-Hallas2018global] survey on the needs for methodological guidance on blinding in complex-intervention trials.[@Yonis2025navigating]
+
+[Research the dissemination and implementation of methods](../objectives/13implementation.qmd): survey of researchers to identify barriers to the implementation of new statistical methods;[@Pullenayegum2016knowledge] survey of investigators in sports medicine to understand why they did not use a specific reporting guideline.[@Hansford2024barriers]
 
 ## Guidance
-- Guidance for understanding and applying methods: [REF]
-- Guidance for reporting methods: [REF]
-- Guidance for assessing methods: [REF]
+- Guidance for understanding and applying methods: [to be added]
+- Guidance for reporting methods: [to be added]
+- Guidance for assessing methods: [to be added]

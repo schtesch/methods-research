@@ -1,0 +1,23 @@
+---
+title: "13 Research the dissemination and implementation of methods"
+link-citations: true
+---
+
+Terminology: methodological implementation science
+
+## Definition
+These studies aim to understand or improve the dissemination, implementation, or de-implementation of methods in health research practice. They assess current implementation, identify barriers and facilitators, develop dissemination or implementation strategies, or test the effectiveness of such strategies.
+
+## Typical approaches and corresponding examples
+This type of methods research is still rare. Examples come mostly from areas of reporting guidelines and core outcome sets. Different approaches are possible:
+
+[Quantitative surveys](../approaches/6survey.qmd): survey of researchers to identify barriers to the implementation of new statistical methods;[@Pullenayegum2016knowledge] survey of investigators in sports medicine to understand why they did not use a specific reporting guideline.[@Hansford2024barriers]
+
+[Qualitative studies](../approaches/7qualitative.qmd): interviews with trial investigators to understand why they did not use existing core outcome sets.[@Hughes2022in-depth]
+
+[Reviews of applied or planned methods](../approaches/9review-applied.qmd): proportion of trials using core outcome sets.[@Matvienko-Sikar2022use]
+
+## Guidance
+- Guidance for understanding and applying methods: King 2019[@King2019using]
+- Guidance for reporting methods: [to be added]
+- Guidance for assessing methods: [to be added]

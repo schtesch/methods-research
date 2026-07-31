@@ -1,0 +1,32 @@
+---
+title: "8 Compare methods"
+link-citations: true
+---
+
+Terminology: benchmarking methods
+
+## Definition
+These studies aim to compare two or more methods with respect to precision, bias, feasibility, acceptance, variability introduced by users, impact on study results, or other outcomes.
+
+::: {.callout-tip appearance="minimal" collapse="true"}
+## Boundaries with related objectives
+[7 Evaluate a single method](7evaluate-method.qmd): When researchers designate one of the comparators as a reference standard, the focus shifts from comparing methods to evaluating a single method against the reference standard.
+
+[14 Assess variability of results across methodological choices](14variability.qmd): In O8, researchers designate specific methods and compare their performance. When researchers do not designate specific methods and instead study the spread of results across a space of methodological choices, the objective becomes O14.
+:::
+
+## Typical approaches and corresponding examples
+[Simulation studies](../approaches/2simulation.qmd): comparing different methods for diagnostic meta-analyses with sparse data;[@Takwoingi2017performance] comparing different methods for modeling multi-state disease progression.[@Huszti2011comparison]
+
+[Experimental analyses of real datasets](../approaches/3real-datasets.qmd): comparing different survival prediction methods applied to multi-omics data;[@Herrmann2021large-scale] comparing random forest and logistic regression across 243 datasets;[@Couronne2018random] comparing researchers against machines for data extraction for systematic reviews.[@MotzfeldtJensen2025chatgpt-4o]
+
+[Methodological randomized studies](../approaches/5randomized.qmd): effect of personalised versus non-personalised invitation letters on trial recruitment (study within a trial);[@Thiblin2022the] effect of incentives on investigators' sharing of individual participant data (study within a review);[@Veroniki2019retrieval] effect of different table formats on guideline users' understanding;[@Carrasco-Labra2016improving] effect of reminding peer reviewers of reporting items on the quality of study reports.[@Speich2023reminding]
+
+[Reliability and agreement studies](../approaches/4reliability.qmd): compare inter-rater agreement between the ROBIS and AMSTAR risk-of-bias tools.[@Buhn2017the]
+
+[Meta-epidemiological studies](../approaches/10meta-epi.qmd): comparison of treatment effects between trials with and without adequate allocation concealment or blinding.[@Wood2008empirical]
+
+## Guidance
+- Guidance for understanding and applying methods: Boulesteix 2018[@Boulesteix2018on], Friedrich 2024[@Friedrich2024on]
+- Guidance for reporting methods: [to be added]
+- Guidance for assessing methods: [to be added]

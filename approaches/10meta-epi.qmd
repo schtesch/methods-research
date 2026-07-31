@@ -1,41 +1,42 @@
 ---
-title: "10 Meta-epidemiological study"
+title: "10 Meta-epidemiological studies"
 link-citations: true
 ---
 
-Alternative labels: analytical study of applied methods
+Terminology: analytical study of applied methods
 
 ## Definition and features
-In meta-epidemiological studies, researchers examine how variation in methodological practice relates to variation in study results or other study-level outcomes. They draw on similar sources as reviews of applied methods, but treat methodological features as exposures or covariates and study results as outcomes. They often use stratified, matched, or complete samples of studies that applied different methods and analyze associations with meta-regression or multi-level modelling.
+In meta-epidemiological studies, researchers examine how variation in methodological practice relates to variation in study results or other study-level outcomes. They draw on similar sources as reviews of applied or planned methods, but treat methodological features as exposures or covariates and study results as outcomes. They often use stratified, matched, or complete samples of studies that applied different methods and analyze associations with meta-regression or multi-level modeling.
 
-- A strength is that these studies reflect real-world applications of methods, including human error. 
-- A limitation is the high risk of confounding, which can arise at multiple levels, including differences in study populations, research questions, or measurement procedures.
+- A strength is that these studies reflect real-world applications of methods, including human error.
+- A limitation is the high risk of confounding, which can arise at multiple levels, including differences in study populations, research questions, measurement procedures, or other study features.
 
 ::: {.callout-tip appearance="minimal" collapse="true"}
 ## Boundaries with related types
-
-Boundary with A9 reviews of applied methods. Both examine applied studies. A9 describes methodological practice or quality; A10 examines whether methodological features relate to study results.
+Boundary with A9 reviews of applied or planned methods. Both examine applied studies. A9 describes methodological practice or quality; A10 examines whether methodological features relate to study results.
 
 **Similarities and differences between literature-based types:**
 
-| Characteristic | [Review of applied methods](9review-applied.qmd) | [Meta-epidemiological study](10meta-epi.qmd) | [Scoping review of methods research](11scoping-review.qmd) | [Qualitative synthesis of methods research](12qualitative-synthesis.qmd) | [Quantitative synthesis of methods research](13quantitative-synthesis.qmd) |
+| Characteristic | [Reviews of applied or planned methods](9review-applied.qmd) | [Meta-epidemiological studies](10meta-epi.qmd) | [Scoping reviews of methods research](11scoping-review.qmd) | [Qualitative syntheses of methods research](12qualitative-synthesis.qmd) | [Quantitative syntheses of methods research](13quantitative-synthesis.qmd) |
 | :---- | :---- | :---- | :---- | :---- | :---- |
-| Typical purpose | Assess methodological practice or quality | Assess impact of methodological characteristics on study results | Identify available methods or methods research on a specific topic | Synthesize findings of methods qualitatively | Synthesize findings of methods research quantitatively |
-| Included publications/ unit of analysis | Individual applied studies  | Individual applied studies  | Methods research papers | Methods research papers | Methods research papers |
-| Sampling strategy | Random, purposeful, stratified, matched, complete^a^  | Stratified, matched, complete^a^ | Complete^a^   | Complete^a^,  purposeful | Complete^a^ |
-| Typical analytic approach | Qualitative categorisation and descriptive statistics | Meta-regression | Qualitative categorisation and descriptive statistics | Qualitative synthesis | Meta-analysis |
-| Role of quality assessment  | Often as an outcome  | Possible as an exposure or covariable | Usually not performed | Step in synthesis process^b^ | Step in synthesis process^b^ |
+| Typical objective | Assess methodological practice or quality | Assess impact of methodological characteristics on study results | Identify available methods or methods research on a specific topic | Synthesize findings of methods research qualitatively | Synthesize findings of methods research quantitatively |
+| Included publications/ unit of analysis | Individual applied studies | Individual applied studies | Methods research papers | Methods research papers | Methods research papers |
+| Sampling strategy | Random, purposeful, stratified, matched, complete^a^ | Stratified, matched, complete^a^ | Complete^a^ | Complete^a^, purposeful | Complete^a^ |
+| Typical analytic approach | Qualitative categorization and descriptive statistics | Meta-regression or multi-level modeling | Categorization and descriptive statistics | Qualitative synthesis | Meta-analysis |
+| Role of quality assessment | Often as an outcome | Possible as an exposure or covariable | Usually not performed | Step in synthesis process^b^ | Step in synthesis process^b^ |
 | Analogy in health research | Observational study (prevalence) | Observational study (exposure-outcome) | Scoping review | Qualitative evidence synthesis | Quantitative evidence synthesis|
-:::{.small}
+::: {.small}
 ^a^Usually based on a comprehensive search process that aims to find all eligible publications as completely as possible.
 ^b^Quality criteria currently remain unclear for most types of methods research.
 :::
 :::
 
-## Typical purposes and corresponding examples 
-[Compare two or more methods](../purposes/8compare-methods.qmd): influence of trial sample size on treatment effects;[@Dechartres2013influence] Association between use of reporting guidelines and quality of reporting;[@Turner2012does] Influence of study precision on magnitude of effects in network meta-analyses.[@Chaimani20132013effects]
+## Typical objectives and corresponding examples
+[Compare methods](../objectives/8compare-methods.qmd): comparison of treatment effects between trials with and without adequate allocation concealment or blinding.[@Wood2008empirical]
+
+[Develop guidance for understanding and applying methods](../objectives/9guidance-applying.qmd): effects of rapid-review shortcuts informed Cochrane guidance for conducting rapid reviews.[@Garritty2021cochrane]
 
 ## Guidance
-- Guidance for understanding and applying methods: [REF]
-- Guidance for reporting methods: [REF]
-- Guidance for assessing methods: [REF]
+- Guidance for understanding and applying methods: [to be added]
+- Guidance for reporting methods: [to be added]
+- Guidance for assessing methods: [to be added]

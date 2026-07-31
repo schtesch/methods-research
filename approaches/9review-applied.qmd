@@ -1,55 +1,54 @@
 ---
-title: "9 Review of applied methods"
+title: "9 Reviews of applied or planned methods"
 link-citations: true
 ---
 
-Alternative labels include methodological studies,[@Khalil2023guidance; @Mbuagbaw2020a] meta-research,[@Ioannidis2015meta-research] research-on-research, systematic surveys, and scoping review, among many other terms used in practice,[@MatosSilva2025methodological] with little consensus.[@MatosSilva2025limited]
+Terminology: methodological studies,[@Khalil2023guidance; @Mbuagbaw2020a] meta-research,[@Ioannidis2015meta-research] research-on-research, systematic surveys, and scoping review, among many other terms used in practice,[@MatosSilva2025methodological] with little consensus.[@MatosSilva2025limited]
 
 ## Definition and features
-In reviews of applied methods, researchers examine how other researchers implement methods in health research or which challenges they encounter. They systematically analyze studies or other applications of methods (such as guideline panels), using sources such as journal articles, trial registries, or preprints. Sampling strategies vary and may be random (to assess prevalence), purposeful (to focus on high-impact studies), stratified (to represent subgroups), matched (such as protocols with corresponding publications), or complete. Reviews of applied methods may also be nested within systematic reviews of health research. Researchers extract data with pre-specified forms (for example, based on existing quality instruments) or use qualitative methods to derive categories. They typically use descriptive statistics to report outcomes such as prevalence of methodological features, appropriate use, or transparent reporting.
+In reviews of applied or planned methods, researchers examine how other researchers implement methods in health research or which challenges they encounter. They systematically analyze studies or other applications of methods (such as guideline panels), using sources such as journal articles, trial registries, or preprints. Sampling strategies vary and may be random (to assess prevalence), purposeful (to focus on high-impact studies), stratified (to represent subgroups), matched (such as protocols with corresponding publications), or complete. Reviews of applied or planned methods may also be nested within systematic reviews of health research. Researchers extract data with pre-specified forms (for example, based on existing quality instruments) or use qualitative methods to derive categories. They typically use descriptive statistics to report outcomes such as prevalence of methodological features, appropriate use, or transparent reporting.
 
-- A strength is that these studies reflect realistic practice, including human error. 
-- Challenges arise from sampling and reporting issues. 
+- A strength is that these studies reflect realistic practice, including human error.
+- Challenges arise from sampling and reporting issues.
 
 ::: {.callout-tip appearance="minimal" collapse="true"}
 ## Boundaries with related types
-
 Boundary with A10 meta-epidemiological studies. Both examine applied studies. A9 describes methodological practice, reporting, or quality; A10 examines whether methodological features relate to study results.
 
 **Similarities and differences between literature-based types:**
 
-| Characteristic | [Review of applied methods](9review-applied.qmd) | [Meta-epidemiological study](10meta-epi.qmd) | [Scoping review of methods research](11scoping-review.qmd) | [Qualitative synthesis of methods research](12qualitative-synthesis.qmd) | [Quantitative synthesis of methods research](13quantitative-synthesis.qmd) |
+| Characteristic | [Reviews of applied or planned methods](9review-applied.qmd) | [Meta-epidemiological studies](10meta-epi.qmd) | [Scoping reviews of methods research](11scoping-review.qmd) | [Qualitative syntheses of methods research](12qualitative-synthesis.qmd) | [Quantitative syntheses of methods research](13quantitative-synthesis.qmd) |
 | :---- | :---- | :---- | :---- | :---- | :---- |
-| Typical purpose | Assess methodological practice or quality | Assess impact of methodological characteristics on study results | Identify available methods or methods research on a specific topic | Synthesize findings of methods qualitatively | Synthesize findings of methods research quantitatively |
-| Included publications/ unit of analysis | Individual applied studies  | Individual applied studies  | Methods research papers | Methods research papers | Methods research papers |
-| Sampling strategy | Random, purposeful, stratified, matched, complete^a^  | Stratified, matched, complete^a^ | Complete^a^   | Complete^a^,  purposeful | Complete^a^ |
-| Typical analytic approach | Qualitative categorisation and descriptive statistics | Meta-regression | Qualitative categorisation and descriptive statistics | Qualitative synthesis | Meta-analysis |
-| Role of quality assessment  | Often as an outcome  | Possible as an exposure or covariable | Usually not performed | Step in synthesis process^b^ | Step in synthesis process^b^ |
+| Typical objective | Assess methodological practice or quality | Assess impact of methodological characteristics on study results | Identify available methods or methods research on a specific topic | Synthesize findings of methods research qualitatively | Synthesize findings of methods research quantitatively |
+| Included publications/ unit of analysis | Individual applied studies | Individual applied studies | Methods research papers | Methods research papers | Methods research papers |
+| Sampling strategy | Random, purposeful, stratified, matched, complete^a^ | Stratified, matched, complete^a^ | Complete^a^ | Complete^a^, purposeful | Complete^a^ |
+| Typical analytic approach | Qualitative categorization and descriptive statistics | Meta-regression or multi-level modeling | Categorization and descriptive statistics | Qualitative synthesis | Meta-analysis |
+| Role of quality assessment | Often as an outcome | Possible as an exposure or covariable | Usually not performed | Step in synthesis process^b^ | Step in synthesis process^b^ |
 | Analogy in health research | Observational study (prevalence) | Observational study (exposure-outcome) | Scoping review | Qualitative evidence synthesis | Quantitative evidence synthesis|
-:::{.small}
+::: {.small}
 ^a^Usually based on a comprehensive search process that aims to find all eligible publications as completely as possible.
 ^b^Quality criteria currently remain unclear for most types of methods research.
 :::
 :::
 
-## Typical purposes and corresponding examples 
-[Identify available methods](../purposes/1identify-methods.qmd): types of initial data analysis in observational studies.[@Huebner2020hidden] 
+## Typical objectives and corresponding examples
+[Identify available methods](../objectives/1identify-methods.qmd): types of initial data analysis in observational studies.[@Huebner2020hidden]
 
-[Assess methodological practice](../purposes/4assess-practice.qmd): quality and reporting of prediction models for COVID-19.[@Wynants2020prediction]
+[Assess methodological practice](../objectives/4assess-practice.qmd): quality and reporting of prediction models for COVID-19;[@Wynants2020prediction] construction and application of directed acyclic graphs in leading medical journals.[@Deng2026construction]
 
-[Assess needs and priorities for methods research](../purposes/5assess-needs-priorities.qmd): …
+[Assess needs and priorities for methods research](../objectives/5assess-needs-priorities.qmd): conduct of individual participant-data meta-analysis.[@Seidler2026state]
 
-[Evaluate a single method](../purposes/7evaluate-method.qmd): Quality and reporting of prediction models for COVID-19.[@Wynants2020prediction] Quality and reporting of individual-participant data meta-analysis (nested within a scoping review of such studies).[@Seidler2024state]
+[Evaluate a single method](../objectives/7evaluate-method.qmd): concordance of target trial emulations with benchmark randomized controlled trials.[@Wang2026concordance]
 
-[Develop guidance for understanding and applying methods](../purposes/9guidance-applying.qmd): recommendations for the use of directed acyclic graphs (DAGs);[@Tennant2021use] Using the nominal group technique for eliciting survey items.[@Harb2021methodological]
+[Develop guidance for understanding and applying methods](../objectives/9guidance-applying.qmd): recommendations for the use of directed acyclic graphs (DAGs);[@Tennant2021use] using the nominal group technique for eliciting survey items.[@Harb2021methodological]
 
-[Develop reporting guidelines](../purposes/10guidance-reporting.qmd): Review of observational studies emulating a target trial to inform the TARGET reporting guideline.[@Cashin2025transparent]
+[Develop reporting guidelines](../objectives/10guidance-reporting.qmd): review of observational studies emulating a target trial to inform the TARGET reporting guideline.[@Cashin2025transparent]
 
-[Develop quality assessment instruments](../purposes/11guidance-assessing.qmd): review practice of assessing risk of bias due to missing evidence in systematic reviews to inform risk-of-bias tool.[@Page2023rob-me]
+[Develop quality assessment instruments](../objectives/11guidance-assessing.qmd): review practice of assessing risk of bias due to missing evidence in systematic reviews to inform risk-of-bias tool.[@Page2023rob-me]
 
-[Research the dissemination and implementation of methods](../purposes/13implementation.qmd): proportion of trials using core outcome sets.[@Matvienko-Sikar2022use]
+[Research the dissemination and implementation of methods](../objectives/13implementation.qmd): proportion of trials using core outcome sets.[@Matvienko-Sikar2022use]
 
 ## Guidance
-- Guidance for understanding and applying methods: [REF]
-- Guidance for reporting methods: [REF]
-- Guidance for assessing methods: [REF]
+- Guidance for understanding and applying methods: [to be added]
+- Guidance for reporting methods: [to be added]
+- Guidance for assessing methods: [to be added]

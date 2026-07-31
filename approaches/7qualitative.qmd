@@ -1,26 +1,26 @@
 ---
-title: "7 Qualitative study"
+title: "7 Qualitative studies"
 link-citations: true
 ---
 
-Alternative labels: interviews, focus groups, qualitative surveys, observation, or other specific qualitative approaches
+Terminology: interviews, focus groups, qualitative surveys, observation, or other specific qualitative approaches
 
 ## Definition and features
 In qualitative studies, researchers use interviews, focus groups, or other qualitative methods to collect information from smaller samples of researchers and other interest-holders on methodological issues. Researchers apply methods such as qualitative content analysis or thematic analysis. Important design features include the sampling strategy (such as convenience, purposive, or random sampling) and approaches to data saturation.
 
-- Strengths include the focus on participants and explanatory depth. 
-- Key challenges include limited generalizability due to small sample sizes and the influence of the investigators. 
+- Strengths include the focus on participants and explanatory depth.
+- Key challenges include limited generalizability due to small sample sizes and the influence of the investigators.
 
-## Typical purposes and corresponding examples 
-[Assess methodological practice](../purposes/4assess-practice.qmd): Interviews to understand the reasons for non-reporting of outcomes.[@Smyth2011frequency]
+## Typical objectives and corresponding examples
+[Assess methodological practice](../objectives/4assess-practice.qmd): interviews to understand the reasons for non-reporting of outcomes.[@Smyth2011frequency]
 
-[Evaluate a single method](../purposes/7evaluate-method.qmd): Focus group addressing the clarity of plain language recommendations in guidelines;[@Santesso2022focus] Interviews to test the face validity of a quality assessment instrument.[@Schandelmaier2020development]
+[Evaluate a single method](../objectives/7evaluate-method.qmd): focus group addressing the clarity of plain language recommendations in guidelines;[@Santesso2022focus] interviews to test the face validity of a quality assessment instrument.[@Schandelmaier2020development]
 
-[Develop guidance for understanding and applying methods](../purposes/9guidance-applying.qmd): Q-methodology, focus groups, content analysis, and workshops to produce guidance on creating summaries for trial participants.[@Bruhn2022what]
+[Develop guidance for understanding and applying methods](../objectives/9guidance-applying.qmd): Q-methodology, focus groups, content analysis, and workshops to produce guidance on creating summaries for trial participants.[@Bruhn2022what]
 
-[Research the dissemination and implementation of methods](../purposes/13implementation.qmd): Interviews with trial investigators to understand why they did not use existing core outcome sets.[@Hughes2022in-depth]
+[Research the dissemination and implementation of methods](../objectives/13implementation.qmd): interviews with trial investigators to understand why they did not use existing core outcome sets.[@Hughes2022in-depth]
 
 ## Guidance
-- Guidance for understanding and applying methods: [REF]
-- Guidance for reporting methods: [REF]
-- Guidance for assessing methods: [REF]
+- Guidance for understanding and applying methods: [to be added]
+- Guidance for reporting methods: [to be added]
+- Guidance for assessing methods: [to be added]

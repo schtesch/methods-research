@@ -1,27 +1,42 @@
 ---
-title: "3 Experimental analysis of real datasets"
+title: "3 Experimental analyses of real datasets"
 link-citations: true
 ---
 
-Alternative labels: sometimes called benchmarking study (which we record under purpose as P8)
+Terminology: sometimes called benchmarking study (which we record under objective as O8); multiverse studies as a variant
 
 ## Definition and features
-In experimental analyses of real datasets, researchers apply methods to datasets from real studies, often from published studies or repositories. They typically compare two or more methods regarding precision, bias, or changes in study results, although some studies evaluate one method across several datasets.
+In experimental analyses of real datasets, researchers apply methods to datasets from real studies, often from published studies or repositories. They typically compare two or more methods regarding precision or changes in study results, although some studies evaluate one method across several datasets. In the variant of multiverse studies, researchers vary several, often sequential methodological choices (for example, first how to handle missing values, second how to deal with influential points, third which analytical model to apply, and fourth which sensitivity analyses to run) and combine the options available at each step, so that all combinations together form the multiverse of possible methodological strategies.
 
-- A strength is that the data retain real-world complexity, including variability, measurement error, or missing values
-- A remaining limitation is that such studies do not investigate variation and errors arising from humans performing the analysis.
+- A strength is that the data retain real-world complexity, including variability, measurement error, or missing values.
+- A limitation is that such studies usually do not capture variation that arises when different humans apply the methods.
+- When no accepted reference standard exists, they can show that methods disagree but not which method is correct.
+- The number of considered real datasets is typically limited, so the results are not necessarily generalizable to other datasets.
 
-::: {.callout-tip appearance=”minimal” collapse=”true”}
+::: {.callout-tip appearance="minimal" collapse="true"}
 ## Boundaries with related types
-[Reliability and agreement studies](4reliability.qmd): Both may assess agreement. The key difference is that experimental analyses assess agreement between multiple methods applied by one person or team, while reliability and agreement studies assess agreement between multiple people applying the same method.
+[Reliability and agreement studies](4reliability.qmd): Both may assess agreement. The key difference is the source of deliberate variation: experimental analyses vary the methods, applied by one person or team, while reliability and agreement studies vary the people, who apply the same method or, in many-analyst studies, self-chosen approaches.
 
-[Case report or series](14case-report.qmd) and [informal approaches](15informal.qmd): All may use a single dataset and the label “case study”. Key differences are that A3 re-analyzes an existing dataset to answer a general methodological question, A14 discusses methodological issues that occurred in a specific study, and A15 uses datasets or studies to illustrate methods.
+[Case report or series](14case-report.qmd) and [informal approaches](15informal.qmd): All may use a single dataset and the label "case study". Key differences are that A3 re-analyzes an existing dataset to answer a general methodological question, A14 discusses methodological issues that occurred in a specific study, and A15 uses datasets or studies to illustrate methods.
 :::
 
-## Typical purposes and corresponding examples 
-[Compare two or more methods](../purposes/8compare-methods.qmd): different survival prediction methods applied to multi-omics data;[@Herrmann2021large-scale] Comparing random forest and logistic regression across 243 datasets;[@Couronne2018random] agreement between traditional and prompt-based data extraction using the dataset of one systematic review.[@MotzfeldtJensen2025chatgpt-4o]
+::: {.callout-tip appearance="minimal" collapse="true"}
+## A remaining disagreement: separate type or variant of experimental analyses?
+Our group did not resolve whether [reliability and agreement studies](4reliability.qmd) represent a separate type or a variation of experimental analyses of real datasets.
+
+Arguments for combining them included the difficulty of distinguishing the types during testing, the fact that both often involve existing datasets, and the possibility that both can compare methods. Arguments for separating them included that reliability and agreement studies deliberately involve different users as a specific design element, usually focus on a single method rather than compare different methods, and may create new rather than use existing datasets.
+
+We report this disagreement because users may need judgment when classifying studies that fall between the two types.
+:::
+
+## Typical objectives and corresponding examples
+[Compare methods](../objectives/8compare-methods.qmd): different survival prediction methods applied to multi-omics data;[@Herrmann2021large-scale] comparing random forest and logistic regression across 243 datasets;[@Couronne2018random] agreement between traditional and prompt-based data extraction using the dataset of one systematic review.[@MotzfeldtJensen2025chatgpt-4o]
+
+[Develop guidance for understanding and applying methods](../objectives/9guidance-applying.qmd): machine learning applied to datasets of completed reviews to establish performance expectations for title and abstract screening.[@Hamel2021guidance]
+
+[Assess variability of results across methodological choices](../objectives/14variability.qmd): variation of observational mortality associations across many model specifications ("vibration of effects");[@Patel2015assessment] variation of observational associations across analytical choices ("vibration of effects");[@Klau2021examining] spread of pooled effect estimates across many meta-analytic specifications ("multiverse").[@Plessen2023exploring]
 
 ## Guidance
-- Understanding and applying experimental analyses of real datasets: Weber 2019(@Weber2019essential), Van Mechelen 2023[@VanMechelen2023a]
-- Reporting experimental analyses of real datasets: NA
-- Assessing experimental analyses of real datasets: NA
+- Guidance for understanding and applying methods: Weber 2019[@Weber2019essential], Van Mechelen 2023[@VanMechelen2023a]
+- Guidance for reporting methods: None identified
+- Guidance for assessing methods: None identified

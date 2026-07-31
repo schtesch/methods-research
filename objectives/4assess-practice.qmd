@@ -1,0 +1,24 @@
+---
+title: "4 Assess methodological practice"
+link-citations: true
+---
+
+## Definition
+These studies aim to describe the use of methods in practice, often with an intention to highlight good or poor practice.
+
+::: {.callout-tip appearance="minimal" collapse="true"}
+## Boundaries with related objectives
+[14 Assess variability of results across methodological choices](14variability.qmd): O4 describes which methods researchers use in practice, whereas O14 quantifies how much results change when those choices vary.
+:::
+
+## Typical approaches and corresponding examples
+[Quantitative surveys](../approaches/6survey.qmd): assess current practice of involving patients in statistical research.[@Abell2023incorporation]
+
+[Qualitative studies](../approaches/7qualitative.qmd): interviews to understand the reasons for non-reporting of outcomes.[@Smyth2011frequency]
+
+[Reviews of applied or planned methods](../approaches/9review-applied.qmd): quality and reporting of prediction models for COVID-19;[@Wynants2020prediction] construction and application of directed acyclic graphs in leading medical journals.[@Deng2026construction]
+
+## Guidance
+- Guidance for understanding and applying methods: [to be added]
+- Guidance for reporting methods: [to be added]
+- Guidance for assessing methods: [to be added]

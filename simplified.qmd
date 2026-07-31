@@ -1,24 +1,32 @@
 ---
-title: "Modified and simplified versions"
+title: "Condensed version"
+link-citations: true
 ---
 
-The detailed typology provides an analytic view of methodological research and emphasizes the broad spectrum of types in the field. It helps clarify concepts and terminology, distinguish types and subtypes, and provides a structured basis for discussion and evolution over time. Users should not treat the full typology as a mechanical classifier. The testing showed that not all methodological papers fit neatly into one type. Some papers combine several approaches, and others fall on continua between related types. This does not necessarily undermine the typology. Rather than treating each type as a mutually exclusive box, users can view the types as archetypes that clarify typical study designs, common purposes, and important boundaries. This archetypal view is especially useful for planning new MR, developing type-specific guidance, and discussing study design choices.
+Users may start with the condensed version of TYPE-ME. It captures the main, substantively distinct types of methods research and may be sufficient for broad planning, teaching, discussion, or preliminary classification.
 
-Simplified versions may work better for broad classification and users can adapt the typology for different applications. For instance, when users want to broadly classify methodological papers, present the main types on a single slide for teaching, or focus on a selection of types, they may create a modified version by selecting specific types, combining related types, defining additional subtypes, or combining approaches and purposes dimensions.
+The condensed version groups related types and omits some detail, especially in the objective dimension. Users who need this detail can move to the full two-dimensional typology, with its terminology notes, boundary notes, and examples.
 
-The table below shows an example of a highly condensed version. We developed the version based on an agreement study on how to classify [52 methodological publications](https://osf.io/4fxaz/overview). To simplify the 2-dimensional typology, we first decided whether papers were more naturally defined by approach (e.g., simulation studies) or by purpose (e.g., methods guidance), and collapsed the two dimensions. We further grouped types based on conceptual similarity, especially the ones for which we saw most disagreements about how to classify them (e.g., different types of syntheses, experimental analysis of real datasets, and agreement and reliability studies). This resulted in a list with 10 categories.
+**Condensed TYPE-ME typology for quick orientation.**
 
-**Example of a highly condensed version.**
+| | Types of methods research | Relationship to full typology |
+|---|---------------------------|-------------------------------|
+| 1 | Theory-based methods research | [A1](approaches/1theory.qmd) |
+| 2 | Simulation studies | [A2](approaches/2simulation.qmd) |
+| 3 | Methods research based on real data | [A3](approaches/3real-datasets.qmd), [A4](approaches/4reliability.qmd) |
+| 4 | Methodological randomized studies | [A5](approaches/5randomized.qmd) |
+| 5 | Surveys, interviews, or focus groups | [A6](approaches/6survey.qmd), [A7](approaches/7qualitative.qmd) |
+| 6 | Consensus studies | [A8](approaches/8consensus.qmd) |
+| 7 | Studies of applied methods | [A9](approaches/9review-applied.qmd), [A10](approaches/10meta-epi.qmd) |
+| 8 | Syntheses of methods research | [A11](approaches/11scoping-review.qmd), [A12](approaches/12qualitative-synthesis.qmd), [A13](approaches/13quantitative-synthesis.qmd) |
+| 9 | Methods guidance and tools | [O9](objectives/9guidance-applying.qmd), [O10](objectives/10guidance-reporting.qmd), [O11](objectives/11guidance-assessing.qmd), [O12](objectives/12software-code.qmd) |
+| 10 | Methodological implementation research | [O13](objectives/13implementation.qmd) |
 
-|   | Methodological research types | Relationship to full typology |
-|---|-------------------------------|-------------------------------|
-| 1 | Theory-based methods research | Approach A1 |
-| 2 | Simulation study | Approach A2 |
-| 3 | MR based on real data | Approaches A3–4 |
-| 4 | Methodological randomized study | Approach A5 |
-| 5 | Survey / interviews / focus groups | Approaches A6–7 |
-| 6 | Consensus study | Approach A8 |
-| 7 | Study of applied methods | Approaches A9–10 |
-| 8 | Synthesis of methods research | Approaches A11–13 |
-| 9 | Guidance for applying / reporting / assessing methods | Purposes P9–12 |
-| 10 | Methodological implementation research | Purpose P13 |
+## How we developed the condensed version
+Testing showed that some users find the full two-dimensional typology too complex for certain applications, especially classification tasks. We therefore revisited the [52 methods research papers](https://osf.io/4fxaz/overview) from our testing rounds, identified their main approaches and objectives, and combined the two dimensions into a single list. We first decided whether each paper was more naturally defined by its approach (e.g., simulation studies) or by its objective (e.g., methods guidance). We then grouped types by conceptual similarity, especially those that had caused the most disagreement during testing, such as the different types of syntheses, and experimental analyses of real datasets versus reliability and agreement studies. This produced a list of 10 categories, which we then applied to all 52 papers. The condensed version accommodated 51 of the 52 papers; we classified one as "other", and five received two types.
+
+## Adapting the typology to your needs
+Users may adapt the condensed version for specific applications by combining, separating, or selecting types. When you want to classify papers broadly, present the main types on a single slide for teaching, or focus on a selection of types, you can build your own version by selecting specific types, combining related types, defining additional subtypes, or collapsing the approach and objective dimensions.
+
+## Treat the types as archetypes
+Not all methods research papers fit neatly into one type: some combine several approaches, and others fall on continua between related types. Rather than treating each type as a mutually exclusive box, view the types as archetypes that clarify typical study designs, common objectives, and important boundaries. This archetypal view is especially useful for planning new methods research, developing type-specific guidance, and discussing study design choices.

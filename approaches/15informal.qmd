@@ -3,24 +3,26 @@ title: "15 Informal approaches"
 link-citations: true
 ---
 
-Alternative labels: narrative approaches
+Terminology: narrative approaches
 
 ## Definition and features
-In informal approaches, researchers propose, explain, discuss, or recommend methods without a formal methods research design. They may selectively cite methodological publications, rely on professional authority and persuasive narrative, integrate expert opinions without structured collaboration or formal consensus, or use theory, examples, or simulations to illustrate points rather than to answer a methodological research question.
+In informal approaches, researchers propose, explain, discuss, or recommend methods without a formal methods research design. They may selectively cite methodological publications, rely on professional authority and persuasive narrative, integrate expert opinions without structured collaboration or formal consensus, or use theory, examples, or simulations to illustrate points rather than to answer a methods research question.
 
 - Strengths include the flexibility to present methodological ideas efficiently.
-- A limitation is the reliance on selective evidence and author judgement.
+- A limitation is the reliance on selective evidence and author judgment.
 
-## Typical purposes and corresponding examples 
-Examples for most purposes listed in Table 2 are abundant, including
+## Typical objectives and corresponding examples
+Examples exist for most objectives, including:
 
-[Develop guidance for understanding and applying methods](../purposes/9guidance-applying.qmd): preventing common misunderstandings of randomisation;[@Senn2013seven] sample size calculation in cluster trials;[@Hemming2020a] explanation why guidelines should seldom make good practice statements.[@Guyatt2016guideline] 
+[Develop guidance for understanding and applying methods](../objectives/9guidance-applying.qmd): preventing common misunderstandings of randomisation;[@Senn2013seven] sample size calculation in cluster trials;[@Hemming2020a] explanation why guidelines should seldom make good practice statements.[@Guyatt2016guideline]
 
-[Propose a new method](../purposes/6propose-method.qmd): Proposal for a random invitation single arm design.[@Janiaud2025single-arm]
+[Propose a new method](../objectives/6propose-method.qmd): proposal for a random invitation single arm design.[@Janiaud2025single-arm]
 
-[Summarize the results of methods research](../purposes/3summarize-mr.qmd): Overview of approaches for evaluating heterogeneous treatment effects.[@Lipkovich2023overview]
+[Summarize the results of methods research](../objectives/3summarize-mr.qmd): overview of approaches for evaluating heterogeneous treatment effects.[@Lipkovich2023overview]
+
+[Develop software and code](../objectives/12software-code.qmd): web application for Bayes Factor Design Analysis;[@Stefan2023big] netmeta, an R package for network meta-analysis.[@Balduzzi2023netmeta]
 
 ## Guidance
-- Guidance for understanding and applying methods: [REF]
-- Guidance for reporting methods: [REF]
-- Guidance for assessing methods: [REF]
+- Guidance for understanding and applying methods: [to be added]
+- Guidance for reporting methods: [to be added]
+- Guidance for assessing methods: [to be added]

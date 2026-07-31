@@ -1,100 +1,104 @@
 ---
 title: "About this initiative"
+link-citations: true
 ---
 
-![](images/logo2.png){fig-align="left" width=500px}
+![](images/logo2.png){fig-align="left" width="500px"}
 
-Welcome! This website is under construction. It shows a draft of the new **Typology of Methods Research (TYPE-ME)** - a living resource for methods researchers who work in the context of health research and psychology. The typology is based on an [ongoing consensus study](https://osf.io/4fxaz/overview).
+Welcome! This website is under construction. It shows a draft of the new **Typology of Methods Research (TYPE-ME)** - a living resource for methods researchers who work in the context of health research and psychology. The typology is the product of an [expert-panel process with empirical testing](https://osf.io/preprints/metaarxiv/nyj2p_v1).
 
 ## The typology
-Browse the typology using the side bar or the interactive [overview figure](explore.qmd).
-
+Start with the [condensed version](simplified.qmd) for quick orientation, or browse the full typology using the side bar or the interactive [overview figure](explore.qmd).
 
 ::: {.callout-tip appearance="minimal" collapse="true"}
 ## Why do we need TYPE-ME?
-
-The field of methodological research includes many study types, but their definitions, terminology, and boundaries remain unclear.
+The field of methods research includes many study types, but their definitions, terminology, and boundaries remain unclear.
 
 This lack of clarity
 
-* complicates planning and reporting,
-* creates uncertainty about labels,
-* limits searchability and indexing in research databases,
-* reduces the visibility of methodological research as a field,
-* obscures what constitutes methodological evidence, and
-* hinders standard setting.
+- complicates planning and reporting,
+- creates uncertainty about labels,
+- limits searchability and indexing in research databases,
+- reduces the visibility of methods research as a field,
+- obscures what constitutes methodological evidence, and
+- hinders standard setting.
 
 TYPE-ME brings these types together as one family and clarifies their similarities, differences, strengths, and difficult boundaries.
 :::
 
 ::: {.callout-tip appearance="minimal" collapse="true"}
-## What is methodological research?
+## What is methods research?
+Methods research aims to develop, evaluate, refine, or provide guidance on research methods, support their implementation or de-implementation, or synthesize existing methods research.
 
-Methodological research aims to develop, evaluate, refine, or provide guidance on research methods, support their implementation or de-implementation, or synthesize existing methodological research.
+Methods research addresses methods across the whole research lifecycle: planning, conducting, analyzing and interpreting, reporting, summarizing, evaluating, and implementing research.
 
-Methodological research addresses methods across the whole research lifecycle: planning, conducting, analyzing and interpreting, reporting, summarizing, evaluating, and implementing research.
-
-Methodological research also addresses challenges that require methodological solutions and the consequences of methodological choices.
+Methods research also addresses challenges that require methodological solutions and the consequences of methodological choices.
 
 TYPE-ME focuses on research methods used in health research.
 :::
 
 ::: {.callout-tip appearance="minimal" collapse="true"}
-## How does TYPE-ME organize methodological research?
+## How does TYPE-ME organize methods research?
+TYPE-ME organizes methods research along two cross-cutting dimensions:
 
-TYPE-ME organizes methodological research along two cross-cutting dimensions:
+- **Approach:** How do researchers conduct the methods research?
+- **Objective:** Why do researchers conduct the methods research?
 
-* **Approach:** How do researchers conduct the methodological research?
-* **Purpose:** Why do researchers conduct the methodological research?
+The detailed typology includes 15 approach types and 14 objective types. One approach can serve several objectives, and one objective can draw on several approaches ([see overview figure](explore.qmd)).
 
-The detailed typology includes 15 approach types and 13 purpose types. One approach can serve several purposes, and one purpose can draw on several approaches ([see overview figure](explore.qmd)).
+You can characterize a methodological study by pairing approach and objective, much as you would characterize any study by its approach and objective. Three examples:
+
+- A researcher re-analyzes several published datasets to see which of two methods gives more precise estimates: an [experimental analysis of real datasets](approaches/3real-datasets.qmd) (A3) to [compare methods](objectives/8compare-methods.qmd) (O8).
+- A researcher runs a Delphi study to identify key items for a new reporting checklist: a [consensus study](approaches/8consensus.qmd) (A8) to [develop a reporting guideline](objectives/10guidance-reporting.qmd) (O10).
+- A researcher interviews trialists about why they do not use core outcome sets: a [qualitative study](approaches/7qualitative.qmd) (A7) to [research the dissemination and implementation of methods](objectives/13implementation.qmd) (O13).
 
 For each type, we provide a definition, possible labels, strengths and limitations, examples, and boundary notes where needed.
 :::
 
 ::: {.callout-tip appearance="minimal" collapse="true"}
 ## What can I use TYPE-ME for?
+TYPE-ME can help you:
 
-TYPE-ME can help with:
+- **plan methods research** by clarifying the study objectives and possible design choices;
+- **report methods research** by supporting clearer labels, definitions, and design descriptions;
+- **classify methods research** when reviewing a methodological topic;
+- **inform indexing and searching** by supporting article types, publication types, index terms, and search filters;
+- **define inclusion criteria** for methodological journals, databases, funding calls, or conferences;
+- **design programs of methods research** by showing how different types can build on each other, for example from method development to evaluation, guidance development, and implementation;
+- **support teaching** by presenting methods research as a structured field with connected types; and
+- **identify guidance needs** by showing which types of methods research lack specific guidance for conduct, reporting, or quality assessment.
 
-* planning, conducting, and reporting methodological research;
-* classifying and indexing methodological research;
-* designing projects that combine several types of methodological research;
-* developing guidance for specific methodological research types;
-* defining methodological evidence; and
-* teaching methodological research.
-
-Treat the types as archetypes, not as mutually exclusive boxes. A study may combine several approaches or fall between related types. Use the detailed typology as a conceptual core; for teaching, communication, or broad classification, [adapt the typology to your needs or use the condensed version](simplified.qmd).
+Treat the types as archetypes, not as mutually exclusive boxes. A study may combine several approaches or fall between related types. For broad planning, teaching, discussion, or preliminary classification, you may want to [start with the condensed version](simplified.qmd), which groups the main types into a single list of 10.
 :::
 
 ::: {.callout-tip appearance="minimal" collapse="true"}
 ## How did we develop TYPE-ME?
-
 An international team of 11 methodologists developed TYPE-ME through repeated discussion, written feedback, and testing. The team members were:
 
-* Stefan Schandelmaier
-* Malena Chiaborelli
-* Julian Hirt
-* Matthias Briel
-* Livia Puljak
-* Zachary Munn
-* Hanan Khalil
-* Dawid Pieper
-* Anne-Laure Boulesteix
-* Georg Heinze
-* Richard Hooper
+- Stefan Schandelmaier
+- Malena Chiaborelli
+- Julian Hirt
+- Anne-Laure Boulesteix
+- Matthias Briel
+- Livia Puljak
+- Zachary Munn
+- Hanan Khalil
+- Dawid Pieper
+- Georg Heinze
+- Richard Hooper
 
-In two testing rounds, team members independently classified 52 methodological research articles from 26 journals. Testing helped us refine definitions and labels, clarify difficult boundaries, and document remaining disagreements.
+In two testing rounds, team members independently classified 52 methods research articles from 26 journals, contributing 494 individual article assessments. Testing helped us refine definitions and labels, clarify difficult boundaries, and document remaining disagreements.
+
+ TYPE-ME is the product of an expert-panel process with empirical testing and transparent documentation of remaining disagreements, rather than a set of consensus-approved statements.
 
 We will continue to refine TYPE-ME through application, user feedback, and further testing.
 :::
 
 ::: {.callout-tip appearance="minimal" collapse="true"}
 ## How can I cite the typology?
-
 Please cite the typology as follows:
 
-[Manuscript in preparation]
+Schandelmaier S, Chiaborelli M, Hirt J, Boulesteix A-L, Briel M, Puljak L, Munn Z, Khalil H, Pieper D, Heinze G, Hooper R. How and why do we study research methods? The TYPE-ME typology of methods research [Internet]. MetaArXiv; 2026. Available from: osf.io/preprints/metaarxiv/nyj2p_v1
 
 :::
 

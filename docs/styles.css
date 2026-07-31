@@ -13,9 +13,28 @@
   display: none;
 }
 
-table {
+/* Page subtitle: Bootstrap's .lead forces 1.25rem/300, which reads as an odd
+   size next to body text. Inherit from the page instead. */
+.quarto-title .subtitle {
+  font-size: inherit;
+  font-weight: inherit;
+  line-height: inherit;
+}
+
+/* The `table.table` selector in the Bootstrap bundle outranks a bare `table`,
+   so the margin rule has to match its specificity to win. */
+table,
+table.table {
   font-size: 0.8rem;
   line-height: 1.2;
+  margin-bottom: 1.5rem;
+}
+
+/* Tables inside a callout are followed by their own footnotes, which should
+   stay tucked against the table. */
+.callout table,
+.callout table.table {
+  margin-bottom: 0.5em;
 }
 
 table th,

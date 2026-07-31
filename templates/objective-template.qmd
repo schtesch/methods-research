@@ -1,0 +1,24 @@
+---
+title: "N Objective name"
+link-citations: true
+---
+
+Terminology: … (alternative labels, separated by semicolons; delete this line if none)
+
+## Definition
+…
+
+::: {.callout-tip appearance="minimal" collapse="true"}
+## Boundaries with related objectives
+[N Related objective](Nrelated.qmd): how the two differ.
+:::
+
+## Typical approaches and corresponding examples
+[Approach name](../approaches/Napproach.qmd): first example;[@key1] second example.[@key2]
+
+[Another approach](../approaches/Napproach.qmd): example.[@key3]
+
+## Guidance
+- Guidance for understanding and applying methods: [to be added]
+- Guidance for reporting methods: [to be added]
+- Guidance for assessing methods: [to be added]

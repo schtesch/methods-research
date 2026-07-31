@@ -3,24 +3,38 @@ title: "4 Reliability and agreement studies"
 link-citations: true
 ---
 
-Alternative labels: reproducibility as a special type of agreement study
+Terminology: reproducibility studies as a special type of agreement study; some many-analyst (multi-analyst, crowdsourced-analysis) studies as a variant of agreement studies
 
 ## Definition and features
-In reliability and agreement studies, researchers ask multiple users, teams, or artificial intelligence systems to apply the same method to the same set of cases, usually studies or datasets. Researchers may use an existing set of cases or create a new set specifically for the study. They then assess consistency across applications using measures of reliability, which show how well ratings distinguish cases across users, or measures of agreement, which show how similar ratings or results are across users. Reproducibility studies are a special case of agreement studies in which independent teams try to obtain the same results as the original study team by re-running the same statistical workflow on the same data.
+In reliability and agreement studies, researchers ask multiple users, teams, or artificial intelligence systems to independently perform the same methodological task using the same cases or datasets. They typically apply the same method, but in many-analyst studies they may choose their own approaches. Researchers may use an existing set of cases or create a new set specifically for the study. They then assess consistency across applications using measures of reliability, which show how well ratings distinguish cases across users, or measures of agreement, which show how similar ratings or results are across users. Reproducibility studies are a special case of agreement studies in which independent teams try to obtain the same results as the original study team by re-running the same statistical workflow on the same data. Many-analyst studies are a further case in which the variation comes from independent analysts each choosing their own approach.
 
-- A strength of these studies is that they quantify variability introduced by method users.
+- A strength of these studies is that they show how much variability methods users introduce.
 - A challenge is that results depend on case difficulty and user experience, and consistency does not necessarily indicate correctness.
 
 ::: {.callout-tip appearance="minimal" collapse="true"}
 ## Boundaries with related types
-[Experimental analysis of real datasets](3real-datasets.qmd):
-Both may use a single dataset and assess agreement, but reliability and agreement studies compare users applying the same method, whereas experimental analyses compare methods applied by one user or team.
+[Experimental analyses of real datasets](3real-datasets.qmd): Both may use the same datasets and assess differences in results. The key difference is the source of deliberate variation: experimental analyses vary the methods while holding the user or team constant, whereas reliability and agreement studies vary the users or teams, who may apply the same method or, in many-analyst studies, choose their own approaches.
 :::
 
-## Typical purposes and corresponding examples 
-[Evaluate a single method](../purposes/7evaluate-method.qmd): Reliability of risk of bias tools for observational studies;[@Kalaycioglu2023inter-rater] Reliability of 12 raters applying a quality assessment tool for radiomics to 35 studies and repeated the assessment after a wash-out period.[@AkinciDAntonoli2025reproducibility] Agreement between nine research teams attempting to reproduce the same observational study;[@Ostropolets2023reproducible] Agreement between reproduced and original analyses of 150 real-world evidence studies.[@Wang2022reproducibility] 
+::: {.callout-tip appearance="minimal" collapse="true"}
+## A remaining disagreement: separate type or variant of experimental analyses?
+Our group did not resolve whether reliability and agreement studies represent a separate type or a variation of [experimental analyses of real datasets](3real-datasets.qmd).
+
+Arguments for combining them included the difficulty of distinguishing the types during testing, the fact that both often involve existing datasets, and the possibility that both can compare methods. Arguments for separating them included that reliability and agreement studies deliberately involve different users as a specific design element, usually focus on a single method rather than compare different methods, and may create new rather than use existing datasets.
+
+We report this disagreement because users may need judgment when classifying studies that fall between the two types.
+:::
+
+## Typical objectives and corresponding examples
+[Evaluate a single method](../objectives/7evaluate-method.qmd): reliability when 6 raters applied a risk of bias tool to 60 observational studies;[@Kalaycioglu2023inter-rater] reliability when 12 raters applied a quality assessment tool for radiomics to 35 studies at two time points;[@AkinciDAntonoli2025reproducibility] agreement between nine research teams attempting to reproduce the same observational study;[@Ostropolets2023reproducible] agreement between reproduced and original analyses of 150 real-world evidence studies.[@Wang2022reproducibility]
+
+[Compare methods](../objectives/8compare-methods.qmd): compare inter-rater agreement between the ROBIS and AMSTAR risk-of-bias tools.[@Buhn2017the]
+
+[Develop quality assessment instruments](../objectives/11guidance-assessing.qmd): reliability of risk of bias tools for observational studies.[@Kalaycioglu2023inter-rater]
+
+[Assess variability of results across methodological choices](../objectives/14variability.qmd): variation in results when 29 teams analyzed the same dataset with self-chosen analysis strategies ("many-analyst study");[@Silberzahn2018many] variation in results when multiple teams assessed the association between marital status and cardiovascular disease ("many-analyst study").[@Kowall2025marital]
 
 ## Guidance
-- Guidance for understanding and applying methods: [REF]
-- Guidance for reporting methods: [REF]
-- Guidance for assessing methods: [REF]
+- Guidance for understanding and applying methods: [to be added]
+- Guidance for reporting methods: [to be added]
+- Guidance for assessing methods: [to be added]

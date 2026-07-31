@@ -1,26 +1,24 @@
 ---
-title: "8 Consensus study"
+title: "8 Consensus studies"
 link-citations: true
 ---
 
-Alternative labels:
-
 ## Definition and features
-In consensus studies, researchers use Delphi surveys or structured discussion (such as the Nominal Group Technique) to involve researchers and other interest-holders and move them towards a shared position. They usually use a longitudinal design with multiple rounds of feedback, item ratings, or discussions.
+In consensus studies, researchers use iterative processes such as Delphi surveys or structured discussion (such as the Nominal Group Technique) to involve researchers and other interest-holders and move them towards a shared position. They usually use a longitudinal design with multiple rounds of feedback, item ratings, or discussions.
 
 - Strengths include the structured synthesis of expert opinion and persuasiveness. Their credibility depends on process design, panel composition, and topic complexity.
 - They work best for issues that all panel members can understand well, and less well for complex issues that few participants can fully understand.
 
-## Typical purposes and corresponding examples 
-[Assess needs and priorities for methods research](../purposes/5assess-needs-priorities.qmd): Delphi study to identify priorities for methods research.[@TudurSmith2014the]
+## Typical objectives and corresponding examples
+[Assess needs and priorities for methods research](../objectives/5assess-needs-priorities.qmd): Delphi study to identify priorities for methods research.[@TudurSmith2014the]
 
-[Develop guidance for understanding and applying methods](../purposes/9guidance-applying.qmd): Guidance on factors to consider when inviting multiple interest-holder groups to research, based on Delphi; [@Parker2022factors] Guidance on handling missing data in trials, based on Nominal Group Technique.[@Hussain2022development]
+[Develop guidance for understanding and applying methods](../objectives/9guidance-applying.qmd): guidance on factors to consider when inviting multiple interest-holder groups to research, based on Delphi;[@Parker2022factors] guidance on handling missing data in trials, based on Nominal Group Technique.[@Hussain2022development]
 
-[Develop reporting guidelines](../purposes/10guidance-reporting.qmd): Delphi study to develop CONSORT reporting guideline.[@Hopewell2025consort] 
+[Develop reporting guidelines](../objectives/10guidance-reporting.qmd): Delphi study to develop CONSORT reporting guideline.[@Hopewell2025consort]
 
-[Develop quality assessment instruments](../purposes/11guidance-assessing.qmd): Discussion-based consensus on quality assessment tool for subgroup analyses.[@Schandelmaier2020development]
+[Develop quality assessment instruments](../objectives/11guidance-assessing.qmd): discussion-based consensus on quality assessment tool for subgroup analyses.[@Schandelmaier2020development]
 
 ## Guidance
-- Guidance for understanding and applying: Book Chapter by Anthony Jorm[@Jorm2025expert]
-- Guidance for reporting: ACCORD reporting gudelines[@Gattrell2024accord]
-- Guidance for assessing: [REF]
+- Guidance for understanding and applying methods: Book Chapter by Anthony Jorm[@Jorm2025expert]
+- Guidance for reporting methods: ACCORD reporting guidelines[@Gattrell2024accord]
+- Guidance for assessing methods: [to be added]

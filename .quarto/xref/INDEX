@@ -268,5 +268,50 @@
   },
   "simplified.qmd": {
     "simplified.html": "440bbd14"
+  },
+  "purposes/14variability.qmd": {
+    "14variability.html": "8ec1fb2e"
+  },
+  "objectives/1identify-methods.qmd": {
+    "1identify-methods.html": "fc59e80a"
+  },
+  "objectives/2identify-mr.qmd": {
+    "2identify-mr.html": "eed31287"
+  },
+  "objectives/3summarize-mr.qmd": {
+    "3summarize-mr.html": "ed3726e8"
+  },
+  "objectives/4assess-practice.qmd": {
+    "4assess-practice.html": "2930fd18"
+  },
+  "objectives/5assess-needs-priorities.qmd": {
+    "5assess-needs-priorities.html": "67eb7884"
+  },
+  "objectives/6propose-method.qmd": {
+    "6propose-method.html": "7e85d78c"
+  },
+  "objectives/7evaluate-method.qmd": {
+    "7evaluate-method.html": "02f03fc3"
+  },
+  "objectives/8compare-methods.qmd": {
+    "8compare-methods.html": "b6879532"
+  },
+  "objectives/9guidance-applying.qmd": {
+    "9guidance-applying.html": "7cc5307d"
+  },
+  "objectives/10guidance-reporting.qmd": {
+    "10guidance-reporting.html": "b7b176d6"
+  },
+  "objectives/11guidance-assessing.qmd": {
+    "11guidance-assessing.html": "4958af57"
+  },
+  "objectives/12software-code.qmd": {
+    "12software-code.html": "82461435"
+  },
+  "objectives/13implementation.qmd": {
+    "13implementation.html": "a978127e"
+  },
+  "objectives/14variability.qmd": {
+    "14variability.html": "1d37591c"
   }
 }

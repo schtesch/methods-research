@@ -7,6 +7,7 @@ csl: vancouver-superscript.csl
 
 book:
   title: ""
+  favicon: images/favicon.svg
 
   sidebar:
     style: floating
@@ -16,12 +17,12 @@ book:
 
   page-footer:
     left: "Funded by [Swiss National Science Foundation (SNSF)](https://www.snf.ch)"
-    
-    right:  
+
+    right:
       - text: "Legal notice"
         href: impressum.html
 
-    center: 
+    center:
       - text: "Contact"
         href: "mailto:stefan.schandelmaier@unibas.ch"
     background: "#eef3f8"
@@ -32,6 +33,7 @@ book:
     - index.qmd
     - text: "Overview figure"
       href: explore.qmd
+    - simplified.qmd
 
     - part: "Explore by approach"
       chapters:
@@ -51,23 +53,23 @@ book:
         - approaches/14case-report.qmd
         - approaches/15informal.qmd
 
-    - part: "Explore by purpose"
+    - part: "Explore by objective"
       chapters:
-        - purposes/1identify-methods.qmd
-        - purposes/2identify-mr.qmd
-        - purposes/3summarize-mr.qmd
-        - purposes/4assess-practice.qmd
-        - purposes/5assess-needs-priorities.qmd
-        - purposes/6propose-method.qmd
-        - purposes/7evaluate-method.qmd
-        - purposes/8compare-methods.qmd
-        - purposes/9guidance-applying.qmd
-        - purposes/10guidance-reporting.qmd
-        - purposes/11guidance-assessing.qmd
-        - purposes/12software-code.qmd
-        - purposes/13implementation.qmd
+        - objectives/1identify-methods.qmd
+        - objectives/2identify-mr.qmd
+        - objectives/3summarize-mr.qmd
+        - objectives/4assess-practice.qmd
+        - objectives/5assess-needs-priorities.qmd
+        - objectives/6propose-method.qmd
+        - objectives/7evaluate-method.qmd
+        - objectives/8compare-methods.qmd
+        - objectives/9guidance-applying.qmd
+        - objectives/10guidance-reporting.qmd
+        - objectives/11guidance-assessing.qmd
+        - objectives/12software-code.qmd
+        - objectives/13implementation.qmd
+        - objectives/14variability.qmd
 
-    - simplified.qmd
     - references.qmd
 
 format:

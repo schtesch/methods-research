@@ -1,0 +1,26 @@
+---
+title: "7 Evaluate a single method"
+link-citations: true
+---
+
+## Definition
+These studies aim to assess a single method with respect to precision, bias, acceptance, variability introduced by methods users, or other outcomes. This type includes proof-of-concept studies that demonstrate whether a method can work in principle before larger-scale testing.
+
+::: {.callout-tip appearance="minimal" collapse="true"}
+## Boundaries with related objectives
+[14 Assess variability of results across methodological choices](14variability.qmd): In O7, researchers evaluate one specific method, and the variability that users introduce when applying it can be one outcome of that evaluation. When researchers do not evaluate a specific method and instead study how much results vary across methodological choices, the objective becomes O14.
+:::
+
+## Typical approaches and corresponding examples
+[Simulation studies](../approaches/2simulation.qmd): random-effects meta-analysis;[@Hartung2001a] false positives when conducting subgroup analysis.[@Brookes2001subgroup]
+
+[Reliability and agreement studies](../approaches/4reliability.qmd): reliability when 6 raters applied a risk of bias tool to 60 observational studies;[@Kalaycioglu2023inter-rater] reliability when 12 raters applied a quality assessment tool for radiomics to 35 studies at two time points;[@AkinciDAntonoli2025reproducibility] agreement between nine research teams attempting to reproduce the same observational study;[@Ostropolets2023reproducible] agreement between reproduced and original analyses of 150 real-world evidence studies.[@Wang2022reproducibility]
+
+[Qualitative studies](../approaches/7qualitative.qmd): focus group addressing the clarity of plain language recommendations in guidelines;[@Santesso2022focus] interviews with users of a new instrument addressing face validity.[@Schandelmaier2020development]
+
+[Reviews of applied or planned methods](../approaches/9review-applied.qmd): concordance of target trial emulations with benchmark randomized controlled trials.[@Wang2026concordance]
+
+## Guidance
+- Guidance for understanding and applying methods: [to be added]
+- Guidance for reporting methods: [to be added]
+- Guidance for assessing methods: [to be added]

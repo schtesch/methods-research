@@ -23,7 +23,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -33,7 +52,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./approaches/1theory.html" rel="next">
+<link href="./simplified.html" rel="next">
 <link href="./index.html" rel="prev">
 <link href="./images/favicon.svg" rel="icon" type="image/svg+xml">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
@@ -125,6 +144,11 @@ ul.task-list li input[type="checkbox"] {
   <a href="./explore.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Overview figure</span></a>
   </div>
 </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./simplified.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Condensed version</span></a>
+  </div>
+</li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="false">
@@ -141,12 +165,12 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./approaches/2simulation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">2 Simulation study</span></a>
+  <a href="./approaches/2simulation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">2 Simulation studies</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./approaches/3real-datasets.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">3 Experimental analysis of real datasets</span></a>
+  <a href="./approaches/3real-datasets.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">3 Experimental analyses of real datasets</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -156,52 +180,52 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./approaches/5randomized.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">5 Methodological randomized study</span></a>
+  <a href="./approaches/5randomized.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">5 Methodological randomized studies</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./approaches/6survey.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">6 Quantitative survey</span></a>
+  <a href="./approaches/6survey.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">6 Quantitative surveys</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./approaches/7qualitative.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">7 Qualitative study</span></a>
+  <a href="./approaches/7qualitative.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">7 Qualitative studies</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./approaches/8consensus.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">8 Consensus study</span></a>
+  <a href="./approaches/8consensus.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">8 Consensus studies</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./approaches/9review-applied.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">9 Review of applied methods</span></a>
+  <a href="./approaches/9review-applied.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">9 Reviews of applied or planned methods</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./approaches/10meta-epi.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">10 Meta-epidemiological study</span></a>
+  <a href="./approaches/10meta-epi.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">10 Meta-epidemiological studies</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./approaches/11scoping-review.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">11 Scoping review of methods research</span></a>
+  <a href="./approaches/11scoping-review.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">11 Scoping reviews of methods research</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./approaches/12qualitative-synthesis.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">12 Qualitative synthesis of methods research</span></a>
+  <a href="./approaches/12qualitative-synthesis.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">12 Qualitative syntheses of methods research</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./approaches/13quantitative-synthesis.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">13 Quantitative synthesis of methods research</span></a>
+  <a href="./approaches/13quantitative-synthesis.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">13 Quantitative syntheses of methods research</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./approaches/14case-report.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">14 Methodological case report or series</span></a>
+  <a href="./approaches/14case-report.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">14 Methodological case reports or case series</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -214,7 +238,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false">
- <span class="menu-text">Explore by purpose</span></a>
+ <span class="menu-text">Explore by objective</span></a>
           <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -222,76 +246,76 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./purposes/1identify-methods.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">1 Identify available methods</span></a>
+  <a href="./objectives/1identify-methods.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">1 Identify available methods</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./purposes/2identify-mr.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">2 Identify available methods research on a specific topic</span></a>
+  <a href="./objectives/2identify-mr.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">2 Identify available methods research on a specific topic</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./purposes/3summarize-mr.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">3 Summarize the results of methods research</span></a>
+  <a href="./objectives/3summarize-mr.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">3 Summarize the results of methods research</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./purposes/4assess-practice.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">4 Assess methodological practice</span></a>
+  <a href="./objectives/4assess-practice.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">4 Assess methodological practice</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./purposes/5assess-needs-priorities.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">5 Assess needs and priorities for methods research</span></a>
+  <a href="./objectives/5assess-needs-priorities.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">5 Assess needs and priorities for methods research</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./purposes/6propose-method.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">6 Propose a new method</span></a>
+  <a href="./objectives/6propose-method.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">6 Propose a new method</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./purposes/7evaluate-method.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">7 Evaluate a single method</span></a>
+  <a href="./objectives/7evaluate-method.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">7 Evaluate a single method</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./purposes/8compare-methods.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">8 Compare methods</span></a>
+  <a href="./objectives/8compare-methods.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">8 Compare methods</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./purposes/9guidance-applying.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">9 Develop guidance for understanding and applying methods</span></a>
+  <a href="./objectives/9guidance-applying.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">9 Develop guidance for understanding and applying methods</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./purposes/10guidance-reporting.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">10 Develop reporting guidelines</span></a>
+  <a href="./objectives/10guidance-reporting.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">10 Develop reporting guidelines</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./purposes/11guidance-assessing.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">11 Develop quality assessment instruments</span></a>
+  <a href="./objectives/11guidance-assessing.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">11 Develop quality assessment instruments</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./purposes/12software-code.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">12 Develop software and code</span></a>
+  <a href="./objectives/12software-code.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">12 Develop software and code</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./purposes/13implementation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">13 Research the dissemination and implementation of methods</span></a>
+  <a href="./objectives/13implementation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">13 Research the dissemination and implementation of methods</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./objectives/14variability.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">14 Assess variability of results across methodological choices</span></a>
   </div>
 </li>
       </ul>
   </li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./simplified.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Modified and simplified versions</span></a>
-  </div>
-</li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./references.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">References</span></a>
@@ -326,106 +350,119 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div id="type-map" class="type-map" aria-label="Common connections between methodological research approaches and purposes">
+<div id="type-map" class="type-map" aria-label="Common connections between methods research approaches and objectives">
 <svg class="type-map__lines" aria-hidden="true">
 </svg>
 <section id="approaches-how" class="level2 type-map__column type-map__column--approaches">
 <h2 class="anchored" data-anchor-id="approaches-how">Approaches: How?</h2>
 <ol class="type-map__list" aria-label="Approaches">
 <li class="type-map__item" data-type-id="A1">
-<span class="type-map__code">A1</span><span>Theory-based study</span>
+<span class="type-map__code">A1</span><span>Theory-based methods research</span>
 </li>
 <li class="type-map__item" data-type-id="A2">
-<span class="type-map__code">A2</span><span>Simulation study</span>
+<span class="type-map__code">A2</span><span>Simulation studies</span>
 </li>
 <li class="type-map__item" data-type-id="A3">
-<span class="type-map__code">A3</span><span>Experimental analysis of real datasets</span>
+<span class="type-map__code">A3</span><span>Experimental analyses of real datasets</span>
 </li>
 <li class="type-map__item" data-type-id="A4">
-<span class="type-map__code">A4</span><span>Reliability and agreement study</span>
+<span class="type-map__code">A4</span><span>Reliability and agreement studies</span>
 </li>
 <li class="type-map__item" data-type-id="A5">
-<span class="type-map__code">A5</span><span>Methodological randomized study</span>
+<span class="type-map__code">A5</span><span>Methodological randomized studies</span>
 </li>
 <li class="type-map__item" data-type-id="A6">
-<span class="type-map__code">A6</span><span>Quantitative survey</span>
+<span class="type-map__code">A6</span><span>Quantitative surveys</span>
 </li>
 <li class="type-map__item" data-type-id="A7">
-<span class="type-map__code">A7</span><span>Qualitative study</span>
+<span class="type-map__code">A7</span><span>Qualitative studies</span>
 </li>
 <li class="type-map__item" data-type-id="A8">
-<span class="type-map__code">A8</span><span>Consensus study</span>
+<span class="type-map__code">A8</span><span>Consensus studies</span>
 </li>
 <li class="type-map__item" data-type-id="A9">
-<span class="type-map__code">A9</span><span>Review of applied methods</span>
+<span class="type-map__code">A9</span><span>Reviews of applied or planned methods</span>
 </li>
 <li class="type-map__item" data-type-id="A10">
-<span class="type-map__code">A10</span><span>Meta-epidemiological study</span>
+<span class="type-map__code">A10</span><span>Meta-epidemiological studies</span>
 </li>
 <li class="type-map__item" data-type-id="A11">
-<span class="type-map__code">A11</span><span>Scoping review of methods research</span>
+<span class="type-map__code">A11</span><span>Scoping reviews of methods research</span>
 </li>
 <li class="type-map__item" data-type-id="A12">
-<span class="type-map__code">A12</span><span>Qualitative synthesis of methods research</span>
+<span class="type-map__code">A12</span><span>Qualitative syntheses of methods research</span>
 </li>
 <li class="type-map__item" data-type-id="A13">
-<span class="type-map__code">A13</span><span>Quantitative synthesis of methods research</span>
+<span class="type-map__code">A13</span><span>Quantitative syntheses of methods research</span>
 </li>
 <li class="type-map__item" data-type-id="A14">
-<span class="type-map__code">A14</span><span>Methodological case report or series</span>
+<span class="type-map__code">A14</span><span>Methodological case reports or case series</span>
 </li>
 <li class="type-map__item" data-type-id="A15">
 <span class="type-map__code">A15</span><span>Informal approaches</span>
 </li>
 </ol>
 </section>
-<section id="purposes-why" class="level2 type-map__column type-map__column--purposes">
-<h2 class="anchored" data-anchor-id="purposes-why">Purposes: Why?</h2>
-<ol class="type-map__list" aria-label="Purposes">
-<li class="type-map__item" data-type-id="P1">
-<span class="type-map__code">P1</span><span>Identify available methods</span>
+<section id="objectives-why" class="level2 type-map__column type-map__column--objectives">
+<h2 class="anchored" data-anchor-id="objectives-why">Objectives: Why?</h2>
+<ol class="type-map__list" aria-label="Objectives">
+<li class="type-map__item" data-type-id="O1">
+<span class="type-map__code">O1</span><span>Identify available methods</span>
 </li>
-<li class="type-map__item" data-type-id="P2">
-<span class="type-map__code">P2</span><span>Identify available methods research on a specific topic</span>
+<li class="type-map__item" data-type-id="O2">
+<span class="type-map__code">O2</span><span>Identify available methods research on a specific topic</span>
 </li>
-<li class="type-map__item" data-type-id="P3">
-<span class="type-map__code">P3</span><span>Summarize the results of methods research</span>
+<li class="type-map__item" data-type-id="O3">
+<span class="type-map__code">O3</span><span>Summarize the results of methods research</span>
 </li>
-<li class="type-map__item" data-type-id="P4">
-<span class="type-map__code">P4</span><span>Assess methodological practice</span>
+<li class="type-map__item" data-type-id="O4">
+<span class="type-map__code">O4</span><span>Assess methodological practice</span>
 </li>
-<li class="type-map__item" data-type-id="P5">
-<span class="type-map__code">P5</span><span>Assess needs and priorities for methods research</span>
+<li class="type-map__item" data-type-id="O5">
+<span class="type-map__code">O5</span><span>Assess needs and priorities for methods research</span>
 </li>
-<li class="type-map__item" data-type-id="P6">
-<span class="type-map__code">P6</span><span>Propose a new method</span>
+<li class="type-map__item" data-type-id="O6">
+<span class="type-map__code">O6</span><span>Propose a new method</span>
 </li>
-<li class="type-map__item" data-type-id="P7">
-<span class="type-map__code">P7</span><span>Evaluate a single method</span>
+<li class="type-map__item" data-type-id="O7">
+<span class="type-map__code">O7</span><span>Evaluate a single method</span>
 </li>
-<li class="type-map__item" data-type-id="P8">
-<span class="type-map__code">P8</span><span>Compare methods</span>
+<li class="type-map__item" data-type-id="O8">
+<span class="type-map__code">O8</span><span>Compare methods</span>
 </li>
-<li class="type-map__item" data-type-id="P9">
-<span class="type-map__code">P9</span><span>Develop guidance for understanding and applying methods</span>
+<li class="type-map__item" data-type-id="O9">
+<span class="type-map__code">O9</span><span>Develop guidance for understanding and applying methods</span>
 </li>
-<li class="type-map__item" data-type-id="P10">
-<span class="type-map__code">P10</span><span>Develop reporting guidelines</span>
+<li class="type-map__item" data-type-id="O10">
+<span class="type-map__code">O10</span><span>Develop reporting guidelines</span>
 </li>
-<li class="type-map__item" data-type-id="P11">
-<span class="type-map__code">P11</span><span>Develop quality assessment instruments</span>
+<li class="type-map__item" data-type-id="O11">
+<span class="type-map__code">O11</span><span>Develop quality assessment instruments</span>
 </li>
-<li class="type-map__item" data-type-id="P12">
-<span class="type-map__code">P12</span><span>Develop software and code</span>
+<li class="type-map__item" data-type-id="O12">
+<span class="type-map__code">O12</span><span>Develop software and code</span>
 </li>
-<li class="type-map__item" data-type-id="P13">
-<span class="type-map__code">P13</span><span>Research the dissemination and implementation of methods</span>
+<li class="type-map__item" data-type-id="O13">
+<span class="type-map__code">O13</span><span>Research the dissemination and implementation of methods</span>
+</li>
+<li class="type-map__item" data-type-id="O14">
+<span class="type-map__code">O14</span><span>Assess variability of results across methodological choices</span>
 </li>
 </ol>
 </section>
 </div>
+<section id="how-to-read-the-ordering" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-read-the-ordering">How to read the ordering</h2>
+<p>The ordering of approaches does not impose a hierarchy of strength, such as a progression from “weak” to “strong” approaches. While one approach may answer a specific methodological question more convincingly than another, the typology as a whole describes a research ecosystem rather than a linear journey.</p>
+<p>The ordering of objectives broadly reflects the lifecycle of a method,<span class="citation" data-cites="Heinze2024phases"><sup><a href="references.html#ref-Heinze2024phases" role="doc-biblioref">1</a></sup></span> beginning with assessing the status quo and research needs and moving towards de-implementing methods that researchers should no longer use. O14 sits outside this lifecycle because it examines variation across methodological choices rather than a particular stage or method.</p>
 
 
+<div id="refs" class="references csl-bib-body" role="list" style="display: none">
+<div id="ref-Heinze2024phases" class="csl-entry" role="listitem">
+1. Heinze G, Boulesteix A-L, Kammer M, Morris TP, White IR, Simulation Panel of the STRATOS initiative. Phases of methodological research in biostatistics-building the evidence base for new methods [Internet]. Biom. J. 2024 ;66(1):e2200222.Available from: <a href="http://dx.doi.org/10.1002/bimj.202200222">http://dx.doi.org/10.1002/bimj.202200222</a>
+</div>
+</div>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -835,8 +872,8 @@ ul.task-list li input[type="checkbox"] {
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./approaches/1theory.html" class="pagination-link" aria-label="1 Theory-based methods research">
-        <span class="nav-page-text"><span class="chapter-title">1 Theory-based methods research</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./simplified.html" class="pagination-link" aria-label="Condensed version">
+        <span class="nav-page-text"><span class="chapter-title">Condensed version</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

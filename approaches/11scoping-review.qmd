@@ -1,49 +1,53 @@
 ---
-title: "11 Scoping review of methods research"
+title: "11 Scoping reviews of methods research"
 link-citations: true
 ---
 
-Alternative labels: 
-
 ## Definition and features
-In scoping reviews of methods research, researchers use a broad research question and a systematic search to provide an overview of existing methods research on a methodological topic or available methods discussed in such methods research. They may use qualitative categorisation or map studies against an existing framework. They often present simple descriptive statistics, such as absolute and relative frequencies.
+In scoping reviews of methods research, researchers use a broad research question and a systematic search to provide an overview of existing methods research on a methodological topic or available methods discussed in such methods research. They may use qualitative categorization or map studies against an existing framework. They often present simple descriptive statistics, such as absolute and relative frequencies.
 
-- Strengths include transparency and comprehensiveness. 
+- A strength is that they can map a heterogeneous body of literature transparently and comprehensively.
 - A challenge is the difficult search process.
 
 ::: {.callout-tip appearance="minimal" collapse="true"}
 ## Boundaries with related types
-
-Boundary with A12 qualitative synthesis of methods research. Both use systematic searches and may include qualitative categorisation but scoping reviews do not typically include formal quality assessment or an interpretive synthesis of findings. The distinction can be difficult in practice, especially when a scoping review goes beyond description or when a qualitative synthesis mainly maps the literature.
+Boundary with A12 qualitative synthesis of methods research. Both use systematic searches and may include qualitative categorization but scoping reviews do not typically include formal quality assessment or an interpretive synthesis of findings. The distinction can be difficult in practice, especially when a scoping review goes beyond description or when a qualitative synthesis mainly maps the literature.
 
 **Similarities and differences between literature-based types:**
 
-| Characteristic | [Review of applied methods](9review-applied.qmd) | [Meta-epidemiological study](10meta-epi.qmd) | [Scoping review of methods research](11scoping-review.qmd) | [Qualitative synthesis of methods research](12qualitative-synthesis.qmd) | [Quantitative synthesis of methods research](13quantitative-synthesis.qmd) |
+| Characteristic | [Reviews of applied or planned methods](9review-applied.qmd) | [Meta-epidemiological studies](10meta-epi.qmd) | [Scoping reviews of methods research](11scoping-review.qmd) | [Qualitative syntheses of methods research](12qualitative-synthesis.qmd) | [Quantitative syntheses of methods research](13quantitative-synthesis.qmd) |
 | :---- | :---- | :---- | :---- | :---- | :---- |
-| Typical purpose | Assess methodological practice or quality | Assess impact of methodological characteristics on study results | Identify available methods or methods research on a specific topic | Synthesize findings of methods qualitatively | Synthesize findings of methods research quantitatively |
-| Included publications/ unit of analysis | Individual applied studies  | Individual applied studies  | Methods research papers | Methods research papers | Methods research papers |
-| Sampling strategy | Random, purposeful, stratified, matched, complete^a^  | Stratified, matched, complete^a^ | Complete^a^   | Complete^a^,  purposeful | Complete^a^ |
-| Typical analytic approach | Qualitative categorisation and descriptive statistics | Meta-regression | Qualitative categorisation and descriptive statistics | Qualitative synthesis | Meta-analysis |
-| Role of quality assessment  | Often as an outcome  | Possible as an exposure or covariable | Usually not performed | Step in synthesis process^b^ | Step in synthesis process^b^ |
+| Typical objective | Assess methodological practice or quality | Assess impact of methodological characteristics on study results | Identify available methods or methods research on a specific topic | Synthesize findings of methods research qualitatively | Synthesize findings of methods research quantitatively |
+| Included publications/ unit of analysis | Individual applied studies | Individual applied studies | Methods research papers | Methods research papers | Methods research papers |
+| Sampling strategy | Random, purposeful, stratified, matched, complete^a^ | Stratified, matched, complete^a^ | Complete^a^ | Complete^a^, purposeful | Complete^a^ |
+| Typical analytic approach | Qualitative categorization and descriptive statistics | Meta-regression or multi-level modeling | Categorization and descriptive statistics | Qualitative synthesis | Meta-analysis |
+| Role of quality assessment | Often as an outcome | Possible as an exposure or covariable | Usually not performed | Step in synthesis process^b^ | Step in synthesis process^b^ |
 | Analogy in health research | Observational study (prevalence) | Observational study (exposure-outcome) | Scoping review | Qualitative evidence synthesis | Quantitative evidence synthesis|
-:::{.small}
+::: {.small}
 ^a^Usually based on a comprehensive search process that aims to find all eligible publications as completely as possible.
 ^b^Quality criteria currently remain unclear for most types of methods research.
 :::
 :::
 
-## Typical purposes and corresponding examples 
-[Identify available methods](../purposes/1identify-methods.qmd): Identify definitions of intention-to-treat;[@Alshurafa2012inconsistent] Review of causal methods to allow predictions under hypothetical interventions;[@Lin2021a] identify criteria for assessing the credibility of subgroup analyses;[@Schandelmaier2019a] identify factors influencing the trustworthiness of non-randomized studies;[@Adegboye2025factors] identify methods addressing bias in adaptive trial designs.[@Robertson2023point]; 
+::: {.callout-tip appearance="minimal" collapse="true"}
+## A remaining disagreement: do scoping reviews and qualitative syntheses differ enough?
+Our group did not resolve whether scoping reviews of methods research differ sufficiently from [qualitative syntheses of methods research](12qualitative-synthesis.qmd), since we struggled to differentiate them in practice.
 
-[Identify available methods research on a specific topic](../purposes/2identify-mr.qmd): Identify publications that suggest a process for developing methods guidance.[@Chiaborelli2026strategies] identify and map guidance for evidence synthesis [@Movsisyan2026conducting]
+Viewing the types as archetypes rather than direct reflections of current practice helped us decide to keep them separate, so that the typology can support clearer design and reporting of future studies.
+:::
 
-[Develop guidance for understanding and applying methods](../purposes/9guidance-applying.qmd): inform guidance on integrating qualitative methods in randomized trials;[@Davis2019beyond] scoping review informed guidance for developing core outcome sets.[@Prinsen2016how]
+## Typical objectives and corresponding examples
+[Identify available methods](../objectives/1identify-methods.qmd): identify definitions of intention-to-treat;[@Alshurafa2012inconsistent] review of causal methods to allow predictions under hypothetical interventions;[@Lin2021a] identify criteria for assessing the credibility of subgroup analyses;[@Schandelmaier2019a] identify factors influencing the trustworthiness of non-randomized studies;[@Adegboye2025factors] identify methods addressing bias in adaptive trial designs;[@Robertson2023point] characterizing methods for group-variable selection.[@Buch2023a]
 
-[Develop reporting guidelines](../purposes/10guidance-reporting.qmd): scoping review informed the development of a new reporting guideline for factorial trials.[@Kahan2023reporting]
+[Identify available methods research on a specific topic](../objectives/2identify-mr.qmd): identify publications that suggest a process for developing methods guidance.[@Chiaborelli2026strategies] identify and map guidance for evidence synthesis.[@Movsisyan2026conducting]
 
-[Develop quality assessment instruments](../purposes/11guidance-assessing.qmd): scoping review of previous instruments informed the development of a new instrument to assess the quality of systematic reviews.[@Shea2017amstar] 
+[Develop guidance for understanding and applying methods](../objectives/9guidance-applying.qmd): inform guidance on integrating qualitative methods in randomized trials;[@Davis2019beyond] scoping review informed guidance for developing core outcome sets.[@Prinsen2016how]
+
+[Develop reporting guidelines](../objectives/10guidance-reporting.qmd): scoping review informed the development of a new reporting guideline for factorial trials.[@Kahan2023reporting]
+
+[Develop quality assessment instruments](../objectives/11guidance-assessing.qmd): scoping review of previous instruments informed the development of a new instrument to assess the quality of systematic reviews.[@Shea2017amstar]
 
 ## Guidance
-- Guidance for understanding and applying methods: [REF]
-- Guidance for reporting methods: [REF]
-- Guidance for assessing methods: [REF]
+- Guidance for understanding and applying methods: [to be added]
+- Guidance for reporting methods: [to be added]
+- Guidance for assessing methods: [to be added]

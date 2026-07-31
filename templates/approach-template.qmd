@@ -1,20 +1,27 @@
 ---
-title: "TYPE NAME"
+title: "N Approach name"
+link-citations: true
 ---
-Alternative labels: 
 
-## Definition
+Terminology: … (alternative labels, separated by semicolons; delete this line if none)
 
+## Definition and features
+…
 
-## Boundaries to related types
-- Differs from [X](x.qmd): …
-- Differs from [Y](y.qmd): …
+- A strength is that …
+- A limitation is that …
 
-## Typical purposes and corresponding examples 
-- [Purpose 1](../purposes/xxx.qmd)
-- [Purpose 2](../purposes/xxx.qmd)
+::: {.callout-tip appearance="minimal" collapse="true"}
+## Boundaries with related types
+[Related approach](Nrelated.qmd): how the two differ.
+:::
+
+## Typical objectives and corresponding examples
+[Objective name](../objectives/Nobjective.qmd): first example;[@key1] second example.[@key2]
+
+[Another objective](../objectives/Nobjective.qmd): example.[@key3]
 
 ## Guidance
-- Guidance for understanding and applying methods: [REF]
-- Guidance for reporting methods: [REF]
-- Guidance for assessing methods: [REF]
+- Guidance for understanding and applying methods: [to be added]
+- Guidance for reporting methods: [to be added]
+- Guidance for assessing methods: [to be added]

@@ -1,0 +1,26 @@
+---
+title: "14 Assess variability of results across methodological choices"
+link-citations: true
+---
+
+Terminology: assessing vibration of effects. The labels many-analyst study, multiverse analysis, and specification-curve analysis appear with inconsistent definitions. Studies published under these labels fall within this objective when the variability itself is the object of study; when they support the conclusions of a specific study, they act as sensitivity analyses rather than methods research.
+
+## Definition
+These studies aim to quantify how much results vary when researchers address the same research question with different methodological choices, such as choices in data processing, eligibility criteria, model specification, or the entire analysis strategy. The variability itself is the objective of the study.
+
+::: {.callout-tip appearance="minimal" collapse="true"}
+## Boundaries with related objectives
+[7 Evaluate a single method](7evaluate-method.qmd) and [8 Compare methods](8compare-methods.qmd): O7 and O8 assess one or more specified methods, and variability between users may be one outcome of that assessment. In O14, no specific method is under evaluation; the object is the spread of results across a space of choices. When researchers assess how different users apply a single method, the objective becomes O7. When researchers designate specific competing methods and assess their performance, the objective becomes O8.
+
+[4 Assess methodological practice](4assess-practice.qmd): O4 describes which methods researchers use in practice, whereas O14 quantifies how much results change when those choices vary.
+:::
+
+## Typical approaches and corresponding examples
+[Reliability and agreement studies](../approaches/4reliability.qmd): variation in results when 29 teams analyzed the same dataset with self-chosen analysis strategies ("many-analyst study");[@Silberzahn2018many] variation in results when multiple teams assessed the association between marital status and cardiovascular disease ("many-analyst study").[@Kowall2025marital]
+
+[Experimental analyses of real datasets](../approaches/3real-datasets.qmd): variation of observational mortality associations across many model specifications ("vibration of effects");[@Patel2015assessment] variation of observational associations across analytical choices ("vibration of effects");[@Klau2021examining] spread of pooled effect estimates across many meta-analytic specifications ("multiverse").[@Plessen2023exploring]
+
+## Guidance
+- Guidance for understanding and applying methods: [to be added]
+- Guidance for reporting methods: [to be added]
+- Guidance for assessing methods: [to be added]

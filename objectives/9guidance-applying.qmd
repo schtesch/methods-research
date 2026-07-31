@@ -1,0 +1,39 @@
+---
+title: "9 Develop guidance for understanding and applying methods"
+link-citations: true
+---
+
+Terminology: methods guidance; tutorial; best practice recommendations
+
+## Definition
+These studies aim to develop guidance that helps health researchers or other interest-holders understand, select, and apply methods. Guidance may include conceptual explanations, examples, recommendations for or against specific methods, or tools that operationalize the guidance, such as decision algorithms, step-by-step tutorials, templates, or code for statistical software.
+
+## Typical approaches and corresponding examples
+Approaches to develop methods guidance greatly vary and include:
+
+[Theory-based methods research](../approaches/1theory.qmd): covariate adjustment in trials;[@VanLancker2024covariate] credibility criteria for subgroup effects, some criteria based on theoretical reasoning.[@Schandelmaier2020development]
+
+[Simulation studies](../approaches/2simulation.qmd): guidance on using matching in cluster trials;[@Chondros2021when] guidance for variable screening in high dimensional survival analysis;[@Edelmann2020marginal] estimation of diagnostic test accuracy without reference standard.[@Sun2025estimation]
+
+[Experimental analyses of real datasets](../approaches/3real-datasets.qmd): guidance for using machine learning for abstract screening.[@Hamel2021guidance]
+
+[Methodological randomized studies](../approaches/5randomized.qmd): effect of different table formats on users' understanding informed methods guidance.[@Carrasco-Labra2016improving]
+
+[Meta-epidemiological studies](../approaches/10meta-epi.qmd): effects of rapid-review shortcuts informed Cochrane guidance for conducting rapid reviews.[@Garritty2021cochrane]
+
+[Qualitative studies](../approaches/7qualitative.qmd): Q-methodology, focus groups, content analysis, and workshops to produce guidance on creating summaries for trial participants.[@Bruhn2022what]
+
+[Consensus studies](../approaches/8consensus.qmd): guidance on factors to consider when inviting multiple interest-holder groups to research, based on Delphi;[@Parker2022factors] guidance on handling missing data in trials, based on Nominal Group Technique.[@Hussain2022development]
+
+[Reviews of applied or planned methods](../approaches/9review-applied.qmd): recommendations for the use of directed acyclic graphs.[@Tennant2021use]
+
+[Scoping reviews of methods research](../approaches/11scoping-review.qmd): a scoping review of methods papers informed guidance on integrating qualitative methods in randomized trials of complex interventions;[@Davis2019beyond] a scoping review of methods papers informed guidance for developing core outcome sets.[@Prinsen2016how]
+
+[Qualitative syntheses of methods research](../approaches/12qualitative-synthesis.qmd): review with qualitative synthesis of guidance for the evaluation and updating of clinical prediction models;[@Binuya2022methodological] review of methods research on saturation in qualitative studies.[@Hennink2022sample]
+
+[Informal approaches](../approaches/15informal.qmd): preventing common misunderstandings of randomisation;[@Senn2013seven] tutorial for sample size calculation in cluster trials;[@Hemming2020a] explanation why guidelines should seldom make good practice statements.[@Guyatt2016guideline]
+
+## Guidance
+- Guidance for understanding and applying methods: [to be added]
+- Guidance for reporting methods: [to be added]
+- Guidance for assessing methods: [to be added]
