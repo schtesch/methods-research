@@ -14,7 +14,7 @@ In informal approaches, researchers propose, explain, discuss, or recommend meth
 ## Typical objectives and corresponding examples
 Examples exist for most objectives, including:
 
-[Develop guidance for understanding and applying methods](../objectives/9guidance-applying.qmd): preventing common misunderstandings of randomisation;[@Senn2013seven] sample size calculation in cluster trials;[@Hemming2020a] explanation why guidelines should seldom make good practice statements.[@Guyatt2016guideline]
+[Develop guidance for understanding and applying methods](../objectives/9guidance-applying.qmd): preventing common misunderstandings of randomisation;[@Senn2013-sr] sample size calculation in cluster trials;[@Hemming2020a] explanation why guidelines should seldom make good practice statements.[@Guyatt2016guideline]
 
 [Propose a new method](../objectives/6propose-method.qmd): proposal for a random invitation single arm design.[@Janiaud2025single-arm]
 

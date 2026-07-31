@@ -12,7 +12,7 @@ In quantitative surveys, researchers use questionnaires to collect experiences, 
 ## Typical objectives and corresponding examples
 [Assess methodological practice](../objectives/4assess-practice.qmd): survey on the current practice of involving patients in statistical research.[@Abell2023incorporation]
 
-[Assess needs and priorities for methods research](../objectives/5assess-needs-priorities.qmd): survey to identify priorities for retention research;[@Kearney2017identifying] survey to identify priorities for methods research in the context of global health;[@Rosala-Hallas2018global] survey on the needs for methodological guidance on blinding in complex-intervention trials.[@Yonis2025navigating]
+[Assess needs and priorities for methods research](../objectives/5assess-needs-priorities.qmd): survey to identify priorities for retention research;[@Kearney2017identifying] survey to identify priorities for methods research in the context of global health;[@Rosala-Hallas2018global] survey on the needs for methodological guidance on blinding in complex-intervention trials.[@Yonis2025-dw]
 
 [Research the dissemination and implementation of methods](../objectives/13implementation.qmd): survey of researchers to identify barriers to the implementation of new statistical methods;[@Pullenayegum2016knowledge] survey of investigators in sports medicine to understand why they did not use a specific reporting guideline.[@Hansford2024barriers]
 

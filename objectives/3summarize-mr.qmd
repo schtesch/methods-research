@@ -9,7 +9,7 @@ These studies aim to synthesize the results of methods research addressing a spe
 ## Typical approaches and corresponding examples
 [Qualitative syntheses of methods research](../approaches/12qualitative-synthesis.qmd): meta-ethnographic synthesis of qualitative studies assessing the reasons for non-retention in clinical trials;[@Skea2019exploring] synthesis of studies assessing factors that impact on trial recruitment.[@Houghton2020factors]
 
-[Quantitative syntheses of methods research](../approaches/13quantitative-synthesis.qmd): meta-analysis of comparisons between machine learning and logistic regression for clinical prediction models;[@Christodoulou2019a] meta-analysis of meta-epidemiological studies assessing the impact of blinding in trials;[@Wang2024compelling] meta-analysis of randomized studies comparing blinded versus unblinded risk of bias assessment.[@Morissette2011blinded]
+[Quantitative syntheses of methods research](../approaches/13quantitative-synthesis.qmd): meta-analysis of comparisons between machine learning and logistic regression for clinical prediction models;[@Christodoulou2019-ot] meta-analysis of meta-epidemiological studies assessing the impact of blinding in trials;[@Wang2024compelling] meta-analysis of randomized studies comparing blinded versus unblinded risk of bias assessment.[@Morissette2011blinded]
 
 [Informal approaches](../approaches/15informal.qmd): overview of approaches for evaluating heterogeneous treatment effects.[@Lipkovich2023overview]
 

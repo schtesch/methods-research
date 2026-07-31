@@ -31,7 +31,7 @@ Approaches to develop methods guidance greatly vary and include:
 
 [Qualitative syntheses of methods research](../approaches/12qualitative-synthesis.qmd): review with qualitative synthesis of guidance for the evaluation and updating of clinical prediction models;[@Binuya2022methodological] review of methods research on saturation in qualitative studies.[@Hennink2022sample]
 
-[Informal approaches](../approaches/15informal.qmd): preventing common misunderstandings of randomisation;[@Senn2013seven] tutorial for sample size calculation in cluster trials;[@Hemming2020a] explanation why guidelines should seldom make good practice statements.[@Guyatt2016guideline]
+[Informal approaches](../approaches/15informal.qmd): preventing common misunderstandings of randomisation;[@Senn2013-sr] tutorial for sample size calculation in cluster trials;[@Hemming2020a] explanation why guidelines should seldom make good practice statements.[@Guyatt2016guideline]
 
 ## Guidance
 - Guidance for understanding and applying methods: [to be added]

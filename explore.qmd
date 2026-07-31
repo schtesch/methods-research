@@ -62,4 +62,4 @@ format:
 ## How to read the ordering
 The ordering of approaches does not impose a hierarchy of strength, such as a progression from "weak" to "strong" approaches. While one approach may answer a specific methodological question more convincingly than another, the typology as a whole describes a research ecosystem rather than a linear journey.
 
-The ordering of objectives broadly reflects the lifecycle of a method,[@Heinze2024phases] beginning with assessing the status quo and research needs and moving towards de-implementing methods that researchers should no longer use. O14 sits outside this lifecycle because it examines variation across methodological choices rather than a particular stage or method.
+The ordering of objectives broadly reflects the lifecycle of a method,[@Heinze2024-tl] beginning with assessing the status quo and research needs and moving towards de-implementing methods that researchers should no longer use. O14 sits outside this lifecycle because it examines variation across methodological choices rather than a particular stage or method.

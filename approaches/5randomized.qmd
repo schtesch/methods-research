@@ -12,7 +12,7 @@ In methodological randomized studies, researchers treat methods as interventions
 - A limitation is feasibility, especially when interventions target studies or research environments rather than individual researchers or study participants.
 
 ## Typical objectives and corresponding examples
-[Compare methods](../objectives/8compare-methods.qmd): effect of personalised versus non-personalised invitation letters on trial recruitment (study within a trial);[@Thiblin2022the] effect of incentives on investigators' sharing of individual participant data (study within a review);[@Veroniki2019retrieval] effect of different table formats on guideline users' understanding;[@Carrasco-Labra2016improving] effect of reminding peer reviewers of reporting items on the quality of study reports.[@Speich2023reminding]
+[Compare methods](../objectives/8compare-methods.qmd): effect of personalised versus non-personalised invitation letters on trial recruitment (study within a trial);[@Thiblin2022-la] effect of incentives on investigators' sharing of individual participant data (study within a review);[@Veroniki2019retrieval] effect of different table formats on guideline users' understanding;[@Carrasco-Labra2016improving] effect of reminding peer reviewers of reporting items on the quality of study reports.[@Speich2023reminding]
 
 [Develop guidance for understanding and applying methods](../objectives/9guidance-applying.qmd): effect of different table formats on users' understanding informed methods guidance.[@Carrasco-Labra2016improving]
 

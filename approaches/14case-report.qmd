@@ -17,7 +17,7 @@ In methodological case reports, researchers describe their experience with the d
 :::
 
 ## Typical objectives and corresponding examples
-[Evaluate a single method](../objectives/7evaluate-method.qmd): experience with using large language models to develop a clinical practice guideline;[@Sousa-Pinto2024artificial] lessons learned from applying a framework to develop a healthcare intervention;[@Lindblom2025navigating] challenges and benefits of including non-randomized evidence in living systematic reviews;[@Bonnet2025including] demonstration of target trial emulation.[@Martinuka2023target]
+[Evaluate a single method](../objectives/7evaluate-method.qmd): experience with using large language models to develop a clinical practice guideline;[@Sousa-Pinto2024-gz] lessons learned from applying a framework to develop a healthcare intervention;[@Lindblom2025-ez] challenges and benefits of including non-randomized evidence in living systematic reviews;[@Bonnet2026including] demonstration of target trial emulation.[@Martinuka2023target]
 
 ## Guidance
 - Guidance for understanding and applying methods: [to be added]

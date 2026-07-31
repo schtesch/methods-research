@@ -7,11 +7,11 @@ link-citations: true
 These studies aim to assess the gaps and needs for future methods research, sometimes ranked by priority.
 
 ## Typical approaches and corresponding examples
-[Quantitative surveys](../approaches/6survey.qmd): identify priorities for retention research;[@Kearney2017identifying] identify priorities for methods research in the context of global health;[@Rosala-Hallas2018global] needs for methodological guidance on blinding in complex-intervention trials.[@Yonis2025navigating]
+[Quantitative surveys](../approaches/6survey.qmd): identify priorities for retention research;[@Kearney2017identifying] identify priorities for methods research in the context of global health;[@Rosala-Hallas2018global] needs for methodological guidance on blinding in complex-intervention trials.[@Yonis2025-dw]
 
 [Consensus studies](../approaches/8consensus.qmd): Delphi study to identify priorities for methods research.[@TudurSmith2014the]
 
-[Reviews of applied or planned methods](../approaches/9review-applied.qmd): identify research needs in individual participant-data meta-analysis.[@Seidler2026state]
+[Reviews of applied or planned methods](../approaches/9review-applied.qmd): identify research needs in individual participant-data meta-analysis.[@Seidler2026-uh]
 
 ## Guidance
 - Guidance for understanding and applying methods: [to be added]

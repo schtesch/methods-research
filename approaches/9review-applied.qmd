@@ -36,9 +36,9 @@ Boundary with A10 meta-epidemiological studies. Both examine applied studies. A9
 
 [Assess methodological practice](../objectives/4assess-practice.qmd): quality and reporting of prediction models for COVID-19;[@Wynants2020prediction] construction and application of directed acyclic graphs in leading medical journals.[@Deng2026construction]
 
-[Assess needs and priorities for methods research](../objectives/5assess-needs-priorities.qmd): conduct of individual participant-data meta-analysis.[@Seidler2026state]
+[Assess needs and priorities for methods research](../objectives/5assess-needs-priorities.qmd): conduct of individual participant-data meta-analysis.[@Seidler2026-uh]
 
-[Evaluate a single method](../objectives/7evaluate-method.qmd): concordance of target trial emulations with benchmark randomized controlled trials.[@Wang2026concordance]
+[Evaluate a single method](../objectives/7evaluate-method.qmd): concordance of target trial emulations with benchmark randomized controlled trials.[@Wang2026-bw]
 
 [Develop guidance for understanding and applying methods](../objectives/9guidance-applying.qmd): recommendations for the use of directed acyclic graphs (DAGs);[@Tennant2021use] using the nominal group technique for eliciting survey items.[@Harb2021methodological]
 

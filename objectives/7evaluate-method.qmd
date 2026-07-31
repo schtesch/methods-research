@@ -18,7 +18,7 @@ These studies aim to assess a single method with respect to precision, bias, acc
 
 [Qualitative studies](../approaches/7qualitative.qmd): focus group addressing the clarity of plain language recommendations in guidelines;[@Santesso2022focus] interviews with users of a new instrument addressing face validity.[@Schandelmaier2020development]
 
-[Reviews of applied or planned methods](../approaches/9review-applied.qmd): concordance of target trial emulations with benchmark randomized controlled trials.[@Wang2026concordance]
+[Reviews of applied or planned methods](../approaches/9review-applied.qmd): concordance of target trial emulations with benchmark randomized controlled trials.[@Wang2026-bw]
 
 ## Guidance
 - Guidance for understanding and applying methods: [to be added]

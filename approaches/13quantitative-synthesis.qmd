@@ -30,7 +30,7 @@ In quantitative syntheses of methods research, researchers synthesize quantitati
 :::
 
 ## Typical objectives and corresponding examples
-[Summarize the results of methods research](../objectives/3summarize-mr.qmd): meta-analysis of comparisons between machine learning and logistic regression for clinical prediction models;[@Christodoulou2019a] meta-analysis of meta-epidemiological studies assessing the impact of blinding in trials;[@Wang2024compelling] meta-analysis of randomized studies comparing blinded versus unblinded risk of bias assessment.[@Morissette2011blinded]
+[Summarize the results of methods research](../objectives/3summarize-mr.qmd): meta-analysis of comparisons between machine learning and logistic regression for clinical prediction models;[@Christodoulou2019-ot] meta-analysis of meta-epidemiological studies assessing the impact of blinding in trials;[@Wang2024compelling] meta-analysis of randomized studies comparing blinded versus unblinded risk of bias assessment.[@Morissette2011blinded]
 
 ## Guidance
 - Guidance for understanding and applying methods: [to be added]

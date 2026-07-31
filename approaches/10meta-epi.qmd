@@ -32,7 +32,7 @@ Boundary with A9 reviews of applied or planned methods. Both examine applied stu
 :::
 
 ## Typical objectives and corresponding examples
-[Compare methods](../objectives/8compare-methods.qmd): comparison of treatment effects between trials with and without adequate allocation concealment or blinding.[@Wood2008empirical]
+[Compare methods](../objectives/8compare-methods.qmd): comparison of treatment effects between trials with and without adequate allocation concealment or blinding.[@Wood2008-mm]
 
 [Develop guidance for understanding and applying methods](../objectives/9guidance-applying.qmd): effects of rapid-review shortcuts informed Cochrane guidance for conducting rapid reviews.[@Garritty2021cochrane]
 
