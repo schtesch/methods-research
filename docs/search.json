@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "About this initiative",
     "section": "",
-    "text": "The typology\nWelcome! This website is under construction. It shows a draft of the new Typology of Methods Research (TYPE-ME) - a living resource for methods researchers who work in the context of health research and psychology. The typology is the product of an expert-panel process with empirical testing.\nStart with the condensed version for quick orientation, or browse the full typology using the side bar or the interactive overview figure.",
+    "text": "The typology\nWelcome to the websites for the new Typology of Methods Research (TYPE-ME) - a living resource for methods researchers who work in the context of health research and psychology. The typology is the product of an expert-panel process with empirical testing.\nStart with the condensed version for quick orientation, or browse the full typology using the side bar or the interactive overview figure.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>About this initiative</span>"
     ]
@@ -1253,6 +1253,56 @@
     "crumbs": [
       "Explore by objective",
       "<span class='chapter-number'>32</span>  <span class='chapter-title'>14 Assess variability of results across methodological choices</span>"
+    ]
+  },
+  {
+    "objectID": "impressum.html",
+    "href": "impressum.html",
+    "title": "Legal notice",
+    "section": "",
+    "text": "Publisher and responsibility for content\nTYPE-ME — Typology of Methods Research\nResponsible for this website:\nStefan Schandelmaier\nDivision of Clinical Epidemiology\nDepartment of Clinical Research\nUniversity of Basel and University Hospital Basel\nTotengässlein 3\n4051 Basel\nSwitzerland\nEmail: stefan.schandelmaier@unibas.ch\nTYPE-ME authors are Stefan Schandelmaier, Malena Chiaborelli, Julian Hirt, Anne-Laure Boulesteix, Matthias Briel, Livia Puljak, Zachary Munn, Hanan Khalil, Dawid Pieper, Georg Heinze, and Richard Hooper.",
+    "crumbs": [
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>Legal notice</span>"
+    ]
+  },
+  {
+    "objectID": "impressum.html#copyright-and-licence",
+    "href": "impressum.html#copyright-and-licence",
+    "title": "Legal notice",
+    "section": "Copyright and licence",
+    "text": "Copyright and licence\n© 2026 The TYPE-ME authors.\nUnless otherwise indicated, the original textual and graphical content of this website is licensed under the Creative Commons Attribution–NonCommercial 4.0 International Licence (CC BY-NC 4.0).\nUnder this licence, you may share and adapt the licensed material for non-commercial purposes, provided that you give appropriate credit, include a link to the licence, and indicate whether changes were made. Attribution must not suggest that the TYPE-ME authors endorse the user or the resulting use.\nPlease attribute the material as:\nSchandelmaier S, Chiaborelli M, Hirt J, Boulesteix A-L, Briel M, Puljak L, Munn Z, Khalil H, Pieper D, Heinze G, Hooper R. How and why do we study research methods? The TYPE-ME typology of methods research [Internet]. MetaArXiv; 2026. Available from: osf.io/preprints/metaarxiv/nyj2p_v1.\nPermission for commercial use may be requested from stefan.schandelmaier@gmail.com.\nThe Creative Commons licence applies only to material for which the stated copyright holder(s) hold the necessary rights. Third-party material, cited publications, trademarks, institutional names, and logos are excluded unless expressly stated otherwise. Their use may require permission from the respective rights holders.",
+    "crumbs": [
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>Legal notice</span>"
+    ]
+  },
+  {
+    "objectID": "impressum.html#disclaimer",
+    "href": "impressum.html#disclaimer",
+    "title": "Legal notice",
+    "section": "Disclaimer",
+    "text": "Disclaimer\nThe information provided on this website is intended for research, educational, and informational purposes. Although reasonable efforts are made to keep it accurate and current, no guarantee is given regarding its completeness, accuracy, or suitability for a particular purpose.\nThe content does not constitute legal, medical, statistical, or other professional advice. To the extent permitted by applicable law, the publisher and contributors accept no liability for loss or damage arising from access to, use of, or reliance on this website.\nThis website contains links to external websites. The publisher has no control over their content or availability and accepts no responsibility for them.",
+    "crumbs": [
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>Legal notice</span>"
+    ]
+  },
+  {
+    "objectID": "impressum.html#privacy",
+    "href": "impressum.html#privacy",
+    "title": "Legal notice",
+    "section": "Privacy",
+    "text": "Privacy\nThis website does not intentionally collect personal information through forms, user accounts, or analytics. Technical service providers may process connection data required to deliver and secure the website. Questions concerning privacy may be sent to the contact address above.",
+    "crumbs": [
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>Legal notice</span>"
+    ]
+  },
+  {
+    "objectID": "impressum.html#funding-and-independence",
+    "href": "impressum.html#funding-and-independence",
+    "title": "Legal notice",
+    "section": "Funding and independence",
+    "text": "Funding and independence\nDevelopment of TYPE-ME was funded by the Swiss National Science Foundation (SNSF).\nLast updated: July 2026",
+    "crumbs": [
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>Legal notice</span>"
     ]
   }
 ]

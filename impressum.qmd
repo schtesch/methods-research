@@ -1,0 +1,86 @@
+---
+title: "Legal notice"
+---
+
+## Publisher and responsibility for content
+
+**TYPE-ME — Typology of Methods Research**
+
+Responsible for this website:
+
+Stefan Schandelmaier  
+Division of Clinical Epidemiology  
+Department of Clinical Research  
+University of Basel and University Hospital Basel  
+Totengässlein 3  
+4051 Basel  
+Switzerland
+
+Email: [stefan.schandelmaier@unibas.ch](mailto:stefan.schandelmaier@unibas.ch)
+
+TYPE-ME authors are Stefan Schandelmaier, Malena Chiaborelli,
+Julian Hirt, Anne-Laure Boulesteix, Matthias Briel, Livia Puljak,
+Zachary Munn, Hanan Khalil, Dawid Pieper, Georg Heinze, and Richard Hooper.
+
+## Copyright and licence
+
+© 2026 The TYPE-ME authors.
+
+Unless otherwise indicated, the original textual and graphical content
+of this website is licensed under the
+[Creative Commons Attribution–NonCommercial 4.0 International Licence
+(CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
+
+Under this licence, you may share and adapt the licensed material for
+non-commercial purposes, provided that you give appropriate credit,
+include a link to the licence, and indicate whether changes were made.
+Attribution must not suggest that the TYPE-ME authors endorse the user
+or the resulting use.
+
+Please attribute the material as:
+
+Schandelmaier S, Chiaborelli M, Hirt J, Boulesteix A-L, Briel M,
+Puljak L, Munn Z, Khalil H, Pieper D, Heinze G, Hooper R. How and why
+do we study research methods? The TYPE-ME typology of methods research
+[Internet]. MetaArXiv; 2026. Available from:
+[osf.io/preprints/metaarxiv/nyj2p_v1](https://osf.io/preprints/metaarxiv/nyj2p_v1).
+
+Permission for commercial use may be requested from
+[stefan.schandelmaier@gmail.com](mailto:stefan.schandelmaier@gmail.com).
+
+The Creative Commons licence applies only to material for which the
+stated copyright holder(s) hold the necessary rights. Third-party
+material, cited publications, trademarks, institutional names, and
+logos are excluded unless expressly stated otherwise. Their use may
+require permission from the respective rights holders.
+
+## Disclaimer
+
+The information provided on this website is intended for research,
+educational, and informational purposes. Although reasonable efforts
+are made to keep it accurate and current, no guarantee is given
+regarding its completeness, accuracy, or suitability for a particular
+purpose.
+
+The content does not constitute legal, medical, statistical, or other
+professional advice. To the extent permitted by applicable law, the
+publisher and contributors accept no liability for loss or damage
+arising from access to, use of, or reliance on this website.
+
+This website contains links to external websites. The publisher has no
+control over their content or availability and accepts no responsibility
+for them.
+
+## Privacy
+
+This website does not intentionally collect personal information through
+forms, user accounts, or analytics. Technical service providers may
+process connection data required to deliver and secure the website.
+Questions concerning privacy may be sent to the contact address above.
+
+## Funding and independence
+
+Development of TYPE-ME was funded by the Swiss National Science
+Foundation (SNSF).
+
+Last updated: July 2026

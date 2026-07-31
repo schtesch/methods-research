@@ -71,6 +71,7 @@ book:
         - objectives/14variability.qmd
 
     - references.qmd
+    - impressum.qmd
 
 format:
   html:

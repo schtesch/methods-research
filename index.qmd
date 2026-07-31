@@ -5,7 +5,7 @@ link-citations: true
 
 ![](images/logo2.png){fig-align="left" width="500px"}
 
-Welcome! This website is under construction. It shows a draft of the new **Typology of Methods Research (TYPE-ME)** - a living resource for methods researchers who work in the context of health research and psychology. The typology is the product of an [expert-panel process with empirical testing](https://osf.io/preprints/metaarxiv/nyj2p_v1).
+Welcome to the websites for the new **Typology of Methods Research (TYPE-ME)** - a living resource for methods researchers who work in the context of health research and psychology. The typology is the product of an [expert-panel process with empirical testing](https://osf.io/preprints/metaarxiv/nyj2p_v1).
 
 ## The typology
 Start with the [condensed version](simplified.qmd) for quick orientation, or browse the full typology using the side bar or the interactive [overview figure](explore.qmd).
