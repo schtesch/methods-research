@@ -29,4 +29,6 @@ jobs:
         run: node scripts/check-site.mjs
 
       - name: Confirm generated site is current
-        run: git diff --exit-code -- docs
+        # Quarto derives sitemap <lastmod> values from checkout-time file
+        # timestamps, so that one generated file is intentionally excluded.
+        run: git diff --exit-code -- docs ":(exclude)docs/sitemap.xml"
