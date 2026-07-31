@@ -6,14 +6,25 @@ bibliography: references.bib
 csl: vancouver-superscript.csl
 
 book:
-  title: ""
+  title: "TYPE-ME — Typology of Methods Research"
+  description: "A typology for planning, reporting, classifying, and understanding methods research in health research and psychology."
+  site-url: "https://methods-research.org"
+  image: "images/type-me-social.png"
+  image-alt: "TYPE-ME — Typology of Methods Research"
+  license: "CC BY-NC 4.0"
   favicon: images/favicon.svg
+  open-graph:
+    site-name: "TYPE-ME"
+    locale: en_GB
+  twitter-card:
+    card-style: summary_large_image
 
   sidebar:
     style: floating
     search: true
     collapse-level: 1
     logo: images/logo.png
+    logo-alt: "TYPE-ME — Typology of Methods Research"
 
   page-footer:
     left: "Funded by [Swiss National Science Foundation (SNSF)](https://www.snf.ch)"
@@ -77,11 +88,13 @@ format:
   html:
     number-sections: false
     reference-location: block
+    canonical-url: true
     theme: journal
     bread-crumbs: true
     toc: false
     smooth-scroll: true
     anchor-sections: true
     css: styles.css
+    include-in-header: includes/metadata.html
     grid:
       sidebar-width: 20rem

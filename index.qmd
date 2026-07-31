@@ -1,11 +1,27 @@
 ---
 title: "About this initiative"
+description: "TYPE-ME organizes methods research by its approaches and objectives, supporting clearer planning, reporting, classification, searching, and teaching."
+image: images/type-me-social.png
+image-alt: "TYPE-ME — Typology of Methods Research"
+open-graph:
+  title: "TYPE-ME — Typology of Methods Research"
+twitter-card:
+  title: "TYPE-ME — Typology of Methods Research"
 link-citations: true
 ---
 
-![](images/logo2.png){fig-align="left" width="500px"}
+![](images/logo2.jpg){fig-align="left" width="500px" alt="A magnifying glass containing methods researchers, representing the TYPE-ME typology."}
 
-Welcome to the websites for the new **Typology of Methods Research (TYPE-ME)** - a living resource for methods researchers who work in the context of health research and psychology. The typology is the product of an [expert-panel process with empirical testing](https://osf.io/preprints/metaarxiv/nyj2p_v1).
+Welcome to the website for the new **Typology of Methods Research (TYPE-ME)** — a living resource for methods researchers who work in the context of health research and psychology. The typology is the product of an [expert-panel process with empirical testing](https://osf.io/preprints/metaarxiv/nyj2p_v1).
+
+::: {.callout-note}
+## Help refine TYPE-ME
+
+We welcome examples, proposed clarifications, corrections, and feedback
+from people who use the typology.
+
+[Send feedback by email](mailto:stefan.schandelmaier@unibas.ch?subject=TYPE-ME%20feedback)
+:::
 
 ## The typology
 Start with the [condensed version](simplified.qmd) for quick orientation, or browse the full typology using the side bar or the interactive [overview figure](explore.qmd).

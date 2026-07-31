@@ -13,10 +13,10 @@
   display: none;
 }
 
-/* The legal notice is linked from the footer but should not appear as a
-   chapter in the book navigation. It remains a book chapter so that Quarto
-   renders it as part of a full site build. */
-.sidebar-item:has(> .sidebar-item-container > a[href$="impressum.html"]) {
+/* Utility pages are linked elsewhere and should not appear as chapters in
+   the book navigation. */
+.sidebar-item:has(> .sidebar-item-container > a[href$="impressum.html"]),
+.sidebar-item:has(> .sidebar-item-container > a[href$="404.html"]) {
   display: none;
 }
 

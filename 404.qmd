@@ -1,0 +1,12 @@
+---
+title: "Page not found"
+description: "The requested TYPE-ME page could not be found."
+search: false
+---
+
+The page you requested could not be found. It may have been renamed or
+moved.
+
+- [Return to the TYPE-ME homepage](index.qmd)
+- [Explore the interactive overview](explore.qmd)
+- Use the site search to find an approach or objective
