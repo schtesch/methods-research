@@ -23,7 +23,15 @@ jobs:
           version: "1.9.37"
 
       - name: Render site
-        run: quarto render
+        shell: bash
+        run: |
+          for attempt in 1 2; do
+            if quarto render; then
+              exit 0
+            fi
+            echo "Quarto render attempt ${attempt} failed; retrying once."
+          done
+          exit 1
 
       - name: Validate required files, metadata, and internal links
         run: node scripts/check-site.mjs
