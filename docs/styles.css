@@ -13,6 +13,13 @@
   display: none;
 }
 
+/* The legal notice is linked from the footer but should not appear as a
+   chapter in the book navigation. It remains a book chapter so that Quarto
+   renders it as part of a full site build. */
+.sidebar-item:has(> .sidebar-item-container > a[href$="impressum.html"]) {
+  display: none;
+}
+
 /* Page subtitle: Bootstrap's .lead forces 1.25rem/300, which reads as an odd
    size next to body text. Inherit from the page instead. */
 .quarto-title .subtitle {
