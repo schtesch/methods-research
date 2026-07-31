@@ -12,7 +12,7 @@ book:
   image: "images/type-me-social.png"
   image-alt: "TYPE-ME — Typology of Methods Research"
   license: "CC BY-NC 4.0"
-  favicon: images/favicon.svg
+  favicon: images/favicon-v2.svg
   open-graph:
     site-name: "TYPE-ME"
     locale: en_GB
