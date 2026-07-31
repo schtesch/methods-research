@@ -20,7 +20,7 @@ Examples exist for most objectives, including:
 
 [Summarize the results of methods research](../objectives/3summarize-mr.qmd): overview of approaches for evaluating heterogeneous treatment effects.[@Lipkovich2023overview]
 
-[Develop software and code](../objectives/12software-code.qmd): web application for Bayes Factor Design Analysis;[@Stefan2023big] netmeta, an R package for network meta-analysis.[@Balduzzi2023netmeta]
+[Develop software and code](../objectives/12software-code.qmd): web application for Bayes Factor Design Analysis;[@Stefan2019a] netmeta, an R package for network meta-analysis.[@Balduzzi2023netmeta]
 
 ## Guidance
 - Guidance for understanding and applying methods: [to be added]
