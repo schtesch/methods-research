@@ -201,7 +201,6 @@
 }
 
 .type-map__card-close,
-.type-map__card-kicker,
 .type-map__card-title,
 .type-map__card-related {
   display: none;
@@ -299,16 +298,6 @@
     color: var(--ink);
     font-weight: 700;
     line-height: 1.25;
-  }
-
-  .type-map__card-kicker {
-    display: block;
-    margin-bottom: 0.2rem;
-    color: #526270;
-    font-size: 0.78rem;
-    font-weight: 600;
-    letter-spacing: 0.025em;
-    text-transform: uppercase;
   }
 
   .type-map__card-related {

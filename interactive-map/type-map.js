@@ -62,7 +62,6 @@
   detailCard.setAttribute("aria-live", "polite");
   detailCard.innerHTML = `
     <button type="button" class="type-map__card-close" aria-label="Close type information">×</button>
-    <div class="type-map__card-kicker"></div>
     <div class="type-map__card-title"></div>
     <div class="type-map__card-related">
       <span class="type-map__card-related-label"></span>
@@ -73,7 +72,6 @@
   map.append(detailCard);
 
   const cardClose = detailCard.querySelector(".type-map__card-close");
-  const cardKicker = detailCard.querySelector(".type-map__card-kicker");
   const cardTitle = detailCard.querySelector(".type-map__card-title");
   const cardRelatedLabel = detailCard.querySelector(".type-map__card-related-label");
   const cardRelatedLinks = detailCard.querySelector(".type-map__card-related-links");
@@ -239,10 +237,7 @@
     const label = itemLabel(item);
     const related = [...connectedIds(id)];
 
-    cardKicker.textContent = id.startsWith("A")
-      ? "Selected approach"
-      : "Selected objective";
-    cardTitle.textContent = label;
+    cardTitle.textContent = `${id} ${label}`;
     cardRelatedLabel.textContent = id.startsWith("A")
       ? "Often combined with these objectives"
       : "Often combined with these approaches";

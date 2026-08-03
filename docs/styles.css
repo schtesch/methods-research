@@ -28,11 +28,12 @@
   line-height: inherit;
 }
 
-/* On narrow screens, keep the page title visually separate from the first
-   paragraph, section heading, table, or interactive element. */
+/* Use padding rather than a collapsing margin so every mobile page keeps a
+   visible gap between its title block and its first content element. */
 @media (max-width: 767.98px) {
   #title-block-header.quarto-title-block {
-    margin-bottom: 1.25rem;
+    margin-bottom: 0;
+    padding-bottom: 1.5rem;
   }
 }
 
