@@ -206,14 +206,6 @@
   display: none;
 }
 
-.type-map__note {
-  width: min(100%, 94rem);
-  margin: 1.2rem auto 2rem;
-  color: #526270;
-  font-size: 0.95rem;
-  text-align: center;
-}
-
 @media (max-width: 88rem) {
   .type-map {
     grid-template-columns: minmax(0, 1fr) minmax(2rem, 0.28fr) minmax(0, 1.22fr);

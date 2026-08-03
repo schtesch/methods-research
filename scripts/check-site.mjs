@@ -29,7 +29,7 @@ function requireFile(relativePath) {
   "404.html",
   "robots.txt",
   "sitemap.xml",
-  "images/type-me-social.png"
+  "images/type-me-social.jpg"
 ].forEach(requireFile);
 
 const htmlFiles = walk(outputRoot).filter((file) => file.endsWith(".html"));
@@ -101,6 +101,26 @@ for (const file of htmlFiles) {
   }
 }
 
+// Social image URLs live in `content` attributes, so the link check above
+// never sees them. A relative `image:` in _quarto.yml silently resolves
+// against each page's own directory, so subpages can point at an image that
+// was never published. Every page must name the one canonical absolute URL.
+const socialImage = "https://methods-research.org/images/type-me-social.jpg";
+
+for (const file of htmlFiles) {
+  const html = fs.readFileSync(file, "utf8");
+
+  for (const match of html.matchAll(
+    /<meta\s+(?:property|name)="(og:image|twitter:image)"\s+content="([^"]*)"/gi
+  )) {
+    if (match[2] !== socialImage) {
+      report(
+        `${path.relative(projectRoot, file)}: ${match[1]} is "${match[2]}", expected "${socialImage}"`
+      );
+    }
+  }
+}
+
 const indexPath = path.join(outputRoot, "index.html");
 if (fs.existsSync(indexPath)) {
   const index = fs.readFileSync(indexPath, "utf8");
@@ -109,7 +129,7 @@ if (fs.existsSync(indexPath)) {
     ['a meta description', /<meta\s+name="description"\s+content="[^"]+"/i],
     ['a canonical URL', /<link\s+rel="canonical"\s+href="https:\/\/methods-research\.org\/?"/i],
     ['Open Graph title metadata', /<meta\s+property="og:title"\s+content="[^"]*TYPE-ME/i],
-    ['Open Graph image metadata', /<meta\s+property="og:image"\s+content="https:\/\/methods-research\.org\/images\/type-me-social\.png"/i],
+    ['Open Graph image metadata', /<meta\s+property="og:image"\s+content="https:\/\/methods-research\.org\/images\/type-me-social\.jpg"/i],
     ['Twitter card metadata', /<meta\s+name="twitter:card"\s+content="summary_large_image"/i],
     ['JSON-LD structured data', /<script\s+type="application\/ld\+json">/i],
     ['descriptive homepage logo text', /<img(?=[^>]*src="(?:\.\/)?images\/logo2\.jpg")(?=[^>]*alt="[^"]+")[^>]*>/i],

@@ -38,3 +38,19 @@ jobs:
 
       - name: Validate required files, metadata, and internal links
         run: node scripts/check-site.mjs
+
+      # A partial `quarto render` can leave docs/ half-updated: site-wide
+      # elements such as the sidebar only reach the pages Quarto chose to
+      # rebuild. Comparing the committed site against this fresh render
+      # catches that. sitemap.xml is excluded because its <lastmod> values
+      # follow source file mtimes, which a fresh checkout resets.
+      - name: Fail if the committed site is stale
+        shell: bash
+        run: |
+          if ! git diff --quiet -- docs ':(exclude)docs/sitemap.xml'; then
+            echo "docs/ does not match a fresh render of the sources."
+            echo "Run 'rm -rf .quarto && quarto render' and commit the result."
+            echo
+            git diff --stat -- docs ':(exclude)docs/sitemap.xml'
+            exit 1
+          fi

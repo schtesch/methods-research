@@ -2,7 +2,7 @@
 title: "About this initiative"
 description: ""
 description-meta: "TYPE-ME organizes methods research by its approaches and objectives, supporting clearer planning, reporting, classification, searching, and teaching."
-image: images/type-me-social.png
+image: https://methods-research.org/images/type-me-social.jpg
 image-alt: "TYPE-ME — Typology of Methods Research"
 open-graph:
   title: "TYPE-ME — Typology of Methods Research"
@@ -15,7 +15,7 @@ Welcome to **TYPE-ME**, a living resource for methods researchers in health rese
 
 ::: {.callout-tip appearance="minimal" collapse="true"}
 ## What is methods research?
-![](images/logo2.jpg){fig-align="left" width="500px" alt="A magnifying glass containing research methods, representing the TYPE-ME typology."}
+![](images/logo2.jpg){fig-align="left" width="500px" loading="lazy" alt="A magnifying glass containing research methods, representing the TYPE-ME typology."}
 
 Methods research—research on research methods—aims to develop, evaluate, refine, or provide guidance on research methods, support their implementation or de-implementation, or synthesize existing methods research.[@Schandelmaier2026how]
 
@@ -104,18 +104,3 @@ from people who use the typology.
 
 [Send feedback by email](mailto:s.schandelmaier@gmail.com?subject=TYPE-ME%20feedback){.feedback-action}
 :::
-
-
-```{=html}
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  document.querySelectorAll('.callout-collapse').forEach(function(el) {
-    el.classList.remove('show');
-  });
-  document.querySelectorAll('.callout-header[aria-expanded]').forEach(function(el) {
-    el.setAttribute('aria-expanded', 'false');
-    el.classList.add('collapsed');
-  });
-});
-</script>
-```

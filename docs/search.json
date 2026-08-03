@@ -36,7 +36,7 @@
     "section": "",
     "text": "How to read the ordering\nThe detailed typology describes methods research along two dimensions: approach (“How can we study methods?”) and objective (“Why do we study methods?”). Approaches and objectives can combine in many ways. Select a type to see common combinations, details, and examples:\nThe ordering of approaches does not impose a hierarchy of strength, such as a progression from “weak” to “strong” approaches. While one approach may answer a specific methodological question more convincingly than another, the typology as a whole describes a research ecosystem rather than a linear journey.\nThe ordering of objectives broadly reflects the lifecycle of a method,1 beginning with assessing the status quo and research needs and moving towards de-implementing methods that researchers should no longer use. O14 sits outside this lifecycle because it examines variation across methodological choices rather than a particular stage or method.",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Detailed typology</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Detailed typology (interactive figure)</span>"
     ]
   },
   {
@@ -46,7 +46,7 @@
     "section": "Approaches: How?",
     "text": "Approaches: How?\n\n\nA1Theory-based methods research\n\n\nA2Simulation studies\n\n\nA3Experimental analyses of real datasets\n\n\nA4Reliability and agreement studies\n\n\nA5Methodological randomized studies\n\n\nA6Quantitative surveys\n\n\nA7Qualitative studies\n\n\nA8Consensus studies\n\n\nA9Reviews of applied or planned methods\n\n\nA10Meta-epidemiological studies\n\n\nA11Scoping reviews of methods research\n\n\nA12Qualitative syntheses of methods research\n\n\nA13Quantitative syntheses of methods research\n\n\nA14Methodological case reports or case series\n\n\nA15Informal approaches",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Detailed typology</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Detailed typology (interactive figure)</span>"
     ]
   },
   {
@@ -56,7 +56,7 @@
     "section": "Objectives: Why?",
     "text": "Objectives: Why?\n\n\nO1Identify available methods\n\n\nO2Identify available methods research on a specific topic\n\n\nO3Summarize the results of methods research\n\n\nO4Assess methodological practice\n\n\nO5Assess needs and priorities for methods research\n\n\nO6Propose a new method\n\n\nO7Evaluate a single method\n\n\nO8Compare methods\n\n\nO9Develop guidance for understanding and applying methods\n\n\nO10Develop reporting guidelines\n\n\nO11Develop quality assessment instruments\n\n\nO12Develop software and code\n\n\nO13Research the dissemination and implementation of methods\n\n\nO14Assess variability of results across methodological choices",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Detailed typology</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Detailed typology (interactive figure)</span>"
     ]
   },
   {
@@ -66,7 +66,7 @@
     "section": "Treat the types as archetypes",
     "text": "Treat the types as archetypes\nNot all methods research papers fit neatly into one type: some combine several approaches, and others fall on continua between related types. Rather than treating each type as a mutually exclusive box, view the types as archetypes that clarify typical study designs, common objectives, and important boundaries. This archetypal view is especially useful for planning new methods research, developing type-specific guidance, and discussing study design choices.\n\n\n\n\n1. Heinze G, Boulesteix A-L, Kammer M, Morris TP, White IR, Simulation Panel of the STRATOS initiative. Phases of methodological research in biostatistics-building the evidence base for new methods [Internet]. Biom. J. 2024 Jan. ;66(1):e2200222.Available from: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/bimj.202200222",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Detailed typology</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Detailed typology (interactive figure)</span>"
     ]
   },
   {

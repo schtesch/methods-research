@@ -1,6 +1,10 @@
 project:
   type: book
   output-dir: docs
+  # The social card is referenced only by absolute URL in the metadata below,
+  # so Quarto does not see it as a linked resource and would not publish it.
+  resources:
+    - images/type-me-social.jpg
 
 bibliography: references.bib
 csl: vancouver-superscript.csl
@@ -9,7 +13,10 @@ book:
   title: "TYPE-ME — Typology of Methods Research"
   description: "A typology for planning, reporting, classifying, and understanding methods research in health research and psychology."
   site-url: "https://methods-research.org"
-  image: "images/type-me-social.png"
+  # Absolute URL: a relative path here is resolved against each page's own
+  # directory, which pointed every approaches/ and objectives/ page at a
+  # social image that does not exist.
+  image: "https://methods-research.org/images/type-me-social.jpg"
   image-alt: "TYPE-ME — Typology of Methods Research"
   license: "CC BY-NC 4.0"
   favicon: images/favicon-v2.svg
@@ -43,7 +50,7 @@ book:
   chapters:
     - index.qmd
     - simplified.qmd
-    - text: "Detailed typology"
+    - text: "Detailed typology (interactive figure)"
       href: explore.qmd
 
     - part: "Explore by approach"
