@@ -109,13 +109,28 @@ const socialImage = "https://methods-research.org/images/type-me-social.jpg";
 
 for (const file of htmlFiles) {
   const html = fs.readFileSync(file, "utf8");
+  const socialMetadata = new Map([
+    ["og:image", []],
+    ["twitter:image", []]
+  ]);
 
   for (const match of html.matchAll(
     /<meta\s+(?:property|name)="(og:image|twitter:image)"\s+content="([^"]*)"/gi
   )) {
-    if (match[2] !== socialImage) {
+    socialMetadata.get(match[1].toLowerCase()).push(match[2]);
+  }
+
+  for (const [name, values] of socialMetadata) {
+    if (values.length !== 1) {
       report(
-        `${path.relative(projectRoot, file)}: ${match[1]} is "${match[2]}", expected "${socialImage}"`
+        `${path.relative(projectRoot, file)}: expected exactly one ${name} tag, found ${values.length}`
+      );
+    }
+
+    for (const value of values) {
+      if (value === socialImage) continue;
+      report(
+        `${path.relative(projectRoot, file)}: ${name} is "${value}", expected "${socialImage}"`
       );
     }
   }
