@@ -152,7 +152,10 @@ table td {
   }
 
   .condensed-typology td:nth-child(3)::before {
-    content: "Corresponds to detailed typology: ";
-    font-weight: 600;
+    content: "(";
+  }
+
+  .condensed-typology td:nth-child(3)::after {
+    content: ")";
   }
 }

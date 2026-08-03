@@ -73,8 +73,6 @@ TYPE-ME can help you:
 - **design programs of methods research** by showing how different types can build on each other, for example from method development to evaluation, guidance development, and implementation;
 - **support teaching** by presenting methods research as a structured field with connected types; and
 - **identify guidance needs** by showing which types of methods research lack specific guidance for conduct, reporting, or quality assessment.
-
-Treat the types as archetypes, not as mutually exclusive boxes. A study may combine several approaches or fall between related types. For broad planning, teaching, discussion, or preliminary classification, you may want to [start with the condensed version](simplified.qmd), which groups the main types into a single list of 10.
 :::
 
 ::: {.callout-tip appearance="minimal" collapse="true"}
@@ -86,8 +84,6 @@ An international team of 11 methodologists developed TYPE-ME through repeated di
 In two testing rounds, team members independently classified 52 methods research articles from 26 journals, contributing 494 individual article assessments. Testing helped us refine definitions and labels, clarify difficult boundaries, and document remaining disagreements.
 
 Throughout development, we identified published examples for individual types of MR. The examples showed whether proposed types occurred in practice, exposed missing or overlapping types, and helped us refine type descriptions and boundaries, complementing the more formal testing described above.
-
-TYPE-ME is the product of an expert-panel process with empirical testing and transparent documentation of remaining disagreements.
 
 We will continue to refine TYPE-ME through application, user feedback, and further testing.
 :::
