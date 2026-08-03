@@ -54,16 +54,27 @@
   const map = document.querySelector("#type-map");
   if (!map) return;
 
+  const mobileQuery = window.matchMedia("(max-width: 700px)");
   const svg = map.querySelector(".type-map__lines");
   const detailCard = document.createElement("aside");
   detailCard.className = "type-map__card";
   detailCard.hidden = true;
   detailCard.setAttribute("aria-live", "polite");
   detailCard.innerHTML = `
+    <button type="button" class="type-map__card-close" aria-label="Close type information">×</button>
+    <div class="type-map__card-title"></div>
+    <div class="type-map__card-related">
+      <span class="type-map__card-related-label"></span>
+      <div class="type-map__card-related-links"></div>
+    </div>
     <a class="type-map__card-link">View type details</a>
   `;
   map.append(detailCard);
 
+  const cardClose = detailCard.querySelector(".type-map__card-close");
+  const cardTitle = detailCard.querySelector(".type-map__card-title");
+  const cardRelatedLabel = detailCard.querySelector(".type-map__card-related-label");
+  const cardRelatedLinks = detailCard.querySelector(".type-map__card-related-links");
   const cardLink = detailCard.querySelector(".type-map__card-link");
   const items = new Map(
     [...map.querySelectorAll("[data-type-id]")].map((item) => [
@@ -89,10 +100,13 @@
       });
     });
 
-    svg.replaceChildren(fragment);
+    svg.textContent = "";
+    svg.appendChild(fragment);
   }
 
   function drawPaths() {
+    if (mobileQuery.matches) return;
+
     const mapRect = map.getBoundingClientRect();
     svg.setAttribute("viewBox", `0 0 ${mapRect.width} ${mapRect.height}`);
 
@@ -168,6 +182,12 @@
   }
 
   function positionCard(item) {
+    if (mobileQuery.matches) {
+      detailCard.style.removeProperty("left");
+      detailCard.style.removeProperty("top");
+      return;
+    }
+
     const mapRect = map.getBoundingClientRect();
     const itemRect = item.getBoundingClientRect();
     const cardRect = detailCard.getBoundingClientRect();
@@ -207,10 +227,32 @@
     selectedItem = item;
     item.classList.add("is-selected");
     item.setAttribute("aria-expanded", "true");
+    const label = [...item.querySelectorAll("span")]
+      .map((part) => part.textContent.trim())
+      .join(" ");
+    const related = [...connectedIds(id)];
+
+    cardTitle.textContent = label;
+    cardRelatedLabel.textContent = id.startsWith("A")
+      ? "Common objectives"
+      : "Common approaches";
+    cardRelatedLinks.textContent = "";
+    related.forEach((relatedId) => {
+      const relatedItem = items.get(relatedId);
+      const relatedLabel = [...relatedItem.querySelectorAll("span")]
+        .map((part) => part.textContent.trim())
+        .join(" ");
+      const link = document.createElement("a");
+      link.className = "type-map__card-related-link";
+      link.href = typePages[relatedId];
+      link.textContent = relatedId;
+      link.setAttribute("aria-label", relatedLabel);
+      cardRelatedLinks.appendChild(link);
+    });
     cardLink.href = typePages[id];
     cardLink.setAttribute(
       "aria-label",
-      `View details for ${item.textContent.trim().replace(/\s+/g, " ")}`
+      `View details for ${label}`
     );
     detailCard.hidden = false;
     positionCard(item);
@@ -240,6 +282,7 @@
   });
   map.addEventListener("pointerleave", reset);
   detailCard.addEventListener("click", (event) => event.stopPropagation());
+  cardClose.addEventListener("click", () => closeCard({ restoreFocus: true }));
   document.addEventListener("click", () => closeCard());
   document.addEventListener("keydown", (event) => {
     if (event.key === "Escape") closeCard({ restoreFocus: true });
@@ -248,9 +291,19 @@
   createPaths();
   scheduleDraw();
 
-  if (document.fonts?.ready) {
+  if (document.fonts && document.fonts.ready) {
     document.fonts.ready.then(scheduleDraw);
   }
 
-  new ResizeObserver(scheduleDraw).observe(map);
+  if ("ResizeObserver" in window) {
+    new ResizeObserver(scheduleDraw).observe(map);
+  } else {
+    window.addEventListener("resize", scheduleDraw);
+  }
+
+  if (mobileQuery.addEventListener) {
+    mobileQuery.addEventListener("change", scheduleDraw);
+  } else {
+    mobileQuery.addListener(scheduleDraw);
+  }
 })();

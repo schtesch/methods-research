@@ -42,9 +42,9 @@ book:
 
   chapters:
     - index.qmd
-    - text: "Overview figure"
-      href: explore.qmd
     - simplified.qmd
+    - text: "Detailed typology"
+      href: explore.qmd
 
     - part: "Explore by approach"
       chapters:

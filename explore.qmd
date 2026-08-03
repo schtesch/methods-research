@@ -1,7 +1,6 @@
 ---
-title: "Typology - interactive overview figure"
+title: "Detailed typology"
 link-citations: true
-subtitle: "Connections show common combinations. Click on a type for more information and real examples for the different combinations."
 page-layout: full
 toc: false
 format:
@@ -13,6 +12,8 @@ format:
       - text: |
           <script src="interactive-map/type-map.js"></script>
 ---
+
+The detailed typology describes methods research along two dimensions: approach (“How can we study methods?”) and objective (“Why do we study methods?”). Approaches and objectives can combine in many ways. Select a type to see common combinations, details, and examples:
 
 ::: {#type-map .type-map aria-label="Common connections between methods research approaches and objectives"}
 <svg class="type-map__lines" aria-hidden="true"></svg>
@@ -63,3 +64,6 @@ format:
 The ordering of approaches does not impose a hierarchy of strength, such as a progression from "weak" to "strong" approaches. While one approach may answer a specific methodological question more convincingly than another, the typology as a whole describes a research ecosystem rather than a linear journey.
 
 The ordering of objectives broadly reflects the lifecycle of a method,[@Heinze2024-tl] beginning with assessing the status quo and research needs and moving towards de-implementing methods that researchers should no longer use. O14 sits outside this lifecycle because it examines variation across methodological choices rather than a particular stage or method.
+
+## Treat the types as archetypes
+Not all methods research papers fit neatly into one type: some combine several approaches, and others fall on continua between related types. Rather than treating each type as a mutually exclusive box, view the types as archetypes that clarify typical study designs, common objectives, and important boundaries. This archetypal view is especially useful for planning new methods research, developing type-specific guidance, and discussing study design choices.

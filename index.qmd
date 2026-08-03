@@ -1,6 +1,7 @@
 ---
 title: "About this initiative"
-description: "TYPE-ME organizes methods research by its approaches and objectives, supporting clearer planning, reporting, classification, searching, and teaching."
+description: ""
+description-meta: "TYPE-ME organizes methods research by its approaches and objectives, supporting clearer planning, reporting, classification, searching, and teaching."
 image: images/type-me-social.png
 image-alt: "TYPE-ME — Typology of Methods Research"
 open-graph:
@@ -10,21 +11,20 @@ twitter-card:
 link-citations: true
 ---
 
-![](images/logo2.jpg){fig-align="left" width="500px" alt="A magnifying glass containing methods researchers, representing the TYPE-ME typology."}
+Welcome to **TYPE-ME**, a living resource for methods researchers in health research and psychology. Start with the [condensed version](simplified.qmd), explore the [detailed typology](explore.qmd), or read the [preprint](https://osf.io/preprints/metaarxiv/nyj2p_v1){target="_blank" rel="noopener noreferrer"}.
 
-Welcome to the website for the new **Typology of Methods Research (TYPE-ME)** — a living resource for methods researchers who work in the context of health research and psychology. The typology is the product of an [expert-panel process with empirical testing](https://osf.io/preprints/metaarxiv/nyj2p_v1).
+::: {.callout-tip appearance="minimal" collapse="true"}
+## What is methods research?
+![](images/logo2.jpg){fig-align="left" width="500px" alt="A magnifying glass containing research methods, representing the TYPE-ME typology."}
 
-::: {.callout-note}
-## Help refine TYPE-ME
+Methods research—research on research methods—aims to develop, evaluate, refine, or provide guidance on research methods, support their implementation or de-implementation, or synthesize existing methods research.[@Schandelmaier2026how]
 
-We welcome examples, proposed clarifications, corrections, and feedback
-from people who use the typology.
+Methods research addresses methods across the whole research lifecycle: planning, conducting, analyzing and interpreting, reporting, summarizing, evaluating, and implementing research.
 
-[Send feedback by email](mailto:stefan.schandelmaier@unibas.ch?subject=TYPE-ME%20feedback)
+Methods research also addresses challenges that require methodological solutions and the consequences of methodological choices.
+
+TYPE-ME focuses on research methods used in health research.
 :::
-
-## The typology
-Start with the [condensed version](simplified.qmd) for quick orientation, or browse the full typology using the side bar or the interactive [overview figure](explore.qmd).
 
 ::: {.callout-tip appearance="minimal" collapse="true"}
 ## Why do we need TYPE-ME?
@@ -42,16 +42,6 @@ This lack of clarity
 TYPE-ME brings these types together as one family and clarifies their similarities, differences, strengths, and difficult boundaries.
 :::
 
-::: {.callout-tip appearance="minimal" collapse="true"}
-## What is methods research?
-Methods research aims to develop, evaluate, refine, or provide guidance on research methods, support their implementation or de-implementation, or synthesize existing methods research.
-
-Methods research addresses methods across the whole research lifecycle: planning, conducting, analyzing and interpreting, reporting, summarizing, evaluating, and implementing research.
-
-Methods research also addresses challenges that require methodological solutions and the consequences of methodological choices.
-
-TYPE-ME focuses on research methods used in health research.
-:::
 
 ::: {.callout-tip appearance="minimal" collapse="true"}
 ## How does TYPE-ME organize methods research?
@@ -60,7 +50,7 @@ TYPE-ME organizes methods research along two cross-cutting dimensions:
 - **Approach:** How do researchers conduct the methods research?
 - **Objective:** Why do researchers conduct the methods research?
 
-The detailed typology includes 15 approach types and 14 objective types. One approach can serve several objectives, and one objective can draw on several approaches ([see overview figure](explore.qmd)).
+The detailed typology includes 15 approach types and 14 objective types. One approach can serve several objectives, and one objective can draw on several approaches ([see interactive overview figure](explore.qmd)).
 
 You can characterize a methodological study by pairing approach and objective, much as you would characterize any study by its approach and objective. Three examples:
 
@@ -89,23 +79,15 @@ Treat the types as archetypes, not as mutually exclusive boxes. A study may comb
 
 ::: {.callout-tip appearance="minimal" collapse="true"}
 ## How did we develop TYPE-ME?
-An international team of 11 methodologists developed TYPE-ME through repeated discussion, written feedback, and testing. The team members were:
+An international team of 11 methodologists developed TYPE-ME through repeated discussion, written feedback, and testing.
 
-- Stefan Schandelmaier
-- Malena Chiaborelli
-- Julian Hirt
-- Anne-Laure Boulesteix
-- Matthias Briel
-- Livia Puljak
-- Zachary Munn
-- Hanan Khalil
-- Dawid Pieper
-- Georg Heinze
-- Richard Hooper
+**Team:** [Stefan Schandelmaier](https://orcid.org/0000-0002-8429-0337){target="_blank" rel="noopener noreferrer"} · [Malena Chiaborelli](https://orcid.org/0000-0002-2498-0467){target="_blank" rel="noopener noreferrer"} · [Julian Hirt](https://orcid.org/0000-0001-6589-3936){target="_blank" rel="noopener noreferrer"} · [Anne-Laure Boulesteix](https://orcid.org/0000-0002-2729-0947){target="_blank" rel="noopener noreferrer"} · [Matthias Briel](https://orcid.org/0000-0002-2070-5230){target="_blank" rel="noopener noreferrer"} · [Livia Puljak](https://orcid.org/0000-0002-8467-6061){target="_blank" rel="noopener noreferrer"} · [Zachary Munn](https://orcid.org/0000-0002-7091-5842){target="_blank" rel="noopener noreferrer"} · [Hanan Khalil](https://orcid.org/0000-0002-3302-2009){target="_blank" rel="noopener noreferrer"} · [Dawid Pieper](https://orcid.org/0000-0002-0715-5182){target="_blank" rel="noopener noreferrer"} · [Georg Heinze](https://orcid.org/0000-0003-1147-8491){target="_blank" rel="noopener noreferrer"} · [Richard Hooper](https://orcid.org/0000-0002-1063-0917){target="_blank" rel="noopener noreferrer"}
 
 In two testing rounds, team members independently classified 52 methods research articles from 26 journals, contributing 494 individual article assessments. Testing helped us refine definitions and labels, clarify difficult boundaries, and document remaining disagreements.
 
- TYPE-ME is the product of an expert-panel process with empirical testing and transparent documentation of remaining disagreements, rather than a set of consensus-approved statements.
+Throughout development, we identified published examples for individual types of MR. The examples showed whether proposed types occurred in practice, exposed missing or overlapping types, and helped us refine type descriptions and boundaries, complementing the more formal testing described above.
+
+TYPE-ME is the product of an expert-panel process with empirical testing and transparent documentation of remaining disagreements.
 
 We will continue to refine TYPE-ME through application, user feedback, and further testing.
 :::
@@ -117,6 +99,16 @@ Please cite the typology as follows:
 Schandelmaier S, Chiaborelli M, Hirt J, Boulesteix A-L, Briel M, Puljak L, Munn Z, Khalil H, Pieper D, Heinze G, Hooper R. How and why do we study research methods? The TYPE-ME typology of methods research [Internet]. MetaArXiv; 2026. Available from: osf.io/preprints/metaarxiv/nyj2p_v1
 
 :::
+
+::: {.feedback-panel}
+## Help refine TYPE-ME
+
+We welcome examples, proposed clarifications, corrections, and feedback
+from people who use the typology.
+
+[Send feedback by email](mailto:s.schandelmaier@gmail.com?subject=TYPE-ME%20feedback){.feedback-action}
+:::
+
 
 ```{=html}
 <script>

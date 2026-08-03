@@ -24,7 +24,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -34,7 +53,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./explore.html" rel="next">
+<link href="./simplified.html" rel="next">
 <link href="./images/favicon-v2.svg" rel="icon" type="image/svg+xml">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
@@ -165,12 +184,12 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./explore.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Overview figure</span></a>
+  <a href="./simplified.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Condensed version</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./simplified.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Condensed version</span></a>
+  <a href="./explore.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Detailed typology</span></a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
@@ -364,11 +383,6 @@ ul.task-list li input[type="checkbox"] {
 <h1 class="title">TYPE-ME — Typology of Methods Research</h1>
 </div>
 
-<div>
-  <div class="description">
-    TYPE-ME organizes methods research by its approaches and objectives, supporting clearer planning, reporting, classification, searching, and teaching.
-  </div>
-</div>
 
 
 <div class="quarto-title-meta">
@@ -383,29 +397,31 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div class="quarto-figure quarto-figure-left">
-<figure class="figure">
-<p><img src="images/logo2.jpg" class="img-fluid quarto-figure quarto-figure-left figure-img" alt="A magnifying glass containing methods researchers, representing the TYPE-ME typology." width="500"></p>
-</figure>
-</div>
-<p>Welcome to the website for the new <strong>Typology of Methods Research (TYPE-ME)</strong> — a living resource for methods researchers who work in the context of health research and psychology. The typology is the product of an <a href="https://osf.io/preprints/metaarxiv/nyj2p_v1">expert-panel process with empirical testing</a>.</p>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
+<p>Welcome to <strong>TYPE-ME</strong>, a living resource for methods researchers in health research and psychology. Start with the <a href="./simplified.html">condensed version</a>, explore the <a href="./explore.html">detailed typology</a>, or read the <a href="https://osf.io/preprints/metaarxiv/nyj2p_v1" target="_blank" rel="noopener noreferrer">preprint</a>.</p>
+<div class="callout callout-style-simple callout-tip no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
-<i class="callout-icon"></i>
+<i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Help refine TYPE-ME
+<span class="screen-reader-only">Tip</span>What is methods research?
 </div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
-<p>We welcome examples, proposed clarifications, corrections, and feedback from people who use the typology.</p>
-<p><a href="mailto:stefan.schandelmaier@unibas.ch?subject=TYPE-ME%20feedback">Send feedback by email</a></p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="images/logo2.jpg" class="img-fluid quarto-figure quarto-figure-left figure-img" alt="A magnifying glass containing research methods, representing the TYPE-ME typology." width="500"></p>
+</figure>
+</div>
+<p>Methods research—research on research methods—aims to develop, evaluate, refine, or provide guidance on research methods, support their implementation or de-implementation, or synthesize existing methods research.<span class="citation" data-cites="Schandelmaier2026how"><sup><a href="references.html#ref-Schandelmaier2026how" role="doc-biblioref">1</a></sup></span></p>
+<p>Methods research addresses methods across the whole research lifecycle: planning, conducting, analyzing and interpreting, reporting, summarizing, evaluating, and implementing research.</p>
+<p>Methods research also addresses challenges that require methodological solutions and the consequences of methodological choices.</p>
+<p>TYPE-ME focuses on research methods used in health research.</p>
 </div>
 </div>
-<section id="the-typology" class="level2">
-<h2 class="anchored" data-anchor-id="the-typology">The typology</h2>
-<p>Start with the <a href="./simplified.html">condensed version</a> for quick orientation, or browse the full typology using the side bar or the interactive <a href="./explore.html">overview figure</a>.</p>
+</div>
 <div class="callout callout-style-simple callout-tip no-icon callout-titled">
 <div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
@@ -438,37 +454,18 @@ ul.task-list li input[type="checkbox"] {
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Tip</span>What is methods research?
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-3" class="callout-3-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<p>Methods research aims to develop, evaluate, refine, or provide guidance on research methods, support their implementation or de-implementation, or synthesize existing methods research.</p>
-<p>Methods research addresses methods across the whole research lifecycle: planning, conducting, analyzing and interpreting, reporting, summarizing, evaluating, and implementing research.</p>
-<p>Methods research also addresses challenges that require methodological solutions and the consequences of methodological choices.</p>
-<p>TYPE-ME focuses on research methods used in health research.</p>
-</div>
-</div>
-</div>
-<div class="callout callout-style-simple callout-tip no-icon callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-4-contents" aria-controls="callout-4" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
 <span class="screen-reader-only">Tip</span>How does TYPE-ME organize methods research?
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-4" class="callout-4-contents callout-collapse collapse">
+<div id="callout-3" class="callout-3-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>TYPE-ME organizes methods research along two cross-cutting dimensions:</p>
 <ul>
 <li><strong>Approach:</strong> How do researchers conduct the methods research?</li>
 <li><strong>Objective:</strong> Why do researchers conduct the methods research?</li>
 </ul>
-<p>The detailed typology includes 15 approach types and 14 objective types. One approach can serve several objectives, and one objective can draw on several approaches (<a href="./explore.html">see overview figure</a>).</p>
+<p>The detailed typology includes 15 approach types and 14 objective types. One approach can serve several objectives, and one objective can draw on several approaches (<a href="./explore.html">see interactive overview figure</a>).</p>
 <p>You can characterize a methodological study by pairing approach and objective, much as you would characterize any study by its approach and objective. Three examples:</p>
 <ul>
 <li>A researcher re-analyzes several published datasets to see which of two methods gives more precise estimates: an <a href="./approaches/3real-datasets.html">experimental analysis of real datasets</a> (A3) to <a href="./objectives/8compare-methods.html">compare methods</a> (O8).</li>
@@ -480,7 +477,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 <div class="callout callout-style-simple callout-tip no-icon callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-5-contents" aria-controls="callout-5" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-4-contents" aria-controls="callout-4" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
@@ -489,7 +486,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-5" class="callout-5-contents callout-collapse collapse">
+<div id="callout-4" class="callout-4-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>TYPE-ME can help you:</p>
 <ul>
@@ -507,7 +504,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 <div class="callout callout-style-simple callout-tip no-icon callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-6-contents" aria-controls="callout-6" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-5-contents" aria-controls="callout-5" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
@@ -516,30 +513,19 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-6" class="callout-6-contents callout-collapse collapse">
+<div id="callout-5" class="callout-5-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
-<p>An international team of 11 methodologists developed TYPE-ME through repeated discussion, written feedback, and testing. The team members were:</p>
-<ul>
-<li>Stefan Schandelmaier</li>
-<li>Malena Chiaborelli</li>
-<li>Julian Hirt</li>
-<li>Anne-Laure Boulesteix</li>
-<li>Matthias Briel</li>
-<li>Livia Puljak</li>
-<li>Zachary Munn</li>
-<li>Hanan Khalil</li>
-<li>Dawid Pieper</li>
-<li>Georg Heinze</li>
-<li>Richard Hooper</li>
-</ul>
+<p>An international team of 11 methodologists developed TYPE-ME through repeated discussion, written feedback, and testing.</p>
+<p><strong>Team:</strong> <a href="https://orcid.org/0000-0002-8429-0337" target="_blank" rel="noopener noreferrer">Stefan Schandelmaier</a> · <a href="https://orcid.org/0000-0002-2498-0467" target="_blank" rel="noopener noreferrer">Malena Chiaborelli</a> · <a href="https://orcid.org/0000-0001-6589-3936" target="_blank" rel="noopener noreferrer">Julian Hirt</a> · <a href="https://orcid.org/0000-0002-2729-0947" target="_blank" rel="noopener noreferrer">Anne-Laure Boulesteix</a> · <a href="https://orcid.org/0000-0002-2070-5230" target="_blank" rel="noopener noreferrer">Matthias Briel</a> · <a href="https://orcid.org/0000-0002-8467-6061" target="_blank" rel="noopener noreferrer">Livia Puljak</a> · <a href="https://orcid.org/0000-0002-7091-5842" target="_blank" rel="noopener noreferrer">Zachary Munn</a> · <a href="https://orcid.org/0000-0002-3302-2009" target="_blank" rel="noopener noreferrer">Hanan Khalil</a> · <a href="https://orcid.org/0000-0002-0715-5182" target="_blank" rel="noopener noreferrer">Dawid Pieper</a> · <a href="https://orcid.org/0000-0003-1147-8491" target="_blank" rel="noopener noreferrer">Georg Heinze</a> · <a href="https://orcid.org/0000-0002-1063-0917" target="_blank" rel="noopener noreferrer">Richard Hooper</a></p>
 <p>In two testing rounds, team members independently classified 52 methods research articles from 26 journals, contributing 494 individual article assessments. Testing helped us refine definitions and labels, clarify difficult boundaries, and document remaining disagreements.</p>
-<p>TYPE-ME is the product of an expert-panel process with empirical testing and transparent documentation of remaining disagreements, rather than a set of consensus-approved statements.</p>
+<p>Throughout development, we identified published examples for individual types of MR. The examples showed whether proposed types occurred in practice, exposed missing or overlapping types, and helped us refine type descriptions and boundaries, complementing the more formal testing described above.</p>
+<p>TYPE-ME is the product of an expert-panel process with empirical testing and transparent documentation of remaining disagreements.</p>
 <p>We will continue to refine TYPE-ME through application, user feedback, and further testing.</p>
 </div>
 </div>
 </div>
 <div class="callout callout-style-simple callout-tip no-icon callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-7-contents" aria-controls="callout-7" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-6-contents" aria-controls="callout-6" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
@@ -548,13 +534,18 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-7" class="callout-7-contents callout-collapse collapse">
+<div id="callout-6" class="callout-6-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Please cite the typology as follows:</p>
 <p>Schandelmaier S, Chiaborelli M, Hirt J, Boulesteix A-L, Briel M, Puljak L, Munn Z, Khalil H, Pieper D, Heinze G, Hooper R. How and why do we study research methods? The TYPE-ME typology of methods research [Internet]. MetaArXiv; 2026. Available from: osf.io/preprints/metaarxiv/nyj2p_v1</p>
 </div>
 </div>
 </div>
+<section id="help-refine-type-me" class="level2 feedback-panel">
+<h2 class="anchored" data-anchor-id="help-refine-type-me">Help refine TYPE-ME</h2>
+<p>We welcome examples, proposed clarifications, corrections, and feedback from people who use the typology.</p>
+<p><a href="mailto:s.schandelmaier@gmail.com?subject=TYPE-ME%20feedback" class="feedback-action">Send feedback by email</a></p>
+</section>
 <script>
 document.addEventListener('DOMContentLoaded', function() {
   document.querySelectorAll('.callout-collapse').forEach(function(el) {
@@ -568,7 +559,11 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 
 
-</section>
+<div id="refs" class="references csl-bib-body" role="list" style="display: none">
+<div id="ref-Schandelmaier2026how" class="csl-entry" role="listitem">
+1. Schandelmaier S, Chiaborelli M, Hirt J, Boulesteix A-L, Briel M, Puljak L, Munn Z, Khalil H, Pieper D, Heinze G, Hooper R. How and why do we study research methods? The <span>TYPE</span>-<span>ME</span> typology of methods research [Internet]. 2026 July ;Available from: <a href="https://osf.io/preprints/metaarxiv/nyj2p_v1">https://osf.io/preprints/metaarxiv/nyj2p_v1</a>
+</div>
+</div>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -975,8 +970,8 @@ document.addEventListener('DOMContentLoaded', function() {
   <div class="nav-page nav-page-previous">
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./explore.html" class="pagination-link" aria-label="Overview figure">
-        <span class="nav-page-text"><span class="chapter-title">Overview figure</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./simplified.html" class="pagination-link" aria-label="Condensed version">
+        <span class="nav-page-text"><span class="chapter-title">Condensed version</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

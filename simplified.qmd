@@ -5,11 +5,8 @@ link-citations: true
 
 Users may start with the condensed version of TYPE-ME. It captures the main, substantively distinct types of methods research and may be sufficient for broad planning, teaching, discussion, or preliminary classification.
 
-The condensed version groups related types and omits some detail, especially in the objective dimension. Users who need this detail can move to the full two-dimensional typology, with its terminology notes, boundary notes, and examples.
-
-**Condensed TYPE-ME typology for quick orientation.**
-
-| | Types of methods research | Relationship to full typology |
+::: {.condensed-typology}
+| | Types of methods research | Relationship to detailed typology |
 |---|---------------------------|-------------------------------|
 | 1 | Theory-based methods research | [A1](approaches/1theory.qmd) |
 | 2 | Simulation studies | [A2](approaches/2simulation.qmd) |
@@ -21,12 +18,14 @@ The condensed version groups related types and omits some detail, especially in 
 | 8 | Syntheses of methods research | [A11](approaches/11scoping-review.qmd), [A12](approaches/12qualitative-synthesis.qmd), [A13](approaches/13quantitative-synthesis.qmd) |
 | 9 | Methods guidance and tools | [O9](objectives/9guidance-applying.qmd), [O10](objectives/10guidance-reporting.qmd), [O11](objectives/11guidance-assessing.qmd), [O12](objectives/12software-code.qmd) |
 | 10 | Methodological implementation research | [O13](objectives/13implementation.qmd) |
+:::
 
-## How we developed the condensed version
-Testing showed that some users find the full two-dimensional typology too complex for certain applications, especially classification tasks. We therefore revisited the [52 methods research papers](https://osf.io/4fxaz/overview) from our testing rounds, identified their main approaches and objectives, and combined the two dimensions into a single list. We first decided whether each paper was more naturally defined by its approach (e.g., simulation studies) or by its objective (e.g., methods guidance). We then grouped types by conceptual similarity, especially those that had caused the most disagreement during testing, such as the different types of syntheses, and experimental analyses of real datasets versus reliability and agreement studies. This produced a list of 10 categories, which we then applied to all 52 papers. The condensed version accommodated 51 of the 52 papers; we classified one as "other", and five received two types.
+The condensed version groups related types and omits some detail, especially in the objective dimension. Users who need this detail can move to the [detailed typology](explore.qmd), with its terminology notes, boundary notes, and examples.
 
 ## Adapting the typology to your needs
-Users may adapt the condensed version for specific applications by combining, separating, or selecting types. When you want to classify papers broadly, present the main types on a single slide for teaching, or focus on a selection of types, you can build your own version by selecting specific types, combining related types, defining additional subtypes, or collapsing the approach and objective dimensions.
+Adapt the condensed version to your purpose by selecting, combining, splitting, or adding types—for example, for broad classification, teaching, or work in a focused area.
 
-## Treat the types as archetypes
-Not all methods research papers fit neatly into one type: some combine several approaches, and others fall on continua between related types. Rather than treating each type as a mutually exclusive box, view the types as archetypes that clarify typical study designs, common objectives, and important boundaries. This archetypal view is especially useful for planning new methods research, developing type-specific guidance, and discussing study design choices.
+::: {.callout-tip appearance="minimal" collapse="true"}
+## How we developed the condensed version
+Testing showed that the detailed typology can be too complex for classification and teaching. We therefore regrouped the test papers into 10 categories based on their main approach or objective; the preprint describes the process.[@Schandelmaier2026how]
+:::

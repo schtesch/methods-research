@@ -24,7 +24,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -34,8 +53,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./approaches/1theory.html" rel="next">
-<link href="./explore.html" rel="prev">
+<link href="./explore.html" rel="next">
+<link href="./index.html" rel="prev">
 <link href="./images/favicon-v2.svg" rel="icon" type="image/svg+xml">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
@@ -164,12 +183,12 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./explore.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Overview figure</span></a>
+  <a href="./simplified.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Condensed version</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./simplified.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Condensed version</span></a>
+  <a href="./explore.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Detailed typology</span></a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
@@ -378,14 +397,13 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>Users may start with the condensed version of TYPE-ME. It captures the main, substantively distinct types of methods research and may be sufficient for broad planning, teaching, discussion, or preliminary classification.</p>
-<p>The condensed version groups related types and omits some detail, especially in the objective dimension. Users who need this detail can move to the full two-dimensional typology, with its terminology notes, boundary notes, and examples.</p>
-<p><strong>Condensed TYPE-ME typology for quick orientation.</strong></p>
+<div class="condensed-typology">
 <table class="caption-top table">
 <thead>
 <tr class="header">
 <th></th>
 <th>Types of methods research</th>
-<th>Relationship to full typology</th>
+<th>Relationship to detailed typology</th>
 </tr>
 </thead>
 <tbody>
@@ -441,19 +459,34 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 </tbody>
 </table>
-<section id="how-we-developed-the-condensed-version" class="level2">
-<h2 class="anchored" data-anchor-id="how-we-developed-the-condensed-version">How we developed the condensed version</h2>
-<p>Testing showed that some users find the full two-dimensional typology too complex for certain applications, especially classification tasks. We therefore revisited the <a href="https://osf.io/4fxaz/overview">52 methods research papers</a> from our testing rounds, identified their main approaches and objectives, and combined the two dimensions into a single list. We first decided whether each paper was more naturally defined by its approach (e.g., simulation studies) or by its objective (e.g., methods guidance). We then grouped types by conceptual similarity, especially those that had caused the most disagreement during testing, such as the different types of syntheses, and experimental analyses of real datasets versus reliability and agreement studies. This produced a list of 10 categories, which we then applied to all 52 papers. The condensed version accommodated 51 of the 52 papers; we classified one as “other”, and five received two types.</p>
-</section>
+</div>
+<p>The condensed version groups related types and omits some detail, especially in the objective dimension. Users who need this detail can move to the <a href="./explore.html">detailed typology</a>, with its terminology notes, boundary notes, and examples.</p>
 <section id="adapting-the-typology-to-your-needs" class="level2">
 <h2 class="anchored" data-anchor-id="adapting-the-typology-to-your-needs">Adapting the typology to your needs</h2>
-<p>Users may adapt the condensed version for specific applications by combining, separating, or selecting types. When you want to classify papers broadly, present the main types on a single slide for teaching, or focus on a selection of types, you can build your own version by selecting specific types, combining related types, defining additional subtypes, or collapsing the approach and objective dimensions.</p>
-</section>
-<section id="treat-the-types-as-archetypes" class="level2">
-<h2 class="anchored" data-anchor-id="treat-the-types-as-archetypes">Treat the types as archetypes</h2>
-<p>Not all methods research papers fit neatly into one type: some combine several approaches, and others fall on continua between related types. Rather than treating each type as a mutually exclusive box, view the types as archetypes that clarify typical study designs, common objectives, and important boundaries. This archetypal view is especially useful for planning new methods research, developing type-specific guidance, and discussing study design choices.</p>
+<p>Adapt the condensed version to your purpose by selecting, combining, splitting, or adding types—for example, for broad classification, teaching, or work in a focused area.</p>
+<div class="callout callout-style-simple callout-tip no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>How we developed the condensed version
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Testing showed that the detailed typology can be too complex for classification and teaching. We therefore regrouped the test papers into 10 categories based on their main approach or objective; the preprint describes the process.<span class="citation" data-cites="Schandelmaier2026how"><sup><a href="references.html#ref-Schandelmaier2026how" role="doc-biblioref">1</a></sup></span></p>
+</div>
+</div>
+</div>
 
 
+<div id="refs" class="references csl-bib-body" role="list" style="display: none">
+<div id="ref-Schandelmaier2026how" class="csl-entry" role="listitem">
+1. Schandelmaier S, Chiaborelli M, Hirt J, Boulesteix A-L, Briel M, Puljak L, Munn Z, Khalil H, Pieper D, Heinze G, Hooper R. How and why do we study research methods? The <span>TYPE</span>-<span>ME</span> typology of methods research [Internet]. 2026 July ;Available from: <a href="https://osf.io/preprints/metaarxiv/nyj2p_v1">https://osf.io/preprints/metaarxiv/nyj2p_v1</a>
+</div>
+</div>
 </section>
 
 </main> <!-- /main -->
@@ -859,13 +892,13 @@ ul.task-list li input[type="checkbox"] {
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./explore.html" class="pagination-link" aria-label="Overview figure">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Overview figure</span></span>
+      <a href="./index.html" class="pagination-link" aria-label="About this initiative">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">About this initiative</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./approaches/1theory.html" class="pagination-link" aria-label="1 Theory-based methods research">
-        <span class="nav-page-text"><span class="chapter-title">1 Theory-based methods research</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./explore.html" class="pagination-link" aria-label="Detailed typology">
+        <span class="nav-page-text"><span class="chapter-title">Detailed typology</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

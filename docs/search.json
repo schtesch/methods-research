@@ -4,59 +4,9 @@
     "href": "index.html",
     "title": "TYPE-ME — Typology of Methods Research",
     "section": "",
-    "text": "The typology\nWelcome to the website for the new Typology of Methods Research (TYPE-ME) — a living resource for methods researchers who work in the context of health research and psychology. The typology is the product of an expert-panel process with empirical testing.\nStart with the condensed version for quick orientation, or browse the full typology using the side bar or the interactive overview figure.",
+    "text": "Help refine TYPE-ME\nWelcome to TYPE-ME, a living resource for methods researchers in health research and psychology. Start with the condensed version, explore the detailed typology, or read the preprint.\nWe welcome examples, proposed clarifications, corrections, and feedback from people who use the typology.\nSend feedback by email",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>About this initiative</span>"
-    ]
-  },
-  {
-    "objectID": "index.html#the-typology",
-    "href": "index.html#the-typology",
-    "title": "TYPE-ME — Typology of Methods Research",
-    "section": "",
-    "text": "TipWhy do we need TYPE-ME?\n\n\n\n\n\nThe field of methods research includes many study types, but their definitions, terminology, and boundaries remain unclear.\nThis lack of clarity\n\ncomplicates planning and reporting,\ncreates uncertainty about labels,\nlimits searchability and indexing in research databases,\nreduces the visibility of methods research as a field,\nobscures what constitutes methodological evidence, and\nhinders standard setting.\n\nTYPE-ME brings these types together as one family and clarifies their similarities, differences, strengths, and difficult boundaries.\n\n\n\n\n\n\n\n\n\nTipWhat is methods research?\n\n\n\n\n\nMethods research aims to develop, evaluate, refine, or provide guidance on research methods, support their implementation or de-implementation, or synthesize existing methods research.\nMethods research addresses methods across the whole research lifecycle: planning, conducting, analyzing and interpreting, reporting, summarizing, evaluating, and implementing research.\nMethods research also addresses challenges that require methodological solutions and the consequences of methodological choices.\nTYPE-ME focuses on research methods used in health research.\n\n\n\n\n\n\n\n\n\nTipHow does TYPE-ME organize methods research?\n\n\n\n\n\nTYPE-ME organizes methods research along two cross-cutting dimensions:\n\nApproach: How do researchers conduct the methods research?\nObjective: Why do researchers conduct the methods research?\n\nThe detailed typology includes 15 approach types and 14 objective types. One approach can serve several objectives, and one objective can draw on several approaches (see overview figure).\nYou can characterize a methodological study by pairing approach and objective, much as you would characterize any study by its approach and objective. Three examples:\n\nA researcher re-analyzes several published datasets to see which of two methods gives more precise estimates: an experimental analysis of real datasets (A3) to compare methods (O8).\nA researcher runs a Delphi study to identify key items for a new reporting checklist: a consensus study (A8) to develop a reporting guideline (O10).\nA researcher interviews trialists about why they do not use core outcome sets: a qualitative study (A7) to research the dissemination and implementation of methods (O13).\n\nFor each type, we provide a definition, possible labels, strengths and limitations, examples, and boundary notes where needed.\n\n\n\n\n\n\n\n\n\nTipWhat can I use TYPE-ME for?\n\n\n\n\n\nTYPE-ME can help you:\n\nplan methods research by clarifying the study objectives and possible design choices;\nreport methods research by supporting clearer labels, definitions, and design descriptions;\nclassify methods research when reviewing a methodological topic;\ninform indexing and searching by supporting article types, publication types, index terms, and search filters;\ndefine inclusion criteria for methodological journals, databases, funding calls, or conferences;\ndesign programs of methods research by showing how different types can build on each other, for example from method development to evaluation, guidance development, and implementation;\nsupport teaching by presenting methods research as a structured field with connected types; and\nidentify guidance needs by showing which types of methods research lack specific guidance for conduct, reporting, or quality assessment.\n\nTreat the types as archetypes, not as mutually exclusive boxes. A study may combine several approaches or fall between related types. For broad planning, teaching, discussion, or preliminary classification, you may want to start with the condensed version, which groups the main types into a single list of 10.\n\n\n\n\n\n\n\n\n\nTipHow did we develop TYPE-ME?\n\n\n\n\n\nAn international team of 11 methodologists developed TYPE-ME through repeated discussion, written feedback, and testing. The team members were:\n\nStefan Schandelmaier\nMalena Chiaborelli\nJulian Hirt\nAnne-Laure Boulesteix\nMatthias Briel\nLivia Puljak\nZachary Munn\nHanan Khalil\nDawid Pieper\nGeorg Heinze\nRichard Hooper\n\nIn two testing rounds, team members independently classified 52 methods research articles from 26 journals, contributing 494 individual article assessments. Testing helped us refine definitions and labels, clarify difficult boundaries, and document remaining disagreements.\nTYPE-ME is the product of an expert-panel process with empirical testing and transparent documentation of remaining disagreements, rather than a set of consensus-approved statements.\nWe will continue to refine TYPE-ME through application, user feedback, and further testing.\n\n\n\n\n\n\n\n\n\nTipHow can I cite the typology?\n\n\n\n\n\nPlease cite the typology as follows:\nSchandelmaier S, Chiaborelli M, Hirt J, Boulesteix A-L, Briel M, Puljak L, Munn Z, Khalil H, Pieper D, Heinze G, Hooper R. How and why do we study research methods? The TYPE-ME typology of methods research [Internet]. MetaArXiv; 2026. Available from: osf.io/preprints/metaarxiv/nyj2p_v1",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About this initiative</span>"
-    ]
-  },
-  {
-    "objectID": "explore.html",
-    "href": "explore.html",
-    "title": "Typology - interactive overview figure",
-    "section": "",
-    "text": "How to read the ordering\nThe ordering of approaches does not impose a hierarchy of strength, such as a progression from “weak” to “strong” approaches. While one approach may answer a specific methodological question more convincingly than another, the typology as a whole describes a research ecosystem rather than a linear journey.\nThe ordering of objectives broadly reflects the lifecycle of a method,1 beginning with assessing the status quo and research needs and moving towards de-implementing methods that researchers should no longer use. O14 sits outside this lifecycle because it examines variation across methodological choices rather than a particular stage or method.",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Overview figure</span>"
-    ]
-  },
-  {
-    "objectID": "explore.html#approaches-how",
-    "href": "explore.html#approaches-how",
-    "title": "Typology - interactive overview figure",
-    "section": "Approaches: How?",
-    "text": "Approaches: How?\n\n\nA1Theory-based methods research\n\n\nA2Simulation studies\n\n\nA3Experimental analyses of real datasets\n\n\nA4Reliability and agreement studies\n\n\nA5Methodological randomized studies\n\n\nA6Quantitative surveys\n\n\nA7Qualitative studies\n\n\nA8Consensus studies\n\n\nA9Reviews of applied or planned methods\n\n\nA10Meta-epidemiological studies\n\n\nA11Scoping reviews of methods research\n\n\nA12Qualitative syntheses of methods research\n\n\nA13Quantitative syntheses of methods research\n\n\nA14Methodological case reports or case series\n\n\nA15Informal approaches",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Overview figure</span>"
-    ]
-  },
-  {
-    "objectID": "explore.html#objectives-why",
-    "href": "explore.html#objectives-why",
-    "title": "Typology - interactive overview figure",
-    "section": "Objectives: Why?",
-    "text": "Objectives: Why?\n\n\nO1Identify available methods\n\n\nO2Identify available methods research on a specific topic\n\n\nO3Summarize the results of methods research\n\n\nO4Assess methodological practice\n\n\nO5Assess needs and priorities for methods research\n\n\nO6Propose a new method\n\n\nO7Evaluate a single method\n\n\nO8Compare methods\n\n\nO9Develop guidance for understanding and applying methods\n\n\nO10Develop reporting guidelines\n\n\nO11Develop quality assessment instruments\n\n\nO12Develop software and code\n\n\nO13Research the dissemination and implementation of methods\n\n\nO14Assess variability of results across methodological choices",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Overview figure</span>"
-    ]
-  },
-  {
-    "objectID": "explore.html#how-to-read-the-ordering",
-    "href": "explore.html#how-to-read-the-ordering",
-    "title": "Typology - interactive overview figure",
-    "section": "",
-    "text": "1. Heinze G, Boulesteix A-L, Kammer M, Morris TP, White IR, Simulation Panel of the STRATOS initiative. Phases of methodological research in biostatistics-building the evidence base for new methods [Internet]. Biom. J. 2024 Jan. ;66(1):e2200222.Available from: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/bimj.202200222",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Overview figure</span>"
     ]
   },
   {
@@ -64,29 +14,59 @@
     "href": "simplified.html",
     "title": "Condensed version",
     "section": "",
-    "text": "How we developed the condensed version\nUsers may start with the condensed version of TYPE-ME. It captures the main, substantively distinct types of methods research and may be sufficient for broad planning, teaching, discussion, or preliminary classification.\nThe condensed version groups related types and omits some detail, especially in the objective dimension. Users who need this detail can move to the full two-dimensional typology, with its terminology notes, boundary notes, and examples.\nCondensed TYPE-ME typology for quick orientation.\nTesting showed that some users find the full two-dimensional typology too complex for certain applications, especially classification tasks. We therefore revisited the 52 methods research papers from our testing rounds, identified their main approaches and objectives, and combined the two dimensions into a single list. We first decided whether each paper was more naturally defined by its approach (e.g., simulation studies) or by its objective (e.g., methods guidance). We then grouped types by conceptual similarity, especially those that had caused the most disagreement during testing, such as the different types of syntheses, and experimental analyses of real datasets versus reliability and agreement studies. This produced a list of 10 categories, which we then applied to all 52 papers. The condensed version accommodated 51 of the 52 papers; we classified one as “other”, and five received two types.",
+    "text": "Adapting the typology to your needs\nUsers may start with the condensed version of TYPE-ME. It captures the main, substantively distinct types of methods research and may be sufficient for broad planning, teaching, discussion, or preliminary classification.\nThe condensed version groups related types and omits some detail, especially in the objective dimension. Users who need this detail can move to the detailed typology, with its terminology notes, boundary notes, and examples.\nAdapt the condensed version to your purpose by selecting, combining, splitting, or adding types—for example, for broad classification, teaching, or work in a focused area.",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Condensed version</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Condensed version</span>"
     ]
   },
   {
     "objectID": "simplified.html#adapting-the-typology-to-your-needs",
     "href": "simplified.html#adapting-the-typology-to-your-needs",
     "title": "Condensed version",
-    "section": "Adapting the typology to your needs",
-    "text": "Adapting the typology to your needs\nUsers may adapt the condensed version for specific applications by combining, separating, or selecting types. When you want to classify papers broadly, present the main types on a single slide for teaching, or focus on a selection of types, you can build your own version by selecting specific types, combining related types, defining additional subtypes, or collapsing the approach and objective dimensions.",
+    "section": "",
+    "text": "TipHow we developed the condensed version\n\n\n\n\n\nTesting showed that the detailed typology can be too complex for classification and teaching. We therefore regrouped the test papers into 10 categories based on their main approach or objective; the preprint describes the process.1\n\n\n\n\n\n\n\n1. Schandelmaier S, Chiaborelli M, Hirt J, Boulesteix A-L, Briel M, Puljak L, Munn Z, Khalil H, Pieper D, Heinze G, Hooper R. How and why do we study research methods? The TYPE-ME typology of methods research [Internet]. 2026 July ;Available from: https://osf.io/preprints/metaarxiv/nyj2p_v1",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Condensed version</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Condensed version</span>"
     ]
   },
   {
-    "objectID": "simplified.html#treat-the-types-as-archetypes",
-    "href": "simplified.html#treat-the-types-as-archetypes",
-    "title": "Condensed version",
-    "section": "Treat the types as archetypes",
-    "text": "Treat the types as archetypes\nNot all methods research papers fit neatly into one type: some combine several approaches, and others fall on continua between related types. Rather than treating each type as a mutually exclusive box, view the types as archetypes that clarify typical study designs, common objectives, and important boundaries. This archetypal view is especially useful for planning new methods research, developing type-specific guidance, and discussing study design choices.",
+    "objectID": "explore.html",
+    "href": "explore.html",
+    "title": "Detailed typology",
+    "section": "",
+    "text": "How to read the ordering\nThe detailed typology describes methods research along two dimensions: approach (“How can we study methods?”) and objective (“Why do we study methods?”). Approaches and objectives can combine in many ways. Select a type to see common combinations, details, and examples:\nThe ordering of approaches does not impose a hierarchy of strength, such as a progression from “weak” to “strong” approaches. While one approach may answer a specific methodological question more convincingly than another, the typology as a whole describes a research ecosystem rather than a linear journey.\nThe ordering of objectives broadly reflects the lifecycle of a method,1 beginning with assessing the status quo and research needs and moving towards de-implementing methods that researchers should no longer use. O14 sits outside this lifecycle because it examines variation across methodological choices rather than a particular stage or method.",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Condensed version</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Detailed typology</span>"
+    ]
+  },
+  {
+    "objectID": "explore.html#approaches-how",
+    "href": "explore.html#approaches-how",
+    "title": "Detailed typology",
+    "section": "Approaches: How?",
+    "text": "Approaches: How?\n\n\nA1Theory-based methods research\n\n\nA2Simulation studies\n\n\nA3Experimental analyses of real datasets\n\n\nA4Reliability and agreement studies\n\n\nA5Methodological randomized studies\n\n\nA6Quantitative surveys\n\n\nA7Qualitative studies\n\n\nA8Consensus studies\n\n\nA9Reviews of applied or planned methods\n\n\nA10Meta-epidemiological studies\n\n\nA11Scoping reviews of methods research\n\n\nA12Qualitative syntheses of methods research\n\n\nA13Quantitative syntheses of methods research\n\n\nA14Methodological case reports or case series\n\n\nA15Informal approaches",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Detailed typology</span>"
+    ]
+  },
+  {
+    "objectID": "explore.html#objectives-why",
+    "href": "explore.html#objectives-why",
+    "title": "Detailed typology",
+    "section": "Objectives: Why?",
+    "text": "Objectives: Why?\n\n\nO1Identify available methods\n\n\nO2Identify available methods research on a specific topic\n\n\nO3Summarize the results of methods research\n\n\nO4Assess methodological practice\n\n\nO5Assess needs and priorities for methods research\n\n\nO6Propose a new method\n\n\nO7Evaluate a single method\n\n\nO8Compare methods\n\n\nO9Develop guidance for understanding and applying methods\n\n\nO10Develop reporting guidelines\n\n\nO11Develop quality assessment instruments\n\n\nO12Develop software and code\n\n\nO13Research the dissemination and implementation of methods\n\n\nO14Assess variability of results across methodological choices",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Detailed typology</span>"
+    ]
+  },
+  {
+    "objectID": "explore.html#treat-the-types-as-archetypes",
+    "href": "explore.html#treat-the-types-as-archetypes",
+    "title": "Detailed typology",
+    "section": "Treat the types as archetypes",
+    "text": "Treat the types as archetypes\nNot all methods research papers fit neatly into one type: some combine several approaches, and others fall on continua between related types. Rather than treating each type as a mutually exclusive box, view the types as archetypes that clarify typical study designs, common objectives, and important boundaries. This archetypal view is especially useful for planning new methods research, developing type-specific guidance, and discussing study design choices.\n\n\n\n\n1. Heinze G, Boulesteix A-L, Kammer M, Morris TP, White IR, Simulation Panel of the STRATOS initiative. Phases of methodological research in biostatistics-building the evidence base for new methods [Internet]. Biom. J. 2024 Jan. ;66(1):e2200222.Available from: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/bimj.202200222",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Detailed typology</span>"
     ]
   },
   {
@@ -1260,7 +1240,7 @@
     "href": "impressum.html",
     "title": "Legal notice",
     "section": "",
-    "text": "Publisher and responsibility for content\nTYPE-ME — Typology of Methods Research\nResponsible for this website:\nStefan Schandelmaier\nDivision of Clinical Epidemiology\nDepartment of Clinical Research\nUniversity of Basel and University Hospital Basel\nTotengässlein 3\n4051 Basel\nSwitzerland\nEmail: stefan.schandelmaier@unibas.ch\nTYPE-ME authors are Stefan Schandelmaier, Malena Chiaborelli, Julian Hirt, Anne-Laure Boulesteix, Matthias Briel, Livia Puljak, Zachary Munn, Hanan Khalil, Dawid Pieper, Georg Heinze, and Richard Hooper.",
+    "text": "Publisher and responsibility for content\nTYPE-ME — Typology of Methods Research\nResponsible for this website:\nStefan Schandelmaier\nDivision of Clinical Epidemiology\nDepartment of Clinical Research\nUniversity of Basel and University Hospital Basel\nTotengässlein 3\n4051 Basel\nSwitzerland\nEmail: s.schandelmaier@gmail.com\nTYPE-ME authors are Stefan Schandelmaier, Malena Chiaborelli, Julian Hirt, Anne-Laure Boulesteix, Matthias Briel, Livia Puljak, Zachary Munn, Hanan Khalil, Dawid Pieper, Georg Heinze, and Richard Hooper.",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Legal notice</span>"
     ]
@@ -1270,7 +1250,7 @@
     "href": "impressum.html#copyright-and-licence",
     "title": "Legal notice",
     "section": "Copyright and licence",
-    "text": "Copyright and licence\n© 2026 The TYPE-ME authors.\nUnless otherwise indicated, the original textual and graphical content of this website is licensed under the Creative Commons Attribution–NonCommercial 4.0 International Licence (CC BY-NC 4.0).\nUnder this licence, you may share and adapt the licensed material for non-commercial purposes, provided that you give appropriate credit, include a link to the licence, and indicate whether changes were made. Attribution must not suggest that the TYPE-ME authors endorse the user or the resulting use.\nPlease attribute the material as:\nSchandelmaier S, Chiaborelli M, Hirt J, Boulesteix A-L, Briel M, Puljak L, Munn Z, Khalil H, Pieper D, Heinze G, Hooper R. How and why do we study research methods? The TYPE-ME typology of methods research [Internet]. MetaArXiv; 2026. Available from: osf.io/preprints/metaarxiv/nyj2p_v1.\nPermission for commercial use may be requested from stefan.schandelmaier@gmail.com.\nThe Creative Commons licence applies only to material for which the stated copyright holder(s) hold the necessary rights. Third-party material, cited publications, trademarks, institutional names, and logos are excluded unless expressly stated otherwise. Their use may require permission from the respective rights holders.",
+    "text": "Copyright and licence\n© 2026 The TYPE-ME authors.\nUnless otherwise indicated, the original textual and graphical content of this website is licensed under the Creative Commons Attribution–NonCommercial 4.0 International Licence (CC BY-NC 4.0).\nUnder this licence, you may share and adapt the licensed material for non-commercial purposes, provided that you give appropriate credit, include a link to the licence, and indicate whether changes were made. Attribution must not suggest that the TYPE-ME authors endorse the user or the resulting use.\nPlease attribute the material as:\nSchandelmaier S, Chiaborelli M, Hirt J, Boulesteix A-L, Briel M, Puljak L, Munn Z, Khalil H, Pieper D, Heinze G, Hooper R. How and why do we study research methods? The TYPE-ME typology of methods research [Internet]. MetaArXiv; 2026. Available from: osf.io/preprints/metaarxiv/nyj2p_v1.\nPermission for commercial use may be requested from s.schandelmaier@gmail.com.\nThe Creative Commons licence applies only to material for which the stated copyright holder(s) hold the necessary rights. Third-party material, cited publications, trademarks, institutional names, and logos are excluded unless expressly stated otherwise. Their use may require permission from the respective rights holders.",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Legal notice</span>"
     ]
