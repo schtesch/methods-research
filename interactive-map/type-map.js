@@ -62,16 +62,18 @@
   detailCard.setAttribute("aria-live", "polite");
   detailCard.innerHTML = `
     <button type="button" class="type-map__card-close" aria-label="Close type information">×</button>
+    <div class="type-map__card-kicker"></div>
     <div class="type-map__card-title"></div>
     <div class="type-map__card-related">
       <span class="type-map__card-related-label"></span>
-      <div class="type-map__card-related-links"></div>
+      <ul class="type-map__card-related-links"></ul>
     </div>
     <a class="type-map__card-link">View type details</a>
   `;
   map.append(detailCard);
 
   const cardClose = detailCard.querySelector(".type-map__card-close");
+  const cardKicker = detailCard.querySelector(".type-map__card-kicker");
   const cardTitle = detailCard.querySelector(".type-map__card-title");
   const cardRelatedLabel = detailCard.querySelector(".type-map__card-related-label");
   const cardRelatedLinks = detailCard.querySelector(".type-map__card-related-links");
@@ -142,6 +144,13 @@
         .filter(([, objectives]) => objectives.includes(id))
         .map(([approach]) => approach)
     );
+  }
+
+  function itemLabel(item) {
+    return [...item.querySelectorAll("span")]
+      .filter((part) => !part.classList.contains("type-map__code"))
+      .map((part) => part.textContent.trim())
+      .join(" ");
   }
 
   function activate(id) {
@@ -227,27 +236,27 @@
     selectedItem = item;
     item.classList.add("is-selected");
     item.setAttribute("aria-expanded", "true");
-    const label = [...item.querySelectorAll("span")]
-      .map((part) => part.textContent.trim())
-      .join(" ");
+    const label = itemLabel(item);
     const related = [...connectedIds(id)];
 
+    cardKicker.textContent = id.startsWith("A")
+      ? "Selected approach"
+      : "Selected objective";
     cardTitle.textContent = label;
     cardRelatedLabel.textContent = id.startsWith("A")
-      ? "Common objectives"
-      : "Common approaches";
+      ? "Often combined with these objectives"
+      : "Often combined with these approaches";
     cardRelatedLinks.textContent = "";
     related.forEach((relatedId) => {
       const relatedItem = items.get(relatedId);
-      const relatedLabel = [...relatedItem.querySelectorAll("span")]
-        .map((part) => part.textContent.trim())
-        .join(" ");
+      const relatedLabel = itemLabel(relatedItem);
+      const listItem = document.createElement("li");
       const link = document.createElement("a");
       link.className = "type-map__card-related-link";
       link.href = typePages[relatedId];
-      link.textContent = relatedId;
-      link.setAttribute("aria-label", relatedLabel);
-      cardRelatedLinks.appendChild(link);
+      link.textContent = relatedLabel;
+      listItem.appendChild(link);
+      cardRelatedLinks.appendChild(listItem);
     });
     cardLink.href = typePages[id];
     cardLink.setAttribute(
