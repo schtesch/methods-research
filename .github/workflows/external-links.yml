@@ -21,8 +21,9 @@ jobs:
         with:
           args: >-
             --no-progress
-            --exclude-mail
+            --root-dir ./docs
             --max-retries 3
-            --accept 200..=399,429
+            --accept 200..=399,403,412,429
             './docs/**/*.html'
           fail: true
+          lycheeVersion: v0.24.2
