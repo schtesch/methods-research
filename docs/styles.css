@@ -28,6 +28,14 @@
   line-height: inherit;
 }
 
+/* On narrow screens, keep the page title visually separate from the first
+   paragraph, section heading, table, or interactive element. */
+@media (max-width: 767.98px) {
+  #title-block-header.quarto-title-block {
+    margin-bottom: 1.25rem;
+  }
+}
+
 /* The `table.table` selector in the Bootstrap bundle outranks a bare `table`,
    so the margin rule has to match its specificity to win. */
 table,
