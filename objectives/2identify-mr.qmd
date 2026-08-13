@@ -7,7 +7,7 @@ link-citations: true
 These studies aim to identify existing methods research on a specific method or research challenges, typically organized using a classification scheme, such as this typology.
 
 ## Typical approaches and corresponding examples
-[Scoping reviews of methods research](../approaches/11scoping-review.qmd): identify publications that suggest a process for developing methods guidance;[@Chiaborelli2026strategies] identify and map guidance for evidence synthesis.[@Movsisyan2026conducting]
+[Scoping reviews of methods research](../approaches/11scoping-review.qmd): identify publications that suggest a process for developing methods guidance;[@Chiaborelli2026strategies] identify and map guidance for evidence synthesis.[@Movsisyan2026-ex]
 
 ## Guidance
 - Guidance for understanding and applying methods: [to be added]
