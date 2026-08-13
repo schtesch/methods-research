@@ -1,5 +1,5 @@
 ---
-title: "6 Propose a new method"
+title: "O6 Propose a new method"
 link-citations: true
 ---
 

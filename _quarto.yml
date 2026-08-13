@@ -55,38 +55,67 @@ book:
 
     - part: "Explore by approach"
       chapters:
-        - approaches/1theory.qmd
-        - approaches/2simulation.qmd
-        - approaches/3real-datasets.qmd
-        - approaches/4reliability.qmd
-        - approaches/5randomized.qmd
-        - approaches/6survey.qmd
-        - approaches/7qualitative.qmd
-        - approaches/8consensus.qmd
-        - approaches/9review-applied.qmd
-        - approaches/10meta-epi.qmd
-        - approaches/11scoping-review.qmd
-        - approaches/12qualitative-synthesis.qmd
-        - approaches/13quantitative-synthesis.qmd
-        - approaches/14case-report.qmd
-        - approaches/15informal.qmd
+        - text: '<span class="sidebar-type-code">A1</span> <span class="sidebar-type-label">Theory-based methods research</span>'
+          href: approaches/1theory.qmd
+        - text: '<span class="sidebar-type-code">A2</span> <span class="sidebar-type-label">Simulation studies</span>'
+          href: approaches/2simulation.qmd
+        - text: '<span class="sidebar-type-code">A3</span> <span class="sidebar-type-label">Experimental analyses of real datasets</span>'
+          href: approaches/3real-datasets.qmd
+        - text: '<span class="sidebar-type-code">A4</span> <span class="sidebar-type-label">Reliability and agreement studies</span>'
+          href: approaches/4reliability.qmd
+        - text: '<span class="sidebar-type-code">A5</span> <span class="sidebar-type-label">Methodological randomized studies</span>'
+          href: approaches/5randomized.qmd
+        - text: '<span class="sidebar-type-code">A6</span> <span class="sidebar-type-label">Quantitative surveys</span>'
+          href: approaches/6survey.qmd
+        - text: '<span class="sidebar-type-code">A7</span> <span class="sidebar-type-label">Qualitative studies</span>'
+          href: approaches/7qualitative.qmd
+        - text: '<span class="sidebar-type-code">A8</span> <span class="sidebar-type-label">Consensus studies</span>'
+          href: approaches/8consensus.qmd
+        - text: '<span class="sidebar-type-code">A9</span> <span class="sidebar-type-label">Reviews of applied or planned methods</span>'
+          href: approaches/9review-applied.qmd
+        - text: '<span class="sidebar-type-code">A10</span> <span class="sidebar-type-label">Meta-epidemiological studies</span>'
+          href: approaches/10meta-epi.qmd
+        - text: '<span class="sidebar-type-code">A11</span> <span class="sidebar-type-label">Scoping reviews of methods research</span>'
+          href: approaches/11scoping-review.qmd
+        - text: '<span class="sidebar-type-code">A12</span> <span class="sidebar-type-label">Qualitative syntheses of methods research</span>'
+          href: approaches/12qualitative-synthesis.qmd
+        - text: '<span class="sidebar-type-code">A13</span> <span class="sidebar-type-label">Quantitative syntheses of methods research</span>'
+          href: approaches/13quantitative-synthesis.qmd
+        - text: '<span class="sidebar-type-code">A14</span> <span class="sidebar-type-label">Methodological case reports or case series</span>'
+          href: approaches/14case-report.qmd
+        - text: '<span class="sidebar-type-code">A15</span> <span class="sidebar-type-label">Informal approaches</span>'
+          href: approaches/15informal.qmd
 
     - part: "Explore by objective"
       chapters:
-        - objectives/1identify-methods.qmd
-        - objectives/2identify-mr.qmd
-        - objectives/3summarize-mr.qmd
-        - objectives/4assess-practice.qmd
-        - objectives/5assess-needs-priorities.qmd
-        - objectives/6propose-method.qmd
-        - objectives/7evaluate-method.qmd
-        - objectives/8compare-methods.qmd
-        - objectives/9guidance-applying.qmd
-        - objectives/10guidance-reporting.qmd
-        - objectives/11guidance-assessing.qmd
-        - objectives/12software-code.qmd
-        - objectives/13implementation.qmd
-        - objectives/14variability.qmd
+        - text: '<span class="sidebar-type-code">O1</span> <span class="sidebar-type-label">Identify available methods</span>'
+          href: objectives/1identify-methods.qmd
+        - text: '<span class="sidebar-type-code">O2</span> <span class="sidebar-type-label">Identify available methods research on a specific topic</span>'
+          href: objectives/2identify-mr.qmd
+        - text: '<span class="sidebar-type-code">O3</span> <span class="sidebar-type-label">Summarize the results of methods research</span>'
+          href: objectives/3summarize-mr.qmd
+        - text: '<span class="sidebar-type-code">O4</span> <span class="sidebar-type-label">Assess methodological practice</span>'
+          href: objectives/4assess-practice.qmd
+        - text: '<span class="sidebar-type-code">O5</span> <span class="sidebar-type-label">Assess needs and priorities for methods research</span>'
+          href: objectives/5assess-needs-priorities.qmd
+        - text: '<span class="sidebar-type-code">O6</span> <span class="sidebar-type-label">Propose a new method</span>'
+          href: objectives/6propose-method.qmd
+        - text: '<span class="sidebar-type-code">O7</span> <span class="sidebar-type-label">Evaluate a single method</span>'
+          href: objectives/7evaluate-method.qmd
+        - text: '<span class="sidebar-type-code">O8</span> <span class="sidebar-type-label">Compare methods</span>'
+          href: objectives/8compare-methods.qmd
+        - text: '<span class="sidebar-type-code">O9</span> <span class="sidebar-type-label">Develop guidance for understanding and applying methods</span>'
+          href: objectives/9guidance-applying.qmd
+        - text: '<span class="sidebar-type-code">O10</span> <span class="sidebar-type-label">Develop reporting guidelines</span>'
+          href: objectives/10guidance-reporting.qmd
+        - text: '<span class="sidebar-type-code">O11</span> <span class="sidebar-type-label">Develop quality assessment instruments</span>'
+          href: objectives/11guidance-assessing.qmd
+        - text: '<span class="sidebar-type-code">O12</span> <span class="sidebar-type-label">Develop software and code</span>'
+          href: objectives/12software-code.qmd
+        - text: '<span class="sidebar-type-code">O13</span> <span class="sidebar-type-label">Research the dissemination and implementation of methods</span>'
+          href: objectives/13implementation.qmd
+        - text: '<span class="sidebar-type-code">O14</span> <span class="sidebar-type-label">Assess variability of results across methodological choices</span>'
+          href: objectives/14variability.qmd
 
     - references.qmd
     - impressum.qmd

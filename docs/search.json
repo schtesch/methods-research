@@ -72,1167 +72,1167 @@
   {
     "objectID": "approaches/1theory.html",
     "href": "approaches/1theory.html",
-    "title": "1 Theory-based methods research",
+    "title": "A1 Theory-based methods research",
     "section": "",
     "text": "Definition and features\nIn theory-based methods research, researchers use tightly applied theory, such as mathematical derivation, proof, logic, philosophy of science, or specific theoretical frameworks, to answer a methods research question.",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>1 Theory-based methods research</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A1</span> <span class=\"sidebar-type-label\">Theory-based methods research</span></span>"
     ]
   },
   {
     "objectID": "approaches/1theory.html#definition-and-features",
     "href": "approaches/1theory.html#definition-and-features",
-    "title": "1 Theory-based methods research",
+    "title": "A1 Theory-based methods research",
     "section": "",
     "text": "Strengths include in-depth exploration of the structure, assumptions, and implications of methods.\nLimitations include unclear performance in practice.\n\n\n\n\n\n\n\nTipBoundaries with related types\n\n\n\n\n\nInformal approaches: While theory-based methods research uses theory to answer a methods research question, informal approaches use theory for explanation.",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>1 Theory-based methods research</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A1</span> <span class=\"sidebar-type-label\">Theory-based methods research</span></span>"
     ]
   },
   {
     "objectID": "approaches/1theory.html#typical-objectives-and-corresponding-examples",
     "href": "approaches/1theory.html#typical-objectives-and-corresponding-examples",
-    "title": "1 Theory-based methods research",
+    "title": "A1 Theory-based methods research",
     "section": "Typical objectives and corresponding examples",
     "text": "Typical objectives and corresponding examples\nPropose a new method: deriving a prediction interval for random effects meta-analyses;1 inverse odds weighting to operationalize transportability;2 adopting implementation science to the context of research methods;3 framework to integrate external validity in deductive causal inference.4\nDevelop guidance for understanding and applying methods: covariate adjustment in trials;5 credibility criteria for observed subgroup effects.6",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>1 Theory-based methods research</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A1</span> <span class=\"sidebar-type-label\">Theory-based methods research</span></span>"
     ]
   },
   {
     "objectID": "approaches/1theory.html#guidance",
     "href": "approaches/1theory.html#guidance",
-    "title": "1 Theory-based methods research",
+    "title": "A1 Theory-based methods research",
     "section": "Guidance",
     "text": "Guidance\n\nGuidance for understanding and applying methods: [to be added]\nGuidance for reporting methods: [to be added]\nGuidance for assessing methods: [to be added]\n\n\n\n\n\n1. Higgins JPT, Thompson SG, Spiegelhalter DJ. A re-evaluation of random-effects meta-analysis [Internet]. J. R. Stat. Soc. Ser. A Stat. Soc. 2009 Jan. ;172(1):137–159.Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC2667312/\n\n\n2. Westreich D, Edwards JK, Lesko CR, Stuart E, Cole SR. Transportability of trial results using inverse odds of sampling weights [Internet]. Am. J. Epidemiol. 2017 ;186(8):1010–1014.Available from: http://dx.doi.org/10.1093/aje/kwx164\n\n\n3. King KM, Pullmann MD, Lyon AR, Dorsey S, Lewis CC. Using implementation science to close the gap between the optimal and typical practice of quantitative methods in clinical science [Internet]. J. Abnorm. Psychol. 2019 Aug. ;128(6):547–562.Available from: http://dx.doi.org/10.1037/abn0000417\n\n\n4. Esterling KM, Brady D, Schwitzgebel E. The necessity of construct and external validity for deductive causal inference [Internet]. J. Causal Inference. 2025 ;13(1):Available from: http://dx.doi.org/10.1515/jci-2024-0002\n\n\n5. Van Lancker K, Bretz F, Dukes O. Covariate adjustment in randomized controlled trials: General concepts and practical considerations [Internet]. Clin. Trials. 2024 ;21(4):399–411.Available from: http://dx.doi.org/10.1177/17407745241251568\n\n\n6. Schandelmaier S, Briel M, Varadhan R, Schmid CH, Devasenapathy N, Hayward RA, Gagnier J, Borenstein M, Heijden GJMG van der, Dahabreh IJ, Sun X, Sauerbrei W, Walsh M, Ioannidis JPA, Thabane L, Guyatt GH. Development of the instrument to assess the credibility of effect modification analyses (ICEMAN) in randomized controlled trials and meta-analyses [Internet]. CMAJ. 2020 ;192(32):E901–E906.Available from: http://dx.doi.org/10.1503/cmaj.200077",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>1 Theory-based methods research</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A1</span> <span class=\"sidebar-type-label\">Theory-based methods research</span></span>"
     ]
   },
   {
     "objectID": "approaches/2simulation.html",
     "href": "approaches/2simulation.html",
-    "title": "2 Simulation studies",
+    "title": "A2 Simulation studies",
     "section": "",
     "text": "Definition and features\nTerminology: in silico study\nIn simulation studies, researchers experimentally apply one or more methods to a large number of simulated datasets. Researchers generate these datasets under specified assumptions, usually with some element of randomness, so that the datasets mimic real studies. Software then systematically applies the method or methods to each dataset and measures outcomes such as precision or bias.",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>2 Simulation studies</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A2</span> <span class=\"sidebar-type-label\">Simulation studies</span></span>"
     ]
   },
   {
     "objectID": "approaches/2simulation.html#definition-and-features",
     "href": "approaches/2simulation.html#definition-and-features",
-    "title": "2 Simulation studies",
+    "title": "A2 Simulation studies",
     "section": "",
     "text": "A unique feature and strength is that one can modify the underlying truth, which allows assessing bias and the validity of precision measures under varying conditions.\nA limitation is that simulated scenarios may not fully capture the complexities of real studies with human error arising during data collection or methods application.",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>2 Simulation studies</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A2</span> <span class=\"sidebar-type-label\">Simulation studies</span></span>"
     ]
   },
   {
     "objectID": "approaches/2simulation.html#typical-objectives-and-corresponding-examples",
     "href": "approaches/2simulation.html#typical-objectives-and-corresponding-examples",
-    "title": "2 Simulation studies",
+    "title": "A2 Simulation studies",
     "section": "Typical objectives and corresponding examples",
     "text": "Typical objectives and corresponding examples\nPropose a new method: new alternative to the log-rank test.1\nEvaluate a single method: random-effects meta-analysis;2 false positives when conducting subgroup analysis.3\nCompare methods: different methods for diagnostic meta-analyses with sparse data;4 different methods for modeling multi-state disease progression;5 comparing two methods for correcting imperfect reference standards in diagnostic accuracy.6\nDevelop guidance for understanding and applying methods: guidance on using matching in cluster trials;7 guidance for variable screening in high dimensional survival analysis;8 estimation of diagnostic test accuracy without reference standard.9",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>2 Simulation studies</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A2</span> <span class=\"sidebar-type-label\">Simulation studies</span></span>"
     ]
   },
   {
     "objectID": "approaches/2simulation.html#guidance",
     "href": "approaches/2simulation.html#guidance",
-    "title": "2 Simulation studies",
+    "title": "A2 Simulation studies",
     "section": "Guidance",
     "text": "Guidance\n\nGuidance for understanding and applying methods: Morris 201910, Burton 200611, White 202412\nGuidance for reporting methods: Siepe 202313\nGuidance for assessing methods: [to be added]\n\n\n\n\n\n1. Magirr D, Öhrn F. Robust modestly weighted log-rank tests [Internet]. Pharm. Stat. 2026 ;25(1):e70066.Available from: http://dx.doi.org/10.1002/pst.70066\n\n\n2. Hartung J, Knapp G. A refined method for the meta-analysis of controlled clinical trials with binary outcome [Internet]. Stat. Med. 2001 ;20(24):3875–3889.Available from: http://dx.doi.org/10.1002/sim.1009\n\n\n3. Brookes ST, Whitley E, Peters TJ, Mulheran PA, Egger M, Davey Smith G. Subgroup analyses in randomised controlled trials: Quantifying the risks of false-positives and false-negatives [Internet]. Health Technol. Assess. 2001 ;5(33):1–56.Available from: http://dx.doi.org/10.3310/hta5330\n\n\n4. Takwoingi Y, Guo B, Riley RD, Deeks JJ. Performance of methods for meta-analysis of diagnostic test accuracy with few studies or sparse data [Internet]. Stat. Methods Med. Res. 2017 Aug. ;26(4):1896–1911.Available from: http://dx.doi.org/10.1177/0962280215592269\n\n\n5. Huszti E, Abrahamowicz M, Alioum A, Quantin C. Comparison of selected methods for modeling of multi-state disease progression processes: A simulation study [Internet]. Commun. Stat. Simul. Comput. 2011 Oct. ;40(9):1402–1421.Available from: http://dx.doi.org/10.1080/03610918.2011.575505\n\n\n6. Umemneku Chikere CM, Wilson KJ, Allen AJ, Vale L. Comparative diagnostic accuracy studies with an imperfect reference standard - a comparison of correction methods [Internet]. BMC Med. Res. Methodol. 2021 ;21(1):67.Available from: http://dx.doi.org/10.1186/s12874-021-01255-4\n\n\n7. Chondros P, Ukoumunne OC, Gunn JM, Carlin JB. When should matching be used in the design of cluster randomized trials? [Internet]. Stat. Med. 2021 ;40(26):5765–5778.Available from: http://dx.doi.org/10.1002/sim.9152\n\n\n8. Edelmann D, Hummel M, Hielscher T, Saadati M, Benner A. Marginal variable screening for survival endpoints [Internet]. Biom. J. 2020 May ;62(3):610–626.Available from: http://dx.doi.org/10.1002/bimj.201800269\n\n\n9. Sun A, Zhou X-H. Estimation of diagnostic test accuracy without gold standards [Internet]. Stat. Med. 2025 ;44(3-4):e10315.Available from: http://dx.doi.org/10.1002/sim.10315\n\n\n10. Morris TP, White IR, Crowther MJ. Using simulation studies to evaluate statistical methods: Using simulation studies to evaluate statistical methods [Internet]. Stat. Med. 2019 ;38(11):2074–2102.Available from: http://dx.doi.org/10.1002/sim.8086\n\n\n11. Burton A, Altman DG, Royston P, Holder RL. The design of simulation studies in medical statistics [Internet]. Stat. Med. 2006 ;25(24):4279–4292.Available from: http://dx.doi.org/10.1002/sim.2673\n\n\n12. White IR, Pham TM, Quartagno M, Morris TP. How to check a simulation study [Internet]. Int. J. Epidemiol. 2024 ;53(1):dyad134.Available from: https://academic.oup.com/ije/advance-article/doi/10.1093/ije/dyad134/7313663\n\n\n13. Siepe B, Bartoš F, Morris T, Boulesteix A-L, Heck D, Pawel S. Simulation studies for methodological research in psychology: A standardized template for planning, preregistration, and reporting [Internet]. PsyArXiv. 2023 ;Available from: http://dx.doi.org/10.31234/osf.io/ufgy6",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>2 Simulation studies</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A2</span> <span class=\"sidebar-type-label\">Simulation studies</span></span>"
     ]
   },
   {
     "objectID": "approaches/3real-datasets.html",
     "href": "approaches/3real-datasets.html",
-    "title": "3 Experimental analyses of real datasets",
+    "title": "A3 Experimental analyses of real datasets",
     "section": "",
     "text": "Definition and features\nTerminology: sometimes called benchmarking study (which we record under objective as O8); multiverse studies as a variant\nIn experimental analyses of real datasets, researchers apply methods to datasets from real studies, often from published studies or repositories. They typically compare two or more methods regarding precision or changes in study results, although some studies evaluate one method across several datasets. In the variant of multiverse studies, researchers vary several, often sequential methodological choices (for example, first how to handle missing values, second how to deal with influential points, third which analytical model to apply, and fourth which sensitivity analyses to run) and combine the options available at each step, so that all combinations together form the multiverse of possible methodological strategies.",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>3 Experimental analyses of real datasets</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A3</span> <span class=\"sidebar-type-label\">Experimental analyses of real datasets</span></span>"
     ]
   },
   {
     "objectID": "approaches/3real-datasets.html#definition-and-features",
     "href": "approaches/3real-datasets.html#definition-and-features",
-    "title": "3 Experimental analyses of real datasets",
+    "title": "A3 Experimental analyses of real datasets",
     "section": "",
     "text": "A strength is that the data retain real-world complexity, including variability, measurement error, or missing values.\nA limitation is that such studies usually do not capture variation that arises when different humans apply the methods.\nWhen no accepted reference standard exists, they can show that methods disagree but not which method is correct.\nThe number of considered real datasets is typically limited, so the results are not necessarily generalizable to other datasets.\n\n\n\n\n\n\n\nTipBoundaries with related types\n\n\n\n\n\nReliability and agreement studies: Both may assess agreement. The key difference is the source of deliberate variation: experimental analyses vary the methods, applied by one person or team, while reliability and agreement studies vary the people, who apply the same method or, in many-analyst studies, self-chosen approaches.\nCase report or series and informal approaches: All may use a single dataset and the label “case study”. Key differences are that A3 re-analyzes an existing dataset to answer a general methodological question, A14 discusses methodological issues that occurred in a specific study, and A15 uses datasets or studies to illustrate methods.\n\n\n\n\n\n\n\n\n\nTipA remaining disagreement: separate type or variant of experimental analyses?\n\n\n\n\n\nOur group did not resolve whether reliability and agreement studies represent a separate type or a variation of experimental analyses of real datasets.\nArguments for combining them included the difficulty of distinguishing the types during testing, the fact that both often involve existing datasets, and the possibility that both can compare methods. Arguments for separating them included that reliability and agreement studies deliberately involve different users as a specific design element, usually focus on a single method rather than compare different methods, and may create new rather than use existing datasets.\nWe report this disagreement because users may need judgment when classifying studies that fall between the two types.",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>3 Experimental analyses of real datasets</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A3</span> <span class=\"sidebar-type-label\">Experimental analyses of real datasets</span></span>"
     ]
   },
   {
     "objectID": "approaches/3real-datasets.html#typical-objectives-and-corresponding-examples",
     "href": "approaches/3real-datasets.html#typical-objectives-and-corresponding-examples",
-    "title": "3 Experimental analyses of real datasets",
+    "title": "A3 Experimental analyses of real datasets",
     "section": "Typical objectives and corresponding examples",
     "text": "Typical objectives and corresponding examples\nCompare methods: different survival prediction methods applied to multi-omics data;1 comparing random forest and logistic regression across 243 datasets;2 agreement between traditional and prompt-based data extraction using the dataset of one systematic review.3\nDevelop guidance for understanding and applying methods: machine learning applied to datasets of completed reviews to establish performance expectations for title and abstract screening.4\nAssess variability of results across methodological choices: variation of observational mortality associations across many model specifications (“vibration of effects”);5 variation of observational associations across analytical choices (“vibration of effects”);6 spread of pooled effect estimates across many meta-analytic specifications (“multiverse”).7",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>3 Experimental analyses of real datasets</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A3</span> <span class=\"sidebar-type-label\">Experimental analyses of real datasets</span></span>"
     ]
   },
   {
     "objectID": "approaches/3real-datasets.html#guidance",
     "href": "approaches/3real-datasets.html#guidance",
-    "title": "3 Experimental analyses of real datasets",
+    "title": "A3 Experimental analyses of real datasets",
     "section": "Guidance",
     "text": "Guidance\n\nGuidance for understanding and applying methods: Weber 20198, Van Mechelen 20239\nGuidance for reporting methods: None identified\nGuidance for assessing methods: None identified\n\n\n\n\n\n1. Herrmann M, Probst P, Hornung R, Jurinovic V, Boulesteix A-L. Large-scale benchmark study of survival prediction methods using multi-omics data [Internet]. Brief. Bioinform. 2021 ;22(3):bbaa167.Available from: https://dx.doi.org/10.1093/bib/bbaa167\n\n\n2. Couronné R, Probst P, Boulesteix A-L. Random forest versus logistic regression: A large-scale benchmark experiment [Internet]. BMC Bioinformatics. 2018 ;19(1):270.Available from: http://dx.doi.org/10.1186/s12859-018-2264-5\n\n\n3. Motzfeldt Jensen M, Brix Danielsen M, Riis J, Assifuah Kristjansen K, Andersen S, Okubo Y, Jørgensen MG. ChatGPT-4o can serve as the second rater for data extraction in systematic reviews [Internet]. PLoS One. 2025 ;20(1):e0313401.Available from: http://dx.doi.org/10.1371/journal.pone.0313401\n\n\n4. Hamel C, Hersi M, Kelly SE, Tricco AC, Straus S, Wells G, Pham B, Hutton B. Guidance for using artificial intelligence for title and abstract screening while conducting knowledge syntheses [Internet]. BMC Med. Res. Methodol. 2021 ;21(1):285.Available from: http://dx.doi.org/10.1186/s12874-021-01451-2\n\n\n5. Patel CJ, Burford B, Ioannidis JPA. Assessment of vibration of effects due to model specification can demonstrate the instability of observational associations [Internet]. J. Clin. Epidemiol. 2015 Sept. ;68(9):1046–1058.Available from: http://dx.doi.org/10.1016/j.jclinepi.2015.05.029\n\n\n6. Klau S, Hoffmann S, Patel CJ, Ioannidis JP, Boulesteix A-L. Examining the robustness of observational associations to model, measurement and sampling uncertainty with the vibration of effects framework [Internet]. Int. J. Epidemiol. 2021 ;50(1):266–278.Available from: http://dx.doi.org/10.1093/ije/dyaa164\n\n\n7. Plessen CY, Karyotaki E, Miguel C, Ciharova M, Cuijpers P. Exploring the efficacy of psychotherapies for depression: A multiverse meta-analysis [Internet]. BMJ Ment. Health. 2023 Feb. ;26(1):e300626.Available from: http://dx.doi.org/10.1136/bmjment-2022-300626\n\n\n8. Weber LM, Saelens W, Cannoodt R, Soneson C, Hapfelmeier A, Gardner PP, Boulesteix A-L, Saeys Y, Robinson MD. Essential guidelines for computational method benchmarking [Internet]. Genome Biol. 2019 ;20(1):125.Available from: http://dx.doi.org/10.1186/s13059-019-1738-8\n\n\n9. Van Mechelen I, Boulesteix A-L, Dangl R, Dean N, Hennig C, Leisch F, Steinley D, Warrens MJ. A white paper on good research practices in benchmarking: The case of cluster analysis [Internet]. Wiley Interdiscip. Rev. Data Min. Knowl. Discov. 2023 Nov. ;13(6):Available from: https://wires.onlinelibrary.wiley.com/doi/10.1002/widm.1511",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>3 Experimental analyses of real datasets</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A3</span> <span class=\"sidebar-type-label\">Experimental analyses of real datasets</span></span>"
     ]
   },
   {
     "objectID": "approaches/4reliability.html",
     "href": "approaches/4reliability.html",
-    "title": "4 Reliability and agreement studies",
+    "title": "A4 Reliability and agreement studies",
     "section": "",
     "text": "Definition and features\nTerminology: reproducibility studies as a special type of agreement study; some many-analyst (multi-analyst, crowdsourced-analysis) studies as a variant of agreement studies\nIn reliability and agreement studies, researchers ask multiple users, teams, or artificial intelligence systems to independently perform the same methodological task using the same cases or datasets. They typically apply the same method, but in many-analyst studies they may choose their own approaches. Researchers may use an existing set of cases or create a new set specifically for the study. They then assess consistency across applications using measures of reliability, which show how well ratings distinguish cases across users, or measures of agreement, which show how similar ratings or results are across users. Reproducibility studies are a special case of agreement studies in which independent teams try to obtain the same results as the original study team by re-running the same statistical workflow on the same data. Many-analyst studies are a further case in which the variation comes from independent analysts each choosing their own approach.",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>4 Reliability and agreement studies</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A4</span> <span class=\"sidebar-type-label\">Reliability and agreement studies</span></span>"
     ]
   },
   {
     "objectID": "approaches/4reliability.html#definition-and-features",
     "href": "approaches/4reliability.html#definition-and-features",
-    "title": "4 Reliability and agreement studies",
+    "title": "A4 Reliability and agreement studies",
     "section": "",
     "text": "A strength of these studies is that they show how much variability methods users introduce.\nA challenge is that results depend on case difficulty and user experience, and consistency does not necessarily indicate correctness.\n\n\n\n\n\n\n\nTipBoundaries with related types\n\n\n\n\n\nExperimental analyses of real datasets: Both may use the same datasets and assess differences in results. The key difference is the source of deliberate variation: experimental analyses vary the methods while holding the user or team constant, whereas reliability and agreement studies vary the users or teams, who may apply the same method or, in many-analyst studies, choose their own approaches.\n\n\n\n\n\n\n\n\n\nTipA remaining disagreement: separate type or variant of experimental analyses?\n\n\n\n\n\nOur group did not resolve whether reliability and agreement studies represent a separate type or a variation of experimental analyses of real datasets.\nArguments for combining them included the difficulty of distinguishing the types during testing, the fact that both often involve existing datasets, and the possibility that both can compare methods. Arguments for separating them included that reliability and agreement studies deliberately involve different users as a specific design element, usually focus on a single method rather than compare different methods, and may create new rather than use existing datasets.\nWe report this disagreement because users may need judgment when classifying studies that fall between the two types.",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>4 Reliability and agreement studies</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A4</span> <span class=\"sidebar-type-label\">Reliability and agreement studies</span></span>"
     ]
   },
   {
     "objectID": "approaches/4reliability.html#typical-objectives-and-corresponding-examples",
     "href": "approaches/4reliability.html#typical-objectives-and-corresponding-examples",
-    "title": "4 Reliability and agreement studies",
+    "title": "A4 Reliability and agreement studies",
     "section": "Typical objectives and corresponding examples",
     "text": "Typical objectives and corresponding examples\nEvaluate a single method: reliability when 6 raters applied a risk of bias tool to 60 observational studies;1 reliability when 12 raters applied a quality assessment tool for radiomics to 35 studies at two time points;2 agreement between nine research teams attempting to reproduce the same observational study;3 agreement between reproduced and original analyses of 150 real-world evidence studies.4\nCompare methods: compare inter-rater agreement between the ROBIS and AMSTAR risk-of-bias tools.5\nDevelop quality assessment instruments: reliability of risk of bias tools for observational studies.1\nAssess variability of results across methodological choices: variation in results when 29 teams analyzed the same dataset with self-chosen analysis strategies (“many-analyst study”);6 variation in results when multiple teams assessed the association between marital status and cardiovascular disease (“many-analyst study”).7",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>4 Reliability and agreement studies</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A4</span> <span class=\"sidebar-type-label\">Reliability and agreement studies</span></span>"
     ]
   },
   {
     "objectID": "approaches/4reliability.html#guidance",
     "href": "approaches/4reliability.html#guidance",
-    "title": "4 Reliability and agreement studies",
+    "title": "A4 Reliability and agreement studies",
     "section": "Guidance",
     "text": "Guidance\n\nGuidance for understanding and applying methods: [to be added]\nGuidance for reporting methods: [to be added]\nGuidance for assessing methods: [to be added]\n\n\n\n\n\n1. Kalaycioglu I, Rioux B, Briard JN, Nehme A, Touma L, Dansereau B, Veilleux-Carpentier A, Keezer MR. Inter-rater reliability of risk of bias tools for non-randomized studies [Internet]. Syst. Rev. 2023 ;12(1):227.Available from: http://dx.doi.org/10.1186/s13643-023-02389-w\n\n\n2. Akinci D’Antonoli T, Cavallo AU, Kocak B, Borgheresi A, Ponsiglione A, Stanzione A, Koltsakis E, Doniselli FM, Vernuccio F, Ugga L, Triantafyllou M, Huisman M, Klontzas ME, Trotta R, Cannella R, Fanni SC, Cuocolo R. Reproducibility of methodological radiomics score (METRICS): An intra- and inter-rater reliability study endorsed by EuSoMII [Internet]. Eur. Radiol. 2025 ;35(8):4533–4545.Available from: http://dx.doi.org/10.1007/s00330-025-11443-1\n\n\n3. Ostropolets A, Albogami Y, Conover M, Banda JM, Baumgartner WA, Blacketer C, Desai P, DuVall SL, Fortin S, Gilbert JP, Golozar A, Ide J, Kanter AS, Kern DM, Kim C, Lai LYH, Li C, Liu F, Lynch KE, Minty E, Neves MI, Ng DQ, Obene T, Pera V, Pratt N, Rao G, Rappoport N, Reinecke I, Saroufim P, Shoaibi A, Simon K, Suchard MA, Swerdel JN, Voss EA, Weaver J, Zhang L, Hripcsak G, Ryan PB. Reproducible variability: Assessing investigator discordance across 9 research teams attempting to reproduce the same observational study [Internet]. J. Am. Med. Inform. Assoc. 2023 ;30(5):859–868.Available from: http://dx.doi.org/10.1093/jamia/ocad009\n\n\n4. Wang SV, Sreedhara SK, Schneeweiss S, REPEAT Initiative. Reproducibility of real-world evidence studies using clinical practice data to inform regulatory and coverage decisions [Internet]. Nat. Commun. 2022 ;13(1):5126.Available from: http://dx.doi.org/10.1038/s41467-022-32310-3\n\n\n5. Bühn S, Mathes T, Prengel P, Wegewitz U, Ostermann T, Robens S, Pieper D. The risk of bias in systematic reviews tool showed fair reliability and good construct validity [Internet]. J. Clin. Epidemiol. 2017 Nov. ;91121–128.Available from: http://dx.doi.org/10.1016/j.jclinepi.2017.06.019\n\n\n6. Silberzahn R, Uhlmann EL, Martin DP, Anselmi P, Aust F, Awtrey E, Bahník Š, Bai F, Bannard C, Bonnier E, Carlsson R, Cheung F, Christensen G, Clay R, Craig MA, Dalla Rosa A, Dam L, Evans MH, Flores Cervantes I, Fong N, Gamez-Djokic M, Glenz A, Gordon-McKeon S, Heaton TJ, Hederos K, Heene M, Hofelich Mohr AJ, Högden F, Hui K, Johannesson M, Kalodimos J, Kaszubowski E, Kennedy DM, Lei R, Lindsay TA, Liverani S, Madan CR, Molden D, Molleman E, Morey RD, Mulder LB, Nijstad BR, Pope NG, Pope B, Prenoveau JM, Rink F, Robusto E, Roderique H, Sandberg A, Schlüter E, Schönbrodt FD, Sherman MF, Sommer SA, Sotak K, Spain S, Spörlein C, Stafford T, Stefanutti L, Tauber S, Ullrich J, Vianello M, Wagenmakers E-J, Witkowiak M, Yoon S, Nosek BA. Many analysts, one data set: Making transparent how variations in analytic choices affect results [Internet]. Adv. Methods Pract. Psychol. Sci. 2018 Sept. ;1(3):337–356.Available from: http://dx.doi.org/10.1177/2515245917747646\n\n\n7. Kowall B, Ahrenfeldt LJ, Basten J, Becher H, Brand T, Braun J, Casjens S, Claessen H, Denz R, Diebner HH, Diexer S, Eisemann N, Furrer E, Galetzka W, Girschik C, Karch A, Mikolajczyk R, Peters M, Rospleszcz S, Rücker V, Stang A, Stolpe S, Taylor KJ, Timmesfeld N, Tokic M, Zeeb H, Berg-Beckhoff G, Behrens T, Ittermann T, Rübsamen N. Marital status and risk of cardiovascular disease - a multi-analyst study in epidemiology [Internet]. Eur. J. Epidemiol. 2025 May ;40(5):497–509.Available from: http://dx.doi.org/10.1007/s10654-025-01235-8",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>4 Reliability and agreement studies</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A4</span> <span class=\"sidebar-type-label\">Reliability and agreement studies</span></span>"
     ]
   },
   {
     "objectID": "approaches/5randomized.html",
     "href": "approaches/5randomized.html",
-    "title": "5 Methodological randomized studies",
+    "title": "A5 Methodological randomized studies",
     "section": "",
     "text": "Definition and features\nTerminology: methodological trial; randomized methodological comparison\nIn methodological randomized studies, researchers treat methods as interventions. They randomize individual humans (such as researchers, research participants, peer reviewers, or methods users) or groups of humans (such as study teams, consensus panels, or research environments) to apply, consider, or receive training in one or more alternative methods. They then measure outcomes such as effect estimates, study processes (such as recruitment or retention), or characteristics of study reports (such as clarity, completeness, or use of appropriate methods). This type includes randomized studies embedded within other studies.",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>5 Methodological randomized studies</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A5</span> <span class=\"sidebar-type-label\">Methodological randomized studies</span></span>"
     ]
   },
   {
     "objectID": "approaches/5randomized.html#definition-and-features",
     "href": "approaches/5randomized.html#definition-and-features",
-    "title": "5 Methodological randomized studies",
+    "title": "A5 Methodological randomized studies",
     "section": "",
     "text": "A strength of randomized studies is that they allow causal conclusions about methodological interventions when humans apply or receive them.\nA limitation is feasibility, especially when interventions target studies or research environments rather than individual researchers or study participants.",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>5 Methodological randomized studies</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A5</span> <span class=\"sidebar-type-label\">Methodological randomized studies</span></span>"
     ]
   },
   {
     "objectID": "approaches/5randomized.html#typical-objectives-and-corresponding-examples",
     "href": "approaches/5randomized.html#typical-objectives-and-corresponding-examples",
-    "title": "5 Methodological randomized studies",
+    "title": "A5 Methodological randomized studies",
     "section": "Typical objectives and corresponding examples",
     "text": "Typical objectives and corresponding examples\nCompare methods: effect of personalised versus non-personalised invitation letters on trial recruitment (study within a trial);1 effect of incentives on investigators’ sharing of individual participant data (study within a review);2 effect of different table formats on guideline users’ understanding;3 effect of reminding peer reviewers of reporting items on the quality of study reports.4\nDevelop guidance for understanding and applying methods: effect of different table formats on users’ understanding informed methods guidance.3",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>5 Methodological randomized studies</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A5</span> <span class=\"sidebar-type-label\">Methodological randomized studies</span></span>"
     ]
   },
   {
     "objectID": "approaches/5randomized.html#guidance",
     "href": "approaches/5randomized.html#guidance",
-    "title": "5 Methodological randomized studies",
+    "title": "A5 Methodological randomized studies",
     "section": "Guidance",
     "text": "Guidance\n\nGuidance for understanding and applying methods: [to be added]\nGuidance for reporting methods: [to be added]\nGuidance for assessing methods: [to be added]\n\n\n\n\n\n1. Thiblin E, Woodford J, Öhman M, Essen L von. The effect of personalised versus non-personalised study invitations on recruitment within the ENGAGE feasibility trial: An embedded randomised controlled recruitment trial [Internet]. BMC Med. Res. Methodol. 2022 ;22(1):65.Available from: https://pubmed.ncbi.nlm.nih.gov/35249543/\n\n\n2. Veroniki AA, Ashoor HM, Le SPC, Rios P, Stewart LA, Clarke M, Mavridis D, Straus SE, Tricco AC. Retrieval of individual patient data depended on study characteristics: A randomized controlled trial [Internet]. J. Clin. Epidemiol. 2019 Sept. ;113176–188.Available from: http://dx.doi.org/10.1016/j.jclinepi.2019.05.031\n\n\n3. Carrasco-Labra A, Brignardello-Petersen R, Santesso N, Neumann I, Mustafa RA, Mbuagbaw L, Etxeandia Ikobaltzeta I, De Stio C, McCullagh LJ, Alonso-Coello P, Meerpohl JJ, Vandvik PO, Brozek JL, Akl EA, Bossuyt P, Churchill R, Glenton C, Rosenbaum S, Tugwell P, Welch V, Garner P, Guyatt G, Schünemann HJ. Improving GRADE evidence tables part 1: A randomized trial shows improved understanding of content in summary of findings tables with a new format [Internet]. J. Clin. Epidemiol. 2016 June ;747–18.Available from: http://dx.doi.org/10.1016/j.jclinepi.2015.12.007\n\n\n4. Speich B, Mann E, Schönenberger CM, Mellor K, Griessbach AN, Dhiman P, Gandhi P, Lohner S, Agarwal A, Odutayo A, Puebla I, Clark A, Chan A-W, Schlussel MM, Ravaud P, Moher D, Briel M, Boutron I, Schroter S, Hopewell S. Reminding peer reviewers of reporting guideline items to improve completeness in published articles: Primary results of 2 randomized trials [Internet]. JAMA Netw. Open. 2023 ;6(6):e2317651.Available from: http://dx.doi.org/10.1001/jamanetworkopen.2023.17651",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>5 Methodological randomized studies</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A5</span> <span class=\"sidebar-type-label\">Methodological randomized studies</span></span>"
     ]
   },
   {
     "objectID": "approaches/6survey.html",
     "href": "approaches/6survey.html",
-    "title": "6 Quantitative surveys",
+    "title": "A6 Quantitative surveys",
     "section": "",
     "text": "Definition and features\nIn quantitative surveys, researchers use questionnaires to collect experiences, opinions, or feedback from researchers and other interest-holders on methodological issues. They typically use random or stratified sampling to maximize representativeness. Researchers usually analyze responses quantitatively; for open-ended questions, they may first classify responses qualitatively and then analyze them quantitatively.",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>6 Quantitative surveys</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A6</span> <span class=\"sidebar-type-label\">Quantitative surveys</span></span>"
     ]
   },
   {
     "objectID": "approaches/6survey.html#definition-and-features",
     "href": "approaches/6survey.html#definition-and-features",
-    "title": "6 Quantitative surveys",
+    "title": "A6 Quantitative surveys",
     "section": "",
     "text": "A strength is the possibility to collect structured information from a large number of participants.\nKey challenges include selection bias arising from low response rates and missing data.",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>6 Quantitative surveys</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A6</span> <span class=\"sidebar-type-label\">Quantitative surveys</span></span>"
     ]
   },
   {
     "objectID": "approaches/6survey.html#typical-objectives-and-corresponding-examples",
     "href": "approaches/6survey.html#typical-objectives-and-corresponding-examples",
-    "title": "6 Quantitative surveys",
+    "title": "A6 Quantitative surveys",
     "section": "Typical objectives and corresponding examples",
     "text": "Typical objectives and corresponding examples\nAssess methodological practice: survey on the current practice of involving patients in statistical research.1\nAssess needs and priorities for methods research: survey to identify priorities for retention research;2 survey to identify priorities for methods research in the context of global health;3 survey on the needs for methodological guidance on blinding in complex-intervention trials.4\nResearch the dissemination and implementation of methods: survey of researchers to identify barriers to the implementation of new statistical methods;5 survey of investigators in sports medicine to understand why they did not use a specific reporting guideline.6",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>6 Quantitative surveys</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A6</span> <span class=\"sidebar-type-label\">Quantitative surveys</span></span>"
     ]
   },
   {
     "objectID": "approaches/6survey.html#guidance",
     "href": "approaches/6survey.html#guidance",
-    "title": "6 Quantitative surveys",
+    "title": "A6 Quantitative surveys",
     "section": "Guidance",
     "text": "Guidance\n\nGuidance for understanding and applying methods: [to be added]\nGuidance for reporting methods: [to be added]\nGuidance for assessing methods: [to be added]\n\n\n\n\n\n1. Abell L, Maher F, Begum S, Booth S, Broomfield J, Lee S, Smith E, Stannard R, Teece L, Vounzoulaki E, Worboys H, Gray LJ. Incorporation of patient and public involvement in statistical methodology research: A survey assessing current practices and attitudes of researchers [Internet]. Res. Involv. Engagem. 2023 ;9(1):100.Available from: http://dx.doi.org/10.1186/s40900-023-00507-5\n\n\n2. Kearney A, Daykin A, Shaw ARG, Lane AJ, Blazeby JM, Clarke M, Williamson P, Gamble C. Identifying research priorities for effective retention strategies in clinical trials [Internet]. Trials. 2017 ;18(1):406.Available from: http://dx.doi.org/10.1186/s13063-017-2132-z\n\n\n3. Rosala-Hallas A, Bhangu A, Blazeby J, Bowman L, Clarke M, Lang T, Nasser M, Siegfried N, Soares-Weiser K, Sydes MR, Wang D, Zhang J, Williamson PR. Global health trials methodological research agenda: Results from a priority setting exercise [Internet]. Trials. 2018 ;19(1):48.Available from: http://dx.doi.org/10.1186/s13063-018-2440-y\n\n\n4. Yonis A, Dean SG, Warren FC, Taylor RS, Levack W, Hay-Smith J. Navigating blinding challenges in complex intervention trials: Insights from a UK researcher survey [Internet]. Trials. 2025 ;26(1):501.Available from: http://dx.doi.org/10.1186/s13063-025-09223-9\n\n\n5. Pullenayegum EM, Platt RW, Barwick M, Feldman BM, Offringa M, Thabane L. Knowledge translation in biostatistics: A survey of current practices, preferences, and barriers to the dissemination and uptake of new statistical methods [Internet]. Stat. Med. 2016 ;35(6):805–818.Available from: http://dx.doi.org/10.1002/sim.6633\n\n\n6. Hansford HJ, Cashin AG, Doyle J, Leake HB, McAuley JH, Jones MD. Barriers and enablers to using intervention reporting guidelines in sports and exercise medicine trials: A mixed-methods study [Internet]. J. Orthop. Sports Phys. Ther. 2024 Feb. ;54(2):142–152.Available from: http://dx.doi.org/10.2519/jospt.2023.12110",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>6 Quantitative surveys</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A6</span> <span class=\"sidebar-type-label\">Quantitative surveys</span></span>"
     ]
   },
   {
     "objectID": "approaches/7qualitative.html",
     "href": "approaches/7qualitative.html",
-    "title": "7 Qualitative studies",
+    "title": "A7 Qualitative studies",
     "section": "",
     "text": "Definition and features\nTerminology: interviews, focus groups, qualitative surveys, observation, or other specific qualitative approaches\nIn qualitative studies, researchers use interviews, focus groups, or other qualitative methods to collect information from smaller samples of researchers and other interest-holders on methodological issues. Researchers apply methods such as qualitative content analysis or thematic analysis. Important design features include the sampling strategy (such as convenience, purposive, or random sampling) and approaches to data saturation.",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>7 Qualitative studies</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A7</span> <span class=\"sidebar-type-label\">Qualitative studies</span></span>"
     ]
   },
   {
     "objectID": "approaches/7qualitative.html#definition-and-features",
     "href": "approaches/7qualitative.html#definition-and-features",
-    "title": "7 Qualitative studies",
+    "title": "A7 Qualitative studies",
     "section": "",
     "text": "Strengths include the focus on participants and explanatory depth.\nKey challenges include limited generalizability due to small sample sizes and the influence of the investigators.",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>7 Qualitative studies</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A7</span> <span class=\"sidebar-type-label\">Qualitative studies</span></span>"
     ]
   },
   {
     "objectID": "approaches/7qualitative.html#typical-objectives-and-corresponding-examples",
     "href": "approaches/7qualitative.html#typical-objectives-and-corresponding-examples",
-    "title": "7 Qualitative studies",
+    "title": "A7 Qualitative studies",
     "section": "Typical objectives and corresponding examples",
     "text": "Typical objectives and corresponding examples\nAssess methodological practice: interviews to understand the reasons for non-reporting of outcomes.1\nEvaluate a single method: focus group addressing the clarity of plain language recommendations in guidelines;2 interviews to test the face validity of a quality assessment instrument.3\nDevelop guidance for understanding and applying methods: Q-methodology, focus groups, content analysis, and workshops to produce guidance on creating summaries for trial participants.4\nResearch the dissemination and implementation of methods: interviews with trial investigators to understand why they did not use existing core outcome sets.5",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>7 Qualitative studies</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A7</span> <span class=\"sidebar-type-label\">Qualitative studies</span></span>"
     ]
   },
   {
     "objectID": "approaches/7qualitative.html#guidance",
     "href": "approaches/7qualitative.html#guidance",
-    "title": "7 Qualitative studies",
+    "title": "A7 Qualitative studies",
     "section": "Guidance",
     "text": "Guidance\n\nGuidance for understanding and applying methods: [to be added]\nGuidance for reporting methods: [to be added]\nGuidance for assessing methods: [to be added]\n\n\n\n\n\n1. Smyth RMD, Kirkham JJ, Jacoby A, Altman DG, Gamble C, Williamson PR. Frequency and reasons for outcome reporting bias in clinical trials: Interviews with trialists [Internet]. BMJ. 2011 ;342(jan06 1):c7153.Available from: http://dx.doi.org/10.1136/bmj.c7153\n\n\n2. Santesso N, Wiercioch W, Barbara AM, Dietl H, Schünemann HJ. Focus groups and interviews with the public led to the development of a template for a GRADE plain language recommendation (PLR) [Internet]. J. Clin. Epidemiol. 2022 Jan. ;14118–25.Available from: http://dx.doi.org/10.1016/j.jclinepi.2021.09.018\n\n\n3. Schandelmaier S, Briel M, Varadhan R, Schmid CH, Devasenapathy N, Hayward RA, Gagnier J, Borenstein M, Heijden GJMG van der, Dahabreh IJ, Sun X, Sauerbrei W, Walsh M, Ioannidis JPA, Thabane L, Guyatt GH. Development of the instrument to assess the credibility of effect modification analyses (ICEMAN) in randomized controlled trials and meta-analyses [Internet]. CMAJ. 2020 ;192(32):E901–E906.Available from: http://dx.doi.org/10.1503/cmaj.200077\n\n\n4. Bruhn H, Campbell M, Entwistle V, Humphreys R, Jayacodi S, Knapp P, Tizzard J, Gillies K. What, how, when and who of trial results summaries for trial participants: Stakeholder-informed guidance from the RECAP project [Internet]. BMJ Open. 2022 ;12(3):e057019.Available from: http://dx.doi.org/10.1136/bmjopen-2021-057019\n\n\n5. Hughes KL, Williamson PR, Young B. In-depth qualitative interviews identified barriers and facilitators that influenced chief investigators’ use of core outcome sets in randomised controlled trials [Internet]. J. Clin. Epidemiol. 2022 Apr. ;144111–120.Available from: http://dx.doi.org/10.1016/j.jclinepi.2021.12.004",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>7 Qualitative studies</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A7</span> <span class=\"sidebar-type-label\">Qualitative studies</span></span>"
     ]
   },
   {
     "objectID": "approaches/8consensus.html",
     "href": "approaches/8consensus.html",
-    "title": "8 Consensus studies",
+    "title": "A8 Consensus studies",
     "section": "",
     "text": "Definition and features\nIn consensus studies, researchers use iterative processes such as Delphi surveys or structured discussion (such as the Nominal Group Technique) to involve researchers and other interest-holders and move them towards a shared position. They usually use a longitudinal design with multiple rounds of feedback, item ratings, or discussions.",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>8 Consensus studies</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A8</span> <span class=\"sidebar-type-label\">Consensus studies</span></span>"
     ]
   },
   {
     "objectID": "approaches/8consensus.html#definition-and-features",
     "href": "approaches/8consensus.html#definition-and-features",
-    "title": "8 Consensus studies",
+    "title": "A8 Consensus studies",
     "section": "",
     "text": "Strengths include the structured synthesis of expert opinion and persuasiveness. Their credibility depends on process design, panel composition, and topic complexity.\nThey work best for issues that all panel members can understand well, and less well for complex issues that few participants can fully understand.",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>8 Consensus studies</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A8</span> <span class=\"sidebar-type-label\">Consensus studies</span></span>"
     ]
   },
   {
     "objectID": "approaches/8consensus.html#typical-objectives-and-corresponding-examples",
     "href": "approaches/8consensus.html#typical-objectives-and-corresponding-examples",
-    "title": "8 Consensus studies",
+    "title": "A8 Consensus studies",
     "section": "Typical objectives and corresponding examples",
     "text": "Typical objectives and corresponding examples\nAssess needs and priorities for methods research: Delphi study to identify priorities for methods research.1\nDevelop guidance for understanding and applying methods: guidance on factors to consider when inviting multiple interest-holder groups to research, based on Delphi;2 guidance on handling missing data in trials, based on Nominal Group Technique.3\nDevelop reporting guidelines: Delphi study to develop CONSORT reporting guideline.4\nDevelop quality assessment instruments: discussion-based consensus on quality assessment tool for subgroup analyses.5",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>8 Consensus studies</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A8</span> <span class=\"sidebar-type-label\">Consensus studies</span></span>"
     ]
   },
   {
     "objectID": "approaches/8consensus.html#guidance",
     "href": "approaches/8consensus.html#guidance",
-    "title": "8 Consensus studies",
+    "title": "A8 Consensus studies",
     "section": "Guidance",
     "text": "Guidance\n\nGuidance for understanding and applying methods: Book Chapter by Anthony Jorm6\nGuidance for reporting methods: ACCORD reporting guidelines7\nGuidance for assessing methods: [to be added]\n\n\n\n\n\n1. Tudur Smith C, Hickey H, Clarke M, Blazeby J, Williamson P. The trials methodological research agenda: Results from a priority setting exercise [Internet]. Trials. 2014 ;15(1):32.Available from: http://dx.doi.org/10.1186/1745-6215-15-32\n\n\n2. Parker R, Tomlinson E, Concannon TW, Akl E, Petkovic J, Welch VA, Crowe S, Palm M, Marusic A, Ekanem C, Akl IB, Saginur M, Moja L, Kuchenmüller T, Slingers N, Teixeira L, Dormer L, Lang E, Arayssi T, Greer-Smith R, Brahem AB, Avey M, Tugwell P. Factors to consider during identification and invitation of individuals in a multi-stakeholder research partnership [Internet]. J. Gen. Intern. Med. 2022 ;37(16):4047–4053.Available from: https://dx.doi.org/10.1007/s11606-022-07411-w\n\n\n3. Hussain JA, White IR, Johnson MJ, Byrne A, Preston NJ, Haines A, Seddon K, Peters TJ. Development of guidelines to reduce, handle and report missing data in palliative care trials: A multi-stakeholder modified nominal group technique [Internet]. Palliat. Med. 2022 Jan. ;36(1):59–70.Available from: http://dx.doi.org/10.1177/02692163211065597\n\n\n4. Hopewell S, Chan A-W, Collins GS, Hróbjartsson A, Moher D, Schulz KF, Tunn R, Aggarwal R, Berkwits M, Berlin JA, Bhandari N, Butcher NJ, Campbell MK, Chidebe RCW, Elbourne D, Farmer A, Fergusson DA, Golub RM, Goodman SN, Hoffmann TC, Ioannidis JPA, Kahan BC, Knowles RL, Lamb SE, Lewis S, Loder E, Offringa M, Ravaud P, Richards DP, Rockhold FW, Schriger DL, Siegfried NL, Staniszewska S, Taylor RS, Thabane L, Torgerson D, Vohra S, White IR, Boutron I. CONSORT 2025 statement: Updated guideline for reporting randomised trials [Internet]. BMJ. 2025 ;389e081123.Available from: http://dx.doi.org/10.1136/bmj-2024-081123\n\n\n5. Schandelmaier S, Briel M, Varadhan R, Schmid CH, Devasenapathy N, Hayward RA, Gagnier J, Borenstein M, Heijden GJMG van der, Dahabreh IJ, Sun X, Sauerbrei W, Walsh M, Ioannidis JPA, Thabane L, Guyatt GH. Development of the instrument to assess the credibility of effect modification analyses (ICEMAN) in randomized controlled trials and meta-analyses [Internet]. CMAJ. 2020 ;192(32):E901–E906.Available from: http://dx.doi.org/10.1503/cmaj.200077\n\n\n6. Jorm A. Expert consensus on research methods [Internet]. In: Expert consensus in science. Singapore: Springer Nature Singapore; 2025. p. 91–102.Available from: http://dx.doi.org/10.1007/978-981-97-9222-1_6\n\n\n7. Gattrell WT, Logullo P, Zuuren EJ van, Price A, Hughes EL, Blazey P, Winchester CC, Tovey D, Goldman K, Hungin AP, Harrison N. ACCORD (ACcurate COnsensus reporting document): A reporting guideline for consensus methods in biomedicine developed via a modified delphi [Internet]. PLoS Med. 2024 Jan. ;21(1):e1004326.Available from: http://dx.doi.org/10.1371/journal.pmed.1004326",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>8 Consensus studies</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A8</span> <span class=\"sidebar-type-label\">Consensus studies</span></span>"
     ]
   },
   {
     "objectID": "approaches/9review-applied.html",
     "href": "approaches/9review-applied.html",
-    "title": "9 Reviews of applied or planned methods",
+    "title": "A9 Reviews of applied or planned methods",
     "section": "",
     "text": "Definition and features\nTerminology: methodological studies,1, 2 meta-research,3 research-on-research, systematic surveys, and scoping review, among many other terms used in practice,4 with little consensus.5\nIn reviews of applied or planned methods, researchers examine how other researchers implement methods in health research or which challenges they encounter. They systematically analyze studies or other applications of methods (such as guideline panels), using sources such as journal articles, trial registries, or preprints. Sampling strategies vary and may be random (to assess prevalence), purposeful (to focus on high-impact studies), stratified (to represent subgroups), matched (such as protocols with corresponding publications), or complete. Reviews of applied or planned methods may also be nested within systematic reviews of health research. Researchers extract data with pre-specified forms (for example, based on existing quality instruments) or use qualitative methods to derive categories. They typically use descriptive statistics to report outcomes such as prevalence of methodological features, appropriate use, or transparent reporting.",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>9 Reviews of applied or planned methods</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A9</span> <span class=\"sidebar-type-label\">Reviews of applied or planned methods</span></span>"
     ]
   },
   {
     "objectID": "approaches/9review-applied.html#definition-and-features",
     "href": "approaches/9review-applied.html#definition-and-features",
-    "title": "9 Reviews of applied or planned methods",
+    "title": "A9 Reviews of applied or planned methods",
     "section": "",
     "text": "A strength is that these studies reflect realistic practice, including human error.\nChallenges arise from sampling and reporting issues.\n\n\n\n\n\n\n\nTipBoundaries with related types\n\n\n\n\n\nBoundary with A10 meta-epidemiological studies. Both examine applied studies. A9 describes methodological practice, reporting, or quality; A10 examines whether methodological features relate to study results.\nSimilarities and differences between literature-based types:\n\n\n\nCharacteristic\nReviews of applied or planned methods\nMeta-epidemiological studies\nScoping reviews of methods research\nQualitative syntheses of methods research\nQuantitative syntheses of methods research\n\n\n\n\nTypical objective\nAssess methodological practice or quality\nAssess impact of methodological characteristics on study results\nIdentify available methods or methods research on a specific topic\nSynthesize findings of methods research qualitatively\nSynthesize findings of methods research quantitatively\n\n\nIncluded publications/ unit of analysis\nIndividual applied studies\nIndividual applied studies\nMethods research papers\nMethods research papers\nMethods research papers\n\n\nSampling strategy\nRandom, purposeful, stratified, matched, completea\nStratified, matched, completea\nCompletea\nCompletea, purposeful\nCompletea\n\n\nTypical analytic approach\nQualitative categorization and descriptive statistics\nMeta-regression or multi-level modeling\nCategorization and descriptive statistics\nQualitative synthesis\nMeta-analysis\n\n\nRole of quality assessment\nOften as an outcome\nPossible as an exposure or covariable\nUsually not performed\nStep in synthesis processb\nStep in synthesis processb\n\n\nAnalogy in health research\nObservational study (prevalence)\nObservational study (exposure-outcome)\nScoping review\nQualitative evidence synthesis\nQuantitative evidence synthesis\n\n\n\n\naUsually based on a comprehensive search process that aims to find all eligible publications as completely as possible. bQuality criteria currently remain unclear for most types of methods research.",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>9 Reviews of applied or planned methods</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A9</span> <span class=\"sidebar-type-label\">Reviews of applied or planned methods</span></span>"
     ]
   },
   {
     "objectID": "approaches/9review-applied.html#typical-objectives-and-corresponding-examples",
     "href": "approaches/9review-applied.html#typical-objectives-and-corresponding-examples",
-    "title": "9 Reviews of applied or planned methods",
+    "title": "A9 Reviews of applied or planned methods",
     "section": "Typical objectives and corresponding examples",
     "text": "Typical objectives and corresponding examples\nIdentify available methods: types of initial data analysis in observational studies.6\nAssess methodological practice: quality and reporting of prediction models for COVID-19;7 construction and application of directed acyclic graphs in leading medical journals.8\nAssess needs and priorities for methods research: conduct of individual participant-data meta-analysis.9\nEvaluate a single method: concordance of target trial emulations with benchmark randomized controlled trials.10\nDevelop guidance for understanding and applying methods: recommendations for the use of directed acyclic graphs (DAGs);11 using the nominal group technique for eliciting survey items.12\nDevelop reporting guidelines: review of observational studies emulating a target trial to inform the TARGET reporting guideline.13\nDevelop quality assessment instruments: review practice of assessing risk of bias due to missing evidence in systematic reviews to inform risk-of-bias tool.14\nResearch the dissemination and implementation of methods: proportion of trials using core outcome sets.15",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>9 Reviews of applied or planned methods</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A9</span> <span class=\"sidebar-type-label\">Reviews of applied or planned methods</span></span>"
     ]
   },
   {
     "objectID": "approaches/9review-applied.html#guidance",
     "href": "approaches/9review-applied.html#guidance",
-    "title": "9 Reviews of applied or planned methods",
+    "title": "A9 Reviews of applied or planned methods",
     "section": "Guidance",
     "text": "Guidance\n\nGuidance for understanding and applying methods: [to be added]\nGuidance for reporting methods: [to be added]\nGuidance for assessing methods: [to be added]\n\n\n\n\n\n1. Khalil H, Munn Z. Guidance on conducting methodological studies – an overview [Internet]. Curr. Opin. Epidemiol. Public Health. 2023 Mar. ;2(1):2–6.Available from: http://dx.doi.org/10.1097/pxh.0000000000000013\n\n\n2. Mbuagbaw L, Lawson DO, Puljak L, Allison DB, Thabane L. A tutorial on methodological studies: The what, when, how and why [Internet]. BMC Med. Res. Methodol. 2020 ;20(1):226.Available from: http://dx.doi.org/10.1186/s12874-020-01107-7\n\n\n3. Ioannidis JPA, Fanelli D, Dunne DD, Goodman SN. Meta-research: Evaluation and improvement of research methods and practices [Internet]. PLoS Biol. 2015 Oct. ;13(10):e1002264.Available from: http://dx.doi.org/10.1371/journal.pbio.1002264\n\n\n4. Matos Silva J. Methodological studies in health research: A review of contemporary practices and expert opinions. 2025 ;\n\n\n5. Matos Silva J, Lima JP, Lawson D, Nyambi A, Sadeghirad B, Logi C, Moher D, Pieper D, Collins G, Guyatt GH, Van Spall HGC, Franco JVA, Thabane L, Puljak L, Murad MH, Vanstone M, Tugwell P, Schandelmaier S, Welch V, Samaan Z, Brignardello-Petersen R, Darzi AJ, Mbuagbaw L. Limited consensus in expert opinions on studies evaluating the design, conduct, analysis, or reporting of health research: A survey study [Internet]. Social Science Research Network. 2025 ;Available from: https://papers.ssrn.com/abstract=5763589\n\n\n6. Huebner M, Vach W, Cessie S le, Schmidt CO, Lusa L, Topic Group “Initial Data Analysis” of the STRATOS Initiative (STRengthening Analytical Thinking for Observational Studies, http://www.stratos-initiative.org). Hidden analyses: A review of reporting practice and recommendations for more transparent reporting of initial data analyses [Internet]. BMC Med. Res. Methodol. 2020 ;20(1):61.Available from: http://dx.doi.org/10.1186/s12874-020-00942-y\n\n\n7. Wynants L, Van Calster B, Collins GS, Riley RD, Heinze G, Schuit E, Bonten MMJ, Dahly DL, Damen JAA, Debray TPA, Jong VMT de, De Vos M, Dhiman P, Haller MC, Harhay MO, Henckaerts L, Heus P, Kammer M, Kreuzberger N, Lohmann A, Luijken K, Ma J, Martin GP, McLernon DJ, Andaur Navarro CL, Reitsma JB, Sergeant JC, Shi C, Skoetz N, Smits LJM, Snell KIE, Sperrin M, Spijker R, Steyerberg EW, Takada T, Tzoulaki I, Kuijk SMJ van, Bussel B van, Horst ICC van der, Royen FS van, Verbakel JY, Wallisch C, Wilkinson J, Wolff R, Hooft L, Moons KGM, Smeden M van. Prediction models for diagnosis and prognosis of covid-19: Systematic review and critical appraisal [Internet]. BMJ. 2020 ;369m1328.Available from: http://dx.doi.org/10.1136/bmj.m1328\n\n\n8. Deng G, Du J. Construction and application of directed acyclic graphs in leading medical journals [Internet]. JAMA Netw. Open. 2026 ;9(1):e2553803.Available from: http://dx.doi.org/10.1001/jamanetworkopen.2025.53803\n\n\n9. Seidler AL, Aagerup J, Nicholson LS, Hunter KE, Bajpai R, Hamilton DG, Love T, Marlin N, Nguyen D, Riley RD, Rydzewska LHM, Simmonds M, Stewart LA, Tam W, Tierney JF, Wang R, Amstutz A, Briel M, Burdett S, Ensor J, Hattle M, Libesman S, Liu Y, Schandelmaier S, Siegel LK, Snell KIE, Sotiropoulos J, Vale CL, White IR, Williams JG, Godolphin PJ. State of play in individual participant data meta-analyses of randomised trials: Systematic review and consensus-based recommendations [Internet]. medRxiv. 2026 ;2026.02.03.26345481.Available from: https://www.medrxiv.org/content/10.64898/2026.02.03.26345481v1.abstract\n\n\n10. Wang C, Tang D, Dadelszen P von, Ju C, Liu L, Wang Y, Magee LA. Concordance between target trial emulation and randomised controlled trials: Systematic review and meta-analysis [Internet]. BMJ. 2026 ;393e086810.Available from: http://dx.doi.org/10.1136/bmj-2025-086810\n\n\n11. Tennant PWG, Murray EJ, Arnold KF, Berrie L, Fox MP, Gadd SC, Harrison WJ, Keeble C, Ranker LR, Textor J, Tomova GD, Gilthorpe MS, Ellison GTH. Use of directed acyclic graphs (DAGs) to identify confounders in applied health research: Review and recommendations [Internet]. Int. J. Epidemiol. 2021 ;50(2):620–632.Available from: http://dx.doi.org/10.1093/ije/dyaa213\n\n\n12. Harb SI, Tao L, Peláez S, Boruff J, Rice DB, Shrier I. Methodological options of the nominal group technique for survey item elicitation in health research: A scoping review [Internet]. J. Clin. Epidemiol. 2021 Nov. ;139140–148.Available from: http://dx.doi.org/10.1016/j.jclinepi.2021.08.008\n\n\n13. Cashin AG, Hansford HJ, Hernán MA, Swanson SA, Lee H, Jones MD, Dahabreh IJ, Dickerman BA, Egger M, Garcia-Albeniz X, Golub RM, Islam N, Lodi S, Moreno-Betancur M, Pearson S-A, Schneeweiss S, Sharp MK, Sterne JAC, Stuart EA, McAuley JH. Transparent reporting of observational studies emulating a target trial: The TARGET statement [Internet]. BMJ. 2025 ;390e087179.Available from: http://dx.doi.org/10.1136/bmj-2025-087179\n\n\n14. Page MJ, Sterne JAC, Boutron I, Hróbjartsson A, Kirkham JJ, Li T, Lundh A, Mayo-Wilson E, McKenzie JE, Stewart LA, Sutton AJ, Bero L, Dunn AG, Dwan K, Elbers RG, Kanukula R, Meerpohl JJ, Turner EH, Higgins JPT. ROB-ME: A tool for assessing risk of bias due to missing evidence in systematic reviews with meta-analysis [Internet]. BMJ. 2023 ;383e076754.Available from: http://dx.doi.org/10.1136/bmj-2023-076754\n\n\n15. Matvienko-Sikar K, Avery K, Blazeby JM, Devane D, Dodd S, Egan AM, Gorst SL, Hughes K, Jacobsen P, Kirkham JJ, Kottner J, Mellor K, Millward CP, Patel S, Quirke F, Saldanha IJ, Smith V, Terwee CB, Young AE, Williamson PR. Use of core outcome sets was low in clinical trials published in major medical journals [Internet]. J. Clin. Epidemiol. 2022 Feb. ;14219–28.Available from: http://dx.doi.org/10.1016/j.jclinepi.2021.10.012",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>9 Reviews of applied or planned methods</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A9</span> <span class=\"sidebar-type-label\">Reviews of applied or planned methods</span></span>"
     ]
   },
   {
     "objectID": "approaches/10meta-epi.html",
     "href": "approaches/10meta-epi.html",
-    "title": "10 Meta-epidemiological studies",
+    "title": "A10 Meta-epidemiological studies",
     "section": "",
     "text": "Definition and features\nTerminology: analytical study of applied methods\nIn meta-epidemiological studies, researchers examine how variation in methodological practice relates to variation in study results or other study-level outcomes. They draw on similar sources as reviews of applied or planned methods, but treat methodological features as exposures or covariates and study results as outcomes. They often use stratified, matched, or complete samples of studies that applied different methods and analyze associations with meta-regression or multi-level modeling.",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>10 Meta-epidemiological studies</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A10</span> <span class=\"sidebar-type-label\">Meta-epidemiological studies</span></span>"
     ]
   },
   {
     "objectID": "approaches/10meta-epi.html#definition-and-features",
     "href": "approaches/10meta-epi.html#definition-and-features",
-    "title": "10 Meta-epidemiological studies",
+    "title": "A10 Meta-epidemiological studies",
     "section": "",
     "text": "A strength is that these studies reflect real-world applications of methods, including human error.\nA limitation is the high risk of confounding, which can arise at multiple levels, including differences in study populations, research questions, measurement procedures, or other study features.\n\n\n\n\n\n\n\nTipBoundaries with related types\n\n\n\n\n\nBoundary with A9 reviews of applied or planned methods. Both examine applied studies. A9 describes methodological practice or quality; A10 examines whether methodological features relate to study results.\nSimilarities and differences between literature-based types:\n\n\n\nCharacteristic\nReviews of applied or planned methods\nMeta-epidemiological studies\nScoping reviews of methods research\nQualitative syntheses of methods research\nQuantitative syntheses of methods research\n\n\n\n\nTypical objective\nAssess methodological practice or quality\nAssess impact of methodological characteristics on study results\nIdentify available methods or methods research on a specific topic\nSynthesize findings of methods research qualitatively\nSynthesize findings of methods research quantitatively\n\n\nIncluded publications/ unit of analysis\nIndividual applied studies\nIndividual applied studies\nMethods research papers\nMethods research papers\nMethods research papers\n\n\nSampling strategy\nRandom, purposeful, stratified, matched, completea\nStratified, matched, completea\nCompletea\nCompletea, purposeful\nCompletea\n\n\nTypical analytic approach\nQualitative categorization and descriptive statistics\nMeta-regression or multi-level modeling\nCategorization and descriptive statistics\nQualitative synthesis\nMeta-analysis\n\n\nRole of quality assessment\nOften as an outcome\nPossible as an exposure or covariable\nUsually not performed\nStep in synthesis processb\nStep in synthesis processb\n\n\nAnalogy in health research\nObservational study (prevalence)\nObservational study (exposure-outcome)\nScoping review\nQualitative evidence synthesis\nQuantitative evidence synthesis\n\n\n\n\naUsually based on a comprehensive search process that aims to find all eligible publications as completely as possible. bQuality criteria currently remain unclear for most types of methods research.",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>10 Meta-epidemiological studies</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A10</span> <span class=\"sidebar-type-label\">Meta-epidemiological studies</span></span>"
     ]
   },
   {
     "objectID": "approaches/10meta-epi.html#typical-objectives-and-corresponding-examples",
     "href": "approaches/10meta-epi.html#typical-objectives-and-corresponding-examples",
-    "title": "10 Meta-epidemiological studies",
+    "title": "A10 Meta-epidemiological studies",
     "section": "Typical objectives and corresponding examples",
     "text": "Typical objectives and corresponding examples\nCompare methods: comparison of treatment effects between trials with and without adequate allocation concealment or blinding.1\nDevelop guidance for understanding and applying methods: effects of rapid-review shortcuts informed Cochrane guidance for conducting rapid reviews.2",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>10 Meta-epidemiological studies</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A10</span> <span class=\"sidebar-type-label\">Meta-epidemiological studies</span></span>"
     ]
   },
   {
     "objectID": "approaches/10meta-epi.html#guidance",
     "href": "approaches/10meta-epi.html#guidance",
-    "title": "10 Meta-epidemiological studies",
+    "title": "A10 Meta-epidemiological studies",
     "section": "Guidance",
     "text": "Guidance\n\nGuidance for understanding and applying methods: [to be added]\nGuidance for reporting methods: [to be added]\nGuidance for assessing methods: [to be added]\n\n\n\n\n\n1. Wood L, Egger M, Gluud LL, Schulz KF, Jüni P, Altman DG, Gluud C, Martin RM, Wood AJG, Sterne JAC. Empirical evidence of bias in treatment effect estimates in controlled trials with different interventions and outcomes: Meta-epidemiological study [Internet]. BMJ. 2008 ;336(7644):601–605.Available from: http://dx.doi.org/10.1136/bmj.39465.451748.AD\n\n\n2. Garritty C, Gartlehner G, Nussbaumer-Streit B, King VJ, Hamel C, Kamel C, Affengruber L, Stevens A. Cochrane rapid reviews methods group offers evidence-informed guidance to conduct rapid reviews [Internet]. J. Clin. Epidemiol. 2021 Feb. ;13013–22.Available from: http://dx.doi.org/10.1016/j.jclinepi.2020.10.007",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>10 Meta-epidemiological studies</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A10</span> <span class=\"sidebar-type-label\">Meta-epidemiological studies</span></span>"
     ]
   },
   {
     "objectID": "approaches/11scoping-review.html",
     "href": "approaches/11scoping-review.html",
-    "title": "11 Scoping reviews of methods research",
+    "title": "A11 Scoping reviews of methods research",
     "section": "",
     "text": "Definition and features\nIn scoping reviews of methods research, researchers use a broad research question and a systematic search to provide an overview of existing methods research on a methodological topic or available methods discussed in such methods research. They may use qualitative categorization or map studies against an existing framework. They often present simple descriptive statistics, such as absolute and relative frequencies.",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>11 Scoping reviews of methods research</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A11</span> <span class=\"sidebar-type-label\">Scoping reviews of methods research</span></span>"
     ]
   },
   {
     "objectID": "approaches/11scoping-review.html#definition-and-features",
     "href": "approaches/11scoping-review.html#definition-and-features",
-    "title": "11 Scoping reviews of methods research",
+    "title": "A11 Scoping reviews of methods research",
     "section": "",
     "text": "A strength is that they can map a heterogeneous body of literature transparently and comprehensively.\nA challenge is the difficult search process.\n\n\n\n\n\n\n\nTipBoundaries with related types\n\n\n\n\n\nBoundary with A12 qualitative synthesis of methods research. Both use systematic searches and may include qualitative categorization but scoping reviews do not typically include formal quality assessment or an interpretive synthesis of findings. The distinction can be difficult in practice, especially when a scoping review goes beyond description or when a qualitative synthesis mainly maps the literature.\nSimilarities and differences between literature-based types:\n\n\n\nCharacteristic\nReviews of applied or planned methods\nMeta-epidemiological studies\nScoping reviews of methods research\nQualitative syntheses of methods research\nQuantitative syntheses of methods research\n\n\n\n\nTypical objective\nAssess methodological practice or quality\nAssess impact of methodological characteristics on study results\nIdentify available methods or methods research on a specific topic\nSynthesize findings of methods research qualitatively\nSynthesize findings of methods research quantitatively\n\n\nIncluded publications/ unit of analysis\nIndividual applied studies\nIndividual applied studies\nMethods research papers\nMethods research papers\nMethods research papers\n\n\nSampling strategy\nRandom, purposeful, stratified, matched, completea\nStratified, matched, completea\nCompletea\nCompletea, purposeful\nCompletea\n\n\nTypical analytic approach\nQualitative categorization and descriptive statistics\nMeta-regression or multi-level modeling\nCategorization and descriptive statistics\nQualitative synthesis\nMeta-analysis\n\n\nRole of quality assessment\nOften as an outcome\nPossible as an exposure or covariable\nUsually not performed\nStep in synthesis processb\nStep in synthesis processb\n\n\nAnalogy in health research\nObservational study (prevalence)\nObservational study (exposure-outcome)\nScoping review\nQualitative evidence synthesis\nQuantitative evidence synthesis\n\n\n\n\naUsually based on a comprehensive search process that aims to find all eligible publications as completely as possible. bQuality criteria currently remain unclear for most types of methods research.\n\n\n\n\n\n\n\n\n\n\nTipA remaining disagreement: do scoping reviews and qualitative syntheses differ enough?\n\n\n\n\n\nOur group did not resolve whether scoping reviews of methods research differ sufficiently from qualitative syntheses of methods research, since we struggled to differentiate them in practice.\nViewing the types as archetypes rather than direct reflections of current practice helped us decide to keep them separate, so that the typology can support clearer design and reporting of future studies.",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>11 Scoping reviews of methods research</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A11</span> <span class=\"sidebar-type-label\">Scoping reviews of methods research</span></span>"
     ]
   },
   {
     "objectID": "approaches/11scoping-review.html#typical-objectives-and-corresponding-examples",
     "href": "approaches/11scoping-review.html#typical-objectives-and-corresponding-examples",
-    "title": "11 Scoping reviews of methods research",
+    "title": "A11 Scoping reviews of methods research",
     "section": "Typical objectives and corresponding examples",
     "text": "Typical objectives and corresponding examples\nIdentify available methods: identify definitions of intention-to-treat;1 review of causal methods to allow predictions under hypothetical interventions;2 identify criteria for assessing the credibility of subgroup analyses;3 identify factors influencing the trustworthiness of non-randomized studies;4 identify methods addressing bias in adaptive trial designs;5 characterizing methods for group-variable selection.6\nIdentify available methods research on a specific topic: identify publications that suggest a process for developing methods guidance.7 identify and map guidance for evidence synthesis.8\nDevelop guidance for understanding and applying methods: inform guidance on integrating qualitative methods in randomized trials;9 scoping review informed guidance for developing core outcome sets.10\nDevelop reporting guidelines: scoping review informed the development of a new reporting guideline for factorial trials.11\nDevelop quality assessment instruments: scoping review of previous instruments informed the development of a new instrument to assess the quality of systematic reviews.12",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>11 Scoping reviews of methods research</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A11</span> <span class=\"sidebar-type-label\">Scoping reviews of methods research</span></span>"
     ]
   },
   {
     "objectID": "approaches/11scoping-review.html#guidance",
     "href": "approaches/11scoping-review.html#guidance",
-    "title": "11 Scoping reviews of methods research",
+    "title": "A11 Scoping reviews of methods research",
     "section": "Guidance",
     "text": "Guidance\n\nGuidance for understanding and applying methods: [to be added]\nGuidance for reporting methods: [to be added]\nGuidance for assessing methods: [to be added]\n\n\n\n\n\n1. Alshurafa M, Briel M, Akl EA, Haines T, Moayyedi P, Gentles SJ, Rios L, Tran C, Bhatnagar N, Lamontagne F, Walter SD, Guyatt GH. Inconsistent definitions for intention-to-treat in relation to missing outcome data: Systematic review of the methods literature [Internet]. PLoS One. 2012 ;7(11):e49163.Available from: http://dx.doi.org/10.1371/journal.pone.0049163\n\n\n2. Lin L, Sperrin M, Jenkins DA, Martin GP, Peek N. A scoping review of causal methods enabling predictions under hypothetical interventions [Internet]. Diagn. Progn. Res. 2021 ;5(1):3.Available from: http://dx.doi.org/10.1186/s41512-021-00092-9\n\n\n3. Schandelmaier S, Chang Y, Devasenapathy N, Devji T, Kwong JSW, Colunga Lozano LE, Lee Y, Agarwal A, Bhatnagar N, Ewald H, Zhang Y, Sun X, Thabane L, Walsh M, Briel M, Guyatt GH. A systematic survey identified 36 criteria for assessing effect modification claims in randomized trials or meta-analyses [Internet]. J. Clin. Epidemiol. 2019 ;113159–167.Available from: http://dx.doi.org/10.1016/j.jclinepi.2019.05.014\n\n\n4. Adegboye I, Boutron I, Possamai CG, Ioannidis JPA, Hróbjartsson A, Porcher R, Ravaud P, Yaacoub S. Factors influencing the trustworthiness of non-randomized studies of interventions: A scoping review [Internet]. BITSS. 2025 ;Available from: https://osf.io/preprints/metaarxiv/8sgce_v1\n\n\n5. Robertson DS, Choodari-Oskooei B, Dimairo M, Flight L, Pallmann P, Jaki T. Point estimation for adaptive trial designs I: A methodological review [Internet]. Stat. Med. 2023 ;42(2):122–145.Available from: http://dx.doi.org/10.1002/sim.9605\n\n\n6. Buch G, Schulz A, Schmidtmann I, Strauch K, Wild PS. A systematic review and evaluation of statistical methods for group variable selection [Internet]. Stat. Med. 2023 ;42(3):331–352.Available from: http://dx.doi.org/10.1002/sim.9620\n\n\n7. Chiaborelli M, Hirt J, Briel M, Shiely F, Boulesteix A-L, Guyatt G, Bretz F, Moher D, Stewart D, Schandelmaier S. STrategies for developing REseArch methods guidance (STREAM): protocol [Internet]. J. Clin. Epidemiol. 2026 ;193(112184):112184.Available from: http://dx.doi.org/10.1016/j.jclinepi.2026.112184\n\n\n8. Movsisyan A, Asres Ioab K, Himmels JW, Bantle GL, Dobrescu A, Flottorp S, Forland F, Gadinger A, Koscher-Kien C, Klerings I, Meerpohl JJ, Nussbaumer-Streit B, Strahwald B, Rehfuess EA. Conducting evidence synthesis and developing evidence-based advice in public health and beyond: A scoping review and map of methods guidance [Internet]. Res. Synth. Methods. 2026 Mar. ;17(2):240–264.Available from: http://dx.doi.org/10.1017/rsm.2025.10051\n\n\n9. Davis K, Minckas N, Bond V, Clark CJ, Colbourn T, Drabble SJ, Hesketh T, Hill Z, Morrison J, Mweemba O, Osrin D, Prost A, Seeley J, Shahmanesh M, Spindler EJ, Stern E, Turner KM, Mannell J. Beyond interviews and focus groups: A framework for integrating innovative qualitative methods into randomised controlled trials of complex public health interventions [Internet]. Trials. 2019 ;20(1):329.Available from: http://dx.doi.org/10.1186/s13063-019-3439-8\n\n\n10. Prinsen CAC, Vohra S, Rose MR, Boers M, Tugwell P, Clarke M, Williamson PR, Terwee CB. How to select outcome measurement instruments for outcomes included in a “core outcome set” - a practical guideline [Internet]. Trials. 2016 ;17(1):449.Available from: http://dx.doi.org/10.1186/s13063-016-1555-2\n\n\n11. Kahan BC, Hall SS, Beller EM, Birchenall M, Chan A-W, Elbourne D, Little P, Fletcher J, Golub RM, Goulao B, Hopewell S, Islam N, Zwarenstein M, Juszczak E, Montgomery AA. Reporting of factorial randomized trials: Extension of the CONSORT 2010 statement [Internet]. JAMA. 2023 ;330(21):2106–2114.Available from: http://dx.doi.org/10.1001/jama.2023.19793\n\n\n12. Shea BJ, Reeves BC, Wells G, Thuku M, Hamel C, Moran J, Moher D, Tugwell P, Welch V, Kristjansson E, Henry DA. AMSTAR 2: A critical appraisal tool for systematic reviews that include randomised or non-randomised studies of healthcare interventions, or both [Internet]. BMJ. 2017 ;358j4008.Available from: http://dx.doi.org/10.1136/bmj.j4008",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>11 Scoping reviews of methods research</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A11</span> <span class=\"sidebar-type-label\">Scoping reviews of methods research</span></span>"
     ]
   },
   {
     "objectID": "approaches/12qualitative-synthesis.html",
     "href": "approaches/12qualitative-synthesis.html",
-    "title": "12 Qualitative syntheses of methods research",
+    "title": "A12 Qualitative syntheses of methods research",
     "section": "",
     "text": "Definition and features\nTerminology: qualitative systematic reviews of methods research\nIn qualitative syntheses of methods research, researchers synthesize findings, concepts, explanations, recommendations, or arguments from text-rich methods research, such as interview studies or guidance documents. They usually start with a focused qualitative question, search for eligible publications using a comprehensive or purposeful sampling strategy, assess study quality, and use an explicit qualitative synthesis method, such as thematic synthesis.",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>15</span>  <span class='chapter-title'>12 Qualitative syntheses of methods research</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A12</span> <span class=\"sidebar-type-label\">Qualitative syntheses of methods research</span></span>"
     ]
   },
   {
     "objectID": "approaches/12qualitative-synthesis.html#definition-and-features",
     "href": "approaches/12qualitative-synthesis.html#definition-and-features",
-    "title": "12 Qualitative syntheses of methods research",
+    "title": "A12 Qualitative syntheses of methods research",
     "section": "",
     "text": "A strength is that they can integrate concepts or explanations across studies.\nKey challenges are the difficult search and the lack of quality criteria for qualitative methods research.\n\n\n\n\n\n\n\nTipBoundaries with related types\n\n\n\n\n\nBoundary with A11 scoping review. Both use systematic searches and may include qualitative categorization but scoping reviews do not typically include formal quality assessment or an interpretive synthesis of findings. The distinction can be difficult in practice, especially when a scoping review goes beyond description or when a qualitative synthesis mainly maps the literature.\nSimilarities and differences between literature-based types:\n\n\n\nCharacteristic\nReviews of applied or planned methods\nMeta-epidemiological studies\nScoping reviews of methods research\nQualitative syntheses of methods research\nQuantitative syntheses of methods research\n\n\n\n\nTypical objective\nAssess methodological practice or quality\nAssess impact of methodological characteristics on study results\nIdentify available methods or methods research on a specific topic\nSynthesize findings of methods research qualitatively\nSynthesize findings of methods research quantitatively\n\n\nIncluded publications/ unit of analysis\nIndividual applied studies\nIndividual applied studies\nMethods research papers\nMethods research papers\nMethods research papers\n\n\nSampling strategy\nRandom, purposeful, stratified, matched, completea\nStratified, matched, completea\nCompletea\nCompletea, purposeful\nCompletea\n\n\nTypical analytic approach\nQualitative categorization and descriptive statistics\nMeta-regression or multi-level modeling\nCategorization and descriptive statistics\nQualitative synthesis\nMeta-analysis\n\n\nRole of quality assessment\nOften as an outcome\nPossible as an exposure or covariable\nUsually not performed\nStep in synthesis processb\nStep in synthesis processb\n\n\nAnalogy in health research\nObservational study (prevalence)\nObservational study (exposure-outcome)\nScoping review\nQualitative evidence synthesis\nQuantitative evidence synthesis\n\n\n\n\naUsually based on a comprehensive search process that aims to find all eligible publications as completely as possible. bQuality criteria currently remain unclear for most types of methods research.\n\n\n\n\n\n\n\n\n\n\nTipA remaining disagreement: do scoping reviews and qualitative syntheses differ enough?\n\n\n\n\n\nOur group did not resolve whether scoping reviews of methods research differ sufficiently from qualitative syntheses of methods research, since we struggled to differentiate them in practice.\nViewing the types as archetypes rather than direct reflections of current practice helped us decide to keep them separate, so that the typology can support clearer design and reporting of future studies.",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>15</span>  <span class='chapter-title'>12 Qualitative syntheses of methods research</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A12</span> <span class=\"sidebar-type-label\">Qualitative syntheses of methods research</span></span>"
     ]
   },
   {
     "objectID": "approaches/12qualitative-synthesis.html#typical-objectives-and-corresponding-examples",
     "href": "approaches/12qualitative-synthesis.html#typical-objectives-and-corresponding-examples",
-    "title": "12 Qualitative syntheses of methods research",
+    "title": "A12 Qualitative syntheses of methods research",
     "section": "Typical objectives and corresponding examples",
     "text": "Typical objectives and corresponding examples\nSummarize the results of methods research: meta-ethnographic synthesis of qualitative studies assessing the reasons for non-retention in clinical trials;1 synthesis of studies assessing factors that impact on trial recruitment.2\nDevelop guidance for understanding and applying methods: review with qualitative synthesis of guidance for the evaluation and updating of clinical prediction models;3 review of methods research on saturation in qualitative studies.4",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>15</span>  <span class='chapter-title'>12 Qualitative syntheses of methods research</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A12</span> <span class=\"sidebar-type-label\">Qualitative syntheses of methods research</span></span>"
     ]
   },
   {
     "objectID": "approaches/12qualitative-synthesis.html#guidance",
     "href": "approaches/12qualitative-synthesis.html#guidance",
-    "title": "12 Qualitative syntheses of methods research",
+    "title": "A12 Qualitative syntheses of methods research",
     "section": "Guidance",
     "text": "Guidance\n\nGuidance for understanding and applying methods: [to be added]\nGuidance for reporting methods: [to be added]\nGuidance for assessing methods: [to be added]\n\n\n\n\n\n1. Skea ZC, Newlands R, Gillies K. Exploring non-retention in clinical trials: A meta-ethnographic synthesis of studies reporting participant reasons for drop out [Internet]. BMJ Open. 2019 ;9(6):e021959.Available from: http://dx.doi.org/10.1136/bmjopen-2018-021959\n\n\n2. Houghton C, Dowling M, Meskell P, Hunter A, Gardner H, Conway A, Treweek S, Sutcliffe K, Noyes J, Devane D, Nicholas JR, Biesty LM. Factors that impact on recruitment to randomised trials in health care: A qualitative evidence synthesis [Internet]. Cochrane Database Syst. Rev. 2020 ;10(10):MR000045.Available from: http://dx.doi.org/10.1002/14651858.MR000045.pub2\n\n\n3. Binuya MAE, Engelhardt EG, Schats W, Schmidt MK, Steyerberg EW. Methodological guidance for the evaluation and updating of clinical prediction models: A systematic review [Internet]. BMC Med. Res. Methodol. 2022 ;22(1):316.Available from: http://dx.doi.org/10.1186/s12874-022-01801-8\n\n\n4. Hennink M, Kaiser BN. Sample sizes for saturation in qualitative research: A systematic review of empirical tests [Internet]. Soc. Sci. Med. 2022 Jan. ;292(114523):114523.Available from: http://dx.doi.org/10.1016/j.socscimed.2021.114523",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>15</span>  <span class='chapter-title'>12 Qualitative syntheses of methods research</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A12</span> <span class=\"sidebar-type-label\">Qualitative syntheses of methods research</span></span>"
     ]
   },
   {
     "objectID": "approaches/13quantitative-synthesis.html",
     "href": "approaches/13quantitative-synthesis.html",
-    "title": "13 Quantitative syntheses of methods research",
+    "title": "A13 Quantitative syntheses of methods research",
     "section": "",
     "text": "Definition and features\nTerminology: quantitative systematic reviews of methods research; meta-analyses of methods research\nIn quantitative syntheses of methods research, researchers synthesize quantitative methods research, such as methodological randomized studies or meta-epidemiological studies. They usually start with a focused quantitative question, search for eligible publications (typically aiming for a complete sample), assess study quality, and use meta-analysis or another quantitative synthesis method to combine findings.",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>16</span>  <span class='chapter-title'>13 Quantitative syntheses of methods research</span>"
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A13</span> <span class=\"sidebar-type-label\">Quantitative syntheses of methods research</span></span>"
     ]
   },
   {
     "objectID": "approaches/13quantitative-synthesis.html#definition-and-features",
     "href": "approaches/13quantitative-synthesis.html#definition-and-features",
-    "title": "13 Quantitative syntheses of methods research",
+    "title": "A13 Quantitative syntheses of methods research",
     "section": "",
     "text": "Strengths include transparency and comprehensiveness.\nKey challenges are the difficult search for methods research, the lack of quality criteria for quantitative methods research, and reporting issues.\n\n\n\n\n\n\n\nTipBoundaries with related types\n\n\n\n\n\nSimilarities and differences between literature-based types:\n\n\n\nCharacteristic\nReviews of applied or planned methods\nMeta-epidemiological studies\nScoping reviews of methods research\nQualitative syntheses of methods research\nQuantitative syntheses of methods research\n\n\n\n\nTypical objective\nAssess methodological practice or quality\nAssess impact of methodological characteristics on study results\nIdentify available methods or methods research on a specific topic\nSynthesize findings of methods research qualitatively\nSynthesize findings of methods research quantitatively\n\n\nIncluded publications/ unit of analysis\nIndividual applied studies\nIndividual applied studies\nMethods research papers\nMethods research papers\nMethods research papers\n\n\nSampling strategy\nRandom, purposeful, stratified, matched, completea\nStratified, matched, completea\nCompletea\nCompletea, purposeful\nCompletea\n\n\nTypical analytic approach\nQualitative categorization and descriptive statistics\nMeta-regression or multi-level modeling\nCategorization and descriptive statistics\nQualitative synthesis\nMeta-analysis\n\n\nRole of quality assessment\nOften as an outcome\nPossible as an exposure or covariable\nUsually not performed\nStep in synthesis processb\nStep in synthesis processb\n\n\nAnalogy in health research\nObservational study (prevalence)\nObservational study (exposure-outcome)\nScoping review\nQualitative evidence synthesis\nQuantitative evidence synthesis\n\n\n\n\naUsually based on a comprehensive search process that aims to find all eligible publications as completely as possible. bQuality criteria currently remain unclear for most types of methods research.",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>16</span>  <span class='chapter-title'>13 Quantitative syntheses of methods research</span>"
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A13</span> <span class=\"sidebar-type-label\">Quantitative syntheses of methods research</span></span>"
     ]
   },
   {
     "objectID": "approaches/13quantitative-synthesis.html#typical-objectives-and-corresponding-examples",
     "href": "approaches/13quantitative-synthesis.html#typical-objectives-and-corresponding-examples",
-    "title": "13 Quantitative syntheses of methods research",
+    "title": "A13 Quantitative syntheses of methods research",
     "section": "Typical objectives and corresponding examples",
     "text": "Typical objectives and corresponding examples\nSummarize the results of methods research: meta-analysis of comparisons between machine learning and logistic regression for clinical prediction models;1 meta-analysis of meta-epidemiological studies assessing the impact of blinding in trials;2 meta-analysis of randomized studies comparing blinded versus unblinded risk of bias assessment.3",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>16</span>  <span class='chapter-title'>13 Quantitative syntheses of methods research</span>"
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A13</span> <span class=\"sidebar-type-label\">Quantitative syntheses of methods research</span></span>"
     ]
   },
   {
     "objectID": "approaches/13quantitative-synthesis.html#guidance",
     "href": "approaches/13quantitative-synthesis.html#guidance",
-    "title": "13 Quantitative syntheses of methods research",
+    "title": "A13 Quantitative syntheses of methods research",
     "section": "Guidance",
     "text": "Guidance\n\nGuidance for understanding and applying methods: [to be added]\nGuidance for reporting methods: [to be added]\nGuidance for assessing methods: [to be added]\n\n\n\n\n\n1. Christodoulou E, Ma J, Collins GS, Steyerberg EW, Verbakel JY, Van Calster B. A systematic review shows no performance benefit of machine learning over logistic regression for clinical prediction models [Internet]. J. Clin. Epidemiol. 2019 ;11012–22.Available from: http://dx.doi.org/10.1016/j.jclinepi.2019.02.004\n\n\n2. Wang Y, Parpia S, Couban R, Wang Q, Armijo-Olivo S, Bassler D, Briel M, Brignardello-Petersen R, Gluud LL, Keitz SA, Letelier LM, Ravaud P, Schulz KF, Siemieniuk RAC, Zeraatkar D, Guyatt GH. Compelling evidence from meta-epidemiological studies demonstrates overestimation of effects in randomized trials that fail to optimize randomization and blind patients and outcome assessors [Internet]. J. Clin. Epidemiol. 2024 Jan. ;165(111211):111211.Available from: http://dx.doi.org/10.1016/j.jclinepi.2023.11.001\n\n\n3. Morissette K, Tricco AC, Horsley T, Chen MH, Moher D. Blinded versus unblinded assessments of risk of bias in studies included in a systematic review [Internet]. Cochrane Database Syst. Rev. 2011 ;2011(9):MR000025.Available from: http://dx.doi.org/10.1002/14651858.MR000025.pub2",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>16</span>  <span class='chapter-title'>13 Quantitative syntheses of methods research</span>"
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A13</span> <span class=\"sidebar-type-label\">Quantitative syntheses of methods research</span></span>"
     ]
   },
   {
     "objectID": "approaches/14case-report.html",
     "href": "approaches/14case-report.html",
-    "title": "14 Methodological case reports or case series",
+    "title": "A14 Methodological case reports or case series",
     "section": "",
     "text": "Definition and features\nIn methodological case reports, researchers describe their experience with the design, implementation, or performance of a method in one real study, typically their own. In methodological case series, researchers discuss two or more studies that share a similar method or methodological challenge.",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>14 Methodological case reports or case series</span>"
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A14</span> <span class=\"sidebar-type-label\">Methodological case reports or case series</span></span>"
     ]
   },
   {
     "objectID": "approaches/14case-report.html#definition-and-features",
     "href": "approaches/14case-report.html#definition-and-features",
-    "title": "14 Methodological case reports or case series",
+    "title": "A14 Methodological case reports or case series",
     "section": "",
     "text": "A strength is that they can provide detailed practical insights.\nA limitation is that their findings may not generalize to other settings.\n\n\n\n\n\n\n\nTipBoundaries with related types\n\n\n\n\n\nExperimental analyses of real datasets and informal approaches: All may use a single dataset and the label “case study”. Key differences are that A3 re-analyzes an existing dataset to answer a methodological question, A14 discusses methodological challenges in a specific study, and A15 uses datasets or studies to illustrate methods.\nReviews of applied or planned methods: While a case series is a narrative aggregating teams’ experience with a method, a review of applied or planned methods answers a methodological question by analyzing published study reports.",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>14 Methodological case reports or case series</span>"
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A14</span> <span class=\"sidebar-type-label\">Methodological case reports or case series</span></span>"
     ]
   },
   {
     "objectID": "approaches/14case-report.html#typical-objectives-and-corresponding-examples",
     "href": "approaches/14case-report.html#typical-objectives-and-corresponding-examples",
-    "title": "14 Methodological case reports or case series",
+    "title": "A14 Methodological case reports or case series",
     "section": "Typical objectives and corresponding examples",
     "text": "Typical objectives and corresponding examples\nEvaluate a single method: experience with using large language models to develop a clinical practice guideline;1 lessons learned from applying a framework to develop a healthcare intervention;2 challenges and benefits of including non-randomized evidence in living systematic reviews;3 demonstration of target trial emulation.4",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>14 Methodological case reports or case series</span>"
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A14</span> <span class=\"sidebar-type-label\">Methodological case reports or case series</span></span>"
     ]
   },
   {
     "objectID": "approaches/14case-report.html#guidance",
     "href": "approaches/14case-report.html#guidance",
-    "title": "14 Methodological case reports or case series",
+    "title": "A14 Methodological case reports or case series",
     "section": "Guidance",
     "text": "Guidance\n\nGuidance for understanding and applying methods: [to be added]\nGuidance for reporting methods: [to be added]\nGuidance for assessing methods: [to be added]\n\n\n\n\n\n1. Sousa-Pinto B, Vieira RJ, Marques-Cruz M, Bognanni A, Gil-Mata S, Jankin S, Amaro J, Pinheiro L, Mota M, Giovannini M, Las Vecillas L de, Pereira AM, Lityńska J, Samolinski B, Bernstein J, Dykewicz M, Hofmann-Apitius M, Jacobs M, Papadopoulos N, Williams S, Zuberbier T, Fonseca JA, Cruz-Correia R, Bousquet J, Schünemann HJ. Artificial intelligence-supported development of health guideline questions [Internet]. Ann. Intern. Med. 2024 ;177(11):1518–1529.Available from: http://dx.doi.org/10.7326/ANNALS-24-00363\n\n\n2. Lindblom S, Ytterberg C, Laska AC, Tistad M, Elf M, Koch L von, Flink M. Navigating complexity: Lessons learned from co-designing a care transition intervention for people with stroke [Internet]. Int. J. Integr. Care. 2025 ;25(2):3.Available from: http://dx.doi.org/10.5334/ijic.8943\n\n\n3. Bonnet H, Higgins JPT, Chaimani A, Evrenoglou T, Ghosn L, Graña C, Perrodeau E, Yaacoub S, Rada G, Bergman H, Buckley B, Cogo E, Villanueva G, Henschke N, Assi R, Riveros C, Cornish R, Spiga F, Minozzi S, Tovey D, Ravaud P, Boutron I. Including nonrandomized evidence in living systematic reviews: Lessons learned from the COVID-NMA initiative [Internet]. J. Clin. Epidemiol. 2026 Feb. ;190(112071):112071.Available from: http://dx.doi.org/10.1016/j.jclinepi.2025.112071\n\n\n4. Martinuka O, Cube M von, Hazard D, Marateb HR, Mansourian M, Sami R, Hajian MR, Ebrahimi S, Wolkewitz M. Target trial emulation using hospital-based observational data: Demonstration and application in COVID-19 [Internet]. Life (Basel). 2023 ;13(3):777.Available from: http://dx.doi.org/10.3390/life13030777",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>14 Methodological case reports or case series</span>"
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A14</span> <span class=\"sidebar-type-label\">Methodological case reports or case series</span></span>"
     ]
   },
   {
     "objectID": "approaches/15informal.html",
     "href": "approaches/15informal.html",
-    "title": "15 Informal approaches",
+    "title": "A15 Informal approaches",
     "section": "",
     "text": "Definition and features\nTerminology: narrative approaches\nIn informal approaches, researchers propose, explain, discuss, or recommend methods without a formal methods research design. They may selectively cite methodological publications, rely on professional authority and persuasive narrative, integrate expert opinions without structured collaboration or formal consensus, or use theory, examples, or simulations to illustrate points rather than to answer a methods research question.",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>18</span>  <span class='chapter-title'>15 Informal approaches</span>"
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A15</span> <span class=\"sidebar-type-label\">Informal approaches</span></span>"
     ]
   },
   {
     "objectID": "approaches/15informal.html#definition-and-features",
     "href": "approaches/15informal.html#definition-and-features",
-    "title": "15 Informal approaches",
+    "title": "A15 Informal approaches",
     "section": "",
     "text": "Strengths include the flexibility to present methodological ideas efficiently.\nA limitation is the reliance on selective evidence and author judgment.",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>18</span>  <span class='chapter-title'>15 Informal approaches</span>"
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A15</span> <span class=\"sidebar-type-label\">Informal approaches</span></span>"
     ]
   },
   {
     "objectID": "approaches/15informal.html#typical-objectives-and-corresponding-examples",
     "href": "approaches/15informal.html#typical-objectives-and-corresponding-examples",
-    "title": "15 Informal approaches",
+    "title": "A15 Informal approaches",
     "section": "Typical objectives and corresponding examples",
     "text": "Typical objectives and corresponding examples\nExamples exist for most objectives, including:\nDevelop guidance for understanding and applying methods: preventing common misunderstandings of randomisation;1 sample size calculation in cluster trials;2 explanation why guidelines should seldom make good practice statements.3\nPropose a new method: proposal for a random invitation single arm design.4\nSummarize the results of methods research: overview of approaches for evaluating heterogeneous treatment effects.5\nDevelop software and code: web application for Bayes Factor Design Analysis;6 netmeta, an R package for network meta-analysis.7",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>18</span>  <span class='chapter-title'>15 Informal approaches</span>"
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A15</span> <span class=\"sidebar-type-label\">Informal approaches</span></span>"
     ]
   },
   {
     "objectID": "approaches/15informal.html#guidance",
     "href": "approaches/15informal.html#guidance",
-    "title": "15 Informal approaches",
+    "title": "A15 Informal approaches",
     "section": "Guidance",
     "text": "Guidance\n\nGuidance for understanding and applying methods: [to be added]\nGuidance for reporting methods: [to be added]\nGuidance for assessing methods: [to be added]\n\n\n\n\n\n1. Senn S. Seven myths of randomisation in clinical trials [Internet]. Stat. Med. 2013 ;32(9):1439–1450.Available from: http://dx.doi.org/10.1002/sim.5713\n\n\n2. Hemming K, Kasza J, Hooper R, Forbes A, Taljaard M. A tutorial on sample size calculation for multiple-period cluster randomized parallel, cross-over and stepped-wedge trials using the shiny CRT calculator [Internet]. Int. J. Epidemiol. 2020 ;49(3):979–995.Available from: http://dx.doi.org/10.1093/ije/dyz237\n\n\n3. Guyatt GH, Alonso-Coello P, Schünemann HJ, Djulbegovic B, Nothacker M, Lange S, Murad MH, Akl EA. Guideline panels should seldom make good practice statements: Guidance from the GRADE working group [Internet]. J. Clin. Epidemiol. 2016 Dec. ;803–7.Available from: http://dx.doi.org/10.1016/j.jclinepi.2016.07.006\n\n\n4. Janiaud P, Ioannidis JPA, Kasenda B, Fretheim A, Goodman SN, Hemkens LG. Single-arm trials can provide randomized real-world evidence: The random invitation single-arm trial design [Internet]. Ann. Intern. Med. 2025 ;178(8):1150–1156.Available from: http://dx.doi.org/10.7326/ANNALS-24-02979\n\n\n5. Lipkovich I, Svensson D, Ratitch B, Dmitrienko A. Overview of modern approaches for identifying and evaluating heterogeneous treatment effects from clinical data [Internet]. Clin. Trials. 2023 Aug. ;20(4):380–393.Available from: http://dx.doi.org/10.1177/17407745231174544\n\n\n6. Stefan AM, Gronau QF, Schönbrodt FD, Wagenmakers E-J. A tutorial on bayes factor design analysis using an informed prior [Internet]. Behav. Res. Methods. 2019 June ;51(3):1042–1058.Available from: http://dx.doi.org/10.3758/s13428-018-01189-8\n\n\n7. Balduzzi S, Rücker G, Nikolakopoulou A, Papakonstantinou T, Salanti G, Efthimiou O, Schwarzer G. Netmeta: An r package for network meta-analysis using frequentist methods [Internet]. J. Stat. Softw. 2023 ;106(2):1–40.Available from: http://dx.doi.org/10.18637/jss.v106.i02",
     "crumbs": [
       "Explore by approach",
-      "<span class='chapter-number'>18</span>  <span class='chapter-title'>15 Informal approaches</span>"
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">A15</span> <span class=\"sidebar-type-label\">Informal approaches</span></span>"
     ]
   },
   {
     "objectID": "objectives/1identify-methods.html",
     "href": "objectives/1identify-methods.html",
-    "title": "1 Identify available methods",
+    "title": "O1 Identify available methods",
     "section": "",
     "text": "Definition\nThese studies aim to identify methods that can address a specific research challenge. They often combine identification with a structured characterization or comparison of methods, e.g., by describing definitions, key features, variants, assumptions, strengths, or limitations.",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>19</span>  <span class='chapter-title'>1 Identify available methods</span>"
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O1</span> <span class=\"sidebar-type-label\">Identify available methods</span></span>"
     ]
   },
   {
     "objectID": "objectives/1identify-methods.html#typical-approaches-and-corresponding-examples",
     "href": "objectives/1identify-methods.html#typical-approaches-and-corresponding-examples",
-    "title": "1 Identify available methods",
+    "title": "O1 Identify available methods",
     "section": "Typical approaches and corresponding examples",
     "text": "Typical approaches and corresponding examples\nScoping reviews of methods research: identify causal methods to allow predictions under hypothetical interventions;1 identify definitions of intention-to-treat;2 identify criteria for assessing the credibility of subgroup analyses;3 identify factors influencing the trustworthiness of non-randomized studies;4 identify methods addressing bias in adaptive trial designs;5 characterizing methods for group-variable selection.6\nReviews of applied or planned methods: to identify types of initial data analysis in observational studies.7",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>19</span>  <span class='chapter-title'>1 Identify available methods</span>"
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O1</span> <span class=\"sidebar-type-label\">Identify available methods</span></span>"
     ]
   },
   {
     "objectID": "objectives/1identify-methods.html#guidance",
     "href": "objectives/1identify-methods.html#guidance",
-    "title": "1 Identify available methods",
+    "title": "O1 Identify available methods",
     "section": "Guidance",
     "text": "Guidance\n\nGuidance for understanding and applying methods: [to be added]\nGuidance for reporting methods: [to be added]\nGuidance for assessing methods: [to be added]\n\n\n\n\n\n1. Lin L, Sperrin M, Jenkins DA, Martin GP, Peek N. A scoping review of causal methods enabling predictions under hypothetical interventions [Internet]. Diagn. Progn. Res. 2021 ;5(1):3.Available from: http://dx.doi.org/10.1186/s41512-021-00092-9\n\n\n2. Alshurafa M, Briel M, Akl EA, Haines T, Moayyedi P, Gentles SJ, Rios L, Tran C, Bhatnagar N, Lamontagne F, Walter SD, Guyatt GH. Inconsistent definitions for intention-to-treat in relation to missing outcome data: Systematic review of the methods literature [Internet]. PLoS One. 2012 ;7(11):e49163.Available from: http://dx.doi.org/10.1371/journal.pone.0049163\n\n\n3. Schandelmaier S, Chang Y, Devasenapathy N, Devji T, Kwong JSW, Colunga Lozano LE, Lee Y, Agarwal A, Bhatnagar N, Ewald H, Zhang Y, Sun X, Thabane L, Walsh M, Briel M, Guyatt GH. A systematic survey identified 36 criteria for assessing effect modification claims in randomized trials or meta-analyses [Internet]. J. Clin. Epidemiol. 2019 ;113159–167.Available from: http://dx.doi.org/10.1016/j.jclinepi.2019.05.014\n\n\n4. Adegboye I, Boutron I, Possamai CG, Ioannidis JPA, Hróbjartsson A, Porcher R, Ravaud P, Yaacoub S. Factors influencing the trustworthiness of non-randomized studies of interventions: A scoping review [Internet]. BITSS. 2025 ;Available from: https://osf.io/preprints/metaarxiv/8sgce_v1\n\n\n5. Robertson DS, Choodari-Oskooei B, Dimairo M, Flight L, Pallmann P, Jaki T. Point estimation for adaptive trial designs I: A methodological review [Internet]. Stat. Med. 2023 ;42(2):122–145.Available from: http://dx.doi.org/10.1002/sim.9605\n\n\n6. Buch G, Schulz A, Schmidtmann I, Strauch K, Wild PS. A systematic review and evaluation of statistical methods for group variable selection [Internet]. Stat. Med. 2023 ;42(3):331–352.Available from: http://dx.doi.org/10.1002/sim.9620\n\n\n7. Huebner M, Vach W, Cessie S le, Schmidt CO, Lusa L, Topic Group “Initial Data Analysis” of the STRATOS Initiative (STRengthening Analytical Thinking for Observational Studies, http://www.stratos-initiative.org). Hidden analyses: A review of reporting practice and recommendations for more transparent reporting of initial data analyses [Internet]. BMC Med. Res. Methodol. 2020 ;20(1):61.Available from: http://dx.doi.org/10.1186/s12874-020-00942-y",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>19</span>  <span class='chapter-title'>1 Identify available methods</span>"
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O1</span> <span class=\"sidebar-type-label\">Identify available methods</span></span>"
     ]
   },
   {
     "objectID": "objectives/2identify-mr.html",
     "href": "objectives/2identify-mr.html",
-    "title": "2 Identify available methods research on a specific topic",
+    "title": "O2 Identify available methods research on a specific topic",
     "section": "",
     "text": "Definition\nThese studies aim to identify existing methods research on a specific method or research challenges, typically organized using a classification scheme, such as this typology.",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>20</span>  <span class='chapter-title'>2 Identify available methods research on a specific topic</span>"
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O2</span> <span class=\"sidebar-type-label\">Identify available methods research on a specific topic</span></span>"
     ]
   },
   {
     "objectID": "objectives/2identify-mr.html#typical-approaches-and-corresponding-examples",
     "href": "objectives/2identify-mr.html#typical-approaches-and-corresponding-examples",
-    "title": "2 Identify available methods research on a specific topic",
+    "title": "O2 Identify available methods research on a specific topic",
     "section": "Typical approaches and corresponding examples",
     "text": "Typical approaches and corresponding examples\nScoping reviews of methods research: identify publications that suggest a process for developing methods guidance;1 identify and map guidance for evidence synthesis.2",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>20</span>  <span class='chapter-title'>2 Identify available methods research on a specific topic</span>"
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O2</span> <span class=\"sidebar-type-label\">Identify available methods research on a specific topic</span></span>"
     ]
   },
   {
     "objectID": "objectives/2identify-mr.html#guidance",
     "href": "objectives/2identify-mr.html#guidance",
-    "title": "2 Identify available methods research on a specific topic",
+    "title": "O2 Identify available methods research on a specific topic",
     "section": "Guidance",
     "text": "Guidance\n\nGuidance for understanding and applying methods: [to be added]\nGuidance for reporting methods: [to be added]\nGuidance for assessing methods: [to be added]\n\n\n\n\n\n1. Chiaborelli M, Hirt J, Briel M, Shiely F, Boulesteix A-L, Guyatt G, Bretz F, Moher D, Stewart D, Schandelmaier S. STrategies for developing REseArch methods guidance (STREAM): protocol [Internet]. J. Clin. Epidemiol. 2026 ;193(112184):112184.Available from: http://dx.doi.org/10.1016/j.jclinepi.2026.112184\n\n\n2. Movsisyan A, Asres Ioab K, Himmels JW, Bantle GL, Dobrescu A, Flottorp S, Forland F, Gadinger A, Koscher-Kien C, Klerings I, Meerpohl JJ, Nussbaumer-Streit B, Strahwald B, Rehfuess EA. Conducting evidence synthesis and developing evidence-based advice in public health and beyond: A scoping review and map of methods guidance [Internet]. Res. Synth. Methods. 2026 Mar. ;17(2):240–264.Available from: http://dx.doi.org/10.1017/rsm.2025.10051",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>20</span>  <span class='chapter-title'>2 Identify available methods research on a specific topic</span>"
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O2</span> <span class=\"sidebar-type-label\">Identify available methods research on a specific topic</span></span>"
     ]
   },
   {
     "objectID": "objectives/3summarize-mr.html",
     "href": "objectives/3summarize-mr.html",
-    "title": "3 Summarize the results of methods research",
+    "title": "O3 Summarize the results of methods research",
     "section": "",
     "text": "Definition\nThese studies aim to synthesize the results of methods research addressing a specific methodological question, including quantitative or qualitative questions.",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>21</span>  <span class='chapter-title'>3 Summarize the results of methods research</span>"
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O3</span> <span class=\"sidebar-type-label\">Summarize the results of methods research</span></span>"
     ]
   },
   {
     "objectID": "objectives/3summarize-mr.html#typical-approaches-and-corresponding-examples",
     "href": "objectives/3summarize-mr.html#typical-approaches-and-corresponding-examples",
-    "title": "3 Summarize the results of methods research",
+    "title": "O3 Summarize the results of methods research",
     "section": "Typical approaches and corresponding examples",
     "text": "Typical approaches and corresponding examples\nQualitative syntheses of methods research: meta-ethnographic synthesis of qualitative studies assessing the reasons for non-retention in clinical trials;1 synthesis of studies assessing factors that impact on trial recruitment.2\nQuantitative syntheses of methods research: meta-analysis of comparisons between machine learning and logistic regression for clinical prediction models;3 meta-analysis of meta-epidemiological studies assessing the impact of blinding in trials;4 meta-analysis of randomized studies comparing blinded versus unblinded risk of bias assessment.5\nInformal approaches: overview of approaches for evaluating heterogeneous treatment effects.6",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>21</span>  <span class='chapter-title'>3 Summarize the results of methods research</span>"
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O3</span> <span class=\"sidebar-type-label\">Summarize the results of methods research</span></span>"
     ]
   },
   {
     "objectID": "objectives/3summarize-mr.html#guidance",
     "href": "objectives/3summarize-mr.html#guidance",
-    "title": "3 Summarize the results of methods research",
+    "title": "O3 Summarize the results of methods research",
     "section": "Guidance",
     "text": "Guidance\n\nGuidance for understanding and applying methods: [to be added]\nGuidance for reporting methods: [to be added]\nGuidance for assessing methods: [to be added]\n\n\n\n\n\n1. Skea ZC, Newlands R, Gillies K. Exploring non-retention in clinical trials: A meta-ethnographic synthesis of studies reporting participant reasons for drop out [Internet]. BMJ Open. 2019 ;9(6):e021959.Available from: http://dx.doi.org/10.1136/bmjopen-2018-021959\n\n\n2. Houghton C, Dowling M, Meskell P, Hunter A, Gardner H, Conway A, Treweek S, Sutcliffe K, Noyes J, Devane D, Nicholas JR, Biesty LM. Factors that impact on recruitment to randomised trials in health care: A qualitative evidence synthesis [Internet]. Cochrane Database Syst. Rev. 2020 ;10(10):MR000045.Available from: http://dx.doi.org/10.1002/14651858.MR000045.pub2\n\n\n3. Christodoulou E, Ma J, Collins GS, Steyerberg EW, Verbakel JY, Van Calster B. A systematic review shows no performance benefit of machine learning over logistic regression for clinical prediction models [Internet]. J. Clin. Epidemiol. 2019 ;11012–22.Available from: http://dx.doi.org/10.1016/j.jclinepi.2019.02.004\n\n\n4. Wang Y, Parpia S, Couban R, Wang Q, Armijo-Olivo S, Bassler D, Briel M, Brignardello-Petersen R, Gluud LL, Keitz SA, Letelier LM, Ravaud P, Schulz KF, Siemieniuk RAC, Zeraatkar D, Guyatt GH. Compelling evidence from meta-epidemiological studies demonstrates overestimation of effects in randomized trials that fail to optimize randomization and blind patients and outcome assessors [Internet]. J. Clin. Epidemiol. 2024 Jan. ;165(111211):111211.Available from: http://dx.doi.org/10.1016/j.jclinepi.2023.11.001\n\n\n5. Morissette K, Tricco AC, Horsley T, Chen MH, Moher D. Blinded versus unblinded assessments of risk of bias in studies included in a systematic review [Internet]. Cochrane Database Syst. Rev. 2011 ;2011(9):MR000025.Available from: http://dx.doi.org/10.1002/14651858.MR000025.pub2\n\n\n6. Lipkovich I, Svensson D, Ratitch B, Dmitrienko A. Overview of modern approaches for identifying and evaluating heterogeneous treatment effects from clinical data [Internet]. Clin. Trials. 2023 Aug. ;20(4):380–393.Available from: http://dx.doi.org/10.1177/17407745231174544",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>21</span>  <span class='chapter-title'>3 Summarize the results of methods research</span>"
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O3</span> <span class=\"sidebar-type-label\">Summarize the results of methods research</span></span>"
     ]
   },
   {
     "objectID": "objectives/4assess-practice.html",
     "href": "objectives/4assess-practice.html",
-    "title": "4 Assess methodological practice",
+    "title": "O4 Assess methodological practice",
     "section": "",
     "text": "Definition\nThese studies aim to describe the use of methods in practice, often with an intention to highlight good or poor practice.",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>22</span>  <span class='chapter-title'>4 Assess methodological practice</span>"
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O4</span> <span class=\"sidebar-type-label\">Assess methodological practice</span></span>"
     ]
   },
   {
     "objectID": "objectives/4assess-practice.html#definition",
     "href": "objectives/4assess-practice.html#definition",
-    "title": "4 Assess methodological practice",
+    "title": "O4 Assess methodological practice",
     "section": "",
     "text": "TipBoundaries with related objectives\n\n\n\n\n\n14 Assess variability of results across methodological choices: O4 describes which methods researchers use in practice, whereas O14 quantifies how much results change when those choices vary.",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>22</span>  <span class='chapter-title'>4 Assess methodological practice</span>"
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O4</span> <span class=\"sidebar-type-label\">Assess methodological practice</span></span>"
     ]
   },
   {
     "objectID": "objectives/4assess-practice.html#typical-approaches-and-corresponding-examples",
     "href": "objectives/4assess-practice.html#typical-approaches-and-corresponding-examples",
-    "title": "4 Assess methodological practice",
+    "title": "O4 Assess methodological practice",
     "section": "Typical approaches and corresponding examples",
     "text": "Typical approaches and corresponding examples\nQuantitative surveys: assess current practice of involving patients in statistical research.1\nQualitative studies: interviews to understand the reasons for non-reporting of outcomes.2\nReviews of applied or planned methods: quality and reporting of prediction models for COVID-19;3 construction and application of directed acyclic graphs in leading medical journals.4",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>22</span>  <span class='chapter-title'>4 Assess methodological practice</span>"
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O4</span> <span class=\"sidebar-type-label\">Assess methodological practice</span></span>"
     ]
   },
   {
     "objectID": "objectives/4assess-practice.html#guidance",
     "href": "objectives/4assess-practice.html#guidance",
-    "title": "4 Assess methodological practice",
+    "title": "O4 Assess methodological practice",
     "section": "Guidance",
     "text": "Guidance\n\nGuidance for understanding and applying methods: [to be added]\nGuidance for reporting methods: [to be added]\nGuidance for assessing methods: [to be added]\n\n\n\n\n\n1. Abell L, Maher F, Begum S, Booth S, Broomfield J, Lee S, Smith E, Stannard R, Teece L, Vounzoulaki E, Worboys H, Gray LJ. Incorporation of patient and public involvement in statistical methodology research: A survey assessing current practices and attitudes of researchers [Internet]. Res. Involv. Engagem. 2023 ;9(1):100.Available from: http://dx.doi.org/10.1186/s40900-023-00507-5\n\n\n2. Smyth RMD, Kirkham JJ, Jacoby A, Altman DG, Gamble C, Williamson PR. Frequency and reasons for outcome reporting bias in clinical trials: Interviews with trialists [Internet]. BMJ. 2011 ;342(jan06 1):c7153.Available from: http://dx.doi.org/10.1136/bmj.c7153\n\n\n3. Wynants L, Van Calster B, Collins GS, Riley RD, Heinze G, Schuit E, Bonten MMJ, Dahly DL, Damen JAA, Debray TPA, Jong VMT de, De Vos M, Dhiman P, Haller MC, Harhay MO, Henckaerts L, Heus P, Kammer M, Kreuzberger N, Lohmann A, Luijken K, Ma J, Martin GP, McLernon DJ, Andaur Navarro CL, Reitsma JB, Sergeant JC, Shi C, Skoetz N, Smits LJM, Snell KIE, Sperrin M, Spijker R, Steyerberg EW, Takada T, Tzoulaki I, Kuijk SMJ van, Bussel B van, Horst ICC van der, Royen FS van, Verbakel JY, Wallisch C, Wilkinson J, Wolff R, Hooft L, Moons KGM, Smeden M van. Prediction models for diagnosis and prognosis of covid-19: Systematic review and critical appraisal [Internet]. BMJ. 2020 ;369m1328.Available from: http://dx.doi.org/10.1136/bmj.m1328\n\n\n4. Deng G, Du J. Construction and application of directed acyclic graphs in leading medical journals [Internet]. JAMA Netw. Open. 2026 ;9(1):e2553803.Available from: http://dx.doi.org/10.1001/jamanetworkopen.2025.53803",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>22</span>  <span class='chapter-title'>4 Assess methodological practice</span>"
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O4</span> <span class=\"sidebar-type-label\">Assess methodological practice</span></span>"
     ]
   },
   {
     "objectID": "objectives/5assess-needs-priorities.html",
     "href": "objectives/5assess-needs-priorities.html",
-    "title": "5 Assess needs and priorities for methods research",
+    "title": "O5 Assess needs and priorities for methods research",
     "section": "",
     "text": "Definition\nThese studies aim to assess the gaps and needs for future methods research, sometimes ranked by priority.",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>23</span>  <span class='chapter-title'>5 Assess needs and priorities for methods research</span>"
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O5</span> <span class=\"sidebar-type-label\">Assess needs and priorities for methods research</span></span>"
     ]
   },
   {
     "objectID": "objectives/5assess-needs-priorities.html#typical-approaches-and-corresponding-examples",
     "href": "objectives/5assess-needs-priorities.html#typical-approaches-and-corresponding-examples",
-    "title": "5 Assess needs and priorities for methods research",
+    "title": "O5 Assess needs and priorities for methods research",
     "section": "Typical approaches and corresponding examples",
     "text": "Typical approaches and corresponding examples\nQuantitative surveys: identify priorities for retention research;1 identify priorities for methods research in the context of global health;2 needs for methodological guidance on blinding in complex-intervention trials.3\nConsensus studies: Delphi study to identify priorities for methods research.4\nReviews of applied or planned methods: identify research needs in individual participant-data meta-analysis.5",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>23</span>  <span class='chapter-title'>5 Assess needs and priorities for methods research</span>"
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O5</span> <span class=\"sidebar-type-label\">Assess needs and priorities for methods research</span></span>"
     ]
   },
   {
     "objectID": "objectives/5assess-needs-priorities.html#guidance",
     "href": "objectives/5assess-needs-priorities.html#guidance",
-    "title": "5 Assess needs and priorities for methods research",
+    "title": "O5 Assess needs and priorities for methods research",
     "section": "Guidance",
     "text": "Guidance\n\nGuidance for understanding and applying methods: [to be added]\nGuidance for reporting methods: [to be added]\nGuidance for assessing methods: [to be added]\n\n\n\n\n\n1. Kearney A, Daykin A, Shaw ARG, Lane AJ, Blazeby JM, Clarke M, Williamson P, Gamble C. Identifying research priorities for effective retention strategies in clinical trials [Internet]. Trials. 2017 ;18(1):406.Available from: http://dx.doi.org/10.1186/s13063-017-2132-z\n\n\n2. Rosala-Hallas A, Bhangu A, Blazeby J, Bowman L, Clarke M, Lang T, Nasser M, Siegfried N, Soares-Weiser K, Sydes MR, Wang D, Zhang J, Williamson PR. Global health trials methodological research agenda: Results from a priority setting exercise [Internet]. Trials. 2018 ;19(1):48.Available from: http://dx.doi.org/10.1186/s13063-018-2440-y\n\n\n3. Yonis A, Dean SG, Warren FC, Taylor RS, Levack W, Hay-Smith J. Navigating blinding challenges in complex intervention trials: Insights from a UK researcher survey [Internet]. Trials. 2025 ;26(1):501.Available from: http://dx.doi.org/10.1186/s13063-025-09223-9\n\n\n4. Tudur Smith C, Hickey H, Clarke M, Blazeby J, Williamson P. The trials methodological research agenda: Results from a priority setting exercise [Internet]. Trials. 2014 ;15(1):32.Available from: http://dx.doi.org/10.1186/1745-6215-15-32\n\n\n5. Seidler AL, Aagerup J, Nicholson LS, Hunter KE, Bajpai R, Hamilton DG, Love T, Marlin N, Nguyen D, Riley RD, Rydzewska LHM, Simmonds M, Stewart LA, Tam W, Tierney JF, Wang R, Amstutz A, Briel M, Burdett S, Ensor J, Hattle M, Libesman S, Liu Y, Schandelmaier S, Siegel LK, Snell KIE, Sotiropoulos J, Vale CL, White IR, Williams JG, Godolphin PJ. State of play in individual participant data meta-analyses of randomised trials: Systematic review and consensus-based recommendations [Internet]. medRxiv. 2026 ;2026.02.03.26345481.Available from: https://www.medrxiv.org/content/10.64898/2026.02.03.26345481v1.abstract",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>23</span>  <span class='chapter-title'>5 Assess needs and priorities for methods research</span>"
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O5</span> <span class=\"sidebar-type-label\">Assess needs and priorities for methods research</span></span>"
     ]
   },
   {
     "objectID": "objectives/6propose-method.html",
     "href": "objectives/6propose-method.html",
-    "title": "6 Propose a new method",
+    "title": "O6 Propose a new method",
     "section": "",
     "text": "Definition\nThese studies aim to propose a new method or an improved variant of an existing method, typically with justifications, explanations, and demonstrations.",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>24</span>  <span class='chapter-title'>6 Propose a new method</span>"
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O6</span> <span class=\"sidebar-type-label\">Propose a new method</span></span>"
     ]
   },
   {
     "objectID": "objectives/6propose-method.html#typical-approaches-and-corresponding-examples",
     "href": "objectives/6propose-method.html#typical-approaches-and-corresponding-examples",
-    "title": "6 Propose a new method",
+    "title": "O6 Propose a new method",
     "section": "Typical approaches and corresponding examples",
     "text": "Typical approaches and corresponding examples\nTheory-based methods research: prediction interval for meta-analysis;1 inverse odds weighting to operationalize transportability;2 adopting implementation science to the context of research methods;3 integrate external validity considerations in deductive causal inference.4\nSimulation studies: proposing an alternative to the log-rank test.5\nInformal approaches: proposal for a random invitation single arm design.6",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>24</span>  <span class='chapter-title'>6 Propose a new method</span>"
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O6</span> <span class=\"sidebar-type-label\">Propose a new method</span></span>"
     ]
   },
   {
     "objectID": "objectives/6propose-method.html#guidance",
     "href": "objectives/6propose-method.html#guidance",
-    "title": "6 Propose a new method",
+    "title": "O6 Propose a new method",
     "section": "Guidance",
     "text": "Guidance\n\nGuidance for understanding and applying methods: [to be added]\nGuidance for reporting methods: [to be added]\nGuidance for assessing methods: [to be added]\n\n\n\n\n\n1. Higgins JPT, Thompson SG, Spiegelhalter DJ. A re-evaluation of random-effects meta-analysis [Internet]. J. R. Stat. Soc. Ser. A Stat. Soc. 2009 Jan. ;172(1):137–159.Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC2667312/\n\n\n2. Westreich D, Edwards JK, Lesko CR, Stuart E, Cole SR. Transportability of trial results using inverse odds of sampling weights [Internet]. Am. J. Epidemiol. 2017 ;186(8):1010–1014.Available from: http://dx.doi.org/10.1093/aje/kwx164\n\n\n3. King KM, Pullmann MD, Lyon AR, Dorsey S, Lewis CC. Using implementation science to close the gap between the optimal and typical practice of quantitative methods in clinical science [Internet]. J. Abnorm. Psychol. 2019 Aug. ;128(6):547–562.Available from: http://dx.doi.org/10.1037/abn0000417\n\n\n4. Esterling KM, Brady D, Schwitzgebel E. The necessity of construct and external validity for deductive causal inference [Internet]. J. Causal Inference. 2025 ;13(1):Available from: http://dx.doi.org/10.1515/jci-2024-0002\n\n\n5. Magirr D, Öhrn F. Robust modestly weighted log-rank tests [Internet]. Pharm. Stat. 2026 ;25(1):e70066.Available from: http://dx.doi.org/10.1002/pst.70066\n\n\n6. Janiaud P, Ioannidis JPA, Kasenda B, Fretheim A, Goodman SN, Hemkens LG. Single-arm trials can provide randomized real-world evidence: The random invitation single-arm trial design [Internet]. Ann. Intern. Med. 2025 ;178(8):1150–1156.Available from: http://dx.doi.org/10.7326/ANNALS-24-02979",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>24</span>  <span class='chapter-title'>6 Propose a new method</span>"
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O6</span> <span class=\"sidebar-type-label\">Propose a new method</span></span>"
     ]
   },
   {
     "objectID": "objectives/7evaluate-method.html",
     "href": "objectives/7evaluate-method.html",
-    "title": "7 Evaluate a single method",
+    "title": "O7 Evaluate a single method",
     "section": "",
     "text": "Definition\nThese studies aim to assess a single method with respect to precision, bias, acceptance, variability introduced by methods users, or other outcomes. This type includes proof-of-concept studies that demonstrate whether a method can work in principle before larger-scale testing.",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>25</span>  <span class='chapter-title'>7 Evaluate a single method</span>"
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O7</span> <span class=\"sidebar-type-label\">Evaluate a single method</span></span>"
     ]
   },
   {
     "objectID": "objectives/7evaluate-method.html#definition",
     "href": "objectives/7evaluate-method.html#definition",
-    "title": "7 Evaluate a single method",
+    "title": "O7 Evaluate a single method",
     "section": "",
     "text": "TipBoundaries with related objectives\n\n\n\n\n\n14 Assess variability of results across methodological choices: In O7, researchers evaluate one specific method, and the variability that users introduce when applying it can be one outcome of that evaluation. When researchers do not evaluate a specific method and instead study how much results vary across methodological choices, the objective becomes O14.",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>25</span>  <span class='chapter-title'>7 Evaluate a single method</span>"
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O7</span> <span class=\"sidebar-type-label\">Evaluate a single method</span></span>"
     ]
   },
   {
     "objectID": "objectives/7evaluate-method.html#typical-approaches-and-corresponding-examples",
     "href": "objectives/7evaluate-method.html#typical-approaches-and-corresponding-examples",
-    "title": "7 Evaluate a single method",
+    "title": "O7 Evaluate a single method",
     "section": "Typical approaches and corresponding examples",
     "text": "Typical approaches and corresponding examples\nSimulation studies: random-effects meta-analysis;1 false positives when conducting subgroup analysis.2\nReliability and agreement studies: reliability when 6 raters applied a risk of bias tool to 60 observational studies;3 reliability when 12 raters applied a quality assessment tool for radiomics to 35 studies at two time points;4 agreement between nine research teams attempting to reproduce the same observational study;5 agreement between reproduced and original analyses of 150 real-world evidence studies.6\nQualitative studies: focus group addressing the clarity of plain language recommendations in guidelines;7 interviews with users of a new instrument addressing face validity.8\nReviews of applied or planned methods: concordance of target trial emulations with benchmark randomized controlled trials.9",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>25</span>  <span class='chapter-title'>7 Evaluate a single method</span>"
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O7</span> <span class=\"sidebar-type-label\">Evaluate a single method</span></span>"
     ]
   },
   {
     "objectID": "objectives/7evaluate-method.html#guidance",
     "href": "objectives/7evaluate-method.html#guidance",
-    "title": "7 Evaluate a single method",
+    "title": "O7 Evaluate a single method",
     "section": "Guidance",
     "text": "Guidance\n\nGuidance for understanding and applying methods: [to be added]\nGuidance for reporting methods: [to be added]\nGuidance for assessing methods: [to be added]\n\n\n\n\n\n1. Hartung J, Knapp G. A refined method for the meta-analysis of controlled clinical trials with binary outcome [Internet]. Stat. Med. 2001 ;20(24):3875–3889.Available from: http://dx.doi.org/10.1002/sim.1009\n\n\n2. Brookes ST, Whitley E, Peters TJ, Mulheran PA, Egger M, Davey Smith G. Subgroup analyses in randomised controlled trials: Quantifying the risks of false-positives and false-negatives [Internet]. Health Technol. Assess. 2001 ;5(33):1–56.Available from: http://dx.doi.org/10.3310/hta5330\n\n\n3. Kalaycioglu I, Rioux B, Briard JN, Nehme A, Touma L, Dansereau B, Veilleux-Carpentier A, Keezer MR. Inter-rater reliability of risk of bias tools for non-randomized studies [Internet]. Syst. Rev. 2023 ;12(1):227.Available from: http://dx.doi.org/10.1186/s13643-023-02389-w\n\n\n4. Akinci D’Antonoli T, Cavallo AU, Kocak B, Borgheresi A, Ponsiglione A, Stanzione A, Koltsakis E, Doniselli FM, Vernuccio F, Ugga L, Triantafyllou M, Huisman M, Klontzas ME, Trotta R, Cannella R, Fanni SC, Cuocolo R. Reproducibility of methodological radiomics score (METRICS): An intra- and inter-rater reliability study endorsed by EuSoMII [Internet]. Eur. Radiol. 2025 ;35(8):4533–4545.Available from: http://dx.doi.org/10.1007/s00330-025-11443-1\n\n\n5. Ostropolets A, Albogami Y, Conover M, Banda JM, Baumgartner WA, Blacketer C, Desai P, DuVall SL, Fortin S, Gilbert JP, Golozar A, Ide J, Kanter AS, Kern DM, Kim C, Lai LYH, Li C, Liu F, Lynch KE, Minty E, Neves MI, Ng DQ, Obene T, Pera V, Pratt N, Rao G, Rappoport N, Reinecke I, Saroufim P, Shoaibi A, Simon K, Suchard MA, Swerdel JN, Voss EA, Weaver J, Zhang L, Hripcsak G, Ryan PB. Reproducible variability: Assessing investigator discordance across 9 research teams attempting to reproduce the same observational study [Internet]. J. Am. Med. Inform. Assoc. 2023 ;30(5):859–868.Available from: http://dx.doi.org/10.1093/jamia/ocad009\n\n\n6. Wang SV, Sreedhara SK, Schneeweiss S, REPEAT Initiative. Reproducibility of real-world evidence studies using clinical practice data to inform regulatory and coverage decisions [Internet]. Nat. Commun. 2022 ;13(1):5126.Available from: http://dx.doi.org/10.1038/s41467-022-32310-3\n\n\n7. Santesso N, Wiercioch W, Barbara AM, Dietl H, Schünemann HJ. Focus groups and interviews with the public led to the development of a template for a GRADE plain language recommendation (PLR) [Internet]. J. Clin. Epidemiol. 2022 Jan. ;14118–25.Available from: http://dx.doi.org/10.1016/j.jclinepi.2021.09.018\n\n\n8. Schandelmaier S, Briel M, Varadhan R, Schmid CH, Devasenapathy N, Hayward RA, Gagnier J, Borenstein M, Heijden GJMG van der, Dahabreh IJ, Sun X, Sauerbrei W, Walsh M, Ioannidis JPA, Thabane L, Guyatt GH. Development of the instrument to assess the credibility of effect modification analyses (ICEMAN) in randomized controlled trials and meta-analyses [Internet]. CMAJ. 2020 ;192(32):E901–E906.Available from: http://dx.doi.org/10.1503/cmaj.200077\n\n\n9. Wang C, Tang D, Dadelszen P von, Ju C, Liu L, Wang Y, Magee LA. Concordance between target trial emulation and randomised controlled trials: Systematic review and meta-analysis [Internet]. BMJ. 2026 ;393e086810.Available from: http://dx.doi.org/10.1136/bmj-2025-086810",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>25</span>  <span class='chapter-title'>7 Evaluate a single method</span>"
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O7</span> <span class=\"sidebar-type-label\">Evaluate a single method</span></span>"
     ]
   },
   {
     "objectID": "objectives/8compare-methods.html",
     "href": "objectives/8compare-methods.html",
-    "title": "8 Compare methods",
+    "title": "O8 Compare methods",
     "section": "",
     "text": "Definition\nTerminology: benchmarking methods\nThese studies aim to compare two or more methods with respect to precision, bias, feasibility, acceptance, variability introduced by users, impact on study results, or other outcomes.",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>26</span>  <span class='chapter-title'>8 Compare methods</span>"
+      "<span class='chapter-number'>26</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O8</span> <span class=\"sidebar-type-label\">Compare methods</span></span>"
     ]
   },
   {
     "objectID": "objectives/8compare-methods.html#definition",
     "href": "objectives/8compare-methods.html#definition",
-    "title": "8 Compare methods",
+    "title": "O8 Compare methods",
     "section": "",
     "text": "TipBoundaries with related objectives\n\n\n\n\n\n7 Evaluate a single method: When researchers designate one of the comparators as a reference standard, the focus shifts from comparing methods to evaluating a single method against the reference standard.\n14 Assess variability of results across methodological choices: In O8, researchers designate specific methods and compare their performance. When researchers do not designate specific methods and instead study the spread of results across a space of methodological choices, the objective becomes O14.",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>26</span>  <span class='chapter-title'>8 Compare methods</span>"
+      "<span class='chapter-number'>26</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O8</span> <span class=\"sidebar-type-label\">Compare methods</span></span>"
     ]
   },
   {
     "objectID": "objectives/8compare-methods.html#typical-approaches-and-corresponding-examples",
     "href": "objectives/8compare-methods.html#typical-approaches-and-corresponding-examples",
-    "title": "8 Compare methods",
+    "title": "O8 Compare methods",
     "section": "Typical approaches and corresponding examples",
     "text": "Typical approaches and corresponding examples\nSimulation studies: comparing different methods for diagnostic meta-analyses with sparse data;1 comparing different methods for modeling multi-state disease progression.2\nExperimental analyses of real datasets: comparing different survival prediction methods applied to multi-omics data;3 comparing random forest and logistic regression across 243 datasets;4 comparing researchers against machines for data extraction for systematic reviews.5\nMethodological randomized studies: effect of personalised versus non-personalised invitation letters on trial recruitment (study within a trial);6 effect of incentives on investigators’ sharing of individual participant data (study within a review);7 effect of different table formats on guideline users’ understanding;8 effect of reminding peer reviewers of reporting items on the quality of study reports.9\nReliability and agreement studies: compare inter-rater agreement between the ROBIS and AMSTAR risk-of-bias tools.10\nMeta-epidemiological studies: comparison of treatment effects between trials with and without adequate allocation concealment or blinding.11",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>26</span>  <span class='chapter-title'>8 Compare methods</span>"
+      "<span class='chapter-number'>26</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O8</span> <span class=\"sidebar-type-label\">Compare methods</span></span>"
     ]
   },
   {
     "objectID": "objectives/8compare-methods.html#guidance",
     "href": "objectives/8compare-methods.html#guidance",
-    "title": "8 Compare methods",
+    "title": "O8 Compare methods",
     "section": "Guidance",
     "text": "Guidance\n\nGuidance for understanding and applying methods: Boulesteix 201812, Friedrich 202413\nGuidance for reporting methods: [to be added]\nGuidance for assessing methods: [to be added]\n\n\n\n\n\n1. Takwoingi Y, Guo B, Riley RD, Deeks JJ. Performance of methods for meta-analysis of diagnostic test accuracy with few studies or sparse data [Internet]. Stat. Methods Med. Res. 2017 Aug. ;26(4):1896–1911.Available from: http://dx.doi.org/10.1177/0962280215592269\n\n\n2. Huszti E, Abrahamowicz M, Alioum A, Quantin C. Comparison of selected methods for modeling of multi-state disease progression processes: A simulation study [Internet]. Commun. Stat. Simul. Comput. 2011 Oct. ;40(9):1402–1421.Available from: http://dx.doi.org/10.1080/03610918.2011.575505\n\n\n3. Herrmann M, Probst P, Hornung R, Jurinovic V, Boulesteix A-L. Large-scale benchmark study of survival prediction methods using multi-omics data [Internet]. Brief. Bioinform. 2021 ;22(3):bbaa167.Available from: https://dx.doi.org/10.1093/bib/bbaa167\n\n\n4. Couronné R, Probst P, Boulesteix A-L. Random forest versus logistic regression: A large-scale benchmark experiment [Internet]. BMC Bioinformatics. 2018 ;19(1):270.Available from: http://dx.doi.org/10.1186/s12859-018-2264-5\n\n\n5. Motzfeldt Jensen M, Brix Danielsen M, Riis J, Assifuah Kristjansen K, Andersen S, Okubo Y, Jørgensen MG. ChatGPT-4o can serve as the second rater for data extraction in systematic reviews [Internet]. PLoS One. 2025 ;20(1):e0313401.Available from: http://dx.doi.org/10.1371/journal.pone.0313401\n\n\n6. Thiblin E, Woodford J, Öhman M, Essen L von. The effect of personalised versus non-personalised study invitations on recruitment within the ENGAGE feasibility trial: An embedded randomised controlled recruitment trial [Internet]. BMC Med. Res. Methodol. 2022 ;22(1):65.Available from: https://pubmed.ncbi.nlm.nih.gov/35249543/\n\n\n7. Veroniki AA, Ashoor HM, Le SPC, Rios P, Stewart LA, Clarke M, Mavridis D, Straus SE, Tricco AC. Retrieval of individual patient data depended on study characteristics: A randomized controlled trial [Internet]. J. Clin. Epidemiol. 2019 Sept. ;113176–188.Available from: http://dx.doi.org/10.1016/j.jclinepi.2019.05.031\n\n\n8. Carrasco-Labra A, Brignardello-Petersen R, Santesso N, Neumann I, Mustafa RA, Mbuagbaw L, Etxeandia Ikobaltzeta I, De Stio C, McCullagh LJ, Alonso-Coello P, Meerpohl JJ, Vandvik PO, Brozek JL, Akl EA, Bossuyt P, Churchill R, Glenton C, Rosenbaum S, Tugwell P, Welch V, Garner P, Guyatt G, Schünemann HJ. Improving GRADE evidence tables part 1: A randomized trial shows improved understanding of content in summary of findings tables with a new format [Internet]. J. Clin. Epidemiol. 2016 June ;747–18.Available from: http://dx.doi.org/10.1016/j.jclinepi.2015.12.007\n\n\n9. Speich B, Mann E, Schönenberger CM, Mellor K, Griessbach AN, Dhiman P, Gandhi P, Lohner S, Agarwal A, Odutayo A, Puebla I, Clark A, Chan A-W, Schlussel MM, Ravaud P, Moher D, Briel M, Boutron I, Schroter S, Hopewell S. Reminding peer reviewers of reporting guideline items to improve completeness in published articles: Primary results of 2 randomized trials [Internet]. JAMA Netw. Open. 2023 ;6(6):e2317651.Available from: http://dx.doi.org/10.1001/jamanetworkopen.2023.17651\n\n\n10. Bühn S, Mathes T, Prengel P, Wegewitz U, Ostermann T, Robens S, Pieper D. The risk of bias in systematic reviews tool showed fair reliability and good construct validity [Internet]. J. Clin. Epidemiol. 2017 Nov. ;91121–128.Available from: http://dx.doi.org/10.1016/j.jclinepi.2017.06.019\n\n\n11. Wood L, Egger M, Gluud LL, Schulz KF, Jüni P, Altman DG, Gluud C, Martin RM, Wood AJG, Sterne JAC. Empirical evidence of bias in treatment effect estimates in controlled trials with different interventions and outcomes: Meta-epidemiological study [Internet]. BMJ. 2008 ;336(7644):601–605.Available from: http://dx.doi.org/10.1136/bmj.39465.451748.AD\n\n\n12. Boulesteix A-L, Binder H, Abrahamowicz M, Sauerbrei W, Simulation Panel of the STRATOS Initiative. On the necessity and design of studies comparing statistical methods [Internet]. Biom. J. 2018 Jan. ;60(1):216–218.Available from: http://dx.doi.org/10.1002/bimj.201700129\n\n\n13. Friedrich S, Friede T. On the role of benchmarking data sets and simulations in method comparison studies [Internet]. Biom. J. 2024 Jan. ;66(1):e2200212.Available from: http://dx.doi.org/10.1002/bimj.202200212",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>26</span>  <span class='chapter-title'>8 Compare methods</span>"
+      "<span class='chapter-number'>26</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O8</span> <span class=\"sidebar-type-label\">Compare methods</span></span>"
     ]
   },
   {
     "objectID": "objectives/9guidance-applying.html",
     "href": "objectives/9guidance-applying.html",
-    "title": "9 Develop guidance for understanding and applying methods",
+    "title": "O9 Develop guidance for understanding and applying methods",
     "section": "",
     "text": "Definition\nTerminology: methods guidance; tutorial; best practice recommendations\nThese studies aim to develop guidance that helps health researchers or other interest-holders understand, select, and apply methods. Guidance may include conceptual explanations, examples, recommendations for or against specific methods, or tools that operationalize the guidance, such as decision algorithms, step-by-step tutorials, templates, or code for statistical software.",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>27</span>  <span class='chapter-title'>9 Develop guidance for understanding and applying methods</span>"
+      "<span class='chapter-number'>27</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O9</span> <span class=\"sidebar-type-label\">Develop guidance for understanding and applying methods</span></span>"
     ]
   },
   {
     "objectID": "objectives/9guidance-applying.html#typical-approaches-and-corresponding-examples",
     "href": "objectives/9guidance-applying.html#typical-approaches-and-corresponding-examples",
-    "title": "9 Develop guidance for understanding and applying methods",
+    "title": "O9 Develop guidance for understanding and applying methods",
     "section": "Typical approaches and corresponding examples",
     "text": "Typical approaches and corresponding examples\nApproaches to develop methods guidance greatly vary and include:\nTheory-based methods research: covariate adjustment in trials;1 credibility criteria for subgroup effects, some criteria based on theoretical reasoning.2\nSimulation studies: guidance on using matching in cluster trials;3 guidance for variable screening in high dimensional survival analysis;4 estimation of diagnostic test accuracy without reference standard.5\nExperimental analyses of real datasets: guidance for using machine learning for abstract screening.6\nMethodological randomized studies: effect of different table formats on users’ understanding informed methods guidance.7\nMeta-epidemiological studies: effects of rapid-review shortcuts informed Cochrane guidance for conducting rapid reviews.8\nQualitative studies: Q-methodology, focus groups, content analysis, and workshops to produce guidance on creating summaries for trial participants.9\nConsensus studies: guidance on factors to consider when inviting multiple interest-holder groups to research, based on Delphi;10 guidance on handling missing data in trials, based on Nominal Group Technique.11\nReviews of applied or planned methods: recommendations for the use of directed acyclic graphs.12\nScoping reviews of methods research: a scoping review of methods papers informed guidance on integrating qualitative methods in randomized trials of complex interventions;13 a scoping review of methods papers informed guidance for developing core outcome sets.14\nQualitative syntheses of methods research: review with qualitative synthesis of guidance for the evaluation and updating of clinical prediction models;15 review of methods research on saturation in qualitative studies.16\nInformal approaches: preventing common misunderstandings of randomisation;17 tutorial for sample size calculation in cluster trials;18 explanation why guidelines should seldom make good practice statements.19",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>27</span>  <span class='chapter-title'>9 Develop guidance for understanding and applying methods</span>"
+      "<span class='chapter-number'>27</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O9</span> <span class=\"sidebar-type-label\">Develop guidance for understanding and applying methods</span></span>"
     ]
   },
   {
     "objectID": "objectives/9guidance-applying.html#guidance",
     "href": "objectives/9guidance-applying.html#guidance",
-    "title": "9 Develop guidance for understanding and applying methods",
+    "title": "O9 Develop guidance for understanding and applying methods",
     "section": "Guidance",
     "text": "Guidance\n\nGuidance for understanding and applying methods: [to be added]\nGuidance for reporting methods: [to be added]\nGuidance for assessing methods: [to be added]\n\n\n\n\n\n1. Van Lancker K, Bretz F, Dukes O. Covariate adjustment in randomized controlled trials: General concepts and practical considerations [Internet]. Clin. Trials. 2024 ;21(4):399–411.Available from: http://dx.doi.org/10.1177/17407745241251568\n\n\n2. Schandelmaier S, Briel M, Varadhan R, Schmid CH, Devasenapathy N, Hayward RA, Gagnier J, Borenstein M, Heijden GJMG van der, Dahabreh IJ, Sun X, Sauerbrei W, Walsh M, Ioannidis JPA, Thabane L, Guyatt GH. Development of the instrument to assess the credibility of effect modification analyses (ICEMAN) in randomized controlled trials and meta-analyses [Internet]. CMAJ. 2020 ;192(32):E901–E906.Available from: http://dx.doi.org/10.1503/cmaj.200077\n\n\n3. Chondros P, Ukoumunne OC, Gunn JM, Carlin JB. When should matching be used in the design of cluster randomized trials? [Internet]. Stat. Med. 2021 ;40(26):5765–5778.Available from: http://dx.doi.org/10.1002/sim.9152\n\n\n4. Edelmann D, Hummel M, Hielscher T, Saadati M, Benner A. Marginal variable screening for survival endpoints [Internet]. Biom. J. 2020 May ;62(3):610–626.Available from: http://dx.doi.org/10.1002/bimj.201800269\n\n\n5. Sun A, Zhou X-H. Estimation of diagnostic test accuracy without gold standards [Internet]. Stat. Med. 2025 ;44(3-4):e10315.Available from: http://dx.doi.org/10.1002/sim.10315\n\n\n6. Hamel C, Hersi M, Kelly SE, Tricco AC, Straus S, Wells G, Pham B, Hutton B. Guidance for using artificial intelligence for title and abstract screening while conducting knowledge syntheses [Internet]. BMC Med. Res. Methodol. 2021 ;21(1):285.Available from: http://dx.doi.org/10.1186/s12874-021-01451-2\n\n\n7. Carrasco-Labra A, Brignardello-Petersen R, Santesso N, Neumann I, Mustafa RA, Mbuagbaw L, Etxeandia Ikobaltzeta I, De Stio C, McCullagh LJ, Alonso-Coello P, Meerpohl JJ, Vandvik PO, Brozek JL, Akl EA, Bossuyt P, Churchill R, Glenton C, Rosenbaum S, Tugwell P, Welch V, Garner P, Guyatt G, Schünemann HJ. Improving GRADE evidence tables part 1: A randomized trial shows improved understanding of content in summary of findings tables with a new format [Internet]. J. Clin. Epidemiol. 2016 June ;747–18.Available from: http://dx.doi.org/10.1016/j.jclinepi.2015.12.007\n\n\n8. Garritty C, Gartlehner G, Nussbaumer-Streit B, King VJ, Hamel C, Kamel C, Affengruber L, Stevens A. Cochrane rapid reviews methods group offers evidence-informed guidance to conduct rapid reviews [Internet]. J. Clin. Epidemiol. 2021 Feb. ;13013–22.Available from: http://dx.doi.org/10.1016/j.jclinepi.2020.10.007\n\n\n9. Bruhn H, Campbell M, Entwistle V, Humphreys R, Jayacodi S, Knapp P, Tizzard J, Gillies K. What, how, when and who of trial results summaries for trial participants: Stakeholder-informed guidance from the RECAP project [Internet]. BMJ Open. 2022 ;12(3):e057019.Available from: http://dx.doi.org/10.1136/bmjopen-2021-057019\n\n\n10. Parker R, Tomlinson E, Concannon TW, Akl E, Petkovic J, Welch VA, Crowe S, Palm M, Marusic A, Ekanem C, Akl IB, Saginur M, Moja L, Kuchenmüller T, Slingers N, Teixeira L, Dormer L, Lang E, Arayssi T, Greer-Smith R, Brahem AB, Avey M, Tugwell P. Factors to consider during identification and invitation of individuals in a multi-stakeholder research partnership [Internet]. J. Gen. Intern. Med. 2022 ;37(16):4047–4053.Available from: https://dx.doi.org/10.1007/s11606-022-07411-w\n\n\n11. Hussain JA, White IR, Johnson MJ, Byrne A, Preston NJ, Haines A, Seddon K, Peters TJ. Development of guidelines to reduce, handle and report missing data in palliative care trials: A multi-stakeholder modified nominal group technique [Internet]. Palliat. Med. 2022 Jan. ;36(1):59–70.Available from: http://dx.doi.org/10.1177/02692163211065597\n\n\n12. Tennant PWG, Murray EJ, Arnold KF, Berrie L, Fox MP, Gadd SC, Harrison WJ, Keeble C, Ranker LR, Textor J, Tomova GD, Gilthorpe MS, Ellison GTH. Use of directed acyclic graphs (DAGs) to identify confounders in applied health research: Review and recommendations [Internet]. Int. J. Epidemiol. 2021 ;50(2):620–632.Available from: http://dx.doi.org/10.1093/ije/dyaa213\n\n\n13. Davis K, Minckas N, Bond V, Clark CJ, Colbourn T, Drabble SJ, Hesketh T, Hill Z, Morrison J, Mweemba O, Osrin D, Prost A, Seeley J, Shahmanesh M, Spindler EJ, Stern E, Turner KM, Mannell J. Beyond interviews and focus groups: A framework for integrating innovative qualitative methods into randomised controlled trials of complex public health interventions [Internet]. Trials. 2019 ;20(1):329.Available from: http://dx.doi.org/10.1186/s13063-019-3439-8\n\n\n14. Prinsen CAC, Vohra S, Rose MR, Boers M, Tugwell P, Clarke M, Williamson PR, Terwee CB. How to select outcome measurement instruments for outcomes included in a “core outcome set” - a practical guideline [Internet]. Trials. 2016 ;17(1):449.Available from: http://dx.doi.org/10.1186/s13063-016-1555-2\n\n\n15. Binuya MAE, Engelhardt EG, Schats W, Schmidt MK, Steyerberg EW. Methodological guidance for the evaluation and updating of clinical prediction models: A systematic review [Internet]. BMC Med. Res. Methodol. 2022 ;22(1):316.Available from: http://dx.doi.org/10.1186/s12874-022-01801-8\n\n\n16. Hennink M, Kaiser BN. Sample sizes for saturation in qualitative research: A systematic review of empirical tests [Internet]. Soc. Sci. Med. 2022 Jan. ;292(114523):114523.Available from: http://dx.doi.org/10.1016/j.socscimed.2021.114523\n\n\n17. Senn S. Seven myths of randomisation in clinical trials [Internet]. Stat. Med. 2013 ;32(9):1439–1450.Available from: http://dx.doi.org/10.1002/sim.5713\n\n\n18. Hemming K, Kasza J, Hooper R, Forbes A, Taljaard M. A tutorial on sample size calculation for multiple-period cluster randomized parallel, cross-over and stepped-wedge trials using the shiny CRT calculator [Internet]. Int. J. Epidemiol. 2020 ;49(3):979–995.Available from: http://dx.doi.org/10.1093/ije/dyz237\n\n\n19. Guyatt GH, Alonso-Coello P, Schünemann HJ, Djulbegovic B, Nothacker M, Lange S, Murad MH, Akl EA. Guideline panels should seldom make good practice statements: Guidance from the GRADE working group [Internet]. J. Clin. Epidemiol. 2016 Dec. ;803–7.Available from: http://dx.doi.org/10.1016/j.jclinepi.2016.07.006",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>27</span>  <span class='chapter-title'>9 Develop guidance for understanding and applying methods</span>"
+      "<span class='chapter-number'>27</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O9</span> <span class=\"sidebar-type-label\">Develop guidance for understanding and applying methods</span></span>"
     ]
   },
   {
     "objectID": "objectives/10guidance-reporting.html",
     "href": "objectives/10guidance-reporting.html",
-    "title": "10 Develop reporting guidelines",
+    "title": "O10 Develop reporting guidelines",
     "section": "",
     "text": "Definition\nTerminology: minimal reporting standards, reporting checklists\nThese studies aim to develop guidance that helps health researchers or other interest-holders report methods, typically as a checklist with explanations. The development process may combine multiple methods research approaches.",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>28</span>  <span class='chapter-title'>10 Develop reporting guidelines</span>"
+      "<span class='chapter-number'>28</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O10</span> <span class=\"sidebar-type-label\">Develop reporting guidelines</span></span>"
     ]
   },
   {
     "objectID": "objectives/10guidance-reporting.html#typical-approaches-and-corresponding-examples",
     "href": "objectives/10guidance-reporting.html#typical-approaches-and-corresponding-examples",
-    "title": "10 Develop reporting guidelines",
+    "title": "O10 Develop reporting guidelines",
     "section": "Typical approaches and corresponding examples",
     "text": "Typical approaches and corresponding examples\nConsensus studies: Delphi study to develop CONSORT reporting guideline.1\nReviews of applied or planned methods: review of observational studies emulating a target trial to inform the TARGET reporting guideline.2\nScoping reviews of methods research: a scoping review informed the development of a new reporting guideline for factorial trials.3",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>28</span>  <span class='chapter-title'>10 Develop reporting guidelines</span>"
+      "<span class='chapter-number'>28</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O10</span> <span class=\"sidebar-type-label\">Develop reporting guidelines</span></span>"
     ]
   },
   {
     "objectID": "objectives/10guidance-reporting.html#guidance",
     "href": "objectives/10guidance-reporting.html#guidance",
-    "title": "10 Develop reporting guidelines",
+    "title": "O10 Develop reporting guidelines",
     "section": "Guidance",
     "text": "Guidance\n\nGuidance for understanding and applying methods: Moher 20104\nGuidance for reporting methods: None identified\nGuidance for assessing methods: None identified\n\n\n\n\n\n1. Hopewell S, Chan A-W, Collins GS, Hróbjartsson A, Moher D, Schulz KF, Tunn R, Aggarwal R, Berkwits M, Berlin JA, Bhandari N, Butcher NJ, Campbell MK, Chidebe RCW, Elbourne D, Farmer A, Fergusson DA, Golub RM, Goodman SN, Hoffmann TC, Ioannidis JPA, Kahan BC, Knowles RL, Lamb SE, Lewis S, Loder E, Offringa M, Ravaud P, Richards DP, Rockhold FW, Schriger DL, Siegfried NL, Staniszewska S, Taylor RS, Thabane L, Torgerson D, Vohra S, White IR, Boutron I. CONSORT 2025 statement: Updated guideline for reporting randomised trials [Internet]. BMJ. 2025 ;389e081123.Available from: http://dx.doi.org/10.1136/bmj-2024-081123\n\n\n2. Cashin AG, Hansford HJ, Hernán MA, Swanson SA, Lee H, Jones MD, Dahabreh IJ, Dickerman BA, Egger M, Garcia-Albeniz X, Golub RM, Islam N, Lodi S, Moreno-Betancur M, Pearson S-A, Schneeweiss S, Sharp MK, Sterne JAC, Stuart EA, McAuley JH. Transparent reporting of observational studies emulating a target trial: The TARGET statement [Internet]. BMJ. 2025 ;390e087179.Available from: http://dx.doi.org/10.1136/bmj-2025-087179\n\n\n3. Kahan BC, Hall SS, Beller EM, Birchenall M, Chan A-W, Elbourne D, Little P, Fletcher J, Golub RM, Goulao B, Hopewell S, Islam N, Zwarenstein M, Juszczak E, Montgomery AA. Reporting of factorial randomized trials: Extension of the CONSORT 2010 statement [Internet]. JAMA. 2023 ;330(21):2106–2114.Available from: http://dx.doi.org/10.1001/jama.2023.19793\n\n\n4. Moher D, Schulz KF, Simera I, Altman DG. Guidance for developers of health research reporting guidelines [Internet]. PLoS Med. 2010 ;7(2):e1000217.Available from: http://dx.doi.org/10.1371/journal.pmed.1000217",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>28</span>  <span class='chapter-title'>10 Develop reporting guidelines</span>"
+      "<span class='chapter-number'>28</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O10</span> <span class=\"sidebar-type-label\">Develop reporting guidelines</span></span>"
     ]
   },
   {
     "objectID": "objectives/11guidance-assessing.html",
     "href": "objectives/11guidance-assessing.html",
-    "title": "11 Develop quality assessment instruments",
+    "title": "O11 Develop quality assessment instruments",
     "section": "",
     "text": "Definition\nTerminology: risk-of-bias tools; critical appraisal tools\nThese studies aim to develop instruments that help health researchers or other interest-holders assess methodological rigor, trustworthiness, or other quality-related constructs in a standardized way. Such instruments typically use multiple signaling questions with predefined response options, sometimes combined into a summary judgment.",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>29</span>  <span class='chapter-title'>11 Develop quality assessment instruments</span>"
+      "<span class='chapter-number'>29</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O11</span> <span class=\"sidebar-type-label\">Develop quality assessment instruments</span></span>"
     ]
   },
   {
     "objectID": "objectives/11guidance-assessing.html#typical-approaches-and-corresponding-examples",
     "href": "objectives/11guidance-assessing.html#typical-approaches-and-corresponding-examples",
-    "title": "11 Develop quality assessment instruments",
+    "title": "O11 Develop quality assessment instruments",
     "section": "Typical approaches and corresponding examples",
     "text": "Typical approaches and corresponding examples\nConsensus studies: discussion-based consensus on quality assessment tool for subgroup analyses.1\nReliability and agreement studies: reliability of risk of bias tools for observational studies.2\nReviews of applied or planned methods: review practice of assessing risk of bias due to missing evidence in systematic reviews to inform risk-of-bias tool.3\nScoping reviews of methods research: review of existing instruments informed the development of the AMSTAR2 instrument for assessing the quality of systematic reviews.4",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>29</span>  <span class='chapter-title'>11 Develop quality assessment instruments</span>"
+      "<span class='chapter-number'>29</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O11</span> <span class=\"sidebar-type-label\">Develop quality assessment instruments</span></span>"
     ]
   },
   {
     "objectID": "objectives/11guidance-assessing.html#guidance",
     "href": "objectives/11guidance-assessing.html#guidance",
-    "title": "11 Develop quality assessment instruments",
+    "title": "O11 Develop quality assessment instruments",
     "section": "Guidance",
     "text": "Guidance\n\nGuidance for understanding and applying methods: [to be added]\nGuidance for reporting methods: [to be added]\nGuidance for assessing methods: [to be added]\n\n\n\n\n\n1. Schandelmaier S, Briel M, Varadhan R, Schmid CH, Devasenapathy N, Hayward RA, Gagnier J, Borenstein M, Heijden GJMG van der, Dahabreh IJ, Sun X, Sauerbrei W, Walsh M, Ioannidis JPA, Thabane L, Guyatt GH. Development of the instrument to assess the credibility of effect modification analyses (ICEMAN) in randomized controlled trials and meta-analyses [Internet]. CMAJ. 2020 ;192(32):E901–E906.Available from: http://dx.doi.org/10.1503/cmaj.200077\n\n\n2. Kalaycioglu I, Rioux B, Briard JN, Nehme A, Touma L, Dansereau B, Veilleux-Carpentier A, Keezer MR. Inter-rater reliability of risk of bias tools for non-randomized studies [Internet]. Syst. Rev. 2023 ;12(1):227.Available from: http://dx.doi.org/10.1186/s13643-023-02389-w\n\n\n3. Page MJ, Sterne JAC, Boutron I, Hróbjartsson A, Kirkham JJ, Li T, Lundh A, Mayo-Wilson E, McKenzie JE, Stewart LA, Sutton AJ, Bero L, Dunn AG, Dwan K, Elbers RG, Kanukula R, Meerpohl JJ, Turner EH, Higgins JPT. ROB-ME: A tool for assessing risk of bias due to missing evidence in systematic reviews with meta-analysis [Internet]. BMJ. 2023 ;383e076754.Available from: http://dx.doi.org/10.1136/bmj-2023-076754\n\n\n4. Shea BJ, Reeves BC, Wells G, Thuku M, Hamel C, Moran J, Moher D, Tugwell P, Welch V, Kristjansson E, Henry DA. AMSTAR 2: A critical appraisal tool for systematic reviews that include randomised or non-randomised studies of healthcare interventions, or both [Internet]. BMJ. 2017 ;358j4008.Available from: http://dx.doi.org/10.1136/bmj.j4008",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>29</span>  <span class='chapter-title'>11 Develop quality assessment instruments</span>"
+      "<span class='chapter-number'>29</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O11</span> <span class=\"sidebar-type-label\">Develop quality assessment instruments</span></span>"
     ]
   },
   {
     "objectID": "objectives/12software-code.html",
     "href": "objectives/12software-code.html",
-    "title": "12 Develop software and code",
+    "title": "O12 Develop software and code",
     "section": "",
     "text": "Definition\nThese studies aim to develop specialized software, such as web applications, R packages, scripts, or other code, to help users implement methods in practice.",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>30</span>  <span class='chapter-title'>12 Develop software and code</span>"
+      "<span class='chapter-number'>30</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O12</span> <span class=\"sidebar-type-label\">Develop software and code</span></span>"
     ]
   },
   {
     "objectID": "objectives/12software-code.html#typical-approaches-and-corresponding-examples",
     "href": "objectives/12software-code.html#typical-approaches-and-corresponding-examples",
-    "title": "12 Develop software and code",
+    "title": "O12 Develop software and code",
     "section": "Typical approaches and corresponding examples",
     "text": "Typical approaches and corresponding examples\nInformal approaches: introducing a web application for Bayes Factor Design Analysis;1 netmeta, an R package for network meta-analysis.2",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>30</span>  <span class='chapter-title'>12 Develop software and code</span>"
+      "<span class='chapter-number'>30</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O12</span> <span class=\"sidebar-type-label\">Develop software and code</span></span>"
     ]
   },
   {
     "objectID": "objectives/12software-code.html#guidance",
     "href": "objectives/12software-code.html#guidance",
-    "title": "12 Develop software and code",
+    "title": "O12 Develop software and code",
     "section": "Guidance",
     "text": "Guidance\n\nGuidance for understanding and applying methods: [to be added]\nGuidance for reporting methods: [to be added]\nGuidance for assessing methods: [to be added]\n\n\n\n\n\n1. Stefan AM, Gronau QF, Schönbrodt FD, Wagenmakers E-J. A tutorial on bayes factor design analysis using an informed prior [Internet]. Behav. Res. Methods. 2019 June ;51(3):1042–1058.Available from: http://dx.doi.org/10.3758/s13428-018-01189-8\n\n\n2. Balduzzi S, Rücker G, Nikolakopoulou A, Papakonstantinou T, Salanti G, Efthimiou O, Schwarzer G. Netmeta: An r package for network meta-analysis using frequentist methods [Internet]. J. Stat. Softw. 2023 ;106(2):1–40.Available from: http://dx.doi.org/10.18637/jss.v106.i02",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>30</span>  <span class='chapter-title'>12 Develop software and code</span>"
+      "<span class='chapter-number'>30</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O12</span> <span class=\"sidebar-type-label\">Develop software and code</span></span>"
     ]
   },
   {
     "objectID": "objectives/13implementation.html",
     "href": "objectives/13implementation.html",
-    "title": "13 Research the dissemination and implementation of methods",
+    "title": "O13 Research the dissemination and implementation of methods",
     "section": "",
     "text": "Definition\nTerminology: methodological implementation science\nThese studies aim to understand or improve the dissemination, implementation, or de-implementation of methods in health research practice. They assess current implementation, identify barriers and facilitators, develop dissemination or implementation strategies, or test the effectiveness of such strategies.",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>31</span>  <span class='chapter-title'>13 Research the dissemination and implementation of methods</span>"
+      "<span class='chapter-number'>31</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O13</span> <span class=\"sidebar-type-label\">Research the dissemination and implementation of methods</span></span>"
     ]
   },
   {
     "objectID": "objectives/13implementation.html#typical-approaches-and-corresponding-examples",
     "href": "objectives/13implementation.html#typical-approaches-and-corresponding-examples",
-    "title": "13 Research the dissemination and implementation of methods",
+    "title": "O13 Research the dissemination and implementation of methods",
     "section": "Typical approaches and corresponding examples",
     "text": "Typical approaches and corresponding examples\nThis type of methods research is still rare. Examples come mostly from areas of reporting guidelines and core outcome sets. Different approaches are possible:\nQuantitative surveys: survey of researchers to identify barriers to the implementation of new statistical methods;1 survey of investigators in sports medicine to understand why they did not use a specific reporting guideline.2\nQualitative studies: interviews with trial investigators to understand why they did not use existing core outcome sets.3\nReviews of applied or planned methods: proportion of trials using core outcome sets.4",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>31</span>  <span class='chapter-title'>13 Research the dissemination and implementation of methods</span>"
+      "<span class='chapter-number'>31</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O13</span> <span class=\"sidebar-type-label\">Research the dissemination and implementation of methods</span></span>"
     ]
   },
   {
     "objectID": "objectives/13implementation.html#guidance",
     "href": "objectives/13implementation.html#guidance",
-    "title": "13 Research the dissemination and implementation of methods",
+    "title": "O13 Research the dissemination and implementation of methods",
     "section": "Guidance",
     "text": "Guidance\n\nGuidance for understanding and applying methods: King 20195\nGuidance for reporting methods: [to be added]\nGuidance for assessing methods: [to be added]\n\n\n\n\n\n1. Pullenayegum EM, Platt RW, Barwick M, Feldman BM, Offringa M, Thabane L. Knowledge translation in biostatistics: A survey of current practices, preferences, and barriers to the dissemination and uptake of new statistical methods [Internet]. Stat. Med. 2016 ;35(6):805–818.Available from: http://dx.doi.org/10.1002/sim.6633\n\n\n2. Hansford HJ, Cashin AG, Doyle J, Leake HB, McAuley JH, Jones MD. Barriers and enablers to using intervention reporting guidelines in sports and exercise medicine trials: A mixed-methods study [Internet]. J. Orthop. Sports Phys. Ther. 2024 Feb. ;54(2):142–152.Available from: http://dx.doi.org/10.2519/jospt.2023.12110\n\n\n3. Hughes KL, Williamson PR, Young B. In-depth qualitative interviews identified barriers and facilitators that influenced chief investigators’ use of core outcome sets in randomised controlled trials [Internet]. J. Clin. Epidemiol. 2022 Apr. ;144111–120.Available from: http://dx.doi.org/10.1016/j.jclinepi.2021.12.004\n\n\n4. Matvienko-Sikar K, Avery K, Blazeby JM, Devane D, Dodd S, Egan AM, Gorst SL, Hughes K, Jacobsen P, Kirkham JJ, Kottner J, Mellor K, Millward CP, Patel S, Quirke F, Saldanha IJ, Smith V, Terwee CB, Young AE, Williamson PR. Use of core outcome sets was low in clinical trials published in major medical journals [Internet]. J. Clin. Epidemiol. 2022 Feb. ;14219–28.Available from: http://dx.doi.org/10.1016/j.jclinepi.2021.10.012\n\n\n5. King KM, Pullmann MD, Lyon AR, Dorsey S, Lewis CC. Using implementation science to close the gap between the optimal and typical practice of quantitative methods in clinical science [Internet]. J. Abnorm. Psychol. 2019 Aug. ;128(6):547–562.Available from: http://dx.doi.org/10.1037/abn0000417",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>31</span>  <span class='chapter-title'>13 Research the dissemination and implementation of methods</span>"
+      "<span class='chapter-number'>31</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O13</span> <span class=\"sidebar-type-label\">Research the dissemination and implementation of methods</span></span>"
     ]
   },
   {
     "objectID": "objectives/14variability.html",
     "href": "objectives/14variability.html",
-    "title": "14 Assess variability of results across methodological choices",
+    "title": "O14 Assess variability of results across methodological choices",
     "section": "",
     "text": "Definition\nTerminology: assessing vibration of effects. The labels many-analyst study, multiverse analysis, and specification-curve analysis appear with inconsistent definitions. Studies published under these labels fall within this objective when the variability itself is the object of study; when they support the conclusions of a specific study, they act as sensitivity analyses rather than methods research.\nThese studies aim to quantify how much results vary when researchers address the same research question with different methodological choices, such as choices in data processing, eligibility criteria, model specification, or the entire analysis strategy. The variability itself is the objective of the study.",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>32</span>  <span class='chapter-title'>14 Assess variability of results across methodological choices</span>"
+      "<span class='chapter-number'>32</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O14</span> <span class=\"sidebar-type-label\">Assess variability of results across methodological choices</span></span>"
     ]
   },
   {
     "objectID": "objectives/14variability.html#definition",
     "href": "objectives/14variability.html#definition",
-    "title": "14 Assess variability of results across methodological choices",
+    "title": "O14 Assess variability of results across methodological choices",
     "section": "",
     "text": "TipBoundaries with related objectives\n\n\n\n\n\n7 Evaluate a single method and 8 Compare methods: O7 and O8 assess one or more specified methods, and variability between users may be one outcome of that assessment. In O14, no specific method is under evaluation; the object is the spread of results across a space of choices. When researchers assess how different users apply a single method, the objective becomes O7. When researchers designate specific competing methods and assess their performance, the objective becomes O8.\n4 Assess methodological practice: O4 describes which methods researchers use in practice, whereas O14 quantifies how much results change when those choices vary.",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>32</span>  <span class='chapter-title'>14 Assess variability of results across methodological choices</span>"
+      "<span class='chapter-number'>32</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O14</span> <span class=\"sidebar-type-label\">Assess variability of results across methodological choices</span></span>"
     ]
   },
   {
     "objectID": "objectives/14variability.html#typical-approaches-and-corresponding-examples",
     "href": "objectives/14variability.html#typical-approaches-and-corresponding-examples",
-    "title": "14 Assess variability of results across methodological choices",
+    "title": "O14 Assess variability of results across methodological choices",
     "section": "Typical approaches and corresponding examples",
     "text": "Typical approaches and corresponding examples\nReliability and agreement studies: variation in results when 29 teams analyzed the same dataset with self-chosen analysis strategies (“many-analyst study”);1 variation in results when multiple teams assessed the association between marital status and cardiovascular disease (“many-analyst study”).2\nExperimental analyses of real datasets: variation of observational mortality associations across many model specifications (“vibration of effects”);3 variation of observational associations across analytical choices (“vibration of effects”);4 spread of pooled effect estimates across many meta-analytic specifications (“multiverse”).5",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>32</span>  <span class='chapter-title'>14 Assess variability of results across methodological choices</span>"
+      "<span class='chapter-number'>32</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O14</span> <span class=\"sidebar-type-label\">Assess variability of results across methodological choices</span></span>"
     ]
   },
   {
     "objectID": "objectives/14variability.html#guidance",
     "href": "objectives/14variability.html#guidance",
-    "title": "14 Assess variability of results across methodological choices",
+    "title": "O14 Assess variability of results across methodological choices",
     "section": "Guidance",
     "text": "Guidance\n\nGuidance for understanding and applying methods: [to be added]\nGuidance for reporting methods: [to be added]\nGuidance for assessing methods: [to be added]\n\n\n\n\n\n1. Silberzahn R, Uhlmann EL, Martin DP, Anselmi P, Aust F, Awtrey E, Bahník Š, Bai F, Bannard C, Bonnier E, Carlsson R, Cheung F, Christensen G, Clay R, Craig MA, Dalla Rosa A, Dam L, Evans MH, Flores Cervantes I, Fong N, Gamez-Djokic M, Glenz A, Gordon-McKeon S, Heaton TJ, Hederos K, Heene M, Hofelich Mohr AJ, Högden F, Hui K, Johannesson M, Kalodimos J, Kaszubowski E, Kennedy DM, Lei R, Lindsay TA, Liverani S, Madan CR, Molden D, Molleman E, Morey RD, Mulder LB, Nijstad BR, Pope NG, Pope B, Prenoveau JM, Rink F, Robusto E, Roderique H, Sandberg A, Schlüter E, Schönbrodt FD, Sherman MF, Sommer SA, Sotak K, Spain S, Spörlein C, Stafford T, Stefanutti L, Tauber S, Ullrich J, Vianello M, Wagenmakers E-J, Witkowiak M, Yoon S, Nosek BA. Many analysts, one data set: Making transparent how variations in analytic choices affect results [Internet]. Adv. Methods Pract. Psychol. Sci. 2018 Sept. ;1(3):337–356.Available from: http://dx.doi.org/10.1177/2515245917747646\n\n\n2. Kowall B, Ahrenfeldt LJ, Basten J, Becher H, Brand T, Braun J, Casjens S, Claessen H, Denz R, Diebner HH, Diexer S, Eisemann N, Furrer E, Galetzka W, Girschik C, Karch A, Mikolajczyk R, Peters M, Rospleszcz S, Rücker V, Stang A, Stolpe S, Taylor KJ, Timmesfeld N, Tokic M, Zeeb H, Berg-Beckhoff G, Behrens T, Ittermann T, Rübsamen N. Marital status and risk of cardiovascular disease - a multi-analyst study in epidemiology [Internet]. Eur. J. Epidemiol. 2025 May ;40(5):497–509.Available from: http://dx.doi.org/10.1007/s10654-025-01235-8\n\n\n3. Patel CJ, Burford B, Ioannidis JPA. Assessment of vibration of effects due to model specification can demonstrate the instability of observational associations [Internet]. J. Clin. Epidemiol. 2015 Sept. ;68(9):1046–1058.Available from: http://dx.doi.org/10.1016/j.jclinepi.2015.05.029\n\n\n4. Klau S, Hoffmann S, Patel CJ, Ioannidis JP, Boulesteix A-L. Examining the robustness of observational associations to model, measurement and sampling uncertainty with the vibration of effects framework [Internet]. Int. J. Epidemiol. 2021 ;50(1):266–278.Available from: http://dx.doi.org/10.1093/ije/dyaa164\n\n\n5. Plessen CY, Karyotaki E, Miguel C, Ciharova M, Cuijpers P. Exploring the efficacy of psychotherapies for depression: A multiverse meta-analysis [Internet]. BMJ Ment. Health. 2023 Feb. ;26(1):e300626.Available from: http://dx.doi.org/10.1136/bmjment-2022-300626",
     "crumbs": [
       "Explore by objective",
-      "<span class='chapter-number'>32</span>  <span class='chapter-title'>14 Assess variability of results across methodological choices</span>"
+      "<span class='chapter-number'>32</span>  <span class='chapter-title'><span class=\"sidebar-type-code\">O14</span> <span class=\"sidebar-type-label\">Assess variability of results across methodological choices</span></span>"
     ]
   },
   {

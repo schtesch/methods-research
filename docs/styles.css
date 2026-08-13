@@ -13,6 +13,20 @@
   display: none;
 }
 
+/* Give every A/O identifier its own column so all type names—and every
+   wrapped line—start at the same position. This sidebar is also Quarto's
+   mobile slide-out navigation, so the rule covers both layouts. */
+.sidebar-item:has(a[href*="/approaches/"]) .chapter-title,
+.sidebar-item:has(a[href*="/objectives/"]) .chapter-title {
+  display: grid;
+  grid-template-columns: 1.8em minmax(0, 1fr);
+  column-gap: 0.35em;
+}
+
+.sidebar-item .sidebar-type-code {
+  font-variant-numeric: tabular-nums;
+}
+
 /* Utility pages are linked elsewhere and should not appear as chapters in
    the book navigation. */
 .sidebar-item:has(> .sidebar-item-container > a[href$="impressum.html"]),
