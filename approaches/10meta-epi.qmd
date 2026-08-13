@@ -1,5 +1,5 @@
 ---
-title: "10 Meta-epidemiological studies"
+title: "A10 Meta-epidemiological studies"
 link-citations: true
 ---
 
@@ -37,6 +37,6 @@ Boundary with A9 reviews of applied or planned methods. Both examine applied stu
 [Develop guidance for understanding and applying methods](../objectives/9guidance-applying.qmd): effects of rapid-review shortcuts informed Cochrane guidance for conducting rapid reviews.[@Garritty2021cochrane]
 
 ## Guidance
-- Guidance for understanding and applying methods: [to be added]
+- Guidance for understanding and applying methods: Sterne 2002[@Sterne2002statistical]
 - Guidance for reporting methods: [to be added]
-- Guidance for assessing methods: [to be added]
+- Guidance for assessing methods: Moustgaard 2020[@Moustgaard2020ten]
