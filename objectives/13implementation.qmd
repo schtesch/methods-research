@@ -18,6 +18,6 @@ This type of methods research is still rare. Examples come mostly from areas of 
 [Reviews of applied or planned methods](../approaches/9review-applied.qmd): proportion of trials using core outcome sets.[@Matvienko-Sikar2022use]
 
 ## Guidance
-- Guidance for understanding and applying methods: King 2019[@King2019using]
-- Guidance for reporting methods: [to be added]
-- Guidance for assessing methods: [to be added]
+**Understanding and applying:** King 2019[@King2019using]  
+**Reporting:** [to be added]  
+**Assessing:** [to be added]

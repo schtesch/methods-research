@@ -23,6 +23,6 @@ Examples exist for most objectives, including:
 [Develop software and code](../objectives/12software-code.qmd): web application for Bayes Factor Design Analysis;[@Stefan2019a] netmeta, an R package for network meta-analysis.[@Balduzzi2023netmeta]
 
 ## Guidance
-- Guidance for understanding and applying methods: [to be added]
-- Guidance for reporting methods: [to be added]
-- Guidance for assessing methods: [to be added]
+**Understanding and applying:** [to be added]  
+**Reporting:** [to be added]  
+**Assessing:** [to be added]

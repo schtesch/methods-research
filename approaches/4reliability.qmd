@@ -35,6 +35,6 @@ We report this disagreement because users may need judgment when classifying stu
 [Assess variability of results across methodological choices](../objectives/14variability.qmd): variation in results when 29 teams analyzed the same dataset with self-chosen analysis strategies ("many-analyst study");[@Silberzahn2018many] variation in results when multiple teams assessed the association between marital status and cardiovascular disease ("many-analyst study").[@Kowall2025marital]
 
 ## Guidance
-- Guidance for understanding and applying methods: [to be added]
-- Guidance for reporting methods: [to be added]
-- Guidance for assessing methods: [to be added]
+**Understanding and applying:** [to be added]  
+**Reporting:** [to be added]  
+**Assessing:** [to be added]

@@ -18,6 +18,6 @@ These studies aim to develop instruments that help health researchers or other i
 [Scoping reviews of methods research](../approaches/11scoping-review.qmd): review of existing instruments informed the development of the AMSTAR2 instrument for assessing the quality of systematic reviews.[@Shea2017amstar]
 
 ## Guidance
-- Guidance for understanding and applying methods: [to be added]
-- Guidance for reporting methods: [to be added]
-- Guidance for assessing methods: [to be added]
+**Understanding and applying:** [to be added]  
+**Reporting:** [to be added]  
+**Assessing:** [to be added]

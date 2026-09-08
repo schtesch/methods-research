@@ -49,6 +49,6 @@ Boundary with A10 meta-epidemiological studies. Both examine applied studies. A9
 [Research the dissemination and implementation of methods](../objectives/13implementation.qmd): proportion of trials using core outcome sets.[@Matvienko-Sikar2022use]
 
 ## Guidance
-- Guidance for understanding and applying methods: [to be added]
-- Guidance for reporting methods: [to be added]
-- Guidance for assessing methods: [to be added]
+**Understanding and applying:** [to be added]  
+**Reporting:** [to be added]  
+**Assessing:** [to be added]

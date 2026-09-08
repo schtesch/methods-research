@@ -16,6 +16,6 @@ These studies aim to develop guidance that helps health researchers or other int
 [Scoping reviews of methods research](../approaches/11scoping-review.qmd): a scoping review informed the development of a new reporting guideline for factorial trials.[@Kahan2023reporting]
 
 ## Guidance
-- Guidance for understanding and applying methods: Moher 2010[@Moher2010guidance]
-- Guidance for reporting methods: None identified
-- Guidance for assessing methods: None identified
+**Understanding and applying:** Moher 2010[@Moher2010guidance]  
+**Reporting:** None identified  
+**Assessing:** None identified

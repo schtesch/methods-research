@@ -14,6 +14,6 @@ These studies aim to propose a new method or an improved variant of an existing 
 [Informal approaches](../approaches/15informal.qmd): proposal for a random invitation single arm design.[@Janiaud2025single-arm]
 
 ## Guidance
-- Guidance for understanding and applying methods: [to be added]
-- Guidance for reporting methods: [to be added]
-- Guidance for assessing methods: [to be added]
+**Understanding and applying:** [to be added]  
+**Reporting:** [to be added]  
+**Assessing:** [to be added]

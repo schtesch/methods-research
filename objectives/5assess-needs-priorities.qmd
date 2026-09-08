@@ -14,6 +14,6 @@ These studies aim to assess the gaps and needs for future methods research, some
 [Reviews of applied or planned methods](../approaches/9review-applied.qmd): identify research needs in individual participant-data meta-analysis.[@Seidler2026-uh]
 
 ## Guidance
-- Guidance for understanding and applying methods: [to be added]
-- Guidance for reporting methods: [to be added]
-- Guidance for assessing methods: [to be added]
+**Understanding and applying:** [to be added]  
+**Reporting:** [to be added]  
+**Assessing:** [to be added]

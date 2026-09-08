@@ -20,6 +20,6 @@ In methodological case reports, researchers describe their experience with the d
 [Evaluate a single method](../objectives/7evaluate-method.qmd): experience with using large language models to develop a clinical practice guideline;[@Sousa-Pinto2024-gz] lessons learned from applying a framework to develop a healthcare intervention;[@Lindblom2025-ez] challenges and benefits of including non-randomized evidence in living systematic reviews;[@Bonnet2026including] demonstration of target trial emulation.[@Martinuka2023target]
 
 ## Guidance
-- Guidance for understanding and applying methods: [to be added]
-- Guidance for reporting methods: [to be added]
-- Guidance for assessing methods: [to be added]
+**Understanding and applying:** [to be added]  
+**Reporting:** [to be added]  
+**Assessing:** [to be added]

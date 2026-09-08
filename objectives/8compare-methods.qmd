@@ -27,6 +27,6 @@ These studies aim to compare two or more methods with respect to precision, bias
 [Meta-epidemiological studies](../approaches/10meta-epi.qmd): comparison of treatment effects between trials with and without adequate allocation concealment or blinding.[@Wood2008-mm]
 
 ## Guidance
-- Guidance for understanding and applying methods: Boulesteix 2018[@Boulesteix2018on], Friedrich 2024[@Friedrich2024on]
-- Guidance for reporting methods: [to be added]
-- Guidance for assessing methods: [to be added]
+**Understanding and applying:** Boulesteix 2018[@Boulesteix2018on], Friedrich 2024[@Friedrich2024on]  
+**Reporting:** [to be added]  
+**Assessing:** [to be added]

@@ -21,6 +21,6 @@ In qualitative studies, researchers use interviews, focus groups, or other quali
 [Research the dissemination and implementation of methods](../objectives/13implementation.qmd): interviews with trial investigators to understand why they did not use existing core outcome sets.[@Hughes2022in-depth]
 
 ## Guidance
-- Guidance for understanding and applying methods: [to be added]
-- Guidance for reporting methods: [to be added]
-- Guidance for assessing methods: [to be added]
+**Understanding and applying:** [to be added]  
+**Reporting:** [to be added]  
+**Assessing:** [to be added]

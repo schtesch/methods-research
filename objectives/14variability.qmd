@@ -21,6 +21,6 @@ These studies aim to quantify how much results vary when researchers address the
 [Experimental analyses of real datasets](../approaches/3real-datasets.qmd): variation of observational mortality associations across many model specifications ("vibration of effects");[@Patel2015assessment] variation of observational associations across analytical choices ("vibration of effects");[@Klau2021examining] spread of pooled effect estimates across many meta-analytic specifications ("multiverse").[@Plessen2023exploring]
 
 ## Guidance
-- Guidance for understanding and applying methods: [to be added]
-- Guidance for reporting methods: [to be added]
-- Guidance for assessing methods: [to be added]
+**Understanding and applying:** [to be added]  
+**Reporting:** [to be added]  
+**Assessing:** [to be added]

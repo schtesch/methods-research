@@ -37,6 +37,6 @@ We report this disagreement because users may need judgment when classifying stu
 [Assess variability of results across methodological choices](../objectives/14variability.qmd): variation of observational mortality associations across many model specifications ("vibration of effects");[@Patel2015assessment] variation of observational associations across analytical choices ("vibration of effects");[@Klau2021examining] spread of pooled effect estimates across many meta-analytic specifications ("multiverse").[@Plessen2023exploring]
 
 ## Guidance
-- Guidance for understanding and applying methods: Weber 2019[@Weber2019essential], Van Mechelen 2023[@VanMechelen2023a]
-- Guidance for reporting methods: None identified
-- Guidance for assessing methods: None identified
+**Understanding and applying:** Weber 2019[@Weber2019essential], Van Mechelen 2023[@VanMechelen2023a]  
+**Reporting:** None identified  
+**Assessing:** None identified

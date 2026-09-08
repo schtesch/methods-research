@@ -14,6 +14,6 @@ These studies aim to synthesize the results of methods research addressing a spe
 [Informal approaches](../approaches/15informal.qmd): overview of approaches for evaluating heterogeneous treatment effects.[@Lipkovich2023overview]
 
 ## Guidance
-- Guidance for understanding and applying methods: [to be added]
-- Guidance for reporting methods: [to be added]
-- Guidance for assessing methods: [to be added]
+**Understanding and applying:** [to be added]  
+**Reporting:** [to be added]  
+**Assessing:** [to be added]

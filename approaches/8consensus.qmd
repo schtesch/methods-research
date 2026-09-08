@@ -19,6 +19,6 @@ In consensus studies, researchers use iterative processes such as Delphi surveys
 [Develop quality assessment instruments](../objectives/11guidance-assessing.qmd): discussion-based consensus on quality assessment tool for subgroup analyses.[@Schandelmaier2020development]
 
 ## Guidance
-- Guidance for understanding and applying methods: Book Chapter by Anthony Jorm[@Jorm2025expert]
-- Guidance for reporting methods: ACCORD reporting guidelines[@Gattrell2024accord]
-- Guidance for assessing methods: [to be added]
+**Understanding and applying:** Book Chapter by Anthony Jorm[@Jorm2025expert]  
+**Reporting:** ACCORD reporting guidelines[@Gattrell2024accord]  
+**Assessing:** [to be added]

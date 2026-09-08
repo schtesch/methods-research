@@ -17,6 +17,6 @@ In quantitative surveys, researchers use questionnaires to collect experiences, 
 [Research the dissemination and implementation of methods](../objectives/13implementation.qmd): survey of researchers to identify barriers to the implementation of new statistical methods;[@Pullenayegum2016knowledge] survey of investigators in sports medicine to understand why they did not use a specific reporting guideline.[@Hansford2024barriers]
 
 ## Guidance
-- Guidance for understanding and applying methods: [to be added]
-- Guidance for reporting methods: [to be added]
-- Guidance for assessing methods: [to be added]
+**Understanding and applying:** [to be added]  
+**Reporting:** [to be added]  
+**Assessing:** [to be added]

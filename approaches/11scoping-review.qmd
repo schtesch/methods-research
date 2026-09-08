@@ -48,6 +48,6 @@ Viewing the types as archetypes rather than direct reflections of current practi
 [Develop quality assessment instruments](../objectives/11guidance-assessing.qmd): scoping review of previous instruments informed the development of a new instrument to assess the quality of systematic reviews.[@Shea2017amstar]
 
 ## Guidance
-- Guidance for understanding and applying methods: [to be added]
-- Guidance for reporting methods: [to be added]
-- Guidance for assessing methods: [to be added]
+**Understanding and applying:** [to be added]  
+**Reporting:** [to be added]  
+**Assessing:** [to be added]

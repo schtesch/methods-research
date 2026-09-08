@@ -10,6 +10,6 @@ These studies aim to identify existing methods research on a specific method or 
 [Scoping reviews of methods research](../approaches/11scoping-review.qmd): identify publications that suggest a process for developing methods guidance;[@Chiaborelli2026strategies] identify and map guidance for evidence synthesis.[@Movsisyan2026-ex]
 
 ## Guidance
-- Guidance for understanding and applying methods: [to be added]
-- Guidance for reporting methods: [to be added]
-- Guidance for assessing methods: [to be added]
+**Understanding and applying:** [to be added]  
+**Reporting:** [to be added]  
+**Assessing:** [to be added]

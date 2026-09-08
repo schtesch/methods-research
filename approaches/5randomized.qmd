@@ -17,6 +17,6 @@ In methodological randomized studies, researchers treat methods as interventions
 [Develop guidance for understanding and applying methods](../objectives/9guidance-applying.qmd): effect of different table formats on users' understanding informed methods guidance.[@Carrasco-Labra2016improving]
 
 ## Guidance
-- Guidance for understanding and applying methods: [to be added]
-- Guidance for reporting methods: [to be added]
-- Guidance for assessing methods: [to be added]
+**Understanding and applying:** [to be added]  
+**Reporting:** [to be added]  
+**Assessing:** [to be added]

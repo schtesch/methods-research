@@ -34,6 +34,6 @@ Approaches to develop methods guidance greatly vary and include:
 [Informal approaches](../approaches/15informal.qmd): preventing common misunderstandings of randomisation;[@Senn2013-sr] tutorial for sample size calculation in cluster trials;[@Hemming2020a] explanation why guidelines should seldom make good practice statements.[@Guyatt2016guideline]
 
 ## Guidance
-- Guidance for understanding and applying methods: [to be added]
-- Guidance for reporting methods: [to be added]
-- Guidance for assessing methods: [to be added]
+**Understanding and applying:** [to be added]  
+**Reporting:** [to be added]  
+**Assessing:** [to be added]

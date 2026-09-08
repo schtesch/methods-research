@@ -21,6 +21,6 @@ In simulation studies, researchers experimentally apply one or more methods to a
 [Develop guidance for understanding and applying methods](../objectives/9guidance-applying.qmd): guidance on using matching in cluster trials;[@Chondros2021when] guidance for variable screening in high dimensional survival analysis;[@Edelmann2020marginal] estimation of diagnostic test accuracy without reference standard.[@Sun2025estimation]
 
 ## Guidance
-- Guidance for understanding and applying methods: Morris 2019[@Morris2019using], Burton 2006[@Burton2006the], White 2024[@White2024how]
-- Guidance for reporting methods: Siepe 2023[@Siepe2023simulation]
-- Guidance for assessing methods: [to be added]
+**Understanding and applying:** Morris 2019[@Morris2019using], Burton 2006[@Burton2006the], White 2024[@White2024how]  
+**Reporting:** Siepe 2023[@Siepe2023simulation]  
+**Assessing:** [to be added]

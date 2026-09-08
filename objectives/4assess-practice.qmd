@@ -19,6 +19,6 @@ These studies aim to describe the use of methods in practice, often with an inte
 [Reviews of applied or planned methods](../approaches/9review-applied.qmd): quality and reporting of prediction models for COVID-19;[@Wynants2020prediction] construction and application of directed acyclic graphs in leading medical journals.[@Deng2026construction]
 
 ## Guidance
-- Guidance for understanding and applying methods: [to be added]
-- Guidance for reporting methods: [to be added]
-- Guidance for assessing methods: [to be added]
+**Understanding and applying:** [to be added]  
+**Reporting:** [to be added]  
+**Assessing:** [to be added]
